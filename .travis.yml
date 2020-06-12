@@ -6,8 +6,9 @@ env:
     global:
     -   GIT_NAME: Travis CI
     -   GIT_EMAIL: dead-hosts@funilrys.com
-    -   TRAVIS_REPO_SLUG: repository-slug
+    -   TRAVIS_REPO_SLUG: dead-hosts/polish-mikrotik-filters_git_MajkiIT
     -   GIT_BRANCH: master
+    -   secure: lCwMd96cj23QmpdSemEJeq9PJnItunX5Sm1Dc+c40konP5XalfRgDEF2lpdSZjdL2f/hHcesM30QC0cw4szNQRBEqMnK8VTdEbsnusQRKF6hAGQAxynMRRjsKbV05/cdW0XWF0PrHcyTryfjFoP3almU53xJyRx8OtmIx/E/NSCNKkCsacoenFNFq+fYtvp8YxgZrbn48UVGyOos9fnI+tUL8PwzoO2j9KVwfSo7ctoYVlFlOWAkM0q8ZbVusVms7HvQ1xaJh+TWb7pSfrICC6CWXL/nJtGX8QCONSDrcbkXsP8dH72Y7UfkAiNLSBCTJCMoMLe9CjBnhuRBl0eu8WV/KzU4AeFseFeccM0Cw7+vi3KhroIgxDZTCmPQQcqPDpbmuqEq77ct3xZjF1vEnYFQcrz4fWa+chgIARsTQJiB1oAXHEwfr3azyIlk2JYeLEKzlOL0DHFb4VxEHLhBLjF9RJsDexTBDU0mAX91R/qGAY7gnxVN+mUgdXOwCW0ONY3Mg2r1H0fnbwWC15M1egDE/qxsT9DnjkMweU3TyDXA30DtpQDWG+ErsVRX1yTnwYuWn1ADoP6yltWAwfTBgleGli2n1CF2RnbKGEIt8C/u2kkopV0bAkWavpY7t3jp0iIkFCBI38o/GxvbED5Iq9E1/odKZNEGA8d54QIbpN4=
     matrix:
     - PYTHON_VERSION="3.7.3"
 install:
