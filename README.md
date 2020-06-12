@@ -1,9 +1,9 @@
-# About [repository-name]
+# About polish-mikrotik-filters_git_MajkiIT
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Build Status](https://travis-ci.org/dead-hosts/polish-mikrotik-filters_git_MajkiIT.svg?branch=master)](https://travis-ci.org/dead-hosts/polish-mikrotik-filters_git_MajkiIT)
 
 ```
-[description]
+CertyficateIT - Oficjalne polskie filtry do Adblock, uBlock Origin, Adguard
 ```
 
 --------------------------------------------------------------------------------
