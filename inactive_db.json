@@ -12344,15 +12344,15 @@
         "garenanow.myvnc.com:81": {
             "included_at_epoch": 1591983421.291994,
             "included_at_iso": "2020-06-12T17:37:01.291994",
-            "last_retested_at_epoch": 1591983421.291994,
-            "last_retested_at_iso": "2020-06-12T17:37:01.291994",
+            "last_retested_at_epoch": 1592235179.771365,
+            "last_retested_at_iso": "2020-06-15T15:32:59.771365",
             "status": "INVALID"
         },
         "garenanow4.myvnc.com:81": {
             "included_at_epoch": 1591983421.258634,
             "included_at_iso": "2020-06-12T17:37:01.258634",
-            "last_retested_at_epoch": 1591983421.258634,
-            "last_retested_at_iso": "2020-06-12T17:37:01.258634",
+            "last_retested_at_epoch": 1592235179.68325,
+            "last_retested_at_iso": "2020-06-15T15:32:59.683250",
             "status": "INVALID"
         },
         "gazeta-natemat-pol.eu": {
@@ -13895,13 +13895,6 @@
             "last_retested_at_iso": "2020-06-12T17:56:01.013955",
             "status": "INACTIVE"
         },
-        "i-dworzecporwaniepl.pl": {
-            "included_at_epoch": 1591984562.15449,
-            "included_at_iso": "2020-06-12T17:56:02.154490",
-            "last_retested_at_epoch": 1591984562.15449,
-            "last_retested_at_iso": "2020-06-12T17:56:02.154490",
-            "status": "INACTIVE"
-        },
         "i-dziewczynkaporwana.pl": {
             "included_at_epoch": 1591984562.242472,
             "included_at_iso": "2020-06-12T17:56:02.242472",
@@ -13926,8 +13919,8 @@
         "i01001.dgn.vn:1": {
             "included_at_epoch": 1591984561.044164,
             "included_at_iso": "2020-06-12T17:56:01.044164",
-            "last_retested_at_epoch": 1591984561.044164,
-            "last_retested_at_iso": "2020-06-12T17:56:01.044164",
+            "last_retested_at_epoch": 1592235206.159428,
+            "last_retested_at_iso": "2020-06-15T15:33:26.159428",
             "status": "INVALID"
         },
         "i1wcrl.bid": {
@@ -14220,8 +14213,8 @@
         "indonesias.me:9998": {
             "included_at_epoch": 1592002879.16962,
             "included_at_iso": "2020-06-12T23:01:19.169620",
-            "last_retested_at_epoch": 1592002879.16962,
-            "last_retested_at_iso": "2020-06-12T23:01:19.169620",
+            "last_retested_at_epoch": 1592235210.32315,
+            "last_retested_at_iso": "2020-06-15T15:33:30.323150",
             "status": "INVALID"
         },
         "indulgebeautystudio.co.uk": {
@@ -14693,6 +14686,13 @@
             "last_retested_at_iso": "2020-06-12T18:25:54.077415",
             "status": "INACTIVE"
         },
+        "jppost-ha.com": {
+            "included_at_epoch": 1592235223.960492,
+            "included_at_iso": "2020-06-15T15:33:43.960492",
+            "last_retested_at_epoch": 1592235223.960492,
+            "last_retested_at_iso": "2020-06-15T15:33:43.960492",
+            "status": "INACTIVE"
+        },
         "jrly.l3f.info": {
             "included_at_epoch": 1591986354.60222,
             "included_at_iso": "2020-06-12T18:25:54.602220",
@@ -14705,6 +14705,13 @@
             "included_at_iso": "2020-06-12T18:25:55.132342",
             "last_retested_at_epoch": 1591986355.132342,
             "last_retested_at_iso": "2020-06-12T18:25:55.132342",
+            "status": "INACTIVE"
+        },
+        "ju-ma.pl": {
+            "included_at_epoch": 1592235225.67093,
+            "included_at_iso": "2020-06-15T15:33:45.670930",
+            "last_retested_at_epoch": 1592235225.67093,
+            "last_retested_at_iso": "2020-06-15T15:33:45.670930",
             "status": "INACTIVE"
         },
         "judomiedzyrzecz.pl": {
