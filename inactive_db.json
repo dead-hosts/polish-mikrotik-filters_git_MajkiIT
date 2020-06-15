@@ -16590,6 +16590,13 @@
             "last_retested_at_iso": "2020-06-12T19:25:42.101938",
             "status": "INACTIVE"
         },
+        "muhakkikkalemler.com": {
+            "included_at_epoch": 1592237580.08594,
+            "included_at_iso": "2020-06-15T16:13:00.085940",
+            "last_retested_at_epoch": 1592237580.08594,
+            "last_retested_at_iso": "2020-06-15T16:13:00.085940",
+            "status": "INACTIVE"
+        },
         "muralovemiasto.pl": {
             "included_at_epoch": 1591989942.590287,
             "included_at_iso": "2020-06-12T19:25:42.590287",
@@ -17106,6 +17113,13 @@
             "included_at_iso": "2020-06-12T19:25:55.881371",
             "last_retested_at_epoch": 1591989955.881371,
             "last_retested_at_iso": "2020-06-12T19:25:55.881371",
+            "status": "INACTIVE"
+        },
+        "nsnm.pl": {
+            "included_at_epoch": 1592237597.099011,
+            "included_at_iso": "2020-06-15T16:13:17.099011",
+            "last_retested_at_epoch": 1592237597.099011,
+            "last_retested_at_iso": "2020-06-15T16:13:17.099011",
             "status": "INACTIVE"
         },
         "nta934.top": {
@@ -18812,8 +18826,8 @@
         "pay.poczta-polska24.com": {
             "included_at_epoch": 1591991875.492168,
             "included_at_iso": "2020-06-12T19:57:55.492168",
-            "last_retested_at_epoch": 1591991875.492168,
-            "last_retested_at_iso": "2020-06-12T19:57:55.492168",
+            "last_retested_at_epoch": 1592237614.153188,
+            "last_retested_at_iso": "2020-06-15T16:13:34.153188",
             "status": "INACTIVE"
         },
         "pay.pocztapolska24.com": {
