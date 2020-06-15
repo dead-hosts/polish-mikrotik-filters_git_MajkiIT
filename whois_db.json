@@ -49,6 +49,11 @@
         "expiration_date": "16-jan-2021",
         "state": "future"
     },
+    "102region.online": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
     "11degrees.org": {
         "epoch": 1641168000.0,
         "expiration_date": "03-jan-2022",
@@ -669,6 +674,11 @@
         "expiration_date": "12-sep-2020",
         "state": "future"
     },
+    "aclmagazine.com.br": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
+        "state": "future"
+    },
     "acneuro.pl": {
         "epoch": 1620000000.0,
         "expiration_date": "03-may-2021",
@@ -782,6 +792,11 @@
     "addays.pl": {
         "epoch": 1610323200.0,
         "expiration_date": "11-jan-2021",
+        "state": "future"
+    },
+    "adelis.re": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "ademdervisoglu.com": {
@@ -1674,6 +1689,11 @@
         "expiration_date": "23-jun-2020",
         "state": "future"
     },
+    "alxa.ca": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
     "alxmar.pl": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
@@ -2257,6 +2277,11 @@
     "arquerosderivas.org": {
         "epoch": 1670716800.0,
         "expiration_date": "11-dec-2022",
+        "state": "future"
+    },
+    "arquitecturasegura.mx": {
+        "epoch": 1821830400.0,
+        "expiration_date": "25-sep-2027",
         "state": "future"
     },
     "arrow-finance.pl": {
