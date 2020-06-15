@@ -17,8 +17,8 @@
         ".dgecolesdepolice.bf": {
             "included_at_epoch": 1591980308.095526,
             "included_at_iso": "2020-06-12T16:45:08.095526",
-            "last_retested_at_epoch": 1591980308.095526,
-            "last_retested_at_iso": "2020-06-12T16:45:08.095526",
+            "last_retested_at_epoch": 1592232693.756259,
+            "last_retested_at_iso": "2020-06-15T14:51:33.756259",
             "status": "INVALID"
         },
         "00x.eu": {
@@ -8291,8 +8291,8 @@
         "c.vvvvvvvvv.ga:443": {
             "included_at_epoch": 1591980305.390275,
             "included_at_iso": "2020-06-12T16:45:05.390275",
-            "last_retested_at_epoch": 1591980305.390275,
-            "last_retested_at_iso": "2020-06-12T16:45:05.390275",
+            "last_retested_at_epoch": 1592232687.05879,
+            "last_retested_at_iso": "2020-06-15T14:51:27.058790",
             "status": "INVALID"
         },
         "c3fz3z.bid": {
@@ -8942,15 +8942,15 @@
         "chinhdropfile.myvnc.com:81": {
             "included_at_epoch": 1591977916.252195,
             "included_at_iso": "2020-06-12T16:05:16.252195",
-            "last_retested_at_epoch": 1591977916.252195,
-            "last_retested_at_iso": "2020-06-12T16:05:16.252195",
+            "last_retested_at_epoch": 1592232672.725644,
+            "last_retested_at_iso": "2020-06-15T14:51:12.725644",
             "status": "INVALID"
         },
         "chinhdropfile80.myvnc.com:81": {
             "included_at_epoch": 1591977916.230007,
             "included_at_iso": "2020-06-12T16:05:16.230007",
-            "last_retested_at_epoch": 1591977916.230007,
-            "last_retested_at_iso": "2020-06-12T16:05:16.230007",
+            "last_retested_at_epoch": 1592232672.641385,
+            "last_retested_at_iso": "2020-06-15T14:51:12.641385",
             "status": "INVALID"
         },
         "chnbyl.bid": {
@@ -8972,6 +8972,13 @@
             "included_at_iso": "2020-06-12T16:05:16.464957",
             "last_retested_at_epoch": 1591977916.464957,
             "last_retested_at_iso": "2020-06-12T16:05:16.464957",
+            "status": "INACTIVE"
+        },
+        "chorywdomu.pl": {
+            "included_at_epoch": 1592232673.574362,
+            "included_at_iso": "2020-06-15T14:51:13.574362",
+            "last_retested_at_epoch": 1592232673.574362,
+            "last_retested_at_iso": "2020-06-15T14:51:13.574362",
             "status": "INACTIVE"
         },
         "chromebewfk.top": {
@@ -9128,6 +9135,13 @@
             "last_retested_at_iso": "2020-06-12T16:05:17.889502",
             "status": "INACTIVE"
         },
+        "cn.download.ichengyun.net": {
+            "included_at_epoch": 1592232678.158065,
+            "included_at_iso": "2020-06-15T14:51:18.158065",
+            "last_retested_at_epoch": 1592232678.158065,
+            "last_retested_at_iso": "2020-06-15T14:51:18.158065",
+            "status": "INACTIVE"
+        },
         "cnc.vbrxmr.pw": {
             "included_at_epoch": 1591977917.912332,
             "included_at_iso": "2020-06-12T16:05:17.912332",
@@ -9168,6 +9182,13 @@
             "included_at_iso": "2020-06-12T16:05:18.185347",
             "last_retested_at_epoch": 1591977918.185347,
             "last_retested_at_iso": "2020-06-12T16:05:18.185347",
+            "status": "INACTIVE"
+        },
+        "columbiapolskasklep.pl": {
+            "included_at_epoch": 1592232679.165688,
+            "included_at_iso": "2020-06-15T14:51:19.165688",
+            "last_retested_at_epoch": 1592232679.165688,
+            "last_retested_at_iso": "2020-06-15T14:51:19.165688",
             "status": "INACTIVE"
         },
         "compartnew.eu": {
@@ -9513,6 +9534,20 @@
             "last_retested_at_iso": "2020-06-12T16:45:07.223637",
             "status": "INACTIVE"
         },
+        "decynsire.com": {
+            "included_at_epoch": 1592232691.379369,
+            "included_at_iso": "2020-06-15T14:51:31.379369",
+            "last_retested_at_epoch": 1592232691.379369,
+            "last_retested_at_iso": "2020-06-15T14:51:31.379369",
+            "status": "INACTIVE"
+        },
+        "deeno.ir": {
+            "included_at_epoch": 1592232691.513159,
+            "included_at_iso": "2020-06-15T14:51:31.513159",
+            "last_retested_at_epoch": 1592232691.513159,
+            "last_retested_at_iso": "2020-06-15T14:51:31.513159",
+            "status": "INACTIVE"
+        },
         "demo.bookadventure.in": {
             "included_at_epoch": 1591980307.493382,
             "included_at_iso": "2020-06-12T16:45:07.493382",
@@ -9691,15 +9726,15 @@
         "dnn.alibuf.com:7723": {
             "included_at_epoch": 1591980309.509833,
             "included_at_iso": "2020-06-12T16:45:09.509833",
-            "last_retested_at_epoch": 1591980309.509833,
-            "last_retested_at_iso": "2020-06-12T16:45:09.509833",
+            "last_retested_at_epoch": 1592232697.325628,
+            "last_retested_at_iso": "2020-06-15T14:51:37.325628",
             "status": "INVALID"
         },
         "dns.alibuf.com:7723": {
             "included_at_epoch": 1591980309.534013,
             "included_at_iso": "2020-06-12T16:45:09.534013",
-            "last_retested_at_epoch": 1591980309.534013,
-            "last_retested_at_iso": "2020-06-12T16:45:09.534013",
+            "last_retested_at_epoch": 1592232697.407513,
+            "last_retested_at_iso": "2020-06-15T14:51:37.407513",
             "status": "INVALID"
         },
         "do9wwg.top": {
@@ -9803,8 +9838,8 @@
         "dotpay.e-poczta-polska.com": {
             "included_at_epoch": 1591980311.241246,
             "included_at_iso": "2020-06-12T16:45:11.241246",
-            "last_retested_at_epoch": 1591980311.241246,
-            "last_retested_at_iso": "2020-06-12T16:45:11.241246",
+            "last_retested_at_epoch": 1592232700.7837,
+            "last_retested_at_iso": "2020-06-15T14:51:40.783700",
             "status": "INACTIVE"
         },
         "dotpay.e-poczta-polska.net": {
@@ -9831,8 +9866,8 @@
         "dotpay.emonitoring-poczta.net": {
             "included_at_epoch": 1591980310.870405,
             "included_at_iso": "2020-06-12T16:45:10.870405",
-            "last_retested_at_epoch": 1591980310.870405,
-            "last_retested_at_iso": "2020-06-12T16:45:10.870405",
+            "last_retested_at_epoch": 1592232700.702978,
+            "last_retested_at_iso": "2020-06-15T14:51:40.702978",
             "status": "INACTIVE"
         },
         "dotpay.emonitoring-poczta247.net": {
@@ -10020,15 +10055,15 @@
         "dotpay.i-dpd.pl": {
             "included_at_epoch": 1591980311.483826,
             "included_at_iso": "2020-06-12T16:45:11.483826",
-            "last_retested_at_epoch": 1591980311.483826,
-            "last_retested_at_iso": "2020-06-12T16:45:11.483826",
+            "last_retested_at_epoch": 1592232700.947704,
+            "last_retested_at_iso": "2020-06-15T14:51:40.947704",
             "status": "INACTIVE"
         },
         "dotpay.i-pocztapolska.pl": {
             "included_at_epoch": 1591980311.572386,
             "included_at_iso": "2020-06-12T16:45:11.572386",
-            "last_retested_at_epoch": 1591980311.572386,
-            "last_retested_at_iso": "2020-06-12T16:45:11.572386",
+            "last_retested_at_epoch": 1592232700.865977,
+            "last_retested_at_iso": "2020-06-15T14:51:40.865977",
             "status": "INACTIVE"
         },
         "dotpay.idpd.pl": {
@@ -10253,6 +10288,13 @@
             "included_at_iso": "2020-06-12T16:45:12.251747",
             "last_retested_at_epoch": 1591980312.251747,
             "last_retested_at_iso": "2020-06-12T16:45:12.251747",
+            "status": "INACTIVE"
+        },
+        "down7.downyouxi.com": {
+            "included_at_epoch": 1592232701.209512,
+            "included_at_iso": "2020-06-15T14:51:41.209512",
+            "last_retested_at_epoch": 1592232701.209512,
+            "last_retested_at_iso": "2020-06-15T14:51:41.209512",
             "status": "INACTIVE"
         },
         "download.qiangxm.com": {
