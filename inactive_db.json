@@ -11907,6 +11907,13 @@
             "last_retested_at_iso": "2020-06-12T17:36:53.655808",
             "status": "INACTIVE"
         },
+        "filesdownloads.pl": {
+            "included_at_epoch": 1592233759.586092,
+            "included_at_iso": "2020-06-15T15:09:19.586092",
+            "last_retested_at_epoch": 1592233759.586092,
+            "last_retested_at_iso": "2020-06-15T15:09:19.586092",
+            "status": "INACTIVE"
+        },
         "finance.wanyai.go.th": {
             "included_at_epoch": 1591983414.84716,
             "included_at_iso": "2020-06-12T17:36:54.847160",

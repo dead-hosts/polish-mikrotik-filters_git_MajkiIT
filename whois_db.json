@@ -7654,6 +7654,11 @@
         "expiration_date": "03-mar-2021",
         "state": "future"
     },
+    "downwhite.com": {
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
+        "state": "future"
+    },
     "dpbh.info": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
@@ -7859,9 +7864,19 @@
         "expiration_date": "09-sep-2020",
         "state": "future"
     },
+    "dstk-ssyal-pandemi.com": {
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "state": "future"
+    },
     "dstreet.pl": {
         "epoch": 1624838400.0,
         "expiration_date": "28-jun-2021",
+        "state": "future"
+    },
+    "dsvhcc10.live": {
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
         "state": "future"
     },
     "dtmx.pl": {
@@ -8152,7 +8167,7 @@
     "e-blackwhite.pl": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "e-bokpge.pl": {
         "epoch": 1616457600.0,
@@ -9310,9 +9325,9 @@
         "state": "future"
     },
     "entrepreneurspider.com": {
-        "epoch": 1585267200.0,
-        "expiration_date": "27-mar-2020",
-        "state": "past"
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
+        "state": "future"
     },
     "entropia.net.pl": {
         "epoch": 1595548800.0,
@@ -9725,8 +9740,8 @@
         "state": "future"
     },
     "europaubram.pl": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "europeancupkyokushin.pl": {
@@ -9845,8 +9860,8 @@
         "state": "future"
     },
     "exquisiteextensions.net": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "externalservices.pl": {
@@ -10439,6 +10454,11 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "filaspoland.pl": {
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "state": "future"
+    },
     "file-share.pl": {
         "epoch": 1616284800.0,
         "expiration_date": "21-mar-2021",
@@ -10477,6 +10497,11 @@
     "fileice.net": {
         "epoch": 1648857600.0,
         "expiration_date": "02-apr-2022",
+        "state": "future"
+    },
+    "filelss07.top": {
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "fileman.pl": {
