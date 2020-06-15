@@ -3,15 +3,15 @@
         ".201.142.118:46156": {
             "included_at_epoch": 1591973630.077169,
             "included_at_iso": "2020-06-12T14:53:50.077169",
-            "last_retested_at_epoch": 1591973630.077169,
-            "last_retested_at_iso": "2020-06-12T14:53:50.077169",
+            "last_retested_at_epoch": 1592231610.023797,
+            "last_retested_at_iso": "2020-06-15T14:33:30.023797",
             "status": "INVALID"
         },
         ".51shijuan.com": {
             "included_at_epoch": 1591973632.30329,
             "included_at_iso": "2020-06-12T14:53:52.303290",
-            "last_retested_at_epoch": 1591973632.30329,
-            "last_retested_at_iso": "2020-06-12T14:53:52.303290",
+            "last_retested_at_epoch": 1592231612.765447,
+            "last_retested_at_iso": "2020-06-15T14:33:32.765447",
             "status": "INVALID"
         },
         ".dgecolesdepolice.bf": {
@@ -2418,8 +2418,8 @@
         "2.indexsinas.me:811": {
             "included_at_epoch": 1591973630.385233,
             "included_at_iso": "2020-06-12T14:53:50.385233",
-            "last_retested_at_epoch": 1591973630.385233,
-            "last_retested_at_iso": "2020-06-12T14:53:50.385233",
+            "last_retested_at_epoch": 1592231611.184557,
+            "last_retested_at_iso": "2020-06-15T14:33:31.184557",
             "status": "INVALID"
         },
         "2018.abiquifi.org.br": {
@@ -3792,6 +3792,13 @@
             "included_at_iso": "2020-06-12T14:53:51.579490",
             "last_retested_at_epoch": 1591973631.57949,
             "last_retested_at_iso": "2020-06-12T14:53:51.579490",
+            "status": "INACTIVE"
+        },
+        "4kqd3hmqgptupi3p.myaddress.link": {
+            "included_at_epoch": 1592231612.066313,
+            "included_at_iso": "2020-06-15T14:33:32.066313",
+            "last_retested_at_epoch": 1592231612.066313,
+            "last_retested_at_iso": "2020-06-15T14:33:32.066313",
             "status": "INACTIVE"
         },
         "4kqd3hmqgptupi3p.namefalls.pro": {
@@ -6352,8 +6359,8 @@
         "a.alibuf.com:3": {
             "included_at_epoch": 1591980304.746893,
             "included_at_iso": "2020-06-12T16:45:04.746893",
-            "last_retested_at_epoch": 1591980304.746893,
-            "last_retested_at_iso": "2020-06-12T16:45:04.746893",
+            "last_retested_at_epoch": 1592231614.978746,
+            "last_retested_at_iso": "2020-06-15T14:33:34.978746",
             "status": "INVALID"
         },
         "a0g0o7.bid": {
@@ -6912,8 +6919,8 @@
         "amd.alibuf.com:7723": {
             "included_at_epoch": 1591975646.527921,
             "included_at_iso": "2020-06-12T15:27:26.527921",
-            "last_retested_at_epoch": 1591975646.527921,
-            "last_retested_at_iso": "2020-06-12T15:27:26.527921",
+            "last_retested_at_epoch": 1592231628.047726,
+            "last_retested_at_iso": "2020-06-15T14:33:48.047726",
             "status": "INVALID"
         },
         "ameguard.ru": {
@@ -7665,6 +7672,13 @@
             "last_retested_at_iso": "2020-06-12T15:27:29.957230",
             "status": "INACTIVE"
         },
+        "bbs.sunwy.org": {
+            "included_at_epoch": 1592231642.369218,
+            "included_at_iso": "2020-06-15T14:34:02.369218",
+            "last_retested_at_epoch": 1592231642.369218,
+            "last_retested_at_iso": "2020-06-15T14:34:02.369218",
+            "status": "INACTIVE"
+        },
         "bciuemfaapyf.biz": {
             "included_at_epoch": 1591975650.047934,
             "included_at_iso": "2020-06-12T15:27:30.047934",
@@ -7929,6 +7943,13 @@
             "included_at_iso": "2020-06-12T16:05:10.941078",
             "last_retested_at_epoch": 1591977910.941078,
             "last_retested_at_iso": "2020-06-12T16:05:10.941078",
+            "status": "INACTIVE"
+        },
+        "blog.anytimeneeds.com": {
+            "included_at_epoch": 1592231649.640047,
+            "included_at_iso": "2020-06-15T14:34:09.640047",
+            "last_retested_at_epoch": 1592231649.640047,
+            "last_retested_at_iso": "2020-06-15T14:34:09.640047",
             "status": "INACTIVE"
         },
         "blog.client.mx": {

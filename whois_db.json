@@ -569,6 +569,11 @@
         "expiration_date": "27-feb-2021",
         "state": "future"
     },
+    "ableka.com": {
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
+        "state": "future"
+    },
     "abonament-oplac.com": {
         "epoch": 1617062400.0,
         "expiration_date": "30-mar-2021",
@@ -747,7 +752,7 @@
     "adamkepinski.pl": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "adampaczka.com": {
         "epoch": 1620777600.0,
@@ -1170,9 +1175,9 @@
         "state": "future"
     },
     "akademiamocowania.pl": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
-        "state": "past"
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
     },
     "akademianaukowa.pl": {
         "epoch": 1611619200.0,
@@ -1180,8 +1185,8 @@
         "state": "future"
     },
     "akademiasw.pl": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "akademiaszkraba.pl": {
@@ -1212,6 +1217,11 @@
     "akcjasgk.pl": {
         "epoch": 1613174400.0,
         "expiration_date": "13-feb-2021",
+        "state": "future"
+    },
+    "akhbarrecords.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "akitaken.pl": {
@@ -1323,6 +1333,11 @@
         "epoch": 1587340800.0,
         "expiration_date": "20-apr-2020",
         "state": "past"
+    },
+    "albumdepremios.com.br": {
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
+        "state": "future"
     },
     "alcaido.com": {
         "epoch": 1597190400.0,
@@ -1497,6 +1512,21 @@
     "allegro.targi.pl": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
+    "allegro4.pl": {
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
+        "state": "future"
+    },
+    "allegro5.pl": {
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "state": "future"
+    },
+    "allegrofinanse2.pl": {
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
         "state": "future"
     },
     "allegrolokalnie-pl.cc": {
@@ -2565,8 +2595,8 @@
         "state": "future"
     },
     "autokemar.pl": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "autokraina.pl": {
@@ -3329,6 +3359,11 @@
         "expiration_date": "12-jan-2021",
         "state": "future"
     },
+    "betheprime2.live": {
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
+        "state": "future"
+    },
     "betterware.pl": {
         "epoch": 1621728000.0,
         "expiration_date": "23-may-2021",
@@ -3839,6 +3874,11 @@
         "expiration_date": "25-jan-2021",
         "state": "future"
     },
+    "bodykarma.pl": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
+    },
     "bodysecretrevelation.com": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
@@ -3872,6 +3912,11 @@
     "bokpocztapolska.pl": {
         "epoch": 1619568000.0,
         "expiration_date": "28-apr-2021",
+        "state": "future"
+    },
+    "bolch.la": {
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "bolek69.pl": {
