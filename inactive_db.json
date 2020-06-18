@@ -29725,8 +29725,8 @@
         "www.e-pocztex.pl": {
             "included_at_epoch": 1592005973.063903,
             "included_at_iso": "2020-06-12T23:52:53.063903",
-            "last_retested_at_epoch": 1592255095.491825,
-            "last_retested_at_iso": "2020-06-15T21:04:55.491825",
+            "last_retested_at_epoch": 1592505316.927334,
+            "last_retested_at_iso": "2020-06-18T18:35:16.927334",
             "status": "INACTIVE"
         },
         "www.e-polskaporwania.pl": {
@@ -29739,8 +29739,8 @@
         "www.e-polskaporwanie.pl": {
             "included_at_epoch": 1592005973.223169,
             "included_at_iso": "2020-06-12T23:52:53.223169",
-            "last_retested_at_epoch": 1592255095.770818,
-            "last_retested_at_iso": "2020-06-15T21:04:55.770818",
+            "last_retested_at_epoch": 1592505317.028577,
+            "last_retested_at_iso": "2020-06-18T18:35:17.028577",
             "status": "INACTIVE"
         },
         "www.e-pomagajmypl.pl": {
@@ -29760,8 +29760,8 @@
         "www.e-porwanienatalki.pl": {
             "included_at_epoch": 1592005973.878332,
             "included_at_iso": "2020-06-12T23:52:53.878332",
-            "last_retested_at_epoch": 1592255096.474496,
-            "last_retested_at_iso": "2020-06-15T21:04:56.474496",
+            "last_retested_at_epoch": 1592505317.114411,
+            "last_retested_at_iso": "2020-06-18T18:35:17.114411",
             "status": "INACTIVE"
         },
         "www.e-porwaniepolska.pl": {
@@ -29781,8 +29781,8 @@
         "www.e-poszukiwananatalka.pl": {
             "included_at_epoch": 1592005974.329812,
             "included_at_iso": "2020-06-12T23:52:54.329812",
-            "last_retested_at_epoch": 1592255097.008293,
-            "last_retested_at_iso": "2020-06-15T21:04:57.008293",
+            "last_retested_at_epoch": 1592505317.200466,
+            "last_retested_at_iso": "2020-06-18T18:35:17.200466",
             "status": "INACTIVE"
         },
         "www.e-poszukiwania.com.pl": {
@@ -30287,6 +30287,13 @@
             "included_at_iso": "2020-06-12T23:52:51.150315",
             "last_retested_at_epoch": 1592255093.089001,
             "last_retested_at_iso": "2020-06-15T21:04:53.089001",
+            "status": "INACTIVE"
+        },
+        "www.emonitoring.poczta-polska8.pl": {
+            "included_at_epoch": 1592505316.692294,
+            "included_at_iso": "2020-06-18T18:35:16.692294",
+            "last_retested_at_epoch": 1592505316.692294,
+            "last_retested_at_iso": "2020-06-18T18:35:16.692294",
             "status": "INACTIVE"
         },
         "www.emonitoring24.eu": {
@@ -30810,8 +30817,8 @@
         "www.fakty-online48.eu": {
             "included_at_epoch": 1592005980.522159,
             "included_at_iso": "2020-06-12T23:53:00.522159",
-            "last_retested_at_epoch": 1592256130.946641,
-            "last_retested_at_iso": "2020-06-15T21:22:10.946641",
+            "last_retested_at_epoch": 1592505318.326847,
+            "last_retested_at_iso": "2020-06-18T18:35:18.326847",
             "status": "INACTIVE"
         },
         "www.fakty-sniadaniowe-pl.com": {
@@ -30987,6 +30994,13 @@
             "included_at_iso": "2020-06-13T00:20:33.066882",
             "last_retested_at_epoch": 1592274132.879863,
             "last_retested_at_iso": "2020-06-16T02:22:12.879863",
+            "status": "INACTIVE"
+        },
+        "www.fb-regulamin.com": {
+            "included_at_epoch": 1592505318.720022,
+            "included_at_iso": "2020-06-18T18:35:18.720022",
+            "last_retested_at_epoch": 1592505318.720022,
+            "last_retested_at_iso": "2020-06-18T18:35:18.720022",
             "status": "INACTIVE"
         },
         "www.fbgroups.pl": {
@@ -31255,6 +31269,13 @@
             "last_retested_at_iso": "2020-06-15T21:22:16.785733",
             "status": "INACTIVE"
         },
+        "www.fortesband.pl": {
+            "included_at_epoch": 1592505319.853339,
+            "included_at_iso": "2020-06-18T18:35:19.853339",
+            "last_retested_at_epoch": 1592505319.853339,
+            "last_retested_at_iso": "2020-06-18T18:35:19.853339",
+            "status": "INACTIVE"
+        },
         "www.fortnitehack2018.com": {
             "included_at_epoch": 1592007637.005515,
             "included_at_iso": "2020-06-13T00:20:37.005515",
@@ -31365,6 +31386,13 @@
             "included_at_iso": "2020-06-13T00:20:38.252449",
             "last_retested_at_epoch": 1592256138.433951,
             "last_retested_at_iso": "2020-06-15T21:22:18.433951",
+            "status": "INACTIVE"
+        },
+        "www.free.file.co.pl": {
+            "included_at_epoch": 1592505320.165029,
+            "included_at_iso": "2020-06-18T18:35:20.165029",
+            "last_retested_at_epoch": 1592505320.165029,
+            "last_retested_at_iso": "2020-06-18T18:35:20.165029",
             "status": "INACTIVE"
         },
         "www.free.mymapsexpress.com": {
@@ -31974,6 +32002,13 @@
             "included_at_iso": "2020-06-13T00:37:42.908835",
             "last_retested_at_epoch": 1592274132.161133,
             "last_retested_at_iso": "2020-06-16T02:22:12.161133",
+            "status": "INACTIVE"
+        },
+        "www.gnusnyblog.pl": {
+            "included_at_epoch": 1592505321.486752,
+            "included_at_iso": "2020-06-18T18:35:21.486752",
+            "last_retested_at_epoch": 1592505321.486752,
+            "last_retested_at_iso": "2020-06-18T18:35:21.486752",
             "status": "INACTIVE"
         },
         "www.go.0o.click": {
