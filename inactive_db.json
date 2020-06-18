@@ -10535,6 +10535,13 @@
             "last_retested_at_iso": "2020-06-15T17:07:45.616990",
             "status": "INACTIVE"
         },
+        "e-blackwhite.pl": {
+            "included_at_epoch": 1592493942.856901,
+            "included_at_iso": "2020-06-18T15:25:42.856901",
+            "last_retested_at_epoch": 1592493942.856901,
+            "last_retested_at_iso": "2020-06-18T15:25:42.856901",
+            "status": "INACTIVE"
+        },
         "e1e7w2.top": {
             "included_at_epoch": 1591981519.556333,
             "included_at_iso": "2020-06-12T17:05:19.556333",
@@ -10829,6 +10836,13 @@
             "last_retested_at_iso": "2020-06-15T17:07:49.344969",
             "status": "INACTIVE"
         },
+        "emonitoring.poczta-polska8.pl": {
+            "included_at_epoch": 1592493952.411396,
+            "included_at_iso": "2020-06-18T15:25:52.411396",
+            "last_retested_at_epoch": 1592493952.411396,
+            "last_retested_at_iso": "2020-06-18T15:25:52.411396",
+            "status": "INACTIVE"
+        },
         "emonitoring24.eu": {
             "included_at_epoch": 1591981523.080894,
             "included_at_iso": "2020-06-12T17:05:23.080894",
@@ -11002,6 +11016,13 @@
             "included_at_iso": "2020-06-12T17:05:26.763436",
             "last_retested_at_epoch": 1592242406.055189,
             "last_retested_at_iso": "2020-06-15T17:33:26.055189",
+            "status": "INACTIVE"
+        },
+        "europeancupkyokushin.pl": {
+            "included_at_epoch": 1592493961.665108,
+            "included_at_iso": "2020-06-18T15:26:01.665108",
+            "last_retested_at_epoch": 1592493961.665108,
+            "last_retested_at_iso": "2020-06-18T15:26:01.665108",
             "status": "INACTIVE"
         },
         "europronet.net": {
