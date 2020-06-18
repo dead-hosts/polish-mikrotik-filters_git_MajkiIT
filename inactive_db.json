@@ -12379,15 +12379,15 @@
         "garenanow.myvnc.com:81": {
             "included_at_epoch": 1591983421.291994,
             "included_at_iso": "2020-06-12T17:37:01.291994",
-            "last_retested_at_epoch": 1592235179.771365,
-            "last_retested_at_iso": "2020-06-15T15:32:59.771365",
+            "last_retested_at_epoch": 1592495013.875007,
+            "last_retested_at_iso": "2020-06-18T15:43:33.875007",
             "status": "INVALID"
         },
         "garenanow4.myvnc.com:81": {
             "included_at_epoch": 1591983421.258634,
             "included_at_iso": "2020-06-12T17:37:01.258634",
-            "last_retested_at_epoch": 1592235179.68325,
-            "last_retested_at_iso": "2020-06-15T15:32:59.683250",
+            "last_retested_at_epoch": 1592495013.785282,
+            "last_retested_at_iso": "2020-06-18T15:43:33.785282",
             "status": "INVALID"
         },
         "gazeta-natemat-pol.eu": {
@@ -13825,6 +13825,13 @@
             "last_retested_at_iso": "2020-06-15T17:34:02.241923",
             "status": "INACTIVE"
         },
+        "houston.cypshluchim.com": {
+            "included_at_epoch": 1592495040.364788,
+            "included_at_iso": "2020-06-18T15:44:00.364788",
+            "last_retested_at_epoch": 1592495040.364788,
+            "last_retested_at_iso": "2020-06-18T15:44:00.364788",
+            "status": "INACTIVE"
+        },
         "hppfsslyeyseudg.biz": {
             "included_at_epoch": 1591984559.873608,
             "included_at_iso": "2020-06-12T17:55:59.873608",
@@ -13926,8 +13933,8 @@
         "i01001.dgn.vn:1": {
             "included_at_epoch": 1591984561.044164,
             "included_at_iso": "2020-06-12T17:56:01.044164",
-            "last_retested_at_epoch": 1592235206.159428,
-            "last_retested_at_iso": "2020-06-15T15:33:26.159428",
+            "last_retested_at_epoch": 1592495042.284803,
+            "last_retested_at_iso": "2020-06-18T15:44:02.284803",
             "status": "INVALID"
         },
         "i1wcrl.bid": {
@@ -14157,8 +14164,8 @@
         "indonesias.me:9998": {
             "included_at_epoch": 1592002879.16962,
             "included_at_iso": "2020-06-12T23:01:19.169620",
-            "last_retested_at_epoch": 1592235210.32315,
-            "last_retested_at_iso": "2020-06-15T15:33:30.323150",
+            "last_retested_at_epoch": 1592495047.201201,
+            "last_retested_at_iso": "2020-06-18T15:44:07.201201",
             "status": "INVALID"
         },
         "indulgebeautystudio.co.uk": {
