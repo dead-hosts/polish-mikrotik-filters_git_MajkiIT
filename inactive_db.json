@@ -18679,8 +18679,8 @@
         "pay.poczta-polska24.com": {
             "included_at_epoch": 1591991875.492168,
             "included_at_iso": "2020-06-12T19:57:55.492168",
-            "last_retested_at_epoch": 1592237614.153188,
-            "last_retested_at_iso": "2020-06-15T16:13:34.153188",
+            "last_retested_at_epoch": 1592498922.919825,
+            "last_retested_at_iso": "2020-06-18T16:48:42.919825",
             "status": "INACTIVE"
         },
         "pay.pocztapolska24.com": {
@@ -19066,6 +19066,13 @@
             "included_at_iso": "2020-06-12T19:58:02.700729",
             "last_retested_at_epoch": 1592244578.167016,
             "last_retested_at_iso": "2020-06-15T18:09:38.167016",
+            "status": "INACTIVE"
+        },
+        "playmovie.pl": {
+            "included_at_epoch": 1592498931.082505,
+            "included_at_iso": "2020-06-18T16:48:51.082505",
+            "last_retested_at_epoch": 1592498931.082505,
+            "last_retested_at_iso": "2020-06-18T16:48:51.082505",
             "status": "INACTIVE"
         },
         "plfbvdrpvsm.pw": {
@@ -19785,8 +19792,8 @@
         "po�yczaj.online.pl": {
             "included_at_epoch": 1591993017.865985,
             "included_at_iso": "2020-06-12T20:16:57.865985",
-            "last_retested_at_epoch": 1592238659.884349,
-            "last_retested_at_iso": "2020-06-15T16:30:59.884349",
+            "last_retested_at_epoch": 1592498943.868998,
+            "last_retested_at_iso": "2020-06-18T16:49:03.868998",
             "status": "INVALID"
         },
         "pr52ni.top": {
@@ -20461,6 +20468,13 @@
             "last_retested_at_iso": "2020-06-15T18:33:39.045104",
             "status": "INACTIVE"
         },
+        "rewardrey.com": {
+            "included_at_epoch": 1592498965.541896,
+            "included_at_iso": "2020-06-18T16:49:25.541896",
+            "last_retested_at_epoch": 1592498965.541896,
+            "last_retested_at_iso": "2020-06-18T16:49:25.541896",
+            "status": "INACTIVE"
+        },
         "rexjyp.bid": {
             "included_at_epoch": 1591994764.020063,
             "included_at_iso": "2020-06-12T20:46:04.020063",
@@ -20788,6 +20802,13 @@
             "included_at_iso": "2020-06-12T20:46:10.286695",
             "last_retested_at_epoch": 1592246022.843923,
             "last_retested_at_iso": "2020-06-15T18:33:42.843923",
+            "status": "INACTIVE"
+        },
+        "saarthieduhub.com": {
+            "included_at_epoch": 1592498971.411186,
+            "included_at_iso": "2020-06-18T16:49:31.411186",
+            "last_retested_at_epoch": 1592498971.411186,
+            "last_retested_at_iso": "2020-06-18T16:49:31.411186",
             "status": "INACTIVE"
         },
         "safarnavade.ir": {
