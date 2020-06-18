@@ -32179,6 +32179,13 @@
             "last_retested_at_iso": "2020-06-15T22:07:06.741543",
             "status": "INACTIVE"
         },
+        "www.green100.cn": {
+            "included_at_epoch": 1592506356.35758,
+            "included_at_iso": "2020-06-18T18:52:36.357580",
+            "last_retested_at_epoch": 1592506356.35758,
+            "last_retested_at_iso": "2020-06-18T18:52:36.357580",
+            "status": "INACTIVE"
+        },
         "www.greenelephants1.live": {
             "included_at_epoch": 1592008665.332081,
             "included_at_iso": "2020-06-13T00:37:45.332081",
@@ -32889,8 +32896,8 @@
         "www.i-dworzecporwaniepl.pl": {
             "included_at_epoch": 1592009697.084345,
             "included_at_iso": "2020-06-13T00:54:57.084345",
-            "last_retested_at_epoch": 1592259860.235852,
-            "last_retested_at_iso": "2020-06-15T22:24:20.235852",
+            "last_retested_at_epoch": 1592506357.675542,
+            "last_retested_at_iso": "2020-06-18T18:52:37.675542",
             "status": "INACTIVE"
         },
         "www.i-dziewczynkaporwana.pl": {
@@ -32903,8 +32910,8 @@
         "www.i-efaktygwalt.pl": {
             "included_at_epoch": 1592009697.290925,
             "included_at_iso": "2020-06-13T00:54:57.290925",
-            "last_retested_at_epoch": 1592259860.417526,
-            "last_retested_at_iso": "2020-06-15T22:24:20.417526",
+            "last_retested_at_epoch": 1592506357.588927,
+            "last_retested_at_iso": "2020-06-18T18:52:37.588927",
             "status": "INACTIVE"
         },
         "www.i-ifaktygwalt.pl": {
@@ -33087,6 +33094,13 @@
             "included_at_iso": "2020-06-13T01:12:07.060848",
             "last_retested_at_epoch": 1592259865.830934,
             "last_retested_at_iso": "2020-06-15T22:24:25.830934",
+            "status": "INACTIVE"
+        },
+        "www.incompany.com.pl": {
+            "included_at_epoch": 1592506357.980422,
+            "included_at_iso": "2020-06-18T18:52:37.980422",
+            "last_retested_at_epoch": 1592506357.980422,
+            "last_retested_at_iso": "2020-06-18T18:52:37.980422",
             "status": "INACTIVE"
         },
         "www.indabox.pl": {
@@ -33276,6 +33290,20 @@
             "included_at_iso": "2020-06-13T01:12:06.541245",
             "last_retested_at_epoch": 1592259865.081145,
             "last_retested_at_iso": "2020-06-15T22:24:25.081145",
+            "status": "INACTIVE"
+        },
+        "www.inpost-express.com": {
+            "included_at_epoch": 1592506358.3456,
+            "included_at_iso": "2020-06-18T18:52:38.345600",
+            "last_retested_at_epoch": 1592506358.3456,
+            "last_retested_at_iso": "2020-06-18T18:52:38.345600",
+            "status": "INACTIVE"
+        },
+        "www.inpost-paczka.services": {
+            "included_at_epoch": 1592506358.456766,
+            "included_at_iso": "2020-06-18T18:52:38.456766",
+            "last_retested_at_epoch": 1592506358.456766,
+            "last_retested_at_iso": "2020-06-18T18:52:38.456766",
             "status": "INACTIVE"
         },
         "www.inpost24-paczka.com": {
@@ -33572,6 +33600,13 @@
             "last_retested_at_iso": "2020-06-15T22:24:29.494173",
             "status": "INACTIVE"
         },
+        "www.issl-cert.pl": {
+            "included_at_epoch": 1592506358.873054,
+            "included_at_iso": "2020-06-18T18:52:38.873054",
+            "last_retested_at_epoch": 1592506358.873054,
+            "last_retested_at_iso": "2020-06-18T18:52:38.873054",
+            "status": "INACTIVE"
+        },
         "www.istrefa.net": {
             "included_at_epoch": 1592010730.264747,
             "included_at_iso": "2020-06-13T01:12:10.264747",
@@ -33598,6 +33633,13 @@
             "included_at_iso": "2020-06-13T01:12:10.428416",
             "last_retested_at_epoch": 1592259869.915229,
             "last_retested_at_iso": "2020-06-15T22:24:29.915229",
+            "status": "INACTIVE"
+        },
+        "www.itpesthetique.pl": {
+            "included_at_epoch": 1592506359.016637,
+            "included_at_iso": "2020-06-18T18:52:39.016637",
+            "last_retested_at_epoch": 1592506359.016637,
+            "last_retested_at_iso": "2020-06-18T18:52:39.016637",
             "status": "INACTIVE"
         },
         "www.itsweeps3.space": {
@@ -33789,11 +33831,25 @@
             "last_retested_at_iso": "2020-06-15T22:41:28.731958",
             "status": "INACTIVE"
         },
+        "www.kaaryathalo.com": {
+            "included_at_epoch": 1592506359.820768,
+            "included_at_iso": "2020-06-18T18:52:39.820768",
+            "last_retested_at_epoch": 1592506359.820768,
+            "last_retested_at_iso": "2020-06-18T18:52:39.820768",
+            "status": "INACTIVE"
+        },
         "www.kajakiperkoz.pl": {
             "included_at_epoch": 1592010733.612609,
             "included_at_iso": "2020-06-13T01:12:13.612609",
             "last_retested_at_epoch": 1592260888.864899,
             "last_retested_at_iso": "2020-06-15T22:41:28.864899",
+            "status": "INACTIVE"
+        },
+        "www.kamapolska.pl": {
+            "included_at_epoch": 1592506360.015196,
+            "included_at_iso": "2020-06-18T18:52:40.015196",
+            "last_retested_at_epoch": 1592506360.015196,
+            "last_retested_at_iso": "2020-06-18T18:52:40.015196",
             "status": "INACTIVE"
         },
         "www.kamilapaczka.org": {
@@ -34046,6 +34102,13 @@
             "included_at_iso": "2020-06-13T01:29:11.599803",
             "last_retested_at_epoch": 1592260893.018525,
             "last_retested_at_iso": "2020-06-15T22:41:33.018525",
+            "status": "INACTIVE"
+        },
+        "www.kolskaodnowa.pl": {
+            "included_at_epoch": 1592506360.893454,
+            "included_at_iso": "2020-06-18T18:52:40.893454",
+            "last_retested_at_epoch": 1592506360.893454,
+            "last_retested_at_iso": "2020-06-18T18:52:40.893454",
             "status": "INACTIVE"
         },
         "www.komorniik24.com": {
