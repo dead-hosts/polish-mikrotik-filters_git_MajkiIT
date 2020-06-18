@@ -14602,6 +14602,13 @@
             "last_retested_at_iso": "2020-06-15T17:51:23.033245",
             "status": "INACTIVE"
         },
+        "jppost-ba.com": {
+            "included_at_epoch": 1592496792.939337,
+            "included_at_iso": "2020-06-18T16:13:12.939337",
+            "last_retested_at_epoch": 1592496792.939337,
+            "last_retested_at_iso": "2020-06-18T16:13:12.939337",
+            "status": "INACTIVE"
+        },
         "jppost-ha.com": {
             "included_at_epoch": 1592235223.960492,
             "included_at_iso": "2020-06-15T15:33:43.960492",
