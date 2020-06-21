@@ -39823,6 +39823,13 @@
             "last_retested_at_iso": "2020-06-18T22:51:06.083717",
             "status": "INACTIVE"
         },
+        "www.rozakurier.com": {
+            "included_at_epoch": 1592767963.924604,
+            "included_at_iso": "2020-06-21T19:32:43.924604",
+            "last_retested_at_epoch": 1592767963.924604,
+            "last_retested_at_iso": "2020-06-21T19:32:43.924604",
+            "status": "INACTIVE"
+        },
         "www.rozakurier.org": {
             "included_at_epoch": 1592511108.155129,
             "included_at_iso": "2020-06-18T20:11:48.155129",
@@ -40110,6 +40117,13 @@
             "last_retested_at_iso": "2020-06-19T02:08:46.635886",
             "status": "INACTIVE"
         },
+        "www.serwislaptopowwarszawa.com.pl": {
+            "included_at_epoch": 1592767965.167949,
+            "included_at_iso": "2020-06-21T19:32:45.167949",
+            "last_retested_at_epoch": 1592767965.167949,
+            "last_retested_at_iso": "2020-06-21T19:32:45.167949",
+            "status": "INACTIVE"
+        },
         "www.sfoodfeedf.org": {
             "included_at_epoch": 1592019009.953898,
             "included_at_iso": "2020-06-13T03:30:09.953898",
@@ -40194,6 +40208,13 @@
             "last_retested_at_iso": "2020-06-19T01:33:57.136995",
             "status": "INACTIVE"
         },
+        "www.sigma1.eu": {
+            "included_at_epoch": 1592767965.540499,
+            "included_at_iso": "2020-06-21T19:32:45.540499",
+            "last_retested_at_epoch": 1592767965.540499,
+            "last_retested_at_iso": "2020-06-21T19:32:45.540499",
+            "status": "INACTIVE"
+        },
         "www.silcan.pl": {
             "included_at_epoch": 1592019011.371629,
             "included_at_iso": "2020-06-13T03:30:11.371629",
@@ -40227,6 +40248,13 @@
             "included_at_iso": "2020-06-13T03:30:11.849091",
             "last_retested_at_epoch": 1592526825.359046,
             "last_retested_at_iso": "2020-06-19T00:33:45.359046",
+            "status": "INACTIVE"
+        },
+        "www.skbm.pl": {
+            "included_at_epoch": 1592767965.827482,
+            "included_at_iso": "2020-06-21T19:32:45.827482",
+            "last_retested_at_epoch": 1592767965.827482,
+            "last_retested_at_iso": "2020-06-21T19:32:45.827482",
             "status": "INACTIVE"
         },
         "www.sklepcolumbia.com": {
@@ -40729,8 +40757,8 @@
         "www.supermegacool.bit": {
             "included_at_epoch": 1592020036.894753,
             "included_at_iso": "2020-06-13T03:47:16.894753",
-            "last_retested_at_epoch": 1592512150.868023,
-            "last_retested_at_iso": "2020-06-18T20:29:10.868023",
+            "last_retested_at_epoch": 1592767968.170521,
+            "last_retested_at_iso": "2020-06-21T19:32:48.170521",
             "status": "INVALID"
         },
         "www.superserwisy.pl": {
