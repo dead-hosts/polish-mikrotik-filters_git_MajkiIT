@@ -21532,6 +21532,13 @@
             "last_retested_at_iso": "2020-06-18T22:16:09.949310",
             "status": "INACTIVE"
         },
+        "spartakiada2014.com.pl": {
+            "included_at_epoch": 1592758346.669862,
+            "included_at_iso": "2020-06-21T16:52:26.669862",
+            "last_retested_at_epoch": 1592758346.669862,
+            "last_retested_at_iso": "2020-06-21T16:52:26.669862",
+            "status": "INACTIVE"
+        },
         "speedynewsclips.com": {
             "included_at_epoch": 1591995815.707035,
             "included_at_iso": "2020-06-12T21:03:35.707035",
@@ -21812,6 +21819,13 @@
             "last_retested_at_iso": "2020-06-19T03:01:29.024333",
             "status": "INACTIVE"
         },
+        "studiosuwak.pl": {
+            "included_at_epoch": 1592758355.440575,
+            "included_at_iso": "2020-06-21T16:52:35.440575",
+            "last_retested_at_epoch": 1592758355.440575,
+            "last_retested_at_iso": "2020-06-21T16:52:35.440575",
+            "status": "INACTIVE"
+        },
         "sumnitdomains.top": {
             "included_at_epoch": 1591995826.417954,
             "included_at_iso": "2020-06-12T21:03:46.417954",
@@ -21836,8 +21850,8 @@
         "supermegacool.bit": {
             "included_at_epoch": 1591995826.975264,
             "included_at_iso": "2020-06-12T21:03:46.975264",
-            "last_retested_at_epoch": 1592500012.975585,
-            "last_retested_at_iso": "2020-06-18T17:06:52.975585",
+            "last_retested_at_epoch": 1592758357.145111,
+            "last_retested_at_iso": "2020-06-21T16:52:37.145111",
             "status": "INVALID"
         },
         "support1.trocable.ga": {
@@ -21948,8 +21962,8 @@
         "t.honker.info:8": {
             "included_at_epoch": 1591997712.373118,
             "included_at_iso": "2020-06-12T21:35:12.373118",
-            "last_retested_at_epoch": 1592500028.684346,
-            "last_retested_at_iso": "2020-06-18T17:07:08.684346",
+            "last_retested_at_epoch": 1592758373.408888,
+            "last_retested_at_iso": "2020-06-21T16:52:53.408888",
             "status": "INVALID"
         },
         "t2.webtilia.com": {
