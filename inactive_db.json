@@ -37163,6 +37163,13 @@
             "last_retested_at_iso": "2020-06-19T00:33:27.030676",
             "status": "INACTIVE"
         },
+        "www.owl-art.pl": {
+            "included_at_epoch": 1592766397.88078,
+            "included_at_iso": "2020-06-21T19:06:37.880780",
+            "last_retested_at_epoch": 1592766397.88078,
+            "last_retested_at_iso": "2020-06-21T19:06:37.880780",
+            "status": "INACTIVE"
+        },
         "www.p.24-7.help": {
             "included_at_epoch": 1592014892.062273,
             "included_at_iso": "2020-06-13T02:21:32.062273",
@@ -37247,6 +37254,13 @@
             "last_retested_at_iso": "2020-06-18T19:41:41.253205",
             "status": "INACTIVE"
         },
+        "www.paczka24-inpost.com": {
+            "included_at_epoch": 1592766398.014605,
+            "included_at_iso": "2020-06-21T19:06:38.014605",
+            "last_retested_at_epoch": 1592766398.014605,
+            "last_retested_at_iso": "2020-06-21T19:06:38.014605",
+            "status": "INACTIVE"
+        },
         "www.paczka24-oplata.com": {
             "included_at_epoch": 1592014892.566656,
             "included_at_iso": "2020-06-13T02:21:32.566656",
@@ -37266,6 +37280,13 @@
             "included_at_iso": "2020-06-13T02:21:32.806604",
             "last_retested_at_epoch": 1592520661.436246,
             "last_retested_at_iso": "2020-06-18T22:51:01.436246",
+            "status": "INACTIVE"
+        },
+        "www.paczkadhl24.com": {
+            "included_at_epoch": 1592766398.10337,
+            "included_at_iso": "2020-06-21T19:06:38.103370",
+            "last_retested_at_epoch": 1592766398.10337,
+            "last_retested_at_iso": "2020-06-21T19:06:38.103370",
             "status": "INACTIVE"
         },
         "www.paczkadpd.com": {
@@ -37352,6 +37373,13 @@
             "last_retested_at_iso": "2020-06-19T03:01:27.257607",
             "status": "INACTIVE"
         },
+        "www.pakukgroup.com": {
+            "included_at_epoch": 1592766398.235027,
+            "included_at_iso": "2020-06-21T19:06:38.235027",
+            "last_retested_at_epoch": 1592766398.235027,
+            "last_retested_at_iso": "2020-06-21T19:06:38.235027",
+            "status": "INACTIVE"
+        },
         "www.palloosweddings.com": {
             "included_at_epoch": 1592015913.735099,
             "included_at_iso": "2020-06-13T02:38:33.735099",
@@ -37371,6 +37399,13 @@
             "included_at_iso": "2020-06-13T02:38:34.089892",
             "last_retested_at_epoch": 1592527874.003453,
             "last_retested_at_iso": "2020-06-19T00:51:14.003453",
+            "status": "INACTIVE"
+        },
+        "www.parafia-kamienica-tarnow.pl": {
+            "included_at_epoch": 1592766398.426418,
+            "included_at_iso": "2020-06-21T19:06:38.426418",
+            "last_retested_at_epoch": 1592766398.426418,
+            "last_retested_at_iso": "2020-06-21T19:06:38.426418",
             "status": "INACTIVE"
         },
         "www.paraphingxmfevapk.xyz": {
@@ -37915,8 +37950,15 @@
         "www.poczta-polska48.net": {
             "included_at_epoch": 1592015921.641895,
             "included_at_iso": "2020-06-13T02:38:41.641895",
-            "last_retested_at_epoch": 1592509303.030441,
-            "last_retested_at_iso": "2020-06-18T19:41:43.030441",
+            "last_retested_at_epoch": 1592766399.757495,
+            "last_retested_at_iso": "2020-06-21T19:06:39.757495",
+            "status": "INACTIVE"
+        },
+        "www.poczta-polska6.pl": {
+            "included_at_epoch": 1592766399.855789,
+            "included_at_iso": "2020-06-21T19:06:39.855789",
+            "last_retested_at_epoch": 1592766399.855789,
+            "last_retested_at_iso": "2020-06-21T19:06:39.855789",
             "status": "INACTIVE"
         },
         "www.poczta-polska8.pl": {
@@ -38108,11 +38150,25 @@
             "last_retested_at_iso": "2020-06-18T21:51:10.596136",
             "status": "INACTIVE"
         },
+        "www.policy-secure-account.com": {
+            "included_at_epoch": 1592766400.16319,
+            "included_at_iso": "2020-06-21T19:06:40.163190",
+            "last_retested_at_epoch": 1592766400.16319,
+            "last_retested_at_iso": "2020-06-21T19:06:40.163190",
+            "status": "INACTIVE"
+        },
         "www.polish-engineer.pl": {
             "included_at_epoch": 1592015923.941842,
             "included_at_iso": "2020-06-13T02:38:43.941842",
             "last_retested_at_epoch": 1592531484.760438,
             "last_retested_at_iso": "2020-06-19T01:51:24.760438",
+            "status": "INACTIVE"
+        },
+        "www.polluk.pl": {
+            "included_at_epoch": 1592766400.287863,
+            "included_at_iso": "2020-06-21T19:06:40.287863",
+            "last_retested_at_epoch": 1592766400.287863,
+            "last_retested_at_iso": "2020-06-21T19:06:40.287863",
             "status": "INACTIVE"
         },
         "www.polokg.com": {
@@ -38762,8 +38818,8 @@
         "www.po�yczaj.online.pl": {
             "included_at_epoch": 1592016953.689652,
             "included_at_iso": "2020-06-13T02:55:53.689652",
-            "last_retested_at_epoch": 1592509303.857186,
-            "last_retested_at_iso": "2020-06-18T19:41:43.857186",
+            "last_retested_at_epoch": 1592766400.750859,
+            "last_retested_at_iso": "2020-06-21T19:06:40.750859",
             "status": "INVALID"
         },
         "www.ppswb.pl": {
@@ -39053,6 +39109,13 @@
             "last_retested_at_iso": "2020-06-19T00:33:50.217879",
             "status": "INACTIVE"
         },
+        "www.przewozinik.online": {
+            "included_at_epoch": 1592766401.586229,
+            "included_at_iso": "2020-06-21T19:06:41.586229",
+            "last_retested_at_epoch": 1592766401.586229,
+            "last_retested_at_iso": "2020-06-21T19:06:41.586229",
+            "status": "INACTIVE"
+        },
         "www.przewozinik24.online": {
             "included_at_epoch": 1592016958.193035,
             "included_at_iso": "2020-06-13T02:55:58.193035",
@@ -39088,6 +39151,13 @@
             "last_retested_at_iso": "2020-06-18T22:15:46.130083",
             "status": "INACTIVE"
         },
+        "www.psycholozki.com.pl": {
+            "included_at_epoch": 1592766401.777586,
+            "included_at_iso": "2020-06-21T19:06:41.777586",
+            "last_retested_at_epoch": 1592766401.777586,
+            "last_retested_at_iso": "2020-06-21T19:06:41.777586",
+            "status": "INACTIVE"
+        },
         "www.pszczynskieaktywnie.pl": {
             "included_at_epoch": 1592016958.75124,
             "included_at_iso": "2020-06-13T02:55:58.751240",
@@ -39102,11 +39172,25 @@
             "last_retested_at_iso": "2020-06-19T02:25:59.126295",
             "status": "INACTIVE"
         },
+        "www.pubkotlownia.pl": {
+            "included_at_epoch": 1592766401.875524,
+            "included_at_iso": "2020-06-21T19:06:41.875524",
+            "last_retested_at_epoch": 1592766401.875524,
+            "last_retested_at_iso": "2020-06-21T19:06:41.875524",
+            "status": "INACTIVE"
+        },
         "www.publisher.lead.network": {
             "included_at_epoch": 1592016958.931948,
             "included_at_iso": "2020-06-13T02:55:58.931948",
             "last_retested_at_epoch": 1592520655.999331,
             "last_retested_at_iso": "2020-06-18T22:50:55.999331",
+            "status": "INACTIVE"
+        },
+        "www.puckiewopr.pl": {
+            "included_at_epoch": 1592766401.982266,
+            "included_at_iso": "2020-06-21T19:06:41.982266",
+            "last_retested_at_epoch": 1592766401.982266,
+            "last_retested_at_iso": "2020-06-21T19:06:41.982266",
             "status": "INACTIVE"
         },
         "www.pumapolskasklep.pl": {
