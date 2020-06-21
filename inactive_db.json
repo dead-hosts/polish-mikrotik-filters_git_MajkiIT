@@ -20058,8 +20058,8 @@
         "po�yczaj.online.pl": {
             "included_at_epoch": 1591993017.865985,
             "included_at_iso": "2020-06-12T20:16:57.865985",
-            "last_retested_at_epoch": 1592498943.868998,
-            "last_retested_at_iso": "2020-06-18T16:49:03.868998",
+            "last_retested_at_epoch": 1592757272.199782,
+            "last_retested_at_iso": "2020-06-21T16:34:32.199782",
             "status": "INVALID"
         },
         "pr52ni.top": {
@@ -20102,6 +20102,13 @@
             "included_at_iso": "2020-06-12T20:17:00.072740",
             "last_retested_at_epoch": 1592520666.445222,
             "last_retested_at_iso": "2020-06-18T22:51:06.445222",
+            "status": "INACTIVE"
+        },
+        "prl.genfotir.com": {
+            "included_at_epoch": 1592757275.0196,
+            "included_at_iso": "2020-06-21T16:34:35.019600",
+            "last_retested_at_epoch": 1592757275.0196,
+            "last_retested_at_iso": "2020-06-21T16:34:35.019600",
             "status": "INACTIVE"
         },
         "pro.potsdeco.com": {
@@ -21327,6 +21334,13 @@
             "included_at_iso": "2020-06-12T21:03:24.139627",
             "last_retested_at_epoch": 1592530446.842876,
             "last_retested_at_iso": "2020-06-19T01:34:06.842876",
+            "status": "INACTIVE"
+        },
+        "sigma1.eu": {
+            "included_at_epoch": 1592757313.642852,
+            "included_at_iso": "2020-06-21T16:35:13.642852",
+            "last_retested_at_epoch": 1592757313.642852,
+            "last_retested_at_iso": "2020-06-21T16:35:13.642852",
             "status": "INACTIVE"
         },
         "sims6n.win": {
