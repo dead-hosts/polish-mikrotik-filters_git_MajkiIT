@@ -514,6 +514,11 @@
         "expiration_date": "19-mar-2021",
         "state": "future"
     },
+    "a1wholesale.in": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
     "a2btrans.pl": {
         "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
@@ -567,6 +572,11 @@
     "ab4hr.com": {
         "epoch": 1617408000.0,
         "expiration_date": "03-apr-2021",
+        "state": "future"
+    },
+    "abacus4maths.co.za": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "abbasargon.com": {
@@ -725,8 +735,8 @@
         "state": "future"
     },
     "acornishstudio.co.uk": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1655596800.0,
+        "expiration_date": "19-jun-2022",
         "state": "future"
     },
     "acquapubblicasabina.it": {
@@ -848,6 +858,11 @@
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
         "state": "past"
+    },
+    "adgedo.com": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
     },
     "adidas-collection.club": {
         "epoch": 1595376000.0,
@@ -1274,6 +1289,11 @@
         "expiration_date": "13-feb-2021",
         "state": "future"
     },
+    "akeeratly.in": {
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
+        "state": "future"
+    },
     "akhbarrecords.com": {
         "epoch": 1616025600.0,
         "expiration_date": "18-mar-2021",
@@ -1559,6 +1579,11 @@
         "expiration_date": "23-mar-2021",
         "state": "future"
     },
+    "allegor.xyz": {
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "state": "future"
+    },
     "allegro-blokada.pl": {
         "epoch": 1620432000.0,
         "expiration_date": "08-may-2021",
@@ -1592,6 +1617,11 @@
     "allegro7.pl": {
         "epoch": 1623715200.0,
         "expiration_date": "15-jun-2021",
+        "state": "future"
+    },
+    "allegroapk.net": {
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "allegrofinanse2.pl": {
@@ -1855,9 +1885,9 @@
         "state": "future"
     },
     "aminaelmahdy.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
-        "state": "past"
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "state": "future"
     },
     "amisolation.fr": {
         "epoch": 1601078400.0,
@@ -1962,6 +1992,11 @@
     "anetakurier.info": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
+    "angel-style.com.ua": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "angelabrown.com": {
@@ -2364,6 +2399,11 @@
         "expiration_date": "25-sep-2027",
         "state": "future"
     },
+    "arredosocial.it": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
     "arrow-finance.pl": {
         "epoch": 1622505600.0,
         "expiration_date": "01-jun-2021",
@@ -2692,6 +2732,11 @@
     "autoelektronika-nowysacz.pl": {
         "epoch": 1619568000.0,
         "expiration_date": "28-apr-2021",
+        "state": "future"
+    },
+    "autoescolaciganos.com.br": {
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "autohit24.pl": {
@@ -3304,6 +3349,11 @@
         "expiration_date": "22-feb-2021",
         "state": "future"
     },
+    "beciki.pl": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
+    },
     "bedrastic.bid": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
@@ -3609,6 +3659,11 @@
         "expiration_date": "16-dec-2020",
         "state": "future"
     },
+    "biegwrzasowice.pl": {
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "state": "future"
+    },
     "bielpak.pl": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
@@ -3690,8 +3745,8 @@
         "state": "future"
     },
     "billboardstoday.com": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "bingxiong.vip": {
@@ -4027,6 +4082,16 @@
     "bnpparibas-bank.pl": {
         "epoch": 1654819200.0,
         "expiration_date": "10-jun-2022",
+        "state": "future"
+    },
+    "bnpparibasgomobilr.com": {
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "state": "future"
+    },
+    "bnpparibaspoland.co": {
+        "epoch": 1655510400.0,
+        "expiration_date": "18-jun-2022",
         "state": "future"
     },
     "bobliddycoat.com": {

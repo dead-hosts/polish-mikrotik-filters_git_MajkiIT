@@ -3,15 +3,15 @@
         ".201.142.118:46156": {
             "included_at_epoch": 1591973630.077169,
             "included_at_iso": "2020-06-12T14:53:50.077169",
-            "last_retested_at_epoch": 1592522335.130938,
-            "last_retested_at_iso": "2020-06-18T23:18:55.130938",
+            "last_retested_at_epoch": 1592750299.647815,
+            "last_retested_at_iso": "2020-06-21T14:38:19.647815",
             "status": "INVALID"
         },
         ".51shijuan.com": {
             "included_at_epoch": 1591973632.30329,
             "included_at_iso": "2020-06-12T14:53:52.303290",
-            "last_retested_at_epoch": 1592491262.069753,
-            "last_retested_at_iso": "2020-06-18T14:41:02.069753",
+            "last_retested_at_epoch": 1592750302.552781,
+            "last_retested_at_iso": "2020-06-21T14:38:22.552781",
             "status": "INVALID"
         },
         ".dgecolesdepolice.bf": {
@@ -2411,8 +2411,8 @@
         "2.indexsinas.me:811": {
             "included_at_epoch": 1591973630.385233,
             "included_at_iso": "2020-06-12T14:53:50.385233",
-            "last_retested_at_epoch": 1592491260.36607,
-            "last_retested_at_iso": "2020-06-18T14:41:00.366070",
+            "last_retested_at_epoch": 1592750300.877687,
+            "last_retested_at_iso": "2020-06-21T14:38:20.877687",
             "status": "INVALID"
         },
         "2018.abiquifi.org.br": {
@@ -6352,8 +6352,8 @@
         "a.alibuf.com:3": {
             "included_at_epoch": 1591980304.746893,
             "included_at_iso": "2020-06-12T16:45:04.746893",
-            "last_retested_at_epoch": 1592491264.501945,
-            "last_retested_at_iso": "2020-06-18T14:41:04.501945",
+            "last_retested_at_epoch": 1592750304.894491,
+            "last_retested_at_iso": "2020-06-21T14:38:24.894491",
             "status": "INVALID"
         },
         "a0g0o7.bid": {
@@ -6940,8 +6940,8 @@
         "amd.alibuf.com:7723": {
             "included_at_epoch": 1591975646.527921,
             "included_at_iso": "2020-06-12T15:27:26.527921",
-            "last_retested_at_epoch": 1592491279.879441,
-            "last_retested_at_iso": "2020-06-18T14:41:19.879441",
+            "last_retested_at_epoch": 1592750319.31452,
+            "last_retested_at_iso": "2020-06-21T14:38:39.314520",
             "status": "INVALID"
         },
         "ameguard.ru": {
@@ -8048,6 +8048,13 @@
             "included_at_iso": "2020-06-12T16:05:11.379780",
             "last_retested_at_epoch": 1592528911.251346,
             "last_retested_at_iso": "2020-06-19T01:08:31.251346",
+            "status": "INACTIVE"
+        },
+        "bnp.coast-bank.com": {
+            "included_at_epoch": 1592750344.382842,
+            "included_at_iso": "2020-06-21T14:39:04.382842",
+            "last_retested_at_epoch": 1592750344.382842,
+            "last_retested_at_iso": "2020-06-21T14:39:04.382842",
             "status": "INACTIVE"
         },
         "bok.enea-sa.pl": {
