@@ -32214,6 +32214,13 @@
             "last_retested_at_iso": "2020-06-18T22:15:51.425109",
             "status": "INACTIVE"
         },
+        "www.gastroradiologia.pl": {
+            "included_at_epoch": 1592763229.914981,
+            "included_at_iso": "2020-06-21T18:13:49.914981",
+            "last_retested_at_epoch": 1592763229.914981,
+            "last_retested_at_iso": "2020-06-21T18:13:49.914981",
+            "status": "INACTIVE"
+        },
         "www.gatezio.com": {
             "included_at_epoch": 1592007642.048442,
             "included_at_iso": "2020-06-13T00:20:42.048442",
@@ -32443,6 +32450,13 @@
             "included_at_iso": "2020-06-13T00:37:42.084692",
             "last_retested_at_epoch": 1592518569.100849,
             "last_retested_at_iso": "2020-06-18T22:16:09.100849",
+            "status": "INACTIVE"
+        },
+        "www.globile.co": {
+            "included_at_epoch": 1592763230.57768,
+            "included_at_iso": "2020-06-21T18:13:50.577680",
+            "last_retested_at_epoch": 1592763230.57768,
+            "last_retested_at_iso": "2020-06-21T18:13:50.577680",
             "status": "INACTIVE"
         },
         "www.gloriakurier.org": {
@@ -33407,8 +33421,8 @@
         "www.i-dworzecporwaniepl.pl": {
             "included_at_epoch": 1592009697.084345,
             "included_at_iso": "2020-06-13T00:54:57.084345",
-            "last_retested_at_epoch": 1592506357.675542,
-            "last_retested_at_iso": "2020-06-18T18:52:37.675542",
+            "last_retested_at_epoch": 1592763232.240055,
+            "last_retested_at_iso": "2020-06-21T18:13:52.240055",
             "status": "INACTIVE"
         },
         "www.i-dziewczynkaporwana.pl": {
@@ -33421,8 +33435,8 @@
         "www.i-efaktygwalt.pl": {
             "included_at_epoch": 1592009697.290925,
             "included_at_iso": "2020-06-13T00:54:57.290925",
-            "last_retested_at_epoch": 1592506357.588927,
-            "last_retested_at_iso": "2020-06-18T18:52:37.588927",
+            "last_retested_at_epoch": 1592763232.337253,
+            "last_retested_at_iso": "2020-06-21T18:13:52.337253",
             "status": "INACTIVE"
         },
         "www.i-ifaktygwalt.pl": {
@@ -33808,6 +33822,13 @@
             "included_at_iso": "2020-06-18T18:52:38.345600",
             "last_retested_at_epoch": 1592506358.3456,
             "last_retested_at_iso": "2020-06-18T18:52:38.345600",
+            "status": "INACTIVE"
+        },
+        "www.inpost-kurier.com": {
+            "included_at_epoch": 1592763232.939107,
+            "included_at_iso": "2020-06-21T18:13:52.939107",
+            "last_retested_at_epoch": 1592763232.939107,
+            "last_retested_at_iso": "2020-06-21T18:13:52.939107",
             "status": "INACTIVE"
         },
         "www.inpost-paczka.services": {
@@ -34200,6 +34221,13 @@
             "included_at_iso": "2020-06-13T01:12:11.108598",
             "last_retested_at_epoch": 1592525499.542845,
             "last_retested_at_iso": "2020-06-19T00:11:39.542845",
+            "status": "INACTIVE"
+        },
+        "www.jacquesandhrel.pl": {
+            "included_at_epoch": 1592763233.475492,
+            "included_at_iso": "2020-06-21T18:13:53.475492",
+            "last_retested_at_epoch": 1592763233.475492,
+            "last_retested_at_iso": "2020-06-21T18:13:53.475492",
             "status": "INACTIVE"
         },
         "www.jagodapaczka.org": {
