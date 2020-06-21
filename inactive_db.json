@@ -26390,11 +26390,116 @@
             "last_retested_at_iso": "2020-06-18T22:16:09.193359",
             "status": "INACTIVE"
         },
+        "wszystkiemiasta.pl": {
+            "included_at_epoch": 1592759432.582275,
+            "included_at_iso": "2020-06-21T17:10:32.582275",
+            "last_retested_at_epoch": 1592759432.582275,
+            "last_retested_at_iso": "2020-06-21T17:10:32.582275",
+            "status": "INACTIVE"
+        },
         "wszystkododomu.net": {
             "included_at_epoch": 1591999446.359577,
             "included_at_iso": "2020-06-12T22:04:06.359577",
             "last_retested_at_epoch": 1592526815.546484,
             "last_retested_at_iso": "2020-06-19T00:33:35.546484",
+            "status": "INACTIVE"
+        },
+        "wt100.downyouxi.com": {
+            "included_at_epoch": 1592759433.058807,
+            "included_at_iso": "2020-06-21T17:10:33.058807",
+            "last_retested_at_epoch": 1592759433.058807,
+            "last_retested_at_iso": "2020-06-21T17:10:33.058807",
+            "status": "INACTIVE"
+        },
+        "wt110.downyouxi.com": {
+            "included_at_epoch": 1592759433.231618,
+            "included_at_iso": "2020-06-21T17:10:33.231618",
+            "last_retested_at_epoch": 1592759433.231618,
+            "last_retested_at_iso": "2020-06-21T17:10:33.231618",
+            "status": "INACTIVE"
+        },
+        "wt111.downyouxi.com": {
+            "included_at_epoch": 1592759433.144927,
+            "included_at_iso": "2020-06-21T17:10:33.144927",
+            "last_retested_at_epoch": 1592759433.144927,
+            "last_retested_at_iso": "2020-06-21T17:10:33.144927",
+            "status": "INACTIVE"
+        },
+        "wt112.downyouxi.com": {
+            "included_at_epoch": 1592759433.320017,
+            "included_at_iso": "2020-06-21T17:10:33.320017",
+            "last_retested_at_epoch": 1592759433.320017,
+            "last_retested_at_iso": "2020-06-21T17:10:33.320017",
+            "status": "INACTIVE"
+        },
+        "wt120.downyouxi.com": {
+            "included_at_epoch": 1592759433.406367,
+            "included_at_iso": "2020-06-21T17:10:33.406367",
+            "last_retested_at_epoch": 1592759433.406367,
+            "last_retested_at_iso": "2020-06-21T17:10:33.406367",
+            "status": "INACTIVE"
+        },
+        "wt121.downyouxi.com": {
+            "included_at_epoch": 1592759433.578329,
+            "included_at_iso": "2020-06-21T17:10:33.578329",
+            "last_retested_at_epoch": 1592759433.578329,
+            "last_retested_at_iso": "2020-06-21T17:10:33.578329",
+            "status": "INACTIVE"
+        },
+        "wt122.downyouxi.com": {
+            "included_at_epoch": 1592759433.491911,
+            "included_at_iso": "2020-06-21T17:10:33.491911",
+            "last_retested_at_epoch": 1592759433.491911,
+            "last_retested_at_iso": "2020-06-21T17:10:33.491911",
+            "status": "INACTIVE"
+        },
+        "wt50.downyouxi.com": {
+            "included_at_epoch": 1592759433.751444,
+            "included_at_iso": "2020-06-21T17:10:33.751444",
+            "last_retested_at_epoch": 1592759433.751444,
+            "last_retested_at_iso": "2020-06-21T17:10:33.751444",
+            "status": "INACTIVE"
+        },
+        "wt61.downyouxi.com": {
+            "included_at_epoch": 1592759433.664064,
+            "included_at_iso": "2020-06-21T17:10:33.664064",
+            "last_retested_at_epoch": 1592759433.664064,
+            "last_retested_at_iso": "2020-06-21T17:10:33.664064",
+            "status": "INACTIVE"
+        },
+        "wt71.downyouxi.com": {
+            "included_at_epoch": 1592759433.924543,
+            "included_at_iso": "2020-06-21T17:10:33.924543",
+            "last_retested_at_epoch": 1592759433.924543,
+            "last_retested_at_iso": "2020-06-21T17:10:33.924543",
+            "status": "INACTIVE"
+        },
+        "wt72.downyouxi.com": {
+            "included_at_epoch": 1592759433.837598,
+            "included_at_iso": "2020-06-21T17:10:33.837598",
+            "last_retested_at_epoch": 1592759433.837598,
+            "last_retested_at_iso": "2020-06-21T17:10:33.837598",
+            "status": "INACTIVE"
+        },
+        "wt90.downyouxi.com": {
+            "included_at_epoch": 1592759434.010285,
+            "included_at_iso": "2020-06-21T17:10:34.010285",
+            "last_retested_at_epoch": 1592759434.010285,
+            "last_retested_at_iso": "2020-06-21T17:10:34.010285",
+            "status": "INACTIVE"
+        },
+        "wt91.downyouxi.com": {
+            "included_at_epoch": 1592759434.096955,
+            "included_at_iso": "2020-06-21T17:10:34.096955",
+            "last_retested_at_epoch": 1592759434.096955,
+            "last_retested_at_iso": "2020-06-21T17:10:34.096955",
+            "status": "INACTIVE"
+        },
+        "wt92.downyouxi.com": {
+            "included_at_epoch": 1592759434.247167,
+            "included_at_iso": "2020-06-21T17:10:34.247167",
+            "last_retested_at_epoch": 1592759434.247167,
+            "last_retested_at_iso": "2020-06-21T17:10:34.247167",
             "status": "INACTIVE"
         },
         "wtxvmsikbmtbq.pw": {
@@ -26451,6 +26556,13 @@
             "included_at_iso": "2020-06-12T22:04:07.352763",
             "last_retested_at_epoch": 1592517075.272328,
             "last_retested_at_iso": "2020-06-18T21:51:15.272328",
+            "status": "INACTIVE"
+        },
+        "ww7.openwrt.com": {
+            "included_at_epoch": 1592759434.616881,
+            "included_at_iso": "2020-06-21T17:10:34.616881",
+            "last_retested_at_epoch": 1592759434.616881,
+            "last_retested_at_iso": "2020-06-21T17:10:34.616881",
             "status": "INACTIVE"
         },
         "ww92.ks-davis.com": {
@@ -26724,6 +26836,13 @@
             "included_at_iso": "2020-06-12T22:33:44.261501",
             "last_retested_at_epoch": 1592535668.066643,
             "last_retested_at_iso": "2020-06-19T03:01:08.066643",
+            "status": "INACTIVE"
+        },
+        "www.77mscco.com": {
+            "included_at_epoch": 1592759435.227477,
+            "included_at_iso": "2020-06-21T17:10:35.227477",
+            "last_retested_at_epoch": 1592759435.227477,
+            "last_retested_at_iso": "2020-06-21T17:10:35.227477",
             "status": "INACTIVE"
         },
         "www.7fantasma.duckdns.org": {
