@@ -33498,8 +33498,8 @@
         "www.i-dworzecporwaniepl.pl": {
             "included_at_epoch": 1592009697.084345,
             "included_at_iso": "2020-06-13T00:54:57.084345",
-            "last_retested_at_epoch": 1592763232.240055,
-            "last_retested_at_iso": "2020-06-21T18:13:52.240055",
+            "last_retested_at_epoch": 1592851632.662737,
+            "last_retested_at_iso": "2020-06-22T18:47:12.662737",
             "status": "INACTIVE"
         },
         "www.i-dziewczynkaporwana.pl": {
@@ -33512,8 +33512,8 @@
         "www.i-efaktygwalt.pl": {
             "included_at_epoch": 1592009697.290925,
             "included_at_iso": "2020-06-13T00:54:57.290925",
-            "last_retested_at_epoch": 1592763232.337253,
-            "last_retested_at_iso": "2020-06-21T18:13:52.337253",
+            "last_retested_at_epoch": 1592851632.571177,
+            "last_retested_at_iso": "2020-06-22T18:47:12.571177",
             "status": "INACTIVE"
         },
         "www.i-ifaktygwalt.pl": {
@@ -41440,6 +41440,13 @@
             "last_retested_at_iso": "2020-06-21T19:49:50.039615",
             "status": "INACTIVE"
         },
+        "www.tomojbiznes.pl": {
+            "included_at_epoch": 1592851635.08008,
+            "included_at_iso": "2020-06-22T18:47:15.080080",
+            "last_retested_at_epoch": 1592851635.08008,
+            "last_retested_at_iso": "2020-06-22T18:47:15.080080",
+            "status": "INACTIVE"
+        },
         "www.top-oferty.net": {
             "included_at_epoch": 1592021654.181571,
             "included_at_iso": "2020-06-13T04:14:14.181571",
@@ -41676,6 +41683,13 @@
             "included_at_iso": "2020-06-13T04:31:33.127688",
             "last_retested_at_epoch": 1592792613.20931,
             "last_retested_at_iso": "2020-06-22T02:23:33.209310",
+            "status": "INACTIVE"
+        },
+        "www.twoj-inpost.com": {
+            "included_at_epoch": 1592851635.981971,
+            "included_at_iso": "2020-06-22T18:47:15.981971",
+            "last_retested_at_epoch": 1592851635.981971,
+            "last_retested_at_iso": "2020-06-22T18:47:15.981971",
             "status": "INACTIVE"
         },
         "www.twoj-kurier.services": {
@@ -41963,6 +41977,13 @@
             "included_at_iso": "2020-06-13T04:31:37.711008",
             "last_retested_at_epoch": 1592794717.311259,
             "last_retested_at_iso": "2020-06-22T02:58:37.311259",
+            "status": "INACTIVE"
+        },
+        "www.usdsy.com": {
+            "included_at_epoch": 1592851636.637544,
+            "included_at_iso": "2020-06-22T18:47:16.637544",
+            "last_retested_at_epoch": 1592851636.637544,
+            "last_retested_at_iso": "2020-06-22T18:47:16.637544",
             "status": "INACTIVE"
         },
         "www.useslithogra.xyz": {
