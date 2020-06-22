@@ -9034,6 +9034,21 @@
         "expiration_date": "22-apr-2021",
         "state": "future"
     },
+    "e-poszukiwanie.online": {
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
+        "state": "future"
+    },
+    "e-poszukiwanie.pl": {
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
+        "state": "future"
+    },
+    "e-poszukiwanie.site": {
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
+        "state": "future"
+    },
     "e-przesylki.com": {
         "epoch": 1620259200.0,
         "expiration_date": "06-may-2021",
@@ -10354,6 +10369,11 @@
         "expiration_date": "11-may-2021",
         "state": "future"
     },
+    "etracking-ppocztapolska.com": {
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "state": "future"
+    },
     "euco.pl": {
         "epoch": 1620691200.0,
         "expiration_date": "11-may-2021",
@@ -10562,6 +10582,11 @@
     "eyupp.com": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
+    "ezalukaj.pl": {
+        "epoch": 1615766400.0,
+        "expiration_date": "15-mar-2021",
         "state": "future"
     },
     "ezdownloadpro.info": {
@@ -11137,7 +11162,7 @@
     "fightfly.pl": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "figuig.net": {
         "epoch": 1604620800.0,
@@ -11207,6 +11232,11 @@
     "filelss07.top": {
         "epoch": 1622851200.0,
         "expiration_date": "05-jun-2021",
+        "state": "future"
+    },
+    "filelsss01.top": {
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "fileman.pl": {
@@ -11404,9 +11434,19 @@
         "expiration_date": "20-may-2021",
         "state": "future"
     },
+    "filmy-seriale.pl": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "state": "future"
+    },
     "filmy-tv.pl": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
+    "filmy-zalukaj.pl": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
         "state": "future"
     },
     "filmy4u.pl": {
@@ -12315,8 +12355,8 @@
         "state": "future"
     },
     "funnyfotobox.pl": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
         "state": "future"
     },
     "funskan.pl": {
@@ -13427,7 +13467,7 @@
     "goldengarden.com.br": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "goldenmark.com": {
         "epoch": 1599264000.0,

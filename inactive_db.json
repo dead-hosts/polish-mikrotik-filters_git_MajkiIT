@@ -11382,6 +11382,13 @@
             "last_retested_at_iso": "2020-06-21T20:24:17.077077",
             "status": "INACTIVE"
         },
+        "faithfull.kdm.pl": {
+            "included_at_epoch": 1592829503.30095,
+            "included_at_iso": "2020-06-22T12:38:23.300950",
+            "last_retested_at_epoch": 1592829503.30095,
+            "last_retested_at_iso": "2020-06-22T12:38:23.300950",
+            "status": "INACTIVE"
+        },
         "fakt24-mazowieckie.pl": {
             "included_at_epoch": 1591981528.709664,
             "included_at_iso": "2020-06-12T17:05:28.709664",
@@ -12780,6 +12787,13 @@
             "included_at_iso": "2020-06-12T17:37:04.883227",
             "last_retested_at_epoch": 1592772130.26778,
             "last_retested_at_iso": "2020-06-21T20:42:10.267780",
+            "status": "INACTIVE"
+        },
+        "globile.co": {
+            "included_at_epoch": 1592829533.118425,
+            "included_at_iso": "2020-06-22T12:38:53.118425",
+            "last_retested_at_epoch": 1592829533.118425,
+            "last_retested_at_iso": "2020-06-22T12:38:53.118425",
             "status": "INACTIVE"
         },
         "glosowanie-kliknij.eu": {
