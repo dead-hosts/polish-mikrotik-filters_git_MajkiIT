@@ -7791,6 +7791,13 @@
             "last_retested_at_iso": "2020-06-22T00:20:27.872575",
             "status": "INACTIVE"
         },
+        "bdz.com.pl": {
+            "included_at_epoch": 1592824508.176743,
+            "included_at_iso": "2020-06-22T11:15:08.176743",
+            "last_retested_at_epoch": 1592824508.176743,
+            "last_retested_at_iso": "2020-06-22T11:15:08.176743",
+            "status": "INACTIVE"
+        },
         "beetlebits.pl": {
             "included_at_epoch": 1591975650.415461,
             "included_at_iso": "2020-06-12T15:27:30.415461",
@@ -8006,6 +8013,13 @@
             "included_at_iso": "2020-06-12T16:05:11.146628",
             "last_retested_at_epoch": 1592792605.138074,
             "last_retested_at_iso": "2020-06-22T02:23:25.138074",
+            "status": "INACTIVE"
+        },
+        "blog.thewebcake.com": {
+            "included_at_epoch": 1592824516.518867,
+            "included_at_iso": "2020-06-22T11:15:16.518867",
+            "last_retested_at_epoch": 1592824516.518867,
+            "last_retested_at_iso": "2020-06-22T11:15:16.518867",
             "status": "INACTIVE"
         },
         "blog.wpvvusso.xyz": {

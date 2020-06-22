@@ -229,6 +229,16 @@
         "expiration_date": "10-nov-2020",
         "state": "future"
     },
+    "3fazowa-ostrzalka-do-nozy-pl.com": {
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "state": "future"
+    },
+    "3filmy.com": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
     "3mandatesmedia.com": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
@@ -360,8 +370,8 @@
         "state": "future"
     },
     "59fifty.pl": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
+        "epoch": 1595376000.0,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "5b4ej6.bid": {
@@ -562,6 +572,11 @@
     "aaplindia.com": {
         "epoch": 1660953600.0,
         "expiration_date": "20-aug-2022",
+        "state": "future"
+    },
+    "aaronthompson.ug": {
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
         "state": "future"
     },
     "aaryagold.com": {
@@ -1905,8 +1920,8 @@
         "state": "future"
     },
     "amptrading.pl": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
+        "epoch": 1595376000.0,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "amuletweb.com": {
@@ -3597,7 +3612,7 @@
     "bfglasses.com": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "bgprojekt.pl": {
         "epoch": 1593475200.0,
