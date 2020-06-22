@@ -42203,6 +42203,13 @@
             "last_retested_at_iso": "2020-06-22T01:54:08.949217",
             "status": "INACTIVE"
         },
+        "www.w3brasil.com": {
+            "included_at_epoch": 1592852984.224526,
+            "included_at_iso": "2020-06-22T19:09:44.224526",
+            "last_retested_at_epoch": 1592852984.224526,
+            "last_retested_at_iso": "2020-06-22T19:09:44.224526",
+            "status": "INACTIVE"
+        },
         "www.waniakurier.com": {
             "included_at_epoch": 1592022702.110633,
             "included_at_iso": "2020-06-13T04:31:42.110633",
@@ -42719,6 +42726,13 @@
             "included_at_iso": "2020-06-21T20:05:44.864815",
             "last_retested_at_epoch": 1592769944.864815,
             "last_retested_at_iso": "2020-06-21T20:05:44.864815",
+            "status": "INACTIVE"
+        },
+        "www.wuxitube.com": {
+            "included_at_epoch": 1592852985.71208,
+            "included_at_iso": "2020-06-22T19:09:45.712080",
+            "last_retested_at_epoch": 1592852985.71208,
+            "last_retested_at_iso": "2020-06-22T19:09:45.712080",
             "status": "INACTIVE"
         },
         "www.ww2.xn--30986-udb.biz": {
