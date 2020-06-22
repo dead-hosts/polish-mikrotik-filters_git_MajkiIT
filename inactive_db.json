@@ -30215,8 +30215,8 @@
         "www.e-newsgwalt24.pl": {
             "included_at_epoch": 1592005971.883479,
             "included_at_iso": "2020-06-12T23:52:51.883479",
-            "last_retested_at_epoch": 1592761478.91852,
-            "last_retested_at_iso": "2020-06-21T17:44:38.918520",
+            "last_retested_at_epoch": 1592848886.979604,
+            "last_retested_at_iso": "2020-06-22T18:01:26.979604",
             "status": "INACTIVE"
         },
         "www.e-paczka24.net": {
@@ -30271,8 +30271,8 @@
         "www.e-polskaporwanie.pl": {
             "included_at_epoch": 1592005973.223169,
             "included_at_iso": "2020-06-12T23:52:53.223169",
-            "last_retested_at_epoch": 1592761479.184158,
-            "last_retested_at_iso": "2020-06-21T17:44:39.184158",
+            "last_retested_at_epoch": 1592848887.070514,
+            "last_retested_at_iso": "2020-06-22T18:01:27.070514",
             "status": "INACTIVE"
         },
         "www.e-pomagajmypl.pl": {
@@ -30292,8 +30292,8 @@
         "www.e-porwanienatalki.pl": {
             "included_at_epoch": 1592005973.878332,
             "included_at_iso": "2020-06-12T23:52:53.878332",
-            "last_retested_at_epoch": 1592761479.270866,
-            "last_retested_at_iso": "2020-06-21T17:44:39.270866",
+            "last_retested_at_epoch": 1592848887.160741,
+            "last_retested_at_iso": "2020-06-22T18:01:27.160741",
             "status": "INACTIVE"
         },
         "www.e-porwaniepolska.pl": {
@@ -30383,8 +30383,8 @@
         "www.e-uprowadzniezdworca.pl": {
             "included_at_epoch": 1592005975.874157,
             "included_at_iso": "2020-06-12T23:52:55.874157",
-            "last_retested_at_epoch": 1592761479.711972,
-            "last_retested_at_iso": "2020-06-21T17:44:39.711972",
+            "last_retested_at_epoch": 1592848887.249154,
+            "last_retested_at_iso": "2020-06-22T18:01:27.249154",
             "status": "INACTIVE"
         },
         "www.e24gwaltfakt.pl": {
@@ -36932,6 +36932,13 @@
             "last_retested_at_iso": "2020-06-22T01:36:45.688423",
             "status": "INACTIVE"
         },
+        "www.ogloszenie-nagrod.eu": {
+            "included_at_epoch": 1592848887.42603,
+            "included_at_iso": "2020-06-22T18:01:27.426030",
+            "last_retested_at_epoch": 1592848887.42603,
+            "last_retested_at_iso": "2020-06-22T18:01:27.426030",
+            "status": "INACTIVE"
+        },
         "www.ogloszenie.best": {
             "included_at_epoch": 1592014887.169803,
             "included_at_iso": "2020-06-13T02:21:27.169803",
@@ -37539,6 +37546,13 @@
             "included_at_iso": "2020-06-13T02:38:34.560083",
             "last_retested_at_epoch": 1592783592.604063,
             "last_retested_at_iso": "2020-06-21T23:53:12.604063",
+            "status": "INACTIVE"
+        },
+        "www.patnixrealtor.com": {
+            "included_at_epoch": 1592848888.714401,
+            "included_at_iso": "2020-06-22T18:01:28.714401",
+            "last_retested_at_epoch": 1592848888.714401,
+            "last_retested_at_iso": "2020-06-22T18:01:28.714401",
             "status": "INACTIVE"
         },
         "www.pawtusie.pl": {
@@ -39219,6 +39233,13 @@
             "included_at_iso": "2020-06-13T02:55:58.383429",
             "last_retested_at_epoch": 1592783572.029654,
             "last_retested_at_iso": "2020-06-21T23:52:52.029654",
+            "status": "INACTIVE"
+        },
+        "www.ps7konskie.pl": {
+            "included_at_epoch": 1592848891.445966,
+            "included_at_iso": "2020-06-22T18:01:31.445966",
+            "last_retested_at_epoch": 1592848891.445966,
+            "last_retested_at_iso": "2020-06-22T18:01:31.445966",
             "status": "INACTIVE"
         },
         "www.psialapka.pl": {
