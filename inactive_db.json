@@ -17045,6 +17045,13 @@
             "last_retested_at_iso": "2020-06-22T02:23:39.960325",
             "status": "INACTIVE"
         },
+        "newsy097.pro-linuxpl.com": {
+            "included_at_epoch": 1592835237.11894,
+            "included_at_iso": "2020-06-22T14:13:57.118940",
+            "last_retested_at_epoch": 1592835237.11894,
+            "last_retested_at_iso": "2020-06-22T14:13:57.118940",
+            "status": "INACTIVE"
+        },
         "nextask.loan": {
             "included_at_epoch": 1591989951.177534,
             "included_at_iso": "2020-06-12T19:25:51.177534",
@@ -17414,6 +17421,13 @@
             "included_at_iso": "2020-06-12T19:57:37.568686",
             "last_retested_at_epoch": 1592774899.00504,
             "last_retested_at_iso": "2020-06-21T21:28:19.005040",
+            "status": "INACTIVE"
+        },
+        "ogloszenie-nagrod.eu": {
+            "included_at_epoch": 1592835247.705346,
+            "included_at_iso": "2020-06-22T14:14:07.705346",
+            "last_retested_at_epoch": 1592835247.705346,
+            "last_retested_at_iso": "2020-06-22T14:14:07.705346",
             "status": "INACTIVE"
         },
         "ogrodekedukacyjny.pl": {

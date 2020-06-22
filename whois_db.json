@@ -22227,7 +22227,7 @@
     "napolitransportes.com.br": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "naporost.pl": {
         "epoch": 1622160000.0,
@@ -24054,6 +24054,11 @@
         "expiration_date": "19-mar-2021",
         "state": "future"
     },
+    "ortalrustytyo.com": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
     "ortambu.net": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
@@ -25289,6 +25294,11 @@
         "expiration_date": "24-apr-2021",
         "state": "future"
     },
+    "pl-pl-fb.pl": {
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
+        "state": "future"
+    },
     "pl-pocztapolska.com": {
         "epoch": 1621468800.0,
         "expiration_date": "20-may-2021",
@@ -25537,6 +25547,11 @@
     "plpocztex.org": {
         "epoch": 1613692800.0,
         "expiration_date": "19-feb-2021",
+        "state": "future"
+    },
+    "plus-finanse.pl": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "plwash.pl": {
