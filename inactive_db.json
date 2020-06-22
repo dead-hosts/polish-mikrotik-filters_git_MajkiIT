@@ -14693,6 +14693,13 @@
             "last_retested_at_iso": "2020-06-21T22:15:05.089272",
             "status": "INACTIVE"
         },
+        "jan-van-eijck.nl": {
+            "included_at_epoch": 1592830873.570062,
+            "included_at_iso": "2020-06-22T13:01:13.570062",
+            "last_retested_at_epoch": 1592830873.570062,
+            "last_retested_at_iso": "2020-06-22T13:01:13.570062",
+            "status": "INACTIVE"
+        },
         "januszp.stronazen.pl": {
             "included_at_epoch": 1591986352.48885,
             "included_at_iso": "2020-06-12T18:25:52.488850",
