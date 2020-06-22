@@ -29386,6 +29386,20 @@
             "last_retested_at_iso": "2020-06-21T20:24:34.334678",
             "status": "INACTIVE"
         },
+        "www.djbasu.pl": {
+            "included_at_epoch": 1592844098.71197,
+            "included_at_iso": "2020-06-22T16:41:38.711970",
+            "last_retested_at_epoch": 1592844098.71197,
+            "last_retested_at_iso": "2020-06-22T16:41:38.711970",
+            "status": "INACTIVE"
+        },
+        "www.djrafaell.pl": {
+            "included_at_epoch": 1592844098.806334,
+            "included_at_iso": "2020-06-22T16:41:38.806334",
+            "last_retested_at_epoch": 1592844098.806334,
+            "last_retested_at_iso": "2020-06-22T16:41:38.806334",
+            "status": "INACTIVE"
+        },
         "www.dketrade.top": {
             "included_at_epoch": 1592004939.822355,
             "included_at_iso": "2020-06-12T23:35:39.822355",
@@ -30338,6 +30352,20 @@
             "last_retested_at_iso": "2020-06-22T01:54:10.894199",
             "status": "INACTIVE"
         },
+        "www.e-poszukiwanie.online": {
+            "included_at_epoch": 1592844100.633701,
+            "included_at_iso": "2020-06-22T16:41:40.633701",
+            "last_retested_at_epoch": 1592844100.633701,
+            "last_retested_at_iso": "2020-06-22T16:41:40.633701",
+            "status": "INACTIVE"
+        },
+        "www.e-poszukiwanie.site": {
+            "included_at_epoch": 1592844100.731003,
+            "included_at_iso": "2020-06-22T16:41:40.731003",
+            "last_retested_at_epoch": 1592844100.731003,
+            "last_retested_at_iso": "2020-06-22T16:41:40.731003",
+            "status": "INACTIVE"
+        },
         "www.e-przesylki.com": {
             "included_at_epoch": 1592005974.786509,
             "included_at_iso": "2020-06-12T23:52:54.786509",
@@ -30679,6 +30707,13 @@
             "included_at_iso": "2020-06-12T23:52:49.724293",
             "last_retested_at_epoch": 1592779738.491264,
             "last_retested_at_iso": "2020-06-21T22:48:58.491264",
+            "status": "INACTIVE"
+        },
+        "www.elawaszczuk.pl": {
+            "included_at_epoch": 1592844100.225164,
+            "included_at_iso": "2020-06-22T16:41:40.225164",
+            "last_retested_at_epoch": 1592844100.225164,
+            "last_retested_at_iso": "2020-06-22T16:41:40.225164",
             "status": "INACTIVE"
         },
         "www.electros.co.ua": {
