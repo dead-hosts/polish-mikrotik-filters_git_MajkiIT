@@ -12582,15 +12582,15 @@
         "garenanow.myvnc.com:81": {
             "included_at_epoch": 1591983421.291994,
             "included_at_iso": "2020-06-12T17:37:01.291994",
-            "last_retested_at_epoch": 1592752871.486571,
-            "last_retested_at_iso": "2020-06-21T15:21:11.486571",
+            "last_retested_at_epoch": 1592841225.426307,
+            "last_retested_at_iso": "2020-06-22T15:53:45.426307",
             "status": "INVALID"
         },
         "garenanow4.myvnc.com:81": {
             "included_at_epoch": 1591983421.258634,
             "included_at_iso": "2020-06-12T17:37:01.258634",
-            "last_retested_at_epoch": 1592752871.399065,
-            "last_retested_at_iso": "2020-06-21T15:21:11.399065",
+            "last_retested_at_epoch": 1592841225.335304,
+            "last_retested_at_iso": "2020-06-22T15:53:45.335304",
             "status": "INVALID"
         },
         "gazeta-natemat-pol.eu": {
@@ -13009,8 +13009,8 @@
         "gxx.monerov10.com:8800": {
             "included_at_epoch": 1592242428.830445,
             "included_at_iso": "2020-06-15T17:33:48.830445",
-            "last_retested_at_epoch": 1592753909.915402,
-            "last_retested_at_iso": "2020-06-21T15:38:29.915402",
+            "last_retested_at_epoch": 1592841225.513723,
+            "last_retested_at_iso": "2020-06-22T15:53:45.513723",
             "status": "INVALID"
         },
         "h.rmu.ac.th": {
@@ -14143,8 +14143,8 @@
         "i01001.dgn.vn:1": {
             "included_at_epoch": 1591984561.044164,
             "included_at_iso": "2020-06-12T17:56:01.044164",
-            "last_retested_at_epoch": 1592753922.135931,
-            "last_retested_at_iso": "2020-06-21T15:38:42.135931",
+            "last_retested_at_epoch": 1592841225.601682,
+            "last_retested_at_iso": "2020-06-22T15:53:45.601682",
             "status": "INVALID"
         },
         "i1wcrl.bid": {
@@ -25746,6 +25746,13 @@
             "last_retested_at_iso": "2020-06-22T02:58:43.589623",
             "status": "INACTIVE"
         },
+        "winkelpandlochem.nl": {
+            "included_at_epoch": 1592841242.692797,
+            "included_at_iso": "2020-06-22T15:54:02.692797",
+            "last_retested_at_epoch": 1592841242.692797,
+            "last_retested_at_iso": "2020-06-22T15:54:02.692797",
+            "status": "INACTIVE"
+        },
         "winregion.tw": {
             "included_at_epoch": 1591999437.479645,
             "included_at_iso": "2020-06-12T22:03:57.479645",
@@ -26824,6 +26831,13 @@
             "last_retested_at_iso": "2020-06-21T21:28:10.439906",
             "status": "INACTIVE"
         },
+        "www.59fifty.pl": {
+            "included_at_epoch": 1592841248.200291,
+            "included_at_iso": "2020-06-22T15:54:08.200291",
+            "last_retested_at_epoch": 1592841248.200291,
+            "last_retested_at_iso": "2020-06-22T15:54:08.200291",
+            "status": "INACTIVE"
+        },
         "www.5k-player.com": {
             "included_at_epoch": 1592001224.000424,
             "included_at_iso": "2020-06-12T22:33:44.000424",
@@ -26878,6 +26892,13 @@
             "included_at_iso": "2020-06-12T22:33:44.406582",
             "last_retested_at_epoch": 1592781812.729108,
             "last_retested_at_iso": "2020-06-21T23:23:32.729108",
+            "status": "INACTIVE"
+        },
+        "www.88mscco.com": {
+            "included_at_epoch": 1592841248.374587,
+            "included_at_iso": "2020-06-22T15:54:08.374587",
+            "last_retested_at_epoch": 1592841248.374587,
+            "last_retested_at_iso": "2020-06-22T15:54:08.374587",
             "status": "INACTIVE"
         },
         "www.90hitzmusic.com.ng": {
