@@ -37389,6 +37389,16 @@
         "expiration_date": "13-feb-2021",
         "state": "future"
     },
+    "zaragoza.co.ug": {
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
+    },
+    "zaragozsa.ug": {
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
+    },
     "zarobek4u.com": {
         "epoch": 1621123200.0,
         "expiration_date": "16-may-2021",
@@ -37470,8 +37480,8 @@
         "state": "future"
     },
     "zedgalaxyplays.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "zelazkowkuchni.pl": {
@@ -37705,9 +37715,9 @@
         "state": "future"
     },
     "znajdzprzetargi.pl": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
-        "state": "past"
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
     },
     "znany-lekarz.pl": {
         "epoch": 1620345600.0,
@@ -37782,6 +37792,11 @@
     "zrobswiatlo.pl": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "zrutaedu.com": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "zsinstrument.com": {
