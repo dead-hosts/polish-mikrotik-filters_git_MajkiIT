@@ -12239,6 +12239,11 @@
         "expiration_date": "17-sep-2020",
         "state": "future"
     },
+    "fr-dom.com": {
+        "epoch": 1595203200.0,
+        "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
     "fragrano.pl": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
@@ -12617,6 +12622,11 @@
     "gackokurier.com": {
         "epoch": 1617321600.0,
         "expiration_date": "02-apr-2021",
+        "state": "future"
+    },
+    "gadem.ug": {
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "gadzety.club": {
@@ -13044,6 +13054,11 @@
         "expiration_date": "18-mar-2021",
         "state": "future"
     },
+    "genelservis.web.tr": {
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
+        "state": "future"
+    },
     "genesif.com": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
@@ -13187,6 +13202,11 @@
     "getimmediateedge.com": {
         "epoch": 1613520000.0,
         "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
+    "getin-secure.com.pl": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "getleads.pl": {
@@ -13717,7 +13737,7 @@
     "gotowkanadzis.pl": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "gotowkatutaj.pl": {
         "epoch": 1614988800.0,
@@ -13725,9 +13745,9 @@
         "state": "future"
     },
     "gotsprouts.com": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
-        "state": "past"
+        "epoch": 1655856000.0,
+        "expiration_date": "22-jun-2022",
+        "state": "future"
     },
     "gov-24.com": {
         "epoch": 1616716800.0,
@@ -13907,7 +13927,7 @@
     "greenedus.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "greenelephants1.live": {
         "epoch": 1622160000.0,
@@ -14045,8 +14065,8 @@
         "state": "future"
     },
     "grumman.pl": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1595635200.0,
+        "expiration_date": "25-jul-2020",
         "state": "future"
     },
     "grupadsa.pl": {
@@ -14724,6 +14744,11 @@
         "expiration_date": "30-mar-2021",
         "state": "future"
     },
+    "heybrasil.net": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
     "heyecstore.com": {
         "epoch": 1618012800.0,
         "expiration_date": "10-apr-2021",
@@ -14895,8 +14920,8 @@
         "state": "future"
     },
     "holdenavenue.pl": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "hollistersklep.com": {
@@ -15145,9 +15170,9 @@
         "state": "future"
     },
     "huishuren.nu": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
-        "state": "past"
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
+        "state": "future"
     },
     "huisuwl.com": {
         "epoch": 1624060800.0,
@@ -15399,6 +15424,21 @@
         "expiration_date": "12-sep-2020",
         "state": "future"
     },
+    "idea-bank.xyz": {
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "state": "future"
+    },
+    "idea-cloud.xyz": {
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "state": "future"
+    },
+    "ideabank-login.xyz": {
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
+        "state": "future"
+    },
     "ideadom.pl": {
         "epoch": 1620691200.0,
         "expiration_date": "11-may-2021",
@@ -15414,9 +15454,19 @@
         "expiration_date": "02-aug-2020",
         "state": "future"
     },
+    "idecloud.com.pl": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
     "idgarin.com": {
         "epoch": 1614816000.0,
         "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
+    "idoux-maconnerie.fr": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
         "state": "future"
     },
     "idpd.pl": {
@@ -15624,6 +15674,11 @@
         "expiration_date": "18-jun-2021",
         "state": "future"
     },
+    "in-post.me": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
+    },
     "in-post.net": {
         "epoch": 1616544000.0,
         "expiration_date": "24-mar-2021",
@@ -15637,6 +15692,11 @@
     "in-post.org": {
         "epoch": 1616544000.0,
         "expiration_date": "24-mar-2021",
+        "state": "future"
+    },
+    "in-post.us": {
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "in-sect.com": {
@@ -15697,6 +15757,11 @@
     "indiecakes.com": {
         "epoch": 1622678400.0,
         "expiration_date": "03-jun-2021",
+        "state": "future"
+    },
+    "indokemika-group.com": {
+        "epoch": 1668816000.0,
+        "expiration_date": "19-nov-2022",
         "state": "future"
     },
     "industrial-parks.com": {
@@ -15924,6 +15989,16 @@
         "expiration_date": "08-jun-2021",
         "state": "future"
     },
+    "inpost.link": {
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "state": "future"
+    },
+    "inpost.ltd": {
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "state": "future"
+    },
     "inpost24-paczka.com": {
         "epoch": 1623196800.0,
         "expiration_date": "09-jun-2021",
@@ -16082,6 +16157,11 @@
     "interpathlaboratories.com": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
+    "intersaveurs.fr": {
+        "epoch": 1652918400.0,
+        "expiration_date": "19-may-2022",
         "state": "future"
     },
     "intersel-idf.org": {
