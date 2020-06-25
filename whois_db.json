@@ -342,7 +342,7 @@
     "50kaweek.live": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "50kzl.pl": {
         "epoch": 1603670400.0,
@@ -562,7 +562,7 @@
     "aajtakmedia.in": {
         "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "aaoleadershipacademy.org": {
         "epoch": 1605744000.0,
@@ -857,6 +857,11 @@
     "ademdervisoglu.com": {
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
+    "ademg.ug": {
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "adeptia.pl": {
@@ -1329,6 +1334,11 @@
         "expiration_date": "23-oct-2023",
         "state": "future"
     },
+    "aksopt.by": {
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
+        "state": "future"
+    },
     "akszczawnica.pl": {
         "epoch": 1619136000.0,
         "expiration_date": "23-apr-2021",
@@ -1554,6 +1564,11 @@
         "expiration_date": "27-apr-2021",
         "state": "future"
     },
+    "aliorbank.io": {
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
+        "state": "future"
+    },
     "aliorkurier.org": {
         "epoch": 1619222400.0,
         "expiration_date": "24-apr-2021",
@@ -1599,9 +1614,19 @@
         "expiration_date": "18-jun-2021",
         "state": "future"
     },
+    "allegr0.net": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
+    },
     "allegro-blokada.pl": {
         "epoch": 1620432000.0,
         "expiration_date": "08-may-2021",
+        "state": "future"
+    },
+    "allegro.net": {
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "allegro.su": {
@@ -1642,6 +1667,11 @@
     "allegrofinanse2.pl": {
         "epoch": 1623628800.0,
         "expiration_date": "14-jun-2021",
+        "state": "future"
+    },
+    "allegrolokalne.su": {
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "allegrolokalnie-pl.cc": {
@@ -1754,6 +1784,11 @@
         "expiration_date": "10-apr-2021",
         "state": "future"
     },
+    "almid.by": {
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
+        "state": "future"
+    },
     "alohasoftware.net": {
         "epoch": 1668470400.0,
         "expiration_date": "15-nov-2022",
@@ -1805,8 +1840,8 @@
         "state": "future"
     },
     "alwaysdc.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "alxa.ca": {
@@ -1907,6 +1942,11 @@
     "amisolation.fr": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "amm-madagascar.fr": {
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "amonitalia.it": {
@@ -2302,6 +2342,11 @@
     "arababakimi.com": {
         "epoch": 1611100800.0,
         "expiration_date": "20-jan-2021",
+        "state": "future"
+    },
+    "aravindweb.in": {
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
         "state": "future"
     },
     "arbeiten.pl": {
@@ -2759,6 +2804,11 @@
         "expiration_date": "08-apr-2021",
         "state": "future"
     },
+    "autoinstructor.kh.ua": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
+        "state": "future"
+    },
     "autokemar.pl": {
         "epoch": 1623715200.0,
         "expiration_date": "15-jun-2021",
@@ -3089,6 +3139,11 @@
         "expiration_date": "13-apr-2020",
         "state": "past"
     },
+    "bank-idea.xyz": {
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
+    },
     "bankmillennium.fun": {
         "epoch": 1613606400.0,
         "expiration_date": "18-feb-2021",
@@ -3122,6 +3177,11 @@
     "barcaacademyistanbul.com": {
         "epoch": 1629417600.0,
         "expiration_date": "20-aug-2021",
+        "state": "future"
+    },
+    "barcla.ug": {
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "barij-essence.ru": {
@@ -3789,6 +3849,11 @@
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
+    "biobliss.in": {
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
     "biokemix.com": {
         "epoch": 1614902400.0,
         "expiration_date": "05-mar-2021",
@@ -3975,8 +4040,8 @@
         "state": "future"
     },
     "blockchainjoblist.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "blog-in.biz": {
@@ -4092,6 +4157,11 @@
     "bnewsb.com": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "bnkbio.com": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "bnpparibas-bank.pl": {
