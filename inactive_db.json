@@ -21287,6 +21287,13 @@
             "last_retested_at_iso": "2020-06-21T20:24:30.872468",
             "status": "INACTIVE"
         },
+        "searchrapid.pl": {
+            "included_at_epoch": 1593103686.65896,
+            "included_at_iso": "2020-06-25T16:48:06.658960",
+            "last_retested_at_epoch": 1593103686.65896,
+            "last_retested_at_iso": "2020-06-25T16:48:06.658960",
+            "status": "INACTIVE"
+        },
         "secure-pge.eu": {
             "included_at_epoch": 1591994775.421967,
             "included_at_iso": "2020-06-12T20:46:15.421967",
@@ -21413,6 +21420,13 @@
             "last_retested_at_iso": "2020-06-22T00:20:27.408311",
             "status": "INACTIVE"
         },
+        "shu.cneee.net": {
+            "included_at_epoch": 1593103693.307057,
+            "included_at_iso": "2020-06-25T16:48:13.307057",
+            "last_retested_at_epoch": 1593103693.307057,
+            "last_retested_at_iso": "2020-06-25T16:48:13.307057",
+            "status": "INACTIVE"
+        },
         "shutlazy.casa": {
             "included_at_epoch": 1591995804.139627,
             "included_at_iso": "2020-06-12T21:03:24.139627",
@@ -21423,8 +21437,8 @@
         "sigma1.eu": {
             "included_at_epoch": 1592757313.642852,
             "included_at_iso": "2020-06-21T16:35:13.642852",
-            "last_retested_at_epoch": 1592854568.700215,
-            "last_retested_at_iso": "2020-06-22T19:36:08.700215",
+            "last_retested_at_epoch": 1593103693.802348,
+            "last_retested_at_iso": "2020-06-25T16:48:13.802348",
             "status": "INACTIVE"
         },
         "sims6n.win": {
@@ -21530,6 +21544,13 @@
             "included_at_iso": "2020-06-12T21:03:31.410985",
             "last_retested_at_epoch": 1592771065.014598,
             "last_retested_at_iso": "2020-06-21T20:24:25.014598",
+            "status": "INACTIVE"
+        },
+        "social.scottsimard.com": {
+            "included_at_epoch": 1593103701.38517,
+            "included_at_iso": "2020-06-25T16:48:21.385170",
+            "last_retested_at_epoch": 1593103701.38517,
+            "last_retested_at_iso": "2020-06-25T16:48:21.385170",
             "status": "INACTIVE"
         },
         "socialbump.hekko24.pl": {
@@ -21756,6 +21777,13 @@
             "last_retested_at_iso": "2020-06-22T00:39:43.258228",
             "status": "INACTIVE"
         },
+        "sso.cloud.idecloud.com.pl": {
+            "included_at_epoch": 1593103708.531338,
+            "included_at_iso": "2020-06-25T16:48:28.531338",
+            "last_retested_at_epoch": 1593103708.531338,
+            "last_retested_at_iso": "2020-06-25T16:48:28.531338",
+            "status": "INACTIVE"
+        },
         "stageend.link": {
             "included_at_epoch": 1591995819.875264,
             "included_at_iso": "2020-06-12T21:03:39.875264",
@@ -21927,8 +21955,8 @@
         "supermegacool.bit": {
             "included_at_epoch": 1591995826.975264,
             "included_at_iso": "2020-06-12T21:03:46.975264",
-            "last_retested_at_epoch": 1592846145.748542,
-            "last_retested_at_iso": "2020-06-22T17:15:45.748542",
+            "last_retested_at_epoch": 1593103715.235366,
+            "last_retested_at_iso": "2020-06-25T16:48:35.235366",
             "status": "INVALID"
         },
         "support1.trocable.ga": {
@@ -22039,8 +22067,8 @@
         "t.honker.info:8": {
             "included_at_epoch": 1591997712.373118,
             "included_at_iso": "2020-06-12T21:35:12.373118",
-            "last_retested_at_epoch": 1592846145.837845,
-            "last_retested_at_iso": "2020-06-22T17:15:45.837845",
+            "last_retested_at_epoch": 1593103732.36155,
+            "last_retested_at_iso": "2020-06-25T16:48:52.361550",
             "status": "INVALID"
         },
         "t2.webtilia.com": {
@@ -22137,8 +22165,8 @@
         "tauzer.github.io": {
             "included_at_epoch": 1592500020.34627,
             "included_at_iso": "2020-06-18T17:07:00.346270",
-            "last_retested_at_epoch": 1592777730.212029,
-            "last_retested_at_iso": "2020-06-21T22:15:30.212029",
+            "last_retested_at_epoch": 1593103723.35275,
+            "last_retested_at_iso": "2020-06-25T16:48:43.352750",
             "status": "INACTIVE"
         },
         "tcly4s.bid": {
@@ -22221,8 +22249,8 @@
         "test.svetoalliance.ru": {
             "included_at_epoch": 1592500025.993291,
             "included_at_iso": "2020-06-18T17:07:05.993291",
-            "last_retested_at_epoch": 1592783584.935194,
-            "last_retested_at_iso": "2020-06-21T23:53:04.935194",
+            "last_retested_at_epoch": 1593103729.431218,
+            "last_retested_at_iso": "2020-06-25T16:48:49.431218",
             "status": "INACTIVE"
         },
         "test32718.futurehost.net.pl": {
@@ -22237,6 +22265,13 @@
             "included_at_iso": "2020-06-12T21:35:09.645121",
             "last_retested_at_epoch": 1592789814.795047,
             "last_retested_at_iso": "2020-06-22T01:36:54.795047",
+            "status": "INACTIVE"
+        },
+        "testwp.palmeagroup.com": {
+            "included_at_epoch": 1593103729.52523,
+            "included_at_iso": "2020-06-25T16:48:49.525230",
+            "last_retested_at_epoch": 1593103729.52523,
+            "last_retested_at_iso": "2020-06-25T16:48:49.525230",
             "status": "INACTIVE"
         },
         "tfmmby.bid": {

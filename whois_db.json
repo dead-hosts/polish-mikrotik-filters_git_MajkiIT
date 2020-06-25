@@ -29699,10 +29699,25 @@
         "expiration_date": "30-jul-2020",
         "state": "future"
     },
+    "secure-bank-getin.xyz": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
+    },
     "secure-eplatnosc.com": {
         "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
         "state": "past"
+    },
+    "secure-getin.pl": {
+        "epoch": 1655769600.0,
+        "expiration_date": "21-jun-2022",
+        "state": "future"
+    },
+    "secure-getinbank.xyz": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
     },
     "secure4app.com": {
         "epoch": 1585180800.0,
@@ -29902,6 +29917,26 @@
     "service-pay.company": {
         "epoch": 1616457600.0,
         "expiration_date": "23-mar-2021",
+        "state": "future"
+    },
+    "servis-alienware.by": {
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "state": "future"
+    },
+    "servis-gigabyte.by": {
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "state": "future"
+    },
+    "servis-htc.by": {
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "state": "future"
+    },
+    "servis-toshiba.by": {
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "serwis-ab.com.pl": {
@@ -30585,8 +30620,8 @@
         "state": "future"
     },
     "sloneczne-termy.pl": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1595635200.0,
+        "expiration_date": "25-jul-2020",
         "state": "future"
     },
     "slowkariera.pl": {
@@ -31009,6 +31044,11 @@
         "expiration_date": "21-jun-2020",
         "state": "future"
     },
+    "spassto.by": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "state": "future"
+    },
     "spatiumdg.pl": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
@@ -31347,11 +31387,16 @@
     "stackspay.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "stadnina-liszkowo.pl": {
         "epoch": 1612310400.0,
         "expiration_date": "03-feb-2021",
+        "state": "future"
+    },
+    "staiacasabar.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "stajniabatanka.pl": {
@@ -32604,6 +32649,11 @@
         "expiration_date": "27-aug-2020",
         "state": "future"
     },
+    "tecserv.co.za": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "state": "future"
+    },
     "teczaradlin.pl": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
@@ -33360,13 +33410,18 @@
         "state": "future"
     },
     "tlumacz-wloskiego.com.pl": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1595635200.0,
+        "expiration_date": "25-jul-2020",
         "state": "future"
     },
     "tniemyceny.net": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
+    "tnisheng.xyz": {
+        "epoch": 1593388800.0,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "toascik.pl": {
