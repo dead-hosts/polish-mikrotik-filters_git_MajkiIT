@@ -41335,6 +41335,13 @@
             "last_retested_at_iso": "2020-06-25T21:26:08.433533",
             "status": "INACTIVE"
         },
+        "www.strefarho.pl": {
+            "included_at_epoch": 1593374917.525384,
+            "included_at_iso": "2020-06-28T20:08:37.525384",
+            "last_retested_at_epoch": 1593374917.525384,
+            "last_retested_at_iso": "2020-06-28T20:08:37.525384",
+            "status": "INACTIVE"
+        },
         "www.stronazdrowia.hekko24.pl": {
             "included_at_epoch": 1592020035.738235,
             "included_at_iso": "2020-06-13T03:47:15.738235",
@@ -41408,8 +41415,8 @@
         "www.supermegacool.bit": {
             "included_at_epoch": 1592020036.894753,
             "included_at_iso": "2020-06-13T03:47:16.894753",
-            "last_retested_at_epoch": 1593121388.635702,
-            "last_retested_at_iso": "2020-06-25T21:43:08.635702",
+            "last_retested_at_epoch": 1593374917.904475,
+            "last_retested_at_iso": "2020-06-28T20:08:37.904475",
             "status": "INVALID"
         },
         "www.superserwisy.pl": {
@@ -41662,6 +41669,13 @@
             "included_at_iso": "2020-06-13T04:14:09.598966",
             "last_retested_at_epoch": 1593121393.016478,
             "last_retested_at_iso": "2020-06-25T21:43:13.016478",
+            "status": "INACTIVE"
+        },
+        "www.tekston.pl": {
+            "included_at_epoch": 1593374919.078039,
+            "included_at_iso": "2020-06-28T20:08:39.078039",
+            "last_retested_at_epoch": 1593374919.078039,
+            "last_retested_at_iso": "2020-06-28T20:08:39.078039",
             "status": "INACTIVE"
         },
         "www.tele24wiadomosci.com.pl": {
@@ -41965,6 +41979,13 @@
             "last_retested_at_iso": "2020-06-25T21:43:17.935996",
             "status": "INACTIVE"
         },
+        "www.tomypolacy.online": {
+            "included_at_epoch": 1593374919.919479,
+            "included_at_iso": "2020-06-28T20:08:39.919479",
+            "last_retested_at_epoch": 1593374919.919479,
+            "last_retested_at_iso": "2020-06-28T20:08:39.919479",
+            "status": "INACTIVE"
+        },
         "www.top-oferty.net": {
             "included_at_epoch": 1592021654.181571,
             "included_at_iso": "2020-06-13T04:14:14.181571",
@@ -42229,6 +42250,20 @@
             "included_at_iso": "2020-06-13T04:31:33.359667",
             "last_retested_at_epoch": 1593122420.999071,
             "last_retested_at_iso": "2020-06-25T22:00:20.999071",
+            "status": "INACTIVE"
+        },
+        "www.twoja-przesylka.com": {
+            "included_at_epoch": 1593374920.733297,
+            "included_at_iso": "2020-06-28T20:08:40.733297",
+            "last_retested_at_epoch": 1593374920.733297,
+            "last_retested_at_iso": "2020-06-28T20:08:40.733297",
+            "status": "INACTIVE"
+        },
+        "www.twoja-przesylka.link": {
+            "included_at_epoch": 1593374920.841413,
+            "included_at_iso": "2020-06-28T20:08:40.841413",
+            "last_retested_at_epoch": 1593374920.841413,
+            "last_retested_at_iso": "2020-06-28T20:08:40.841413",
             "status": "INACTIVE"
         },
         "www.twojaenea.pl": {
