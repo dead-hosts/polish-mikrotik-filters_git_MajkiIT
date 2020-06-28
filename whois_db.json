@@ -12372,7 +12372,7 @@
     "frazischool.com": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "fredericksburgcottage.com": {
         "epoch": 1612483200.0,
@@ -13385,8 +13385,8 @@
         "state": "future"
     },
     "gilotyna.com.pl": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
         "state": "future"
     },
     "gim1mielec.pl": {
@@ -13667,7 +13667,7 @@
     "gogogo.id": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "gogopayltd.com": {
         "epoch": 1607040000.0,
@@ -13782,6 +13782,11 @@
     "goodmovie.pl": {
         "epoch": 1613952000.0,
         "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
+    "googieapp.com": {
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "googlefoad.top": {
@@ -13930,8 +13935,8 @@
         "state": "future"
     },
     "granicasportu.pl": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "granit-zur.pl": {
@@ -14005,8 +14010,8 @@
         "state": "future"
     },
     "greatpe.pl": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
         "state": "future"
     },
     "greenbarleyplus.pl": {
@@ -14015,9 +14020,9 @@
         "state": "future"
     },
     "greenedus.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
-        "state": "past"
+        "epoch": 1750809600.0,
+        "expiration_date": "25-jun-2025",
+        "state": "future"
     },
     "greenelephants1.live": {
         "epoch": 1622160000.0,
@@ -14112,6 +14117,11 @@
     "greenotex.com": {
         "epoch": 1646179200.0,
         "expiration_date": "02-mar-2022",
+        "state": "future"
+    },
+    "greenpalace.top": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "greenr.pl": {
@@ -14259,6 +14269,11 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "guleryapimarket.com": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
     "gunesteknikservis.com": {
         "epoch": 1607904000.0,
         "expiration_date": "14-dec-2020",
@@ -14367,6 +14382,11 @@
     "habeebeefoods.in": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "habibme.net": {
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
         "state": "future"
     },
     "habita.org.br": {
@@ -14829,6 +14849,11 @@
         "expiration_date": "11-sep-2021",
         "state": "future"
     },
+    "hesislemleri.com": {
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
+        "state": "future"
+    },
     "hexistrading.com": {
         "epoch": 1617062400.0,
         "expiration_date": "30-mar-2021",
@@ -14855,8 +14880,8 @@
         "state": "future"
     },
     "higginstavern.com": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
         "state": "future"
     },
     "highamnet.co.uk": {
@@ -15050,8 +15075,8 @@
         "state": "future"
     },
     "homengy.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "homeopatiakoszalin.pl": {
@@ -15800,8 +15825,8 @@
         "state": "future"
     },
     "inagrody.pl": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
         "state": "future"
     },
     "inamoon.kr": {
@@ -16040,8 +16065,8 @@
         "state": "future"
     },
     "innowacyjnybiofeedback.pl": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "innsat.pl": {
@@ -16079,14 +16104,29 @@
         "expiration_date": "08-jun-2021",
         "state": "future"
     },
+    "inpost.help": {
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
+        "state": "future"
+    },
     "inpost.link": {
         "epoch": 1624406400.0,
         "expiration_date": "23-jun-2021",
         "state": "future"
     },
+    "inpost.live": {
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
+        "state": "future"
+    },
     "inpost.ltd": {
         "epoch": 1624406400.0,
         "expiration_date": "23-jun-2021",
+        "state": "future"
+    },
+    "inpost.us": {
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "inpost24-paczka.com": {
@@ -16357,6 +16397,11 @@
     "ipk0bp.net": {
         "epoch": 1613260800.0,
         "expiration_date": "14-feb-2021",
+        "state": "future"
+    },
+    "ipko.space": {
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "ipmltd.pl": {
