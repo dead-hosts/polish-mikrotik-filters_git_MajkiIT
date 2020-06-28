@@ -43316,6 +43316,13 @@
             "last_retested_at_iso": "2020-06-25T22:17:33.174139",
             "status": "INACTIVE"
         },
+        "www.wwa-informacje.co.pl": {
+            "included_at_epoch": 1593378679.393669,
+            "included_at_iso": "2020-06-28T21:11:19.393669",
+            "last_retested_at_epoch": 1593378679.393669,
+            "last_retested_at_iso": "2020-06-28T21:11:19.393669",
+            "status": "INACTIVE"
+        },
         "www.wwebsservice.info": {
             "included_at_epoch": 1592023735.758203,
             "included_at_iso": "2020-06-13T04:48:55.758203",
@@ -43391,6 +43398,13 @@
             "included_at_iso": "2020-06-13T04:48:56.664958",
             "last_retested_at_epoch": 1593123454.357799,
             "last_retested_at_iso": "2020-06-25T22:17:34.357799",
+            "status": "INACTIVE"
+        },
+        "www.wyjazd24.pl": {
+            "included_at_epoch": 1593378679.671075,
+            "included_at_iso": "2020-06-28T21:11:19.671075",
+            "last_retested_at_epoch": 1593378679.671075,
+            "last_retested_at_iso": "2020-06-28T21:11:19.671075",
             "status": "INACTIVE"
         },
         "www.wyprzedazobuwie.pl": {
