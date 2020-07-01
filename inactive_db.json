@@ -41279,6 +41279,13 @@
             "last_retested_at_iso": "2020-06-28T23:49:36.969594",
             "status": "INACTIVE"
         },
+        "www.spolszczenia-gier.com.pl": {
+            "included_at_epoch": 1593636211.684069,
+            "included_at_iso": "2020-07-01T20:43:31.684069",
+            "last_retested_at_epoch": 1593636211.684069,
+            "last_retested_at_iso": "2020-07-01T20:43:31.684069",
+            "status": "INACTIVE"
+        },
         "www.sportef.pl": {
             "included_at_epoch": 1592020031.88228,
             "included_at_iso": "2020-06-13T03:47:11.882280",
@@ -41534,8 +41541,8 @@
         "www.strefarho.pl": {
             "included_at_epoch": 1593374917.525384,
             "included_at_iso": "2020-06-28T20:08:37.525384",
-            "last_retested_at_epoch": 1593374917.525384,
-            "last_retested_at_iso": "2020-06-28T20:08:37.525384",
+            "last_retested_at_epoch": 1593636212.47272,
+            "last_retested_at_iso": "2020-07-01T20:43:32.472720",
             "status": "INACTIVE"
         },
         "www.stronazdrowia.hekko24.pl": {
@@ -41604,8 +41611,8 @@
         "www.supermegacool.bit": {
             "included_at_epoch": 1592020036.894753,
             "included_at_iso": "2020-06-13T03:47:16.894753",
-            "last_retested_at_epoch": 1593374917.904475,
-            "last_retested_at_iso": "2020-06-28T20:08:37.904475",
+            "last_retested_at_epoch": 1593636212.839924,
+            "last_retested_at_iso": "2020-07-01T20:43:32.839924",
             "status": "INVALID"
         },
         "www.superserwisy.pl": {
@@ -41863,8 +41870,8 @@
         "www.tekston.pl": {
             "included_at_epoch": 1593374919.078039,
             "included_at_iso": "2020-06-28T20:08:39.078039",
-            "last_retested_at_epoch": 1593374919.078039,
-            "last_retested_at_iso": "2020-06-28T20:08:39.078039",
+            "last_retested_at_epoch": 1593636214.033338,
+            "last_retested_at_iso": "2020-07-01T20:43:34.033338",
             "status": "INACTIVE"
         },
         "www.tele24wiadomosci.com.pl": {
@@ -41921,6 +41928,20 @@
             "included_at_iso": "2020-06-13T04:14:10.595580",
             "last_retested_at_epoch": 1593388185.607626,
             "last_retested_at_iso": "2020-06-28T23:49:45.607626",
+            "status": "INACTIVE"
+        },
+        "www.tematdnia24.h2g.pl": {
+            "included_at_epoch": 1593636214.15207,
+            "included_at_iso": "2020-07-01T20:43:34.152070",
+            "last_retested_at_epoch": 1593636214.15207,
+            "last_retested_at_iso": "2020-07-01T20:43:34.152070",
+            "status": "INACTIVE"
+        },
+        "www.tematinfo.hekko24.pl": {
+            "included_at_epoch": 1593636214.251975,
+            "included_at_iso": "2020-07-01T20:43:34.251975",
+            "last_retested_at_epoch": 1593636214.251975,
+            "last_retested_at_iso": "2020-07-01T20:43:34.251975",
             "status": "INACTIVE"
         },
         "www.tematyczne-rozmowki.com.pl": {
@@ -42171,8 +42192,8 @@
         "www.tomypolacy.online": {
             "included_at_epoch": 1593374919.919479,
             "included_at_iso": "2020-06-28T20:08:39.919479",
-            "last_retested_at_epoch": 1593374919.919479,
-            "last_retested_at_iso": "2020-06-28T20:08:39.919479",
+            "last_retested_at_epoch": 1593636215.02304,
+            "last_retested_at_iso": "2020-07-01T20:43:35.023040",
             "status": "INACTIVE"
         },
         "www.top-oferty.net": {
@@ -42444,15 +42465,15 @@
         "www.twoja-przesylka.com": {
             "included_at_epoch": 1593374920.733297,
             "included_at_iso": "2020-06-28T20:08:40.733297",
-            "last_retested_at_epoch": 1593374920.733297,
-            "last_retested_at_iso": "2020-06-28T20:08:40.733297",
+            "last_retested_at_epoch": 1593636215.811514,
+            "last_retested_at_iso": "2020-07-01T20:43:35.811514",
             "status": "INACTIVE"
         },
         "www.twoja-przesylka.link": {
             "included_at_epoch": 1593374920.841413,
             "included_at_iso": "2020-06-28T20:08:40.841413",
-            "last_retested_at_epoch": 1593374920.841413,
-            "last_retested_at_iso": "2020-06-28T20:08:40.841413",
+            "last_retested_at_epoch": 1593636215.912726,
+            "last_retested_at_iso": "2020-07-01T20:43:35.912726",
             "status": "INACTIVE"
         },
         "www.twojaenea.pl": {
