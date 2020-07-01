@@ -21654,8 +21654,8 @@
         "sigma1.eu": {
             "included_at_epoch": 1592757313.642852,
             "included_at_iso": "2020-06-21T16:35:13.642852",
-            "last_retested_at_epoch": 1593364309.544454,
-            "last_retested_at_iso": "2020-06-28T17:11:49.544454",
+            "last_retested_at_epoch": 1593624548.499326,
+            "last_retested_at_iso": "2020-07-01T17:29:08.499326",
             "status": "INACTIVE"
         },
         "sims6n.win": {
@@ -21691,6 +21691,13 @@
             "included_at_iso": "2020-06-12T21:03:26.068760",
             "last_retested_at_epoch": 1593398344.698988,
             "last_retested_at_iso": "2020-06-29T02:39:04.698988",
+            "status": "INACTIVE"
+        },
+        "sklepnbbuty.pl": {
+            "included_at_epoch": 1593624551.075413,
+            "included_at_iso": "2020-07-01T17:29:11.075413",
+            "last_retested_at_epoch": 1593624551.075413,
+            "last_retested_at_iso": "2020-07-01T17:29:11.075413",
             "status": "INACTIVE"
         },
         "skri59.top": {
@@ -21990,8 +21997,8 @@
         "sso.cloud.idecloud.com.pl": {
             "included_at_epoch": 1593103708.531338,
             "included_at_iso": "2020-06-25T16:48:28.531338",
-            "last_retested_at_epoch": 1593364325.14262,
-            "last_retested_at_iso": "2020-06-28T17:12:05.142620",
+            "last_retested_at_epoch": 1593624562.593838,
+            "last_retested_at_iso": "2020-07-01T17:29:22.593838",
             "status": "INACTIVE"
         },
         "stageend.link": {
@@ -22008,18 +22015,25 @@
             "last_retested_at_iso": "2020-06-28T22:46:35.881731",
             "status": "INACTIVE"
         },
+        "statmach.pl": {
+            "included_at_epoch": 1593624563.718245,
+            "included_at_iso": "2020-07-01T17:29:23.718245",
+            "last_retested_at_epoch": 1593624563.718245,
+            "last_retested_at_iso": "2020-07-01T17:29:23.718245",
+            "status": "INACTIVE"
+        },
         "steamcammunnity.ru.com": {
             "included_at_epoch": 1593364326.844867,
             "included_at_iso": "2020-06-28T17:12:06.844867",
-            "last_retested_at_epoch": 1593364326.844867,
-            "last_retested_at_iso": "2020-06-28T17:12:06.844867",
+            "last_retested_at_epoch": 1593624564.146376,
+            "last_retested_at_iso": "2020-07-01T17:29:24.146376",
             "status": "INACTIVE"
         },
         "steamcomnenity.ru.com": {
             "included_at_epoch": 1593364326.937432,
             "included_at_iso": "2020-06-28T17:12:06.937432",
-            "last_retested_at_epoch": 1593364326.937432,
-            "last_retested_at_iso": "2020-06-28T17:12:06.937432",
+            "last_retested_at_epoch": 1593624564.240016,
+            "last_retested_at_iso": "2020-07-01T17:29:24.240016",
             "status": "INACTIVE"
         },
         "stevnxwq.pw": {
@@ -22148,6 +22162,13 @@
             "last_retested_at_iso": "2020-06-28T21:45:54.561854",
             "status": "INACTIVE"
         },
+        "studioprimadonna.pl": {
+            "included_at_epoch": 1593624567.441662,
+            "included_at_iso": "2020-07-01T17:29:27.441662",
+            "last_retested_at_epoch": 1593624567.441662,
+            "last_retested_at_iso": "2020-07-01T17:29:27.441662",
+            "status": "INACTIVE"
+        },
         "studiosuwak.pl": {
             "included_at_epoch": 1592758355.440575,
             "included_at_iso": "2020-06-21T16:52:35.440575",
@@ -22179,8 +22200,8 @@
         "supermegacool.bit": {
             "included_at_epoch": 1591995826.975264,
             "included_at_iso": "2020-06-12T21:03:46.975264",
-            "last_retested_at_epoch": 1593364332.231066,
-            "last_retested_at_iso": "2020-06-28T17:12:12.231066",
+            "last_retested_at_epoch": 1593624569.231901,
+            "last_retested_at_iso": "2020-07-01T17:29:29.231901",
             "status": "INVALID"
         },
         "support1.trocable.ga": {
@@ -22291,8 +22312,8 @@
         "t.honker.info:8": {
             "included_at_epoch": 1591997712.373118,
             "included_at_iso": "2020-06-12T21:35:12.373118",
-            "last_retested_at_epoch": 1593364349.045775,
-            "last_retested_at_iso": "2020-06-28T17:12:29.045775",
+            "last_retested_at_epoch": 1593624585.242183,
+            "last_retested_at_iso": "2020-07-01T17:29:45.242183",
             "status": "INVALID"
         },
         "t2.webtilia.com": {
@@ -22382,8 +22403,8 @@
         "tauzer.github.io": {
             "included_at_epoch": 1592500020.34627,
             "included_at_iso": "2020-06-18T17:07:00.346270",
-            "last_retested_at_epoch": 1593364340.203914,
-            "last_retested_at_iso": "2020-06-28T17:12:20.203914",
+            "last_retested_at_epoch": 1593624576.997817,
+            "last_retested_at_iso": "2020-07-01T17:29:36.997817",
             "status": "INACTIVE"
         },
         "tcly4s.bid": {
@@ -22412,6 +22433,20 @@
             "included_at_iso": "2020-06-12T21:35:08.296446",
             "last_retested_at_epoch": 1593387123.010433,
             "last_retested_at_iso": "2020-06-28T23:32:03.010433",
+            "status": "INACTIVE"
+        },
+        "tematdnia24.h2g.pl": {
+            "included_at_epoch": 1593624580.64503,
+            "included_at_iso": "2020-07-01T17:29:40.645030",
+            "last_retested_at_epoch": 1593624580.64503,
+            "last_retested_at_iso": "2020-07-01T17:29:40.645030",
+            "status": "INACTIVE"
+        },
+        "tematinfo.hekko24.pl": {
+            "included_at_epoch": 1593624580.733965,
+            "included_at_iso": "2020-07-01T17:29:40.733965",
+            "last_retested_at_epoch": 1593624580.733965,
+            "last_retested_at_iso": "2020-07-01T17:29:40.733965",
             "status": "INACTIVE"
         },
         "tematyczne-rozmowy-pl.eu": {
@@ -22466,8 +22501,8 @@
         "test.svetoalliance.ru": {
             "included_at_epoch": 1592500025.993291,
             "included_at_iso": "2020-06-18T17:07:05.993291",
-            "last_retested_at_epoch": 1593364346.153251,
-            "last_retested_at_iso": "2020-06-28T17:12:26.153251",
+            "last_retested_at_epoch": 1593624582.736517,
+            "last_retested_at_iso": "2020-07-01T17:29:42.736517",
             "status": "INACTIVE"
         },
         "test32718.futurehost.net.pl": {
@@ -22601,13 +22636,6 @@
             "included_at_iso": "2020-06-12T21:35:15.469714",
             "last_retested_at_epoch": 1593400479.115482,
             "last_retested_at_iso": "2020-06-29T03:14:39.115482",
-            "status": "INACTIVE"
-        },
-        "tomypolacy.online": {
-            "included_at_epoch": 1593364352.708795,
-            "included_at_iso": "2020-06-28T17:12:32.708795",
-            "last_retested_at_epoch": 1593364352.708795,
-            "last_retested_at_iso": "2020-06-28T17:12:32.708795",
             "status": "INACTIVE"
         },
         "tonkatali.com": {
