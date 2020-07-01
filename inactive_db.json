@@ -39791,8 +39791,8 @@
         "www.prostytrading.pl": {
             "included_at_epoch": 1593373404.364627,
             "included_at_iso": "2020-06-28T19:43:24.364627",
-            "last_retested_at_epoch": 1593373404.364627,
-            "last_retested_at_iso": "2020-06-28T19:43:24.364627",
+            "last_retested_at_epoch": 1593635185.936826,
+            "last_retested_at_iso": "2020-07-01T20:26:25.936826",
             "status": "INACTIVE"
         },
         "www.protection-cellphone.fun": {
@@ -40428,8 +40428,8 @@
         "www.regulaminallegro.pl": {
             "included_at_epoch": 1593373405.812986,
             "included_at_iso": "2020-06-28T19:43:25.812986",
-            "last_retested_at_epoch": 1593373405.812986,
-            "last_retested_at_iso": "2020-06-28T19:43:25.812986",
+            "last_retested_at_epoch": 1593635187.354459,
+            "last_retested_at_iso": "2020-07-01T20:26:27.354459",
             "status": "INACTIVE"
         },
         "www.rehabretie.com": {
@@ -40521,6 +40521,13 @@
             "included_at_iso": "2020-06-13T03:13:15.593446",
             "last_retested_at_epoch": 1593400461.729581,
             "last_retested_at_iso": "2020-06-29T03:14:21.729581",
+            "status": "INACTIVE"
+        },
+        "www.rezervation-intens.pl": {
+            "included_at_epoch": 1593635187.745315,
+            "included_at_iso": "2020-07-01T20:26:27.745315",
+            "last_retested_at_epoch": 1593635187.745315,
+            "last_retested_at_iso": "2020-07-01T20:26:27.745315",
             "status": "INACTIVE"
         },
         "www.rezygnacja5839.net": {
@@ -41020,6 +41027,13 @@
             "last_retested_at_iso": "2020-06-29T04:03:40.592905",
             "status": "INACTIVE"
         },
+        "www.simmafia.pl": {
+            "included_at_epoch": 1593635189.759198,
+            "included_at_iso": "2020-07-01T20:26:29.759198",
+            "last_retested_at_epoch": 1593635189.759198,
+            "last_retested_at_iso": "2020-07-01T20:26:29.759198",
+            "status": "INACTIVE"
+        },
         "www.siodemkawysyl24h.info": {
             "included_at_epoch": 1592019011.61611,
             "included_at_iso": "2020-06-13T03:30:11.616110",
@@ -41067,6 +41081,13 @@
             "included_at_iso": "2020-06-13T03:30:12.299595",
             "last_retested_at_epoch": 1593390656.161577,
             "last_retested_at_iso": "2020-06-29T00:30:56.161577",
+            "status": "INACTIVE"
+        },
+        "www.sklepplay24.com": {
+            "included_at_epoch": 1593635190.157973,
+            "included_at_iso": "2020-07-01T20:26:30.157973",
+            "last_retested_at_epoch": 1593635190.157973,
+            "last_retested_at_iso": "2020-07-01T20:26:30.157973",
             "status": "INACTIVE"
         },
         "www.sknrtel.com": {
