@@ -4175,8 +4175,8 @@
         "state": "future"
     },
     "bmwklubbydgoszcz.pl": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1596153600.0,
+        "expiration_date": "31-jul-2020",
         "state": "future"
     },
     "bncc.ac.th": {
@@ -4840,8 +4840,8 @@
         "state": "future"
     },
     "butysalomonsklep.com": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "butysalomonsklep.pl": {
@@ -5515,8 +5515,8 @@
         "state": "future"
     },
     "chengjiaoyou.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "chestnut-hill-farm.com": {
@@ -6642,7 +6642,7 @@
     "craftedcravings.net": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "crca.pl": {
         "epoch": 1608854400.0,
@@ -7002,6 +7002,11 @@
     "customernoble.com": {
         "epoch": 1619654400.0,
         "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
+    "customeroues.com": {
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "cuttingedge.co.zm": {
@@ -7542,7 +7547,7 @@
     "derikaosos.info": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "derivativespro.in": {
         "epoch": 1606003200.0,
