@@ -43323,6 +43323,13 @@
             "last_retested_at_iso": "2020-06-28T22:29:08.833481",
             "status": "INACTIVE"
         },
+        "www.wirtualna-uczelnia.pl": {
+            "included_at_epoch": 1593637995.955729,
+            "included_at_iso": "2020-07-01T21:13:15.955729",
+            "last_retested_at_epoch": 1593637995.955729,
+            "last_retested_at_iso": "2020-07-01T21:13:15.955729",
+            "status": "INACTIVE"
+        },
         "www.wirtualnamlawa.pl": {
             "included_at_epoch": 1592023732.930167,
             "included_at_iso": "2020-06-13T04:48:52.930167",
@@ -43363,6 +43370,13 @@
             "included_at_iso": "2020-06-13T04:48:53.513768",
             "last_retested_at_epoch": 1593393122.812728,
             "last_retested_at_iso": "2020-06-29T01:12:02.812728",
+            "status": "INACTIVE"
+        },
+        "www.wolski.med.pl": {
+            "included_at_epoch": 1593637996.250459,
+            "included_at_iso": "2020-07-01T21:13:16.250459",
+            "last_retested_at_epoch": 1593637996.250459,
+            "last_retested_at_iso": "2020-07-01T21:13:16.250459",
             "status": "INACTIVE"
         },
         "www.wolysport.pl": {
@@ -43529,8 +43543,8 @@
         "www.wwa-informacje.co.pl": {
             "included_at_epoch": 1593378679.393669,
             "included_at_iso": "2020-06-28T21:11:19.393669",
-            "last_retested_at_epoch": 1593378679.393669,
-            "last_retested_at_iso": "2020-06-28T21:11:19.393669",
+            "last_retested_at_epoch": 1593637996.611484,
+            "last_retested_at_iso": "2020-07-01T21:13:16.611484",
             "status": "INACTIVE"
         },
         "www.wwebsservice.info": {
@@ -43613,8 +43627,22 @@
         "www.wyjazd24.pl": {
             "included_at_epoch": 1593378679.671075,
             "included_at_iso": "2020-06-28T21:11:19.671075",
-            "last_retested_at_epoch": 1593378679.671075,
-            "last_retested_at_iso": "2020-06-28T21:11:19.671075",
+            "last_retested_at_epoch": 1593637996.88374,
+            "last_retested_at_iso": "2020-07-01T21:13:16.883740",
+            "status": "INACTIVE"
+        },
+        "www.wyleczychemoroidy.pl": {
+            "included_at_epoch": 1593637996.992973,
+            "included_at_iso": "2020-07-01T21:13:16.992973",
+            "last_retested_at_epoch": 1593637996.992973,
+            "last_retested_at_iso": "2020-07-01T21:13:16.992973",
+            "status": "INACTIVE"
+        },
+        "www.wypoczywajunas.pl": {
+            "included_at_epoch": 1593637997.128314,
+            "included_at_iso": "2020-07-01T21:13:17.128314",
+            "last_retested_at_epoch": 1593637997.128314,
+            "last_retested_at_iso": "2020-07-01T21:13:17.128314",
             "status": "INACTIVE"
         },
         "www.wyprzedazobuwie.pl": {
