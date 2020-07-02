@@ -6923,6 +6923,13 @@
             "last_retested_at_iso": "2020-07-01T22:34:41.009576",
             "status": "INACTIVE"
         },
+        "ale-fotogragia.bo.pl": {
+            "included_at_epoch": 1593686773.008955,
+            "included_at_iso": "2020-07-02T10:46:13.008955",
+            "last_retested_at_epoch": 1593686773.008955,
+            "last_retested_at_iso": "2020-07-02T10:46:13.008955",
+            "status": "INACTIVE"
+        },
         "alisto-pozyczki.pl": {
             "included_at_epoch": 1591975646.161176,
             "included_at_iso": "2020-06-12T15:27:26.161176",
@@ -7719,6 +7726,13 @@
             "included_at_iso": "2020-06-12T15:27:29.586526",
             "last_retested_at_epoch": 1593653795.692047,
             "last_retested_at_iso": "2020-07-02T01:36:35.692047",
+            "status": "INACTIVE"
+        },
+        "banglanews-24.com": {
+            "included_at_epoch": 1593686790.613614,
+            "included_at_iso": "2020-07-02T10:46:30.613614",
+            "last_retested_at_epoch": 1593686790.613614,
+            "last_retested_at_iso": "2020-07-02T10:46:30.613614",
             "status": "INACTIVE"
         },
         "banking.getin-secure.com.pl": {
