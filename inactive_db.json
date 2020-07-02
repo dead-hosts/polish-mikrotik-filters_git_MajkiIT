@@ -8022,6 +8022,13 @@
             "last_retested_at_iso": "2020-07-01T23:36:50.545375",
             "status": "INACTIVE"
         },
+        "bit.do/favot": {
+            "included_at_epoch": 1593701156.190738,
+            "included_at_iso": "2020-07-02T14:45:56.190738",
+            "last_retested_at_epoch": 1593701156.190738,
+            "last_retested_at_iso": "2020-07-02T14:45:56.190738",
+            "status": "INVALID"
+        },
         "biznesplanet.planet-secure.com.pl": {
             "included_at_epoch": 1593096202.200361,
             "included_at_iso": "2020-06-25T14:43:22.200361",
@@ -26901,6 +26908,13 @@
             "last_retested_at_iso": "2020-07-02T03:06:51.810321",
             "status": "INACTIVE"
         },
+        "wt50.downyouxi.com": {
+            "included_at_epoch": 1593701159.157215,
+            "included_at_iso": "2020-07-02T14:45:59.157215",
+            "last_retested_at_epoch": 1593701159.157215,
+            "last_retested_at_iso": "2020-07-02T14:45:59.157215",
+            "status": "INACTIVE"
+        },
         "wt91.downyouxi.com": {
             "included_at_epoch": 1593625647.238441,
             "included_at_iso": "2020-07-01T17:47:27.238441",
@@ -27573,6 +27587,13 @@
             "last_retested_at_iso": "2020-07-01T22:17:13.004453",
             "status": "INACTIVE"
         },
+        "www.akszczawnica.pl": {
+            "included_at_epoch": 1593701160.902348,
+            "included_at_iso": "2020-07-02T14:46:00.902348",
+            "last_retested_at_epoch": 1593701160.902348,
+            "last_retested_at_iso": "2020-07-02T14:46:00.902348",
+            "status": "INACTIVE"
+        },
         "www.aktywacja.allegro6.pl": {
             "included_at_epoch": 1592502644.38436,
             "included_at_iso": "2020-06-18T17:50:44.384360",
@@ -27620,6 +27641,13 @@
             "included_at_iso": "2020-06-12T22:33:48.213598",
             "last_retested_at_epoch": 1593646592.009104,
             "last_retested_at_iso": "2020-07-01T23:36:32.009104",
+            "status": "INACTIVE"
+        },
+        "www.alfa-projekt.com.pl": {
+            "included_at_epoch": 1593701161.20204,
+            "included_at_iso": "2020-07-02T14:46:01.202040",
+            "last_retested_at_epoch": 1593701161.20204,
+            "last_retested_at_iso": "2020-07-02T14:46:01.202040",
             "status": "INACTIVE"
         },
         "www.alfapro.pl": {
@@ -28082,6 +28110,13 @@
             "included_at_iso": "2020-06-12T23:01:22.203742",
             "last_retested_at_epoch": 1593663010.109758,
             "last_retested_at_iso": "2020-07-02T04:10:10.109758",
+            "status": "INACTIVE"
+        },
+        "www.asicsgel.pl": {
+            "included_at_epoch": 1593701162.271312,
+            "included_at_iso": "2020-07-02T14:46:02.271312",
+            "last_retested_at_epoch": 1593701162.271312,
+            "last_retested_at_iso": "2020-07-02T14:46:02.271312",
             "status": "INACTIVE"
         },
         "www.asicspoland.pl": {
