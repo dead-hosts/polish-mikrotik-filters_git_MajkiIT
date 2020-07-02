@@ -21917,6 +21917,20 @@
             "last_retested_at_iso": "2020-07-02T00:45:09.403115",
             "status": "INACTIVE"
         },
+        "sprawdz-ogladaj.bo.pl": {
+            "included_at_epoch": 1593698374.421282,
+            "included_at_iso": "2020-07-02T13:59:34.421282",
+            "last_retested_at_epoch": 1593698374.421282,
+            "last_retested_at_iso": "2020-07-02T13:59:34.421282",
+            "status": "INACTIVE"
+        },
+        "sprawdziany-odpowiedzi.bo.pl": {
+            "included_at_epoch": 1593698374.125495,
+            "included_at_iso": "2020-07-02T13:59:34.125495",
+            "last_retested_at_epoch": 1593698374.125495,
+            "last_retested_at_iso": "2020-07-02T13:59:34.125495",
+            "status": "INACTIVE"
+        },
         "sprawypilne.h2g.pl": {
             "included_at_epoch": 1591995817.393014,
             "included_at_iso": "2020-06-12T21:03:37.393014",
