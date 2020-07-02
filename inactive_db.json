@@ -8022,6 +8022,13 @@
             "last_retested_at_iso": "2020-07-01T23:36:50.545375",
             "status": "INACTIVE"
         },
+        "bit.do/favot": {
+            "included_at_epoch": 1593689472.215934,
+            "included_at_iso": "2020-07-02T11:31:12.215934",
+            "last_retested_at_epoch": 1593689472.215934,
+            "last_retested_at_iso": "2020-07-02T11:31:12.215934",
+            "status": "INVALID"
+        },
         "biznesplanet.planet-secure.com.pl": {
             "included_at_epoch": 1593096202.200361,
             "included_at_iso": "2020-06-25T14:43:22.200361",
@@ -10554,6 +10561,13 @@
             "included_at_iso": "2020-07-01T15:36:26.881995",
             "last_retested_at_epoch": 1593617786.881995,
             "last_retested_at_iso": "2020-07-01T15:36:26.881995",
+            "status": "INACTIVE"
+        },
+        "dx122.downyouxi.com": {
+            "included_at_epoch": 1593689515.260751,
+            "included_at_iso": "2020-07-02T11:31:55.260751",
+            "last_retested_at_epoch": 1593689515.260751,
+            "last_retested_at_iso": "2020-07-02T11:31:55.260751",
             "status": "INACTIVE"
         },
         "dx123.downyouxi.com": {
