@@ -8022,13 +8022,6 @@
             "last_retested_at_iso": "2020-07-01T23:36:50.545375",
             "status": "INACTIVE"
         },
-        "bit.do/favot": {
-            "included_at_epoch": 1593689472.215934,
-            "included_at_iso": "2020-07-02T11:31:12.215934",
-            "last_retested_at_epoch": 1593689472.215934,
-            "last_retested_at_iso": "2020-07-02T11:31:12.215934",
-            "status": "INVALID"
-        },
         "biznesplanet.planet-secure.com.pl": {
             "included_at_epoch": 1593096202.200361,
             "included_at_iso": "2020-06-25T14:43:22.200361",
@@ -12390,6 +12383,13 @@
             "last_retested_at_iso": "2020-07-01T21:30:34.934428",
             "status": "INACTIVE"
         },
+        "fotoografie-pobierz.eu": {
+            "included_at_epoch": 1593690711.527714,
+            "included_at_iso": "2020-07-02T11:51:51.527714",
+            "last_retested_at_epoch": 1593690711.527714,
+            "last_retested_at_iso": "2020-07-02T11:51:51.527714",
+            "status": "INACTIVE"
+        },
         "fp6fj6.top": {
             "included_at_epoch": 1591983417.958489,
             "included_at_iso": "2020-06-12T17:36:57.958489",
@@ -12801,6 +12801,13 @@
             "included_at_iso": "2020-06-12T17:37:04.467444",
             "last_retested_at_epoch": 1593660259.573285,
             "last_retested_at_iso": "2020-07-02T03:24:19.573285",
+            "status": "INACTIVE"
+        },
+        "giveskincs.nd.pl": {
+            "included_at_epoch": 1593690726.069371,
+            "included_at_iso": "2020-07-02T11:52:06.069371",
+            "last_retested_at_epoch": 1593690726.069371,
+            "last_retested_at_iso": "2020-07-02T11:52:06.069371",
             "status": "INACTIVE"
         },
         "givxuf.bid": {

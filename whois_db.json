@@ -12627,7 +12627,7 @@
     "funtoonez.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "furgonetka.online": {
         "epoch": 1617494400.0,
@@ -12880,8 +12880,8 @@
         "state": "future"
     },
     "garciniacambogiaactives.pl": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "gargas-gastronomia.pl": {
@@ -13445,8 +13445,8 @@
         "state": "future"
     },
     "gimnazjumwielgie.pl": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "gimscompany.com": {
@@ -13485,9 +13485,9 @@
         "state": "future"
     },
     "givehopeahand.org": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
-        "state": "past"
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
+        "state": "future"
     },
     "givemegreenbottle.icu": {
         "epoch": 1593820800.0,
