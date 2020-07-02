@@ -22561,6 +22561,13 @@
             "last_retested_at_iso": "2020-07-01T23:36:31.820215",
             "status": "INACTIVE"
         },
+        "testinteligencji.bo.pl": {
+            "included_at_epoch": 1593700056.987359,
+            "included_at_iso": "2020-07-02T14:27:36.987359",
+            "last_retested_at_epoch": 1593700056.987359,
+            "last_retested_at_iso": "2020-07-02T14:27:36.987359",
+            "status": "INACTIVE"
+        },
         "tfmmby.bid": {
             "included_at_epoch": 1591997710.104582,
             "included_at_iso": "2020-06-12T21:35:10.104582",
@@ -22594,6 +22601,20 @@
             "included_at_iso": "2020-06-12T21:35:11.557692",
             "last_retested_at_epoch": 1593650687.534218,
             "last_retested_at_iso": "2020-07-02T00:44:47.534218",
+            "status": "INACTIVE"
+        },
+        "thepropertydealerz.com": {
+            "included_at_epoch": 1593700058.962131,
+            "included_at_iso": "2020-07-02T14:27:38.962131",
+            "last_retested_at_epoch": 1593700058.962131,
+            "last_retested_at_iso": "2020-07-02T14:27:38.962131",
+            "status": "INACTIVE"
+        },
+        "thuvienphim.net": {
+            "included_at_epoch": 1593700060.180191,
+            "included_at_iso": "2020-07-02T14:27:40.180191",
+            "last_retested_at_epoch": 1593700060.180191,
+            "last_retested_at_iso": "2020-07-02T14:27:40.180191",
             "status": "INACTIVE"
         },
         "thyx30.top": {
@@ -24766,6 +24787,13 @@
             "last_retested_at_iso": "2020-07-02T02:24:21.067691",
             "status": "INACTIVE"
         },
+        "upajmeter.com": {
+            "included_at_epoch": 1593700076.544313,
+            "included_at_iso": "2020-07-02T14:27:56.544313",
+            "last_retested_at_epoch": 1593700076.544313,
+            "last_retested_at_iso": "2020-07-02T14:27:56.544313",
+            "status": "INACTIVE"
+        },
         "update-res.100public.com": {
             "included_at_epoch": 1591997740.488469,
             "included_at_iso": "2020-06-12T21:35:40.488469",
@@ -26780,6 +26808,13 @@
             "included_at_iso": "2020-06-12T22:04:03.514112",
             "last_retested_at_epoch": 1593657736.953829,
             "last_retested_at_iso": "2020-07-02T02:42:16.953829",
+            "status": "INACTIVE"
+        },
+        "wolski.med.pl": {
+            "included_at_epoch": 1593700096.006677,
+            "included_at_iso": "2020-07-02T14:28:16.006677",
+            "last_retested_at_epoch": 1593700096.006677,
+            "last_retested_at_iso": "2020-07-02T14:28:16.006677",
             "status": "INACTIVE"
         },
         "wolysport.pl": {
