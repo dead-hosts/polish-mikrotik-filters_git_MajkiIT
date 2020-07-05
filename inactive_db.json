@@ -41457,8 +41457,8 @@
         "www.sklepplay24.com": {
             "included_at_epoch": 1593635190.157973,
             "included_at_iso": "2020-07-01T20:26:30.157973",
-            "last_retested_at_epoch": 1593635190.157973,
-            "last_retested_at_iso": "2020-07-01T20:26:30.157973",
+            "last_retested_at_epoch": 1593987745.338683,
+            "last_retested_at_iso": "2020-07-05T22:22:25.338683",
             "status": "INACTIVE"
         },
         "www.sknrtel.com": {
@@ -41466,6 +41466,13 @@
             "included_at_iso": "2020-06-13T03:30:12.463176",
             "last_retested_at_epoch": 1593655613.017608,
             "last_retested_at_iso": "2020-07-02T02:06:53.017608",
+            "status": "INACTIVE"
+        },
+        "www.skpfalenty.pl": {
+            "included_at_epoch": 1593987745.527334,
+            "included_at_iso": "2020-07-05T22:22:25.527334",
+            "last_retested_at_epoch": 1593987745.527334,
+            "last_retested_at_iso": "2020-07-05T22:22:25.527334",
             "status": "INACTIVE"
         },
         "www.skrelaxedfit.pl": {
@@ -41559,13 +41566,6 @@
             "last_retested_at_iso": "2020-07-02T04:45:13.875379",
             "status": "INACTIVE"
         },
-        "www.solucjegier.pl": {
-            "included_at_epoch": 1593711493.66608,
-            "included_at_iso": "2020-07-02T17:38:13.666080",
-            "last_retested_at_epoch": 1593711493.66608,
-            "last_retested_at_iso": "2020-07-02T17:38:13.666080",
-            "status": "INACTIVE"
-        },
         "www.something-wrong5.agency": {
             "included_at_epoch": 1592019014.240397,
             "included_at_iso": "2020-06-13T03:30:14.240397",
@@ -41592,6 +41592,13 @@
             "included_at_iso": "2020-06-13T03:30:14.542049",
             "last_retested_at_epoch": 1593641830.835837,
             "last_retested_at_iso": "2020-07-01T22:17:10.835837",
+            "status": "INACTIVE"
+        },
+        "www.sp2mzc.pl": {
+            "included_at_epoch": 1593987746.461897,
+            "included_at_iso": "2020-07-05T22:22:26.461897",
+            "last_retested_at_epoch": 1593987746.461897,
+            "last_retested_at_iso": "2020-07-05T22:22:26.461897",
             "status": "INACTIVE"
         },
         "www.spaceforyou.cc": {
@@ -41657,13 +41664,6 @@
             "last_retested_at_iso": "2020-07-01T22:17:24.572317",
             "status": "INACTIVE"
         },
-        "www.spolszczenia-gier.com.pl": {
-            "included_at_epoch": 1593636211.684069,
-            "included_at_iso": "2020-07-01T20:43:31.684069",
-            "last_retested_at_epoch": 1593636211.684069,
-            "last_retested_at_iso": "2020-07-01T20:43:31.684069",
-            "status": "INACTIVE"
-        },
         "www.sportef.pl": {
             "included_at_epoch": 1592020031.88228,
             "included_at_iso": "2020-06-13T03:47:11.882280",
@@ -41723,15 +41723,22 @@
         "www.sprzedazlacostebuty.pl": {
             "included_at_epoch": 1593711494.259524,
             "included_at_iso": "2020-07-02T17:38:14.259524",
-            "last_retested_at_epoch": 1593711494.259524,
-            "last_retested_at_iso": "2020-07-02T17:38:14.259524",
+            "last_retested_at_epoch": 1593987747.052527,
+            "last_retested_at_iso": "2020-07-05T22:22:27.052527",
             "status": "INACTIVE"
         },
         "www.sprzedazreebokclassic.pl": {
             "included_at_epoch": 1593711494.361512,
             "included_at_iso": "2020-07-02T17:38:14.361512",
-            "last_retested_at_epoch": 1593711494.361512,
-            "last_retested_at_iso": "2020-07-02T17:38:14.361512",
+            "last_retested_at_epoch": 1593987747.145007,
+            "last_retested_at_iso": "2020-07-05T22:22:27.145007",
+            "status": "INACTIVE"
+        },
+        "www.sroka-online.pl": {
+            "included_at_epoch": 1593987747.302291,
+            "included_at_iso": "2020-07-05T22:22:27.302291",
+            "last_retested_at_epoch": 1593987747.302291,
+            "last_retested_at_iso": "2020-07-05T22:22:27.302291",
             "status": "INACTIVE"
         },
         "www.ssklep.in.net": {
@@ -41909,13 +41916,6 @@
             "last_retested_at_iso": "2020-07-01T22:17:26.951208",
             "status": "INACTIVE"
         },
-        "www.stop-sms.pl": {
-            "included_at_epoch": 1593711494.89181,
-            "included_at_iso": "2020-07-02T17:38:14.891810",
-            "last_retested_at_epoch": 1593711494.89181,
-            "last_retested_at_iso": "2020-07-02T17:38:14.891810",
-            "status": "INACTIVE"
-        },
         "www.store.planet-tachyon.com": {
             "included_at_epoch": 1592020035.340347,
             "included_at_iso": "2020-06-13T03:47:15.340347",
@@ -41940,8 +41940,8 @@
         "www.strefarho.pl": {
             "included_at_epoch": 1593374917.525384,
             "included_at_iso": "2020-06-28T20:08:37.525384",
-            "last_retested_at_epoch": 1593636212.47272,
-            "last_retested_at_iso": "2020-07-01T20:43:32.472720",
+            "last_retested_at_epoch": 1593987747.953756,
+            "last_retested_at_iso": "2020-07-05T22:22:27.953756",
             "status": "INACTIVE"
         },
         "www.stronazdrowia.hekko24.pl": {
@@ -42010,8 +42010,8 @@
         "www.supermegacool.bit": {
             "included_at_epoch": 1592020036.894753,
             "included_at_iso": "2020-06-13T03:47:16.894753",
-            "last_retested_at_epoch": 1593636212.839924,
-            "last_retested_at_iso": "2020-07-01T20:43:32.839924",
+            "last_retested_at_epoch": 1593987748.335305,
+            "last_retested_at_iso": "2020-07-05T22:22:28.335305",
             "status": "INVALID"
         },
         "www.superserwisy.pl": {
@@ -42276,8 +42276,8 @@
         "www.tekston.pl": {
             "included_at_epoch": 1593374919.078039,
             "included_at_iso": "2020-06-28T20:08:39.078039",
-            "last_retested_at_epoch": 1593636214.033338,
-            "last_retested_at_iso": "2020-07-01T20:43:34.033338",
+            "last_retested_at_epoch": 1593987749.595201,
+            "last_retested_at_iso": "2020-07-05T22:22:29.595201",
             "status": "INACTIVE"
         },
         "www.tele24wiadomosci.com.pl": {
@@ -42339,15 +42339,15 @@
         "www.tematdnia24.h2g.pl": {
             "included_at_epoch": 1593636214.15207,
             "included_at_iso": "2020-07-01T20:43:34.152070",
-            "last_retested_at_epoch": 1593636214.15207,
-            "last_retested_at_iso": "2020-07-01T20:43:34.152070",
+            "last_retested_at_epoch": 1593987749.724918,
+            "last_retested_at_iso": "2020-07-05T22:22:29.724918",
             "status": "INACTIVE"
         },
         "www.tematinfo.hekko24.pl": {
             "included_at_epoch": 1593636214.251975,
             "included_at_iso": "2020-07-01T20:43:34.251975",
-            "last_retested_at_epoch": 1593636214.251975,
-            "last_retested_at_iso": "2020-07-01T20:43:34.251975",
+            "last_retested_at_epoch": 1593987749.826936,
+            "last_retested_at_iso": "2020-07-05T22:22:29.826936",
             "status": "INACTIVE"
         },
         "www.tematyczne-rozmowki.com.pl": {
@@ -42598,8 +42598,8 @@
         "www.tomypolacy.online": {
             "included_at_epoch": 1593374919.919479,
             "included_at_iso": "2020-06-28T20:08:39.919479",
-            "last_retested_at_epoch": 1593636215.02304,
-            "last_retested_at_iso": "2020-07-01T20:43:35.023040",
+            "last_retested_at_epoch": 1593987750.642846,
+            "last_retested_at_iso": "2020-07-05T22:22:30.642846",
             "status": "INACTIVE"
         },
         "www.top-oferty.net": {
@@ -42614,6 +42614,13 @@
             "included_at_iso": "2020-06-13T04:14:13.971265",
             "last_retested_at_epoch": 1593653819.874792,
             "last_retested_at_iso": "2020-07-02T01:36:59.874792",
+            "status": "INACTIVE"
+        },
+        "www.topparagliding.pl": {
+            "included_at_epoch": 1593987750.813109,
+            "included_at_iso": "2020-07-05T22:22:30.813109",
+            "last_retested_at_epoch": 1593987750.813109,
+            "last_retested_at_iso": "2020-07-05T22:22:30.813109",
             "status": "INACTIVE"
         },
         "www.toprostezarub.xaa.pl": {
