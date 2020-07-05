@@ -8029,6 +8029,13 @@
             "last_retested_at_iso": "2020-07-01T23:36:50.545375",
             "status": "INACTIVE"
         },
+        "bit.do/favot": {
+            "included_at_epoch": 1593988766.634687,
+            "included_at_iso": "2020-07-05T22:39:26.634687",
+            "last_retested_at_epoch": 1593988766.634687,
+            "last_retested_at_iso": "2020-07-05T22:39:26.634687",
+            "status": "INVALID"
+        },
         "biznesplanet.planet-secure.com.pl": {
             "included_at_epoch": 1593096202.200361,
             "included_at_iso": "2020-06-25T14:43:22.200361",
@@ -42798,6 +42805,13 @@
             "last_retested_at_iso": "2020-07-01T21:30:22.215992",
             "status": "INACTIVE"
         },
+        "www.tuobejrzysz.pl": {
+            "included_at_epoch": 1593988767.194133,
+            "included_at_iso": "2020-07-05T22:39:27.194133",
+            "last_retested_at_epoch": 1593988767.194133,
+            "last_retested_at_iso": "2020-07-05T22:39:27.194133",
+            "status": "INACTIVE"
+        },
         "www.tutalina2.tutdomen.com": {
             "included_at_epoch": 1592512153.691318,
             "included_at_iso": "2020-06-18T20:29:13.691318",
@@ -42861,6 +42875,13 @@
             "last_retested_at_iso": "2020-07-01T22:52:16.380028",
             "status": "INACTIVE"
         },
+        "www.twoja-dostawa.com": {
+            "included_at_epoch": 1593988767.452638,
+            "included_at_iso": "2020-07-05T22:39:27.452638",
+            "last_retested_at_epoch": 1593988767.452638,
+            "last_retested_at_iso": "2020-07-05T22:39:27.452638",
+            "status": "INACTIVE"
+        },
         "www.twoja-kariera.pl": {
             "included_at_epoch": 1592022693.359667,
             "included_at_iso": "2020-06-13T04:31:33.359667",
@@ -42871,15 +42892,15 @@
         "www.twoja-przesylka.com": {
             "included_at_epoch": 1593374920.733297,
             "included_at_iso": "2020-06-28T20:08:40.733297",
-            "last_retested_at_epoch": 1593636215.811514,
-            "last_retested_at_iso": "2020-07-01T20:43:35.811514",
+            "last_retested_at_epoch": 1593988767.612703,
+            "last_retested_at_iso": "2020-07-05T22:39:27.612703",
             "status": "INACTIVE"
         },
         "www.twoja-przesylka.link": {
             "included_at_epoch": 1593374920.841413,
             "included_at_iso": "2020-06-28T20:08:40.841413",
-            "last_retested_at_epoch": 1593636215.912726,
-            "last_retested_at_iso": "2020-07-01T20:43:35.912726",
+            "last_retested_at_epoch": 1593988767.708036,
+            "last_retested_at_iso": "2020-07-05T22:39:27.708036",
             "status": "INACTIVE"
         },
         "www.twojaenea.pl": {
@@ -42915,6 +42936,13 @@
             "included_at_iso": "2020-06-25T22:00:21.402599",
             "last_retested_at_epoch": 1593645536.938276,
             "last_retested_at_iso": "2020-07-01T23:18:56.938276",
+            "status": "INACTIVE"
+        },
+        "www.twoje-foty.eu": {
+            "included_at_epoch": 1593988767.811466,
+            "included_at_iso": "2020-07-05T22:39:27.811466",
+            "last_retested_at_epoch": 1593988767.811466,
+            "last_retested_at_iso": "2020-07-05T22:39:27.811466",
             "status": "INACTIVE"
         },
         "www.twojhoroskop.com": {
@@ -42957,13 +42985,6 @@
             "included_at_iso": "2020-06-18T20:29:14.275295",
             "last_retested_at_epoch": 1593639026.971298,
             "last_retested_at_iso": "2020-07-01T21:30:26.971298",
-            "status": "INACTIVE"
-        },
-        "www.ubezpieczenieociac.pl": {
-            "included_at_epoch": 1593713408.237355,
-            "included_at_iso": "2020-07-02T18:10:08.237355",
-            "last_retested_at_epoch": 1593713408.237355,
-            "last_retested_at_iso": "2020-07-02T18:10:08.237355",
             "status": "INACTIVE"
         },
         "www.udater.net": {
@@ -43708,13 +43729,6 @@
             "last_retested_at_iso": "2020-07-02T04:27:24.370061",
             "status": "INACTIVE"
         },
-        "www.willejana.pl": {
-            "included_at_epoch": 1593714905.0563,
-            "included_at_iso": "2020-07-02T18:35:05.056300",
-            "last_retested_at_epoch": 1593714905.0563,
-            "last_retested_at_iso": "2020-07-02T18:35:05.056300",
-            "status": "INACTIVE"
-        },
         "www.wimaj.pl": {
             "included_at_epoch": 1592022706.92911,
             "included_at_iso": "2020-06-13T04:31:46.929110",
@@ -43746,8 +43760,8 @@
         "www.wirtualna-uczelnia.pl": {
             "included_at_epoch": 1593637995.955729,
             "included_at_iso": "2020-07-01T21:13:15.955729",
-            "last_retested_at_epoch": 1593637995.955729,
-            "last_retested_at_iso": "2020-07-01T21:13:15.955729",
+            "last_retested_at_epoch": 1593988770.466363,
+            "last_retested_at_iso": "2020-07-05T22:39:30.466363",
             "status": "INACTIVE"
         },
         "www.wirtualnamlawa.pl": {
@@ -43792,13 +43806,6 @@
             "last_retested_at_iso": "2020-07-02T02:24:17.390224",
             "status": "INACTIVE"
         },
-        "www.wolski.med.pl": {
-            "included_at_epoch": 1593637996.250459,
-            "included_at_iso": "2020-07-01T21:13:16.250459",
-            "last_retested_at_epoch": 1593637996.250459,
-            "last_retested_at_iso": "2020-07-01T21:13:16.250459",
-            "status": "INACTIVE"
-        },
         "www.wolysport.pl": {
             "included_at_epoch": 1592023733.754908,
             "included_at_iso": "2020-06-13T04:48:53.754908",
@@ -43811,6 +43818,13 @@
             "included_at_iso": "2020-06-13T04:48:53.867598",
             "last_retested_at_epoch": 1593662999.31404,
             "last_retested_at_iso": "2020-07-02T04:09:59.314040",
+            "status": "INACTIVE"
+        },
+        "www.worldinfoclub.com": {
+            "included_at_epoch": 1593988770.851128,
+            "included_at_iso": "2020-07-05T22:39:30.851128",
+            "last_retested_at_epoch": 1593988770.851128,
+            "last_retested_at_iso": "2020-07-05T22:39:30.851128",
             "status": "INACTIVE"
         },
         "www.worthlessness.xyz": {
@@ -43963,8 +43977,8 @@
         "www.wwa-informacje.co.pl": {
             "included_at_epoch": 1593378679.393669,
             "included_at_iso": "2020-06-28T21:11:19.393669",
-            "last_retested_at_epoch": 1593637996.611484,
-            "last_retested_at_iso": "2020-07-01T21:13:16.611484",
+            "last_retested_at_epoch": 1593988771.113158,
+            "last_retested_at_iso": "2020-07-05T22:39:31.113158",
             "status": "INACTIVE"
         },
         "www.wwebsservice.info": {
@@ -43979,13 +43993,6 @@
             "included_at_iso": "2020-06-13T04:48:55.858504",
             "last_retested_at_epoch": 1593643914.871105,
             "last_retested_at_iso": "2020-07-01T22:51:54.871105",
-            "status": "INACTIVE"
-        },
-        "www.wycenamaszyn-wgn.pl": {
-            "included_at_epoch": 1593714905.695681,
-            "included_at_iso": "2020-07-02T18:35:05.695681",
-            "last_retested_at_epoch": 1593714905.695681,
-            "last_retested_at_iso": "2020-07-02T18:35:05.695681",
             "status": "INACTIVE"
         },
         "www.wyciek-zdjec.24lite.eu": {
@@ -44051,25 +44058,25 @@
             "last_retested_at_iso": "2020-07-01T23:36:32.857309",
             "status": "INACTIVE"
         },
+        "www.wyjasniamy.eu": {
+            "included_at_epoch": 1593988771.417625,
+            "included_at_iso": "2020-07-05T22:39:31.417625",
+            "last_retested_at_epoch": 1593988771.417625,
+            "last_retested_at_iso": "2020-07-05T22:39:31.417625",
+            "status": "INACTIVE"
+        },
         "www.wyjazd24.pl": {
             "included_at_epoch": 1593378679.671075,
             "included_at_iso": "2020-06-28T21:11:19.671075",
-            "last_retested_at_epoch": 1593637996.88374,
-            "last_retested_at_iso": "2020-07-01T21:13:16.883740",
-            "status": "INACTIVE"
-        },
-        "www.wyleczychemoroidy.pl": {
-            "included_at_epoch": 1593637996.992973,
-            "included_at_iso": "2020-07-01T21:13:16.992973",
-            "last_retested_at_epoch": 1593637996.992973,
-            "last_retested_at_iso": "2020-07-01T21:13:16.992973",
+            "last_retested_at_epoch": 1593988771.512963,
+            "last_retested_at_iso": "2020-07-05T22:39:31.512963",
             "status": "INACTIVE"
         },
         "www.wypoczywajunas.pl": {
             "included_at_epoch": 1593637997.128314,
             "included_at_iso": "2020-07-01T21:13:17.128314",
-            "last_retested_at_epoch": 1593637997.128314,
-            "last_retested_at_iso": "2020-07-01T21:13:17.128314",
+            "last_retested_at_epoch": 1593988771.741708,
+            "last_retested_at_iso": "2020-07-05T22:39:31.741708",
             "status": "INACTIVE"
         },
         "www.wyprzedazobuwie.pl": {
@@ -44502,8 +44509,8 @@
         "www.zalukajfilmy.pl": {
             "included_at_epoch": 1593714906.743065,
             "included_at_iso": "2020-07-02T18:35:06.743065",
-            "last_retested_at_epoch": 1593714906.743065,
-            "last_retested_at_iso": "2020-07-02T18:35:06.743065",
+            "last_retested_at_epoch": 1593988772.610518,
+            "last_retested_at_iso": "2020-07-05T22:39:32.610518",
             "status": "INACTIVE"
         },
         "www.zaluknij.pl": {
