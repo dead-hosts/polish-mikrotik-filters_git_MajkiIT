@@ -39942,18 +39942,11 @@
             "last_retested_at_iso": "2020-07-02T03:06:45.362884",
             "status": "INACTIVE"
         },
-        "www.pozyczkanatelefon24.pl": {
-            "included_at_epoch": 1593710465.601306,
-            "included_at_iso": "2020-07-02T17:21:05.601306",
-            "last_retested_at_epoch": 1593710465.601306,
-            "last_retested_at_iso": "2020-07-02T17:21:05.601306",
-            "status": "INACTIVE"
-        },
         "www.po�yczaj.online.pl": {
             "included_at_epoch": 1592016953.689652,
             "included_at_iso": "2020-06-13T02:55:53.689652",
-            "last_retested_at_epoch": 1593634156.189725,
-            "last_retested_at_iso": "2020-07-01T20:09:16.189725",
+            "last_retested_at_epoch": 1593985926.279544,
+            "last_retested_at_iso": "2020-07-05T21:52:06.279544",
             "status": "INVALID"
         },
         "www.ppswb.pl": {
@@ -40127,8 +40120,8 @@
         "www.prostytrading.pl": {
             "included_at_epoch": 1593373404.364627,
             "included_at_iso": "2020-06-28T19:43:24.364627",
-            "last_retested_at_epoch": 1593635185.936826,
-            "last_retested_at_iso": "2020-07-01T20:26:25.936826",
+            "last_retested_at_epoch": 1593985927.065477,
+            "last_retested_at_iso": "2020-07-05T21:52:07.065477",
             "status": "INACTIVE"
         },
         "www.protection-cellphone.fun": {
@@ -40243,6 +40236,13 @@
             "last_retested_at_iso": "2020-07-02T01:19:10.824870",
             "status": "INACTIVE"
         },
+        "www.przesylki24h.com": {
+            "included_at_epoch": 1593985927.32355,
+            "included_at_iso": "2020-07-05T21:52:07.323550",
+            "last_retested_at_epoch": 1593985927.32355,
+            "last_retested_at_iso": "2020-07-05T21:52:07.323550",
+            "status": "INACTIVE"
+        },
         "www.przewozinik.online": {
             "included_at_epoch": 1592766401.586229,
             "included_at_iso": "2020-06-21T19:06:41.586229",
@@ -40257,11 +40257,25 @@
             "last_retested_at_iso": "2020-07-01T23:36:29.449143",
             "status": "INACTIVE"
         },
+        "www.przyjacielwarzyw.pl": {
+            "included_at_epoch": 1593985927.435725,
+            "included_at_iso": "2020-07-05T21:52:07.435725",
+            "last_retested_at_epoch": 1593985927.435725,
+            "last_retested_at_iso": "2020-07-05T21:52:07.435725",
+            "status": "INACTIVE"
+        },
         "www.przytulisko.net.pl": {
             "included_at_epoch": 1592016958.383429,
             "included_at_iso": "2020-06-13T02:55:58.383429",
             "last_retested_at_epoch": 1593659218.75099,
             "last_retested_at_iso": "2020-07-02T03:06:58.750990",
+            "status": "INACTIVE"
+        },
+        "www.ps7konskie.pl": {
+            "included_at_epoch": 1593985927.584613,
+            "included_at_iso": "2020-07-05T21:52:07.584613",
+            "last_retested_at_epoch": 1593985927.584613,
+            "last_retested_at_iso": "2020-07-05T21:52:07.584613",
             "status": "INACTIVE"
         },
         "www.psialapka.pl": {
@@ -40311,6 +40325,13 @@
             "included_at_iso": "2020-06-13T02:55:58.931948",
             "last_retested_at_epoch": 1593664045.039046,
             "last_retested_at_iso": "2020-07-02T04:27:25.039046",
+            "status": "INACTIVE"
+        },
+        "www.puckiewopr.pl": {
+            "included_at_epoch": 1593985927.762476,
+            "included_at_iso": "2020-07-05T21:52:07.762476",
+            "last_retested_at_epoch": 1593985927.762476,
+            "last_retested_at_iso": "2020-07-05T21:52:07.762476",
             "status": "INACTIVE"
         },
         "www.pumapolskasklep.pl": {
@@ -40642,6 +40663,13 @@
             "last_retested_at_iso": "2020-07-02T02:24:33.569572",
             "status": "INACTIVE"
         },
+        "www.rakietynawode.pl": {
+            "included_at_epoch": 1593985928.330309,
+            "included_at_iso": "2020-07-05T21:52:08.330309",
+            "last_retested_at_epoch": 1593985928.330309,
+            "last_retested_at_iso": "2020-07-05T21:52:08.330309",
+            "status": "INACTIVE"
+        },
         "www.ralphlaurenskleponline.pl": {
             "included_at_epoch": 1592017992.325661,
             "included_at_iso": "2020-06-13T03:13:12.325661",
@@ -40740,11 +40768,25 @@
             "last_retested_at_iso": "2020-07-02T04:27:14.400269",
             "status": "INACTIVE"
         },
+        "www.rega-trans.pl": {
+            "included_at_epoch": 1593985928.91309,
+            "included_at_iso": "2020-07-05T21:52:08.913090",
+            "last_retested_at_epoch": 1593985928.91309,
+            "last_retested_at_iso": "2020-07-05T21:52:08.913090",
+            "status": "INACTIVE"
+        },
         "www.region24-wydarzenia.pl": {
             "included_at_epoch": 1592017994.052521,
             "included_at_iso": "2020-06-13T03:13:14.052521",
             "last_retested_at_epoch": 1593652761.19136,
             "last_retested_at_iso": "2020-07-02T01:19:21.191360",
+            "status": "INACTIVE"
+        },
+        "www.regionowy.cal24.pl": {
+            "included_at_epoch": 1593985929.035419,
+            "included_at_iso": "2020-07-05T21:52:09.035419",
+            "last_retested_at_epoch": 1593985929.035419,
+            "last_retested_at_iso": "2020-07-05T21:52:09.035419",
             "status": "INACTIVE"
         },
         "www.regulamin-akceptacja.icu": {
@@ -40764,8 +40806,8 @@
         "www.regulaminallegro.pl": {
             "included_at_epoch": 1593373405.812986,
             "included_at_iso": "2020-06-28T19:43:25.812986",
-            "last_retested_at_epoch": 1593635187.354459,
-            "last_retested_at_iso": "2020-07-01T20:26:27.354459",
+            "last_retested_at_epoch": 1593985929.128978,
+            "last_retested_at_iso": "2020-07-05T21:52:09.128978",
             "status": "INACTIVE"
         },
         "www.rehabretie.com": {
@@ -40862,8 +40904,8 @@
         "www.rezervation-intens.pl": {
             "included_at_epoch": 1593635187.745315,
             "included_at_iso": "2020-07-01T20:26:27.745315",
-            "last_retested_at_epoch": 1593635187.745315,
-            "last_retested_at_iso": "2020-07-01T20:26:27.745315",
+            "last_retested_at_epoch": 1593985929.549169,
+            "last_retested_at_iso": "2020-07-05T21:52:09.549169",
             "status": "INACTIVE"
         },
         "www.rezygnacja5839.net": {
@@ -41359,8 +41401,8 @@
         "www.simmafia.pl": {
             "included_at_epoch": 1593635189.759198,
             "included_at_iso": "2020-07-01T20:26:29.759198",
-            "last_retested_at_epoch": 1593635189.759198,
-            "last_retested_at_iso": "2020-07-01T20:26:29.759198",
+            "last_retested_at_epoch": 1593985931.711468,
+            "last_retested_at_iso": "2020-07-05T21:52:11.711468",
             "status": "INACTIVE"
         },
         "www.siodemkawysyl24h.info": {
