@@ -42161,6 +42161,13 @@
             "last_retested_at_iso": "2020-07-06T00:25:14.751019",
             "status": "INACTIVE"
         },
+        "www.szczepienie.net.pl": {
+            "included_at_epoch": 1594056260.800834,
+            "included_at_iso": "2020-07-06T17:24:20.800834",
+            "last_retested_at_epoch": 1594056260.800834,
+            "last_retested_at_iso": "2020-07-06T17:24:20.800834",
+            "status": "INACTIVE"
+        },
         "www.szczesliwagotowka.pl": {
             "included_at_epoch": 1592020038.668727,
             "included_at_iso": "2020-06-13T03:47:18.668727",
@@ -42201,6 +42208,13 @@
             "included_at_iso": "2020-06-13T03:47:19.439639",
             "last_retested_at_epoch": 1594005904.185297,
             "last_retested_at_iso": "2020-07-06T03:25:04.185297",
+            "status": "INACTIVE"
+        },
+        "www.t21.pl": {
+            "included_at_epoch": 1594056261.165638,
+            "included_at_iso": "2020-07-06T17:24:21.165638",
+            "last_retested_at_epoch": 1594056261.165638,
+            "last_retested_at_iso": "2020-07-06T17:24:21.165638",
             "status": "INACTIVE"
         },
         "www.tajonis.com": {
@@ -43001,6 +43015,13 @@
             "last_retested_at_iso": "2020-07-06T03:25:18.314037",
             "status": "INACTIVE"
         },
+        "www.twojkurier-dhl.com": {
+            "included_at_epoch": 1594056263.382541,
+            "included_at_iso": "2020-07-06T17:24:23.382541",
+            "last_retested_at_epoch": 1594056263.382541,
+            "last_retested_at_iso": "2020-07-06T17:24:23.382541",
+            "status": "INACTIVE"
+        },
         "www.tylkofacet.pl": {
             "included_at_epoch": 1592269616.290812,
             "included_at_iso": "2020-06-16T01:06:56.290812",
@@ -43370,6 +43391,13 @@
             "included_at_iso": "2020-06-13T04:31:39.919806",
             "last_retested_at_epoch": 1594005915.999346,
             "last_retested_at_iso": "2020-07-06T03:25:15.999346",
+            "status": "INACTIVE"
+        },
+        "www.viafemina.pl": {
+            "included_at_epoch": 1594056264.5615,
+            "included_at_iso": "2020-07-06T17:24:24.561500",
+            "last_retested_at_epoch": 1594056264.5615,
+            "last_retested_at_iso": "2020-07-06T17:24:24.561500",
             "status": "INACTIVE"
         },
         "www.videozhost.website": {
