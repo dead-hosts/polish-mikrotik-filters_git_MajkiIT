@@ -29561,6 +29561,20 @@
             "last_retested_at_iso": "2020-07-05T19:24:33.232330",
             "status": "INACTIVE"
         },
+        "www.cytryniaki.pl": {
+            "included_at_epoch": 1594046808.55513,
+            "included_at_iso": "2020-07-06T14:46:48.555130",
+            "last_retested_at_epoch": 1594046808.55513,
+            "last_retested_at_iso": "2020-07-06T14:46:48.555130",
+            "status": "INACTIVE"
+        },
+        "www.czachopismo.pl": {
+            "included_at_epoch": 1594046808.656485,
+            "included_at_iso": "2020-07-06T14:46:48.656485",
+            "last_retested_at_epoch": 1594046808.656485,
+            "last_retested_at_iso": "2020-07-06T14:46:48.656485",
+            "status": "INACTIVE"
+        },
         "www.czapkiadidas.pl": {
             "included_at_epoch": 1592003917.258635,
             "included_at_iso": "2020-06-12T23:18:37.258635",
@@ -29638,6 +29652,13 @@
             "last_retested_at_iso": "2020-07-06T02:37:04.356489",
             "status": "INACTIVE"
         },
+        "www.davekurier.com": {
+            "included_at_epoch": 1594046809.117536,
+            "included_at_iso": "2020-07-06T14:46:49.117536",
+            "last_retested_at_epoch": 1594046809.117536,
+            "last_retested_at_iso": "2020-07-06T14:46:49.117536",
+            "status": "INACTIVE"
+        },
         "www.ddgrawer.pl": {
             "included_at_epoch": 1592003918.424805,
             "included_at_iso": "2020-06-12T23:18:38.424805",
@@ -29664,6 +29685,13 @@
             "included_at_iso": "2020-06-15T20:47:37.412315",
             "last_retested_at_epoch": 1594001975.398916,
             "last_retested_at_iso": "2020-07-06T02:19:35.398916",
+            "status": "INACTIVE"
+        },
+        "www.debki-klara.pl": {
+            "included_at_epoch": 1594046809.279992,
+            "included_at_iso": "2020-07-06T14:46:49.279992",
+            "last_retested_at_epoch": 1594046809.279992,
+            "last_retested_at_iso": "2020-07-06T14:46:49.279992",
             "status": "INACTIVE"
         },
         "www.deducingsi.xyz": {
