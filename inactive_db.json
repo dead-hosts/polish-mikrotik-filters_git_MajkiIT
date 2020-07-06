@@ -16684,8 +16684,8 @@
         "mkaltenpflege24h.pl": {
             "included_at_epoch": 1592755100.227939,
             "included_at_iso": "2020-06-21T15:58:20.227939",
-            "last_retested_at_epoch": 1593969142.675188,
-            "last_retested_at_iso": "2020-07-05T17:12:22.675188",
+            "last_retested_at_epoch": 1594057282.311278,
+            "last_retested_at_iso": "2020-07-06T17:41:22.311278",
             "status": "INACTIVE"
         },
         "mmhmtea.pw": {
@@ -17013,8 +17013,8 @@
         "napthecao.top": {
             "included_at_epoch": 1592756132.223693,
             "included_at_iso": "2020-06-21T16:15:32.223693",
-            "last_retested_at_epoch": 1593969156.709143,
-            "last_retested_at_iso": "2020-07-05T17:12:36.709143",
+            "last_retested_at_epoch": 1594057282.407068,
+            "last_retested_at_iso": "2020-07-06T17:41:22.407068",
             "status": "INACTIVE"
         },
         "nasygnale.098.pl": {
@@ -17125,8 +17125,8 @@
         "neshoitry.ddns.net": {
             "included_at_epoch": 1593101556.460599,
             "included_at_iso": "2020-06-25T16:12:36.460599",
-            "last_retested_at_epoch": 1593969160.744443,
-            "last_retested_at_iso": "2020-07-05T17:12:40.744443",
+            "last_retested_at_epoch": 1594057282.498766,
+            "last_retested_at_iso": "2020-07-06T17:41:22.498766",
             "status": "INACTIVE"
         },
         "netpipe.warzonedns.com": {
@@ -17342,8 +17342,8 @@
         "noblebank.getin-secure.com.pl": {
             "included_at_epoch": 1593101562.033565,
             "included_at_iso": "2020-06-25T16:12:42.033565",
-            "last_retested_at_epoch": 1593969166.631078,
-            "last_retested_at_iso": "2020-07-05T17:12:46.631078",
+            "last_retested_at_epoch": 1594057282.592534,
+            "last_retested_at_iso": "2020-07-06T17:41:22.592534",
             "status": "INACTIVE"
         },
         "nowaupadlosc.pl": {
@@ -17601,8 +17601,8 @@
         "ogloszenie-nagrod.eu": {
             "included_at_epoch": 1592835247.705346,
             "included_at_iso": "2020-06-22T14:14:07.705346",
-            "last_retested_at_epoch": 1593969173.855472,
-            "last_retested_at_iso": "2020-07-05T17:12:53.855472",
+            "last_retested_at_epoch": 1594057282.685412,
+            "last_retested_at_iso": "2020-07-06T17:41:22.685412",
             "status": "INACTIVE"
         },
         "ogrodekedukacyjny.pl": {
@@ -17671,8 +17671,8 @@
         "olbart.pl": {
             "included_at_epoch": 1593696867.079852,
             "included_at_iso": "2020-07-02T13:34:27.079852",
-            "last_retested_at_epoch": 1593969174.787937,
-            "last_retested_at_iso": "2020-07-05T17:12:54.787937",
+            "last_retested_at_epoch": 1594057282.778711,
+            "last_retested_at_iso": "2020-07-06T17:41:22.778711",
             "status": "INACTIVE"
         },
         "oldtrees.at": {
@@ -19057,8 +19057,8 @@
         "paginas.constructorajksalcedo.com": {
             "included_at_epoch": 1593696877.998755,
             "included_at_iso": "2020-07-02T13:34:37.998755",
-            "last_retested_at_epoch": 1593969186.499922,
-            "last_retested_at_iso": "2020-07-05T17:13:06.499922",
+            "last_retested_at_epoch": 1594057282.870234,
+            "last_retested_at_iso": "2020-07-06T17:41:22.870234",
             "status": "INACTIVE"
         },
         "pairsraw.loan": {
@@ -19141,8 +19141,8 @@
         "pay.poczta-polska24.com": {
             "included_at_epoch": 1591991875.492168,
             "included_at_iso": "2020-06-12T19:57:55.492168",
-            "last_retested_at_epoch": 1593969190.172529,
-            "last_retested_at_iso": "2020-07-05T17:13:10.172529",
+            "last_retested_at_epoch": 1594057282.961906,
+            "last_retested_at_iso": "2020-07-06T17:41:22.961906",
             "status": "INACTIVE"
         },
         "pay.pocztapolska24.com": {
@@ -19526,8 +19526,8 @@
         "play-tube.pl": {
             "included_at_epoch": 1593363240.51198,
             "included_at_iso": "2020-06-28T16:54:00.511980",
-            "last_retested_at_epoch": 1593969198.969935,
-            "last_retested_at_iso": "2020-07-05T17:13:18.969935",
+            "last_retested_at_epoch": 1594057283.053536,
+            "last_retested_at_iso": "2020-07-06T17:41:23.053536",
             "status": "INACTIVE"
         },
         "playasrivieramaya.com": {
@@ -43659,6 +43659,13 @@
             "last_retested_at_iso": "2020-07-06T01:12:17.042201",
             "status": "INACTIVE"
         },
+        "www.weterynarzjedrzejow.pl": {
+            "included_at_epoch": 1594057283.936785,
+            "included_at_iso": "2020-07-06T17:41:23.936785",
+            "last_retested_at_epoch": 1594057283.936785,
+            "last_retested_at_iso": "2020-07-06T17:41:23.936785",
+            "status": "INACTIVE"
+        },
         "www.wezwanieus.com": {
             "included_at_epoch": 1592022704.69842,
             "included_at_iso": "2020-06-13T04:31:44.698420",
@@ -44562,6 +44569,13 @@
             "last_retested_at_iso": "2020-07-06T04:12:40.038515",
             "status": "INACTIVE"
         },
+        "www.zaglosuje-pomoc.eu": {
+            "included_at_epoch": 1594057285.56572,
+            "included_at_iso": "2020-07-06T17:41:25.565720",
+            "last_retested_at_epoch": 1594057285.56572,
+            "last_retested_at_iso": "2020-07-06T17:41:25.565720",
+            "status": "INACTIVE"
+        },
         "www.zakupy-domowe.glosowanie-konkurs.eu": {
             "included_at_epoch": 1592023742.883702,
             "included_at_iso": "2020-06-13T04:49:02.883702",
@@ -44625,6 +44639,13 @@
             "last_retested_at_iso": "2020-07-06T01:12:28.288844",
             "status": "INACTIVE"
         },
+        "www.zbierajnagrody.bo.pl": {
+            "included_at_epoch": 1594057286.102268,
+            "included_at_iso": "2020-07-06T17:41:26.102268",
+            "last_retested_at_epoch": 1594057286.102268,
+            "last_retested_at_iso": "2020-07-06T17:41:26.102268",
+            "status": "INACTIVE"
+        },
         "www.zbig-spaw.pl": {
             "included_at_epoch": 1592025209.617773,
             "included_at_iso": "2020-06-13T05:13:29.617773",
@@ -44686,6 +44707,13 @@
             "included_at_iso": "2020-07-05T23:16:32.700655",
             "last_retested_at_epoch": 1593990992.700655,
             "last_retested_at_iso": "2020-07-05T23:16:32.700655",
+            "status": "INACTIVE"
+        },
+        "www.zespol-artigo.pl": {
+            "included_at_epoch": 1594057286.3578,
+            "included_at_iso": "2020-07-06T17:41:26.357800",
+            "last_retested_at_epoch": 1594057286.3578,
+            "last_retested_at_iso": "2020-07-06T17:41:26.357800",
             "status": "INACTIVE"
         },
         "www.zespolbefree.pl": {
@@ -44798,6 +44826,13 @@
             "included_at_iso": "2020-07-05T23:16:33.254478",
             "last_retested_at_epoch": 1593990993.254478,
             "last_retested_at_iso": "2020-07-05T23:16:33.254478",
+            "status": "INACTIVE"
+        },
+        "www.zurtchojnice.pl": {
+            "included_at_epoch": 1594057286.966927,
+            "included_at_iso": "2020-07-06T17:41:26.966927",
+            "last_retested_at_epoch": 1594057286.966927,
+            "last_retested_at_iso": "2020-07-06T17:41:26.966927",
             "status": "INACTIVE"
         },
         "www.zweryfikuj-sie.eu": {
