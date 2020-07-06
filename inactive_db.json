@@ -24836,6 +24836,13 @@
             "last_retested_at_iso": "2020-07-06T01:12:39.201573",
             "status": "INACTIVE"
         },
+        "update.hoiucvl.com": {
+            "included_at_epoch": 1594044662.754042,
+            "included_at_iso": "2020-07-06T14:11:02.754042",
+            "last_retested_at_epoch": 1594044662.754042,
+            "last_retested_at_iso": "2020-07-06T14:11:02.754042",
+            "status": "INACTIVE"
+        },
         "urleddrug.at": {
             "included_at_epoch": 1591999412.888648,
             "included_at_iso": "2020-06-12T22:03:32.888648",
