@@ -8029,6 +8029,13 @@
             "last_retested_at_iso": "2020-07-06T05:34:13.275251",
             "status": "INACTIVE"
         },
+        "bit.do/favot": {
+            "included_at_epoch": 1594041555.324202,
+            "included_at_iso": "2020-07-06T13:19:15.324202",
+            "last_retested_at_epoch": 1594041555.324202,
+            "last_retested_at_iso": "2020-07-06T13:19:15.324202",
+            "status": "INVALID"
+        },
         "biznesplanet.planet-secure.com.pl": {
             "included_at_epoch": 1593096202.200361,
             "included_at_iso": "2020-06-25T14:43:22.200361",
