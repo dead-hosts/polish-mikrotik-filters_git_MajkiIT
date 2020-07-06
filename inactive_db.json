@@ -15078,6 +15078,13 @@
             "last_retested_at_iso": "2020-07-06T03:42:34.856075",
             "status": "INACTIVE"
         },
+        "kalin.pvi.pl": {
+            "included_at_epoch": 1594038731.550459,
+            "included_at_iso": "2020-07-06T12:32:11.550459",
+            "last_retested_at_epoch": 1594038731.550459,
+            "last_retested_at_iso": "2020-07-06T12:32:11.550459",
+            "status": "INACTIVE"
+        },
         "kancelarialewickich.pl": {
             "included_at_epoch": 1591986357.09834,
             "included_at_iso": "2020-06-12T18:25:57.098340",
@@ -15316,6 +15323,13 @@
             "last_retested_at_iso": "2020-07-06T04:47:22.424972",
             "status": "INACTIVE"
         },
+        "kolenda-labus.pl": {
+            "included_at_epoch": 1594038740.761862,
+            "included_at_iso": "2020-07-06T12:32:20.761862",
+            "last_retested_at_epoch": 1594038740.761862,
+            "last_retested_at_iso": "2020-07-06T12:32:20.761862",
+            "status": "INACTIVE"
+        },
         "kolorowakotlina.pl": {
             "included_at_epoch": 1592755061.622725,
             "included_at_iso": "2020-06-21T15:57:41.622725",
@@ -15386,11 +15400,25 @@
             "last_retested_at_iso": "2020-07-06T03:25:18.990297",
             "status": "INACTIVE"
         },
+        "kredyt-na-pesel.pl": {
+            "included_at_epoch": 1594038744.216386,
+            "included_at_iso": "2020-07-06T12:32:24.216386",
+            "last_retested_at_epoch": 1594038744.216386,
+            "last_retested_at_iso": "2020-07-06T12:32:24.216386",
+            "status": "INACTIVE"
+        },
         "kredytybezbik.eu": {
             "included_at_epoch": 1593620670.039645,
             "included_at_iso": "2020-07-01T16:24:30.039645",
             "last_retested_at_epoch": 1593967097.635042,
             "last_retested_at_iso": "2020-07-05T16:38:17.635042",
+            "status": "INACTIVE"
+        },
+        "krukus.pl": {
+            "included_at_epoch": 1594038745.090076,
+            "included_at_iso": "2020-07-06T12:32:25.090076",
+            "last_retested_at_epoch": 1594038745.090076,
+            "last_retested_at_iso": "2020-07-06T12:32:25.090076",
             "status": "INACTIVE"
         },
         "ks-davis.com": {
