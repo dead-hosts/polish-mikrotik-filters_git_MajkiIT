@@ -9219,6 +9219,13 @@
             "last_retested_at_iso": "2020-07-06T06:46:55.227428",
             "status": "INACTIVE"
         },
+        "cloud.file.co.pl": {
+            "included_at_epoch": 1594035395.259489,
+            "included_at_iso": "2020-07-06T11:36:35.259489",
+            "last_retested_at_epoch": 1594035395.259489,
+            "last_retested_at_iso": "2020-07-06T11:36:35.259489",
+            "status": "INACTIVE"
+        },
         "cloud.s2lol.com": {
             "included_at_epoch": 1591977917.45289,
             "included_at_iso": "2020-06-12T16:05:17.452890",
@@ -10570,6 +10577,13 @@
             "last_retested_at_iso": "2020-07-06T03:42:43.586438",
             "status": "INACTIVE"
         },
+        "dx105.downyouxi.com": {
+            "included_at_epoch": 1594035428.277335,
+            "included_at_iso": "2020-07-06T11:37:08.277335",
+            "last_retested_at_epoch": 1594035428.277335,
+            "last_retested_at_iso": "2020-07-06T11:37:08.277335",
+            "status": "INACTIVE"
+        },
         "dx123.downyouxi.com": {
             "included_at_epoch": 1593963911.722868,
             "included_at_iso": "2020-07-05T15:45:11.722868",
@@ -10589,6 +10603,20 @@
             "included_at_iso": "2020-07-05T15:45:11.815251",
             "last_retested_at_epoch": 1593963911.815251,
             "last_retested_at_iso": "2020-07-05T15:45:11.815251",
+            "status": "INACTIVE"
+        },
+        "dx53.downyouxi.com": {
+            "included_at_epoch": 1594035428.391605,
+            "included_at_iso": "2020-07-06T11:37:08.391605",
+            "last_retested_at_epoch": 1594035428.391605,
+            "last_retested_at_iso": "2020-07-06T11:37:08.391605",
+            "status": "INACTIVE"
+        },
+        "dx62.downyouxi.com": {
+            "included_at_epoch": 1594035428.481558,
+            "included_at_iso": "2020-07-06T11:37:08.481558",
+            "last_retested_at_epoch": 1594035428.481558,
+            "last_retested_at_iso": "2020-07-06T11:37:08.481558",
             "status": "INACTIVE"
         },
         "dx74.downyouxi.com": {
