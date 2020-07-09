@@ -9637,7 +9637,7 @@
     "easydownload.pl": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "easypdfcombine.com": {
         "epoch": 1599523200.0,
@@ -10032,6 +10032,11 @@
     "ek0.pl": {
         "epoch": 1610928000.0,
         "expiration_date": "18-jan-2021",
+        "state": "future"
+    },
+    "ekino-tv.com.pl": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "ekino.com.pl": {
@@ -11004,6 +11009,11 @@
         "expiration_date": "02-aug-2020",
         "state": "future"
     },
+    "every-onebritish.club": {
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "state": "future"
+    },
     "evionelang9.live": {
         "epoch": 1620950400.0,
         "expiration_date": "14-may-2021",
@@ -11802,7 +11812,7 @@
     "filedownloads.pl": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "fileice.net": {
         "epoch": 1648857600.0,
@@ -11887,6 +11897,11 @@
     "filionline.pl": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
+        "state": "past"
+    },
+    "filis.pl": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "filiser.com.pl": {
@@ -11922,6 +11937,11 @@
     "filmanteria.pl": {
         "epoch": 1619308800.0,
         "expiration_date": "25-apr-2021",
+        "state": "future"
+    },
+    "filmhit.pl": {
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
         "state": "future"
     },
     "filmline.pl": {
@@ -12027,6 +12047,11 @@
     "filmy-zalukaj.pl": {
         "epoch": 1615593600.0,
         "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "filmy3.pl": {
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
         "state": "future"
     },
     "filmy4u.pl": {
