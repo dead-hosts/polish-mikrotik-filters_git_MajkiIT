@@ -24932,7 +24932,7 @@
     "olx-platnosci.online": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "olympus-markets.com": {
         "epoch": 1605830400.0,
@@ -25092,6 +25092,11 @@
     "onlinekino.pl": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
+    "onlineogladaj.pl": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "onlineprojectdemo.net": {
@@ -25650,8 +25655,8 @@
         "state": "future"
     },
     "ozzp-rp.pl": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "p-ride.live": {
@@ -25717,6 +25722,11 @@
     "paczka-doplata.net": {
         "epoch": 1619740800.0,
         "expiration_date": "30-apr-2021",
+        "state": "future"
+    },
+    "paczka-dpd.pl": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "paczka-gls.com": {
@@ -25794,6 +25804,11 @@
         "expiration_date": "02-jul-2021",
         "state": "future"
     },
+    "paczkfedex.com": {
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "state": "future"
+    },
     "paczkic.com": {
         "epoch": 1621382400.0,
         "expiration_date": "19-may-2021",
@@ -25834,6 +25849,16 @@
         "expiration_date": "29-jun-2021",
         "state": "future"
     },
+    "paczpocztex.com": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
+    },
+    "paczpocztex.online": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
+    },
     "paczuli.pl": {
         "epoch": 1616198400.0,
         "expiration_date": "20-mar-2021",
@@ -25852,6 +25877,11 @@
     "padidehelevator.com": {
         "epoch": 1625702400.0,
         "expiration_date": "08-jul-2021",
+        "state": "future"
+    },
+    "padslims.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
         "state": "future"
     },
     "pagaldaily.com": {
@@ -26610,8 +26640,8 @@
         "state": "future"
     },
     "pinczow-tv.pl": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "pindnews.com": {
@@ -26899,9 +26929,19 @@
         "expiration_date": "25-jun-2020",
         "state": "past"
     },
+    "play-vod.pl": {
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
+        "state": "future"
+    },
     "play18ok.info": {
         "epoch": 1614643200.0,
         "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "play24sklep.com": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "playallthis.com": {
