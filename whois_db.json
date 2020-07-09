@@ -36869,6 +36869,11 @@
         "expiration_date": "16-nov-2020",
         "state": "future"
     },
+    "vod-box.pl": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
     "vod-play.pl": {
         "epoch": 1615334400.0,
         "expiration_date": "10-mar-2021",
@@ -36887,6 +36892,11 @@
     "vodflix.pl": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "vodkino.pl": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "vodoemy.by": {
@@ -37107,6 +37117,11 @@
     "watchchurchonline.com": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "watchespower.com": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "watersondevelopments.com": {
