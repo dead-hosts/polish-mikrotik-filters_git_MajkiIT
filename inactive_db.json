@@ -44100,13 +44100,6 @@
             "last_retested_at_iso": "2020-07-06T01:12:17.042201",
             "status": "INACTIVE"
         },
-        "www.weterynarzjedrzejow.pl": {
-            "included_at_epoch": 1594057283.936785,
-            "included_at_iso": "2020-07-06T17:41:23.936785",
-            "last_retested_at_epoch": 1594057283.936785,
-            "last_retested_at_iso": "2020-07-06T17:41:23.936785",
-            "status": "INACTIVE"
-        },
         "www.wezwanieus.com": {
             "included_at_epoch": 1592022704.69842,
             "included_at_iso": "2020-06-13T04:31:44.698420",
@@ -44278,8 +44271,8 @@
         "www.wirtualna-uczelnia.pl": {
             "included_at_epoch": 1593637995.955729,
             "included_at_iso": "2020-07-01T21:13:15.955729",
-            "last_retested_at_epoch": 1593988770.466363,
-            "last_retested_at_iso": "2020-07-05T22:39:30.466363",
+            "last_retested_at_epoch": 1594319546.20657,
+            "last_retested_at_iso": "2020-07-09T18:32:26.206570",
             "status": "INACTIVE"
         },
         "www.wirtualnamlawa.pl": {
@@ -44341,8 +44334,8 @@
         "www.worldinfoclub.com": {
             "included_at_epoch": 1593988770.851128,
             "included_at_iso": "2020-07-05T22:39:30.851128",
-            "last_retested_at_epoch": 1593988770.851128,
-            "last_retested_at_iso": "2020-07-05T22:39:30.851128",
+            "last_retested_at_epoch": 1594319546.525985,
+            "last_retested_at_iso": "2020-07-09T18:32:26.525985",
             "status": "INACTIVE"
         },
         "www.worthlessness.xyz": {
@@ -44492,11 +44485,18 @@
             "last_retested_at_iso": "2020-07-06T03:07:39.298982",
             "status": "INACTIVE"
         },
+        "www.ww7.openwrt.com": {
+            "included_at_epoch": 1594319546.783161,
+            "included_at_iso": "2020-07-09T18:32:26.783161",
+            "last_retested_at_epoch": 1594319546.783161,
+            "last_retested_at_iso": "2020-07-09T18:32:26.783161",
+            "status": "INACTIVE"
+        },
         "www.wwa-informacje.co.pl": {
             "included_at_epoch": 1593378679.393669,
             "included_at_iso": "2020-06-28T21:11:19.393669",
-            "last_retested_at_epoch": 1593988771.113158,
-            "last_retested_at_iso": "2020-07-05T22:39:31.113158",
+            "last_retested_at_epoch": 1594319546.888177,
+            "last_retested_at_iso": "2020-07-09T18:32:26.888177",
             "status": "INACTIVE"
         },
         "www.wwebsservice.info": {
@@ -44579,22 +44579,22 @@
         "www.wyjasniamy.eu": {
             "included_at_epoch": 1593988771.417625,
             "included_at_iso": "2020-07-05T22:39:31.417625",
-            "last_retested_at_epoch": 1593988771.417625,
-            "last_retested_at_iso": "2020-07-05T22:39:31.417625",
+            "last_retested_at_epoch": 1594319547.132111,
+            "last_retested_at_iso": "2020-07-09T18:32:27.132111",
             "status": "INACTIVE"
         },
         "www.wyjazd24.pl": {
             "included_at_epoch": 1593378679.671075,
             "included_at_iso": "2020-06-28T21:11:19.671075",
-            "last_retested_at_epoch": 1593988771.512963,
-            "last_retested_at_iso": "2020-07-05T22:39:31.512963",
+            "last_retested_at_epoch": 1594319547.226967,
+            "last_retested_at_iso": "2020-07-09T18:32:27.226967",
             "status": "INACTIVE"
         },
         "www.wypoczywajunas.pl": {
             "included_at_epoch": 1593637997.128314,
             "included_at_iso": "2020-07-01T21:13:17.128314",
-            "last_retested_at_epoch": 1593988771.741708,
-            "last_retested_at_iso": "2020-07-05T22:39:31.741708",
+            "last_retested_at_epoch": 1594319547.374825,
+            "last_retested_at_iso": "2020-07-09T18:32:27.374825",
             "status": "INACTIVE"
         },
         "www.wyprzedazobuwie.pl": {
@@ -44982,6 +44982,13 @@
             "last_retested_at_iso": "2020-07-06T04:12:43.486268",
             "status": "INACTIVE"
         },
+        "www.zagiel-przeciwsloneczny-pl.com": {
+            "included_at_epoch": 1594319548.171988,
+            "included_at_iso": "2020-07-09T18:32:28.171988",
+            "last_retested_at_epoch": 1594319548.171988,
+            "last_retested_at_iso": "2020-07-09T18:32:28.171988",
+            "status": "INACTIVE"
+        },
         "www.zaglebieliderow.pl": {
             "included_at_epoch": 1592023742.357598,
             "included_at_iso": "2020-06-13T04:49:02.357598",
@@ -45013,8 +45020,8 @@
         "www.zaglosuje-pomoc.eu": {
             "included_at_epoch": 1594057285.56572,
             "included_at_iso": "2020-07-06T17:41:25.565720",
-            "last_retested_at_epoch": 1594057285.56572,
-            "last_retested_at_iso": "2020-07-06T17:41:25.565720",
+            "last_retested_at_epoch": 1594319548.286827,
+            "last_retested_at_iso": "2020-07-09T18:32:28.286827",
             "status": "INACTIVE"
         },
         "www.zakupy-domowe.glosowanie-konkurs.eu": {
@@ -45041,8 +45048,8 @@
         "www.zalukajfilmy.pl": {
             "included_at_epoch": 1593714906.743065,
             "included_at_iso": "2020-07-02T18:35:06.743065",
-            "last_retested_at_epoch": 1593988772.610518,
-            "last_retested_at_iso": "2020-07-05T22:39:32.610518",
+            "last_retested_at_epoch": 1594319548.518054,
+            "last_retested_at_iso": "2020-07-09T18:32:28.518054",
             "status": "INACTIVE"
         },
         "www.zaluknij.pl": {
@@ -45078,13 +45085,6 @@
             "included_at_iso": "2020-06-13T05:13:29.503665",
             "last_retested_at_epoch": 1593997948.288844,
             "last_retested_at_iso": "2020-07-06T01:12:28.288844",
-            "status": "INACTIVE"
-        },
-        "www.zbierajnagrody.bo.pl": {
-            "included_at_epoch": 1594057286.102268,
-            "included_at_iso": "2020-07-06T17:41:26.102268",
-            "last_retested_at_epoch": 1594057286.102268,
-            "last_retested_at_iso": "2020-07-06T17:41:26.102268",
             "status": "INACTIVE"
         },
         "www.zbig-spaw.pl": {
@@ -45129,13 +45129,6 @@
             "last_retested_at_iso": "2020-07-06T04:47:48.569426",
             "status": "INACTIVE"
         },
-        "www.zejrzyj-zdjecia.bo.pl": {
-            "included_at_epoch": 1593990992.56636,
-            "included_at_iso": "2020-07-05T23:16:32.566360",
-            "last_retested_at_epoch": 1593990992.56636,
-            "last_retested_at_iso": "2020-07-05T23:16:32.566360",
-            "status": "INACTIVE"
-        },
         "www.zenicla.com": {
             "included_at_epoch": 1592769946.390946,
             "included_at_iso": "2020-06-21T20:05:46.390946",
@@ -45146,15 +45139,8 @@
         "www.zespal-bonus.pl": {
             "included_at_epoch": 1593990992.700655,
             "included_at_iso": "2020-07-05T23:16:32.700655",
-            "last_retested_at_epoch": 1593990992.700655,
-            "last_retested_at_iso": "2020-07-05T23:16:32.700655",
-            "status": "INACTIVE"
-        },
-        "www.zespol-artigo.pl": {
-            "included_at_epoch": 1594057286.3578,
-            "included_at_iso": "2020-07-06T17:41:26.357800",
-            "last_retested_at_epoch": 1594057286.3578,
-            "last_retested_at_iso": "2020-07-06T17:41:26.357800",
+            "last_retested_at_epoch": 1594319549.303734,
+            "last_retested_at_iso": "2020-07-09T18:32:29.303734",
             "status": "INACTIVE"
         },
         "www.zespolbefree.pl": {
@@ -45262,20 +45248,6 @@
             "last_retested_at_iso": "2020-07-05T23:37:12.523158",
             "status": "INACTIVE"
         },
-        "www.zpssleszno.pl": {
-            "included_at_epoch": 1593990993.254478,
-            "included_at_iso": "2020-07-05T23:16:33.254478",
-            "last_retested_at_epoch": 1593990993.254478,
-            "last_retested_at_iso": "2020-07-05T23:16:33.254478",
-            "status": "INACTIVE"
-        },
-        "www.zurtchojnice.pl": {
-            "included_at_epoch": 1594057286.966927,
-            "included_at_iso": "2020-07-06T17:41:26.966927",
-            "last_retested_at_epoch": 1594057286.966927,
-            "last_retested_at_iso": "2020-07-06T17:41:26.966927",
-            "status": "INACTIVE"
-        },
         "www.zweryfikuj-sie.eu": {
             "included_at_epoch": 1592025212.673853,
             "included_at_iso": "2020-06-13T05:13:32.673853",
@@ -45335,8 +45307,8 @@
         "wyjasniamy.eu": {
             "included_at_epoch": 1593990994.478009,
             "included_at_iso": "2020-07-05T23:16:34.478009",
-            "last_retested_at_epoch": 1593990994.478009,
-            "last_retested_at_iso": "2020-07-05T23:16:34.478009",
+            "last_retested_at_epoch": 1594319551.327633,
+            "last_retested_at_iso": "2020-07-09T18:32:31.327633",
             "status": "INACTIVE"
         },
         "wyprzedazobuwie.pl": {
