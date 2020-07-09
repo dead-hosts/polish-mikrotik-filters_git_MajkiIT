@@ -64,9 +64,19 @@
         "expiration_date": "09-may-2021",
         "state": "future"
     },
+    "123movies.my.id": {
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "state": "future"
+    },
     "1axb.com": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "1btcnews.buzz": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "1channelhd.xyz": {
@@ -520,8 +530,8 @@
         "state": "future"
     },
     "a0copyplot.pl": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "a1a.pl": {
@@ -997,6 +1007,11 @@
     "adozeuds.com": {
         "epoch": 1618876800.0,
         "expiration_date": "20-apr-2021",
+        "state": "future"
+    },
+    "ads-fb.co": {
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "adsbtrack.com": {
@@ -1535,8 +1550,8 @@
         "state": "future"
     },
     "alexwacker.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "alfa-projekt.com.pl": {
@@ -1724,6 +1739,11 @@
         "expiration_date": "07-jun-2021",
         "state": "future"
     },
+    "allegrolokalnie.ru": {
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
+        "state": "future"
+    },
     "allegrolokalnie.su": {
         "epoch": 1625443200.0,
         "expiration_date": "05-jul-2021",
@@ -1855,8 +1875,8 @@
         "state": "future"
     },
     "alproduction.pl": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "alsbean.com": {
@@ -2057,7 +2077,7 @@
     "androidgameshacks.com": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "androidsecurityplus.com": {
         "epoch": 1595635200.0,
@@ -2242,6 +2262,11 @@
     "anvietpro.com": {
         "epoch": 1675987200.0,
         "expiration_date": "10-feb-2023",
+        "state": "future"
+    },
+    "anyonecanhelp.club": {
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "anysbergbiltong.co.za": {
@@ -2830,8 +2855,8 @@
         "state": "future"
     },
     "aureus-miedzychod.pl": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "austinlily.com": {
@@ -2927,7 +2952,7 @@
     "autosalonpomorski.pl": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "autoservey.com": {
         "epoch": 1598745600.0,
@@ -3210,9 +3235,9 @@
         "state": "future"
     },
     "banglanews-24.com": {
-        "epoch": 1586736000.0,
-        "expiration_date": "13-apr-2020",
-        "state": "past"
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
     },
     "bank-idea.xyz": {
         "epoch": 1623801600.0,
@@ -3432,6 +3457,11 @@
     "bdinterior.net": {
         "epoch": 1605484800.0,
         "expiration_date": "16-nov-2020",
+        "state": "future"
+    },
+    "bdpolice.co": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "bds-hoalac.com": {
@@ -4024,6 +4054,11 @@
         "expiration_date": "05-sep-2021",
         "state": "future"
     },
+    "bitcointime.biz": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "state": "future"
+    },
     "bitcointodaynews.me": {
         "epoch": 1606348800.0,
         "expiration_date": "26-nov-2020",
@@ -4250,8 +4285,8 @@
         "state": "future"
     },
     "bmw-i-pure-impulse.com": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "bmwklubbydgoszcz.pl": {
