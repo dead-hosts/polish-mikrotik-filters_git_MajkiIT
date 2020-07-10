@@ -1889,6 +1889,11 @@
         "expiration_date": "21-feb-2021",
         "state": "future"
     },
+    "altechsolutions.sg": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
+    },
     "alterego.co.za": {
         "epoch": 1613692800.0,
         "expiration_date": "19-feb-2021",
@@ -2075,9 +2080,9 @@
         "state": "future"
     },
     "androidgameshacks.com": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
-        "state": "past"
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
     },
     "androidsecurityplus.com": {
         "epoch": 1595635200.0,
@@ -3717,7 +3722,7 @@
     "bestofpush.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bestphoneapps.mobi": {
         "epoch": 1605830400.0,
@@ -4000,9 +4005,9 @@
         "state": "future"
     },
     "biosystem1.com": {
-        "epoch": 1587513600.0,
-        "expiration_date": "22-apr-2020",
-        "state": "past"
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
     },
     "biotalerz.pl": {
         "epoch": 1620345600.0,
@@ -4112,7 +4117,7 @@
     "bkwbydgoszcz.pl": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "blackburger.top": {
         "epoch": 1616457600.0,
@@ -4230,8 +4235,8 @@
         "state": "future"
     },
     "blok-gp.com.pl": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "blubox.pl": {
