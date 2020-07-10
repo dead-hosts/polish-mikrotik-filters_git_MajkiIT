@@ -23382,7 +23382,7 @@
     "mywallart.pl": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "myway.com": {
         "epoch": 1637539200.0,
@@ -24980,9 +24980,9 @@
         "state": "future"
     },
     "olx-platnosci.online": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
-        "state": "past"
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
     },
     "olympus-markets.com": {
         "epoch": 1605830400.0,
@@ -25859,6 +25859,11 @@
         "expiration_date": "03-jul-2021",
         "state": "future"
     },
+    "paczkgls.com": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "state": "future"
+    },
     "paczkic.com": {
         "epoch": 1621382400.0,
         "expiration_date": "19-may-2021",
@@ -25897,6 +25902,11 @@
     "paczkups.com": {
         "epoch": 1624924800.0,
         "expiration_date": "29-jun-2021",
+        "state": "future"
+    },
+    "paczkxpress.com": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "paczpocztex.com": {
@@ -26462,7 +26472,7 @@
     "pep-egypt.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "perceptions.shop": {
         "epoch": 1600560000.0,
@@ -26727,7 +26737,7 @@
     "pinmova.xyz": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "pinnaclepropertysl.com": {
         "epoch": 1600300800.0,
