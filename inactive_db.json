@@ -27415,8 +27415,8 @@
         "www.lnpostmobile.net": {
             "included_at_epoch": 1593982241.428553,
             "included_at_iso": "2020-07-05T20:50:41.428553",
-            "last_retested_at_epoch": 1594311926.708896,
-            "last_retested_at_iso": "2020-07-09T16:25:26.708896",
+            "last_retested_at_epoch": 1594399361.995642,
+            "last_retested_at_iso": "2020-07-10T16:42:41.995642",
             "status": "INACTIVE"
         },
         "www.lnpush.pl": {
@@ -32254,6 +32254,13 @@
             "included_at_iso": "2020-06-13T03:13:14.052521",
             "last_retested_at_epoch": 1594338777.452595,
             "last_retested_at_iso": "2020-07-09T23:52:57.452595",
+            "status": "INACTIVE"
+        },
+        "www.regionalnyportal.eu": {
+            "included_at_epoch": 1594399363.505501,
+            "included_at_iso": "2020-07-10T16:42:43.505501",
+            "last_retested_at_epoch": 1594399363.505501,
+            "last_retested_at_iso": "2020-07-10T16:42:43.505501",
             "status": "INACTIVE"
         },
         "www.regionowy.cal24.pl": {
