@@ -27987,7 +27987,7 @@
     "post-341478.info": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "poszukiwananatalka.net.pl": {
         "epoch": 1618272000.0,
@@ -31980,8 +31980,8 @@
         "state": "future"
     },
     "slodkibar.pl": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "slonce-deszcz.net": {
@@ -32082,6 +32082,11 @@
     "smile-lover.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
+    "smiothmadara.ug": {
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "smithsfloristva.com": {
