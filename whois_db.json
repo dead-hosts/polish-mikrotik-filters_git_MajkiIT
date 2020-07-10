@@ -5080,8 +5080,8 @@
         "state": "future"
     },
     "cal-look.pl": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "calanka24.co.uk": {
@@ -7924,9 +7924,19 @@
         "expiration_date": "04-jun-2021",
         "state": "future"
     },
+    "dhl-express.pl": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
+    },
     "dhl-kurier.pl": {
         "epoch": 1624492800.0,
         "expiration_date": "24-jun-2021",
+        "state": "future"
+    },
+    "dhl-paczkanr.com": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "dhl-parcel.co": {
@@ -8445,8 +8455,8 @@
         "state": "future"
     },
     "domtrakenski.pl": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
         "state": "future"
     },
     "domyposoka.pl": {
