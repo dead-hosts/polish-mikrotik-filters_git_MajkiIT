@@ -409,6 +409,11 @@
         "expiration_date": "07-mar-2021",
         "state": "future"
     },
+    "5kplayer.pl": {
+        "epoch": 1600214400.0,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
     "60887701922.net": {
         "epoch": 1620345600.0,
         "expiration_date": "07-may-2021",
@@ -1669,6 +1674,11 @@
         "expiration_date": "22-jun-2021",
         "state": "future"
     },
+    "allegro-apk.net": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
+    },
     "allegro-blokada.pl": {
         "epoch": 1620432000.0,
         "expiration_date": "08-may-2021",
@@ -1872,7 +1882,7 @@
     "alphauniverse-mea2.com": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "alproduction.pl": {
         "epoch": 1596844800.0,
@@ -2305,8 +2315,8 @@
         "state": "future"
     },
     "apartamentywhiszpanii.com.pl": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
         "state": "future"
     },
     "apartberlin.com": {
@@ -2392,6 +2402,21 @@
     "appleidworld.com": {
         "epoch": 1622160000.0,
         "expiration_date": "28-may-2021",
+        "state": "future"
+    },
+    "applnpost.app": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
+    },
+    "applnpost.me": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
+    },
+    "applnpost.net": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "appsdorado.com": {
@@ -3152,7 +3177,7 @@
     "backmoniterreq.icu": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bacuskurier.com": {
         "epoch": 1617494400.0,
@@ -3720,9 +3745,9 @@
         "state": "future"
     },
     "bestofpush.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
-        "state": "past"
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
     },
     "bestphoneapps.mobi": {
         "epoch": 1605830400.0,
