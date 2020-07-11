@@ -5159,6 +5159,11 @@
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
+    "cameraforce.tv": {
+        "epoch": 1638489600.0,
+        "expiration_date": "03-dec-2021",
+        "state": "future"
+    },
     "camerasgo.com": {
         "epoch": 1621728000.0,
         "expiration_date": "23-may-2021",
@@ -6052,7 +6057,7 @@
     "cklinosleeve.icu": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "cksserock.pl": {
         "epoch": 1621209600.0,
@@ -6429,6 +6434,11 @@
         "expiration_date": "11-sep-2020",
         "state": "future"
     },
+    "comawhimplet.com": {
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
+        "state": "future"
+    },
     "comeandpick.com": {
         "epoch": 1618012800.0,
         "expiration_date": "10-apr-2021",
@@ -6477,7 +6487,7 @@
     "complaintboardonline.com": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "completeshs.com": {
         "epoch": 1662422400.0,
@@ -7765,8 +7775,13 @@
         "state": "future"
     },
     "denkagida.com.tr": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
+        "state": "future"
+    },
+    "dennissmith.ug": {
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "dentalsearchsolutions.com": {
@@ -8392,12 +8407,12 @@
     "doitbetterleftside.icu": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "doitbetterrightside.icu": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "dojaroslawca.pl": {
         "epoch": 1609200000.0,
