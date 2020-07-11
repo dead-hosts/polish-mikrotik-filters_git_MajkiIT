@@ -9849,6 +9849,11 @@
         "expiration_date": "20-feb-2021",
         "state": "future"
     },
+    "ecoshore.ga": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
     "ecoslimmer.pro": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
@@ -10880,8 +10885,8 @@
         "state": "future"
     },
     "esolvent.pl": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1597017600.0,
+        "expiration_date": "10-aug-2020",
         "state": "future"
     },
     "espaylink.net": {
@@ -11840,9 +11845,9 @@
         "state": "future"
     },
     "filapolska.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
-        "state": "past"
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
     },
     "filaspoland.pl": {
         "epoch": 1622937600.0,
@@ -12125,8 +12130,8 @@
         "state": "future"
     },
     "filmy4u.pl": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1597017600.0,
+        "expiration_date": "10-aug-2020",
         "state": "future"
     },
     "filmycda.pl": {
@@ -12662,7 +12667,7 @@
     "forwardmoniterreq.icu": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "foryourhorse.pl": {
         "epoch": 1615334400.0,
@@ -13082,7 +13087,7 @@
     "funsolo.net": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "funtoonez.com": {
         "epoch": 1625184000.0,
