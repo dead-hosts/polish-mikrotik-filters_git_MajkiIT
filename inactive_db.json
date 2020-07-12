@@ -1204,6 +1204,13 @@
             "last_retested_at_iso": "2020-07-12T00:46:25.099911",
             "status": "INACTIVE"
         },
+        "po�yczaj.online.pl": {
+            "included_at_epoch": 1594516812.975189,
+            "included_at_iso": "2020-07-12T01:20:12.975189",
+            "last_retested_at_epoch": 1594516812.975189,
+            "last_retested_at_iso": "2020-07-12T01:20:12.975189",
+            "status": "INVALID"
+        },
         "pracowniarekodziela.pl": {
             "included_at_epoch": 1593102622.792441,
             "included_at_iso": "2020-06-25T16:30:22.792441",
@@ -1216,6 +1223,20 @@
             "included_at_iso": "2020-06-28T16:54:15.150645",
             "last_retested_at_epoch": 1594343332.161735,
             "last_retested_at_iso": "2020-07-10T01:08:52.161735",
+            "status": "INACTIVE"
+        },
+        "pramodkumarsingh.000webhostapp.com": {
+            "included_at_epoch": 1594516814.403702,
+            "included_at_iso": "2020-07-12T01:20:14.403702",
+            "last_retested_at_epoch": 1594516814.403702,
+            "last_retested_at_iso": "2020-07-12T01:20:14.403702",
+            "status": "INACTIVE"
+        },
+        "prawoibezprawie.pl": {
+            "included_at_epoch": 1594516814.622218,
+            "included_at_iso": "2020-07-12T01:20:14.622218",
+            "last_retested_at_epoch": 1594516814.622218,
+            "last_retested_at_iso": "2020-07-12T01:20:14.622218",
             "status": "INACTIVE"
         },
         "prl.genfotir.com": {
@@ -1249,22 +1270,22 @@
         "proventus.com.pl": {
             "included_at_epoch": 1593102627.532179,
             "included_at_iso": "2020-06-25T16:30:27.532179",
-            "last_retested_at_epoch": 1594388219.195336,
-            "last_retested_at_iso": "2020-07-10T13:36:59.195336",
+            "last_retested_at_epoch": 1594516818.675279,
+            "last_retested_at_iso": "2020-07-12T01:20:18.675279",
             "status": "INACTIVE"
         },
         "przeglosuj-strone.eu": {
             "included_at_epoch": 1594387158.91825,
             "included_at_iso": "2020-07-10T13:19:18.918250",
-            "last_retested_at_epoch": 1594387158.91825,
-            "last_retested_at_iso": "2020-07-10T13:19:18.918250",
+            "last_retested_at_epoch": 1594516819.623327,
+            "last_retested_at_iso": "2020-07-12T01:20:19.623327",
             "status": "INACTIVE"
         },
         "r-dach.pl": {
             "included_at_epoch": 1594300680.435537,
             "included_at_iso": "2020-07-09T13:18:00.435537",
-            "last_retested_at_epoch": 1594388219.290323,
-            "last_retested_at_iso": "2020-07-10T13:36:59.290323",
+            "last_retested_at_epoch": 1594516830.511828,
+            "last_retested_at_iso": "2020-07-12T01:20:30.511828",
             "status": "INACTIVE"
         },
         "real-app.date": {
@@ -1277,8 +1298,8 @@
         "reeboknpcii.pl": {
             "included_at_epoch": 1593970628.213598,
             "included_at_iso": "2020-07-05T17:37:08.213598",
-            "last_retested_at_epoch": 1594388219.380396,
-            "last_retested_at_iso": "2020-07-10T13:36:59.380396",
+            "last_retested_at_epoch": 1594516832.121176,
+            "last_retested_at_iso": "2020-07-12T01:20:32.121176",
             "status": "INACTIVE"
         },
         "revinex.pl": {
@@ -1291,29 +1312,29 @@
         "rewardrey.com": {
             "included_at_epoch": 1592498965.541896,
             "included_at_iso": "2020-06-18T16:49:25.541896",
-            "last_retested_at_epoch": 1594388219.470976,
-            "last_retested_at_iso": "2020-07-10T13:36:59.470976",
+            "last_retested_at_epoch": 1594516836.053941,
+            "last_retested_at_iso": "2020-07-12T01:20:36.053941",
             "status": "INACTIVE"
         },
         "rowanyne.ooo": {
             "included_at_epoch": 1592836723.226615,
             "included_at_iso": "2020-06-22T14:38:43.226615",
-            "last_retested_at_epoch": 1594388219.560429,
-            "last_retested_at_iso": "2020-07-10T13:36:59.560429",
+            "last_retested_at_epoch": 1594516839.428215,
+            "last_retested_at_iso": "2020-07-12T01:20:39.428215",
             "status": "INACTIVE"
         },
         "rt4e34.win": {
             "included_at_epoch": 1593102649.297583,
             "included_at_iso": "2020-06-25T16:30:49.297583",
-            "last_retested_at_epoch": 1594388219.65204,
-            "last_retested_at_iso": "2020-07-10T13:36:59.652040",
+            "last_retested_at_epoch": 1594516840.242053,
+            "last_retested_at_iso": "2020-07-12T01:20:40.242053",
             "status": "INACTIVE"
         },
         "saarthieduhub.com": {
             "included_at_epoch": 1592498971.411186,
             "included_at_iso": "2020-06-18T16:49:31.411186",
-            "last_retested_at_epoch": 1594388219.745641,
-            "last_retested_at_iso": "2020-07-10T13:36:59.745641",
+            "last_retested_at_epoch": 1594516841.865315,
+            "last_retested_at_iso": "2020-07-12T01:20:41.865315",
             "status": "INACTIVE"
         },
         "sandomir.pl": {
@@ -1326,22 +1347,22 @@
         "sashapikula.com": {
             "included_at_epoch": 1593970640.307293,
             "included_at_iso": "2020-07-05T17:37:20.307293",
-            "last_retested_at_epoch": 1594388219.836399,
-            "last_retested_at_iso": "2020-07-10T13:36:59.836399",
+            "last_retested_at_epoch": 1594516844.398409,
+            "last_retested_at_iso": "2020-07-12T01:20:44.398409",
             "status": "INACTIVE"
         },
         "sasiedzkiportal.eu": {
             "included_at_epoch": 1594300695.005482,
             "included_at_iso": "2020-07-09T13:18:15.005482",
-            "last_retested_at_epoch": 1594388219.9268,
-            "last_retested_at_iso": "2020-07-10T13:36:59.926800",
+            "last_retested_at_epoch": 1594516844.552951,
+            "last_retested_at_iso": "2020-07-12T01:20:44.552951",
             "status": "INACTIVE"
         },
         "secondhand-gwo24.pl": {
             "included_at_epoch": 1594042717.496486,
             "included_at_iso": "2020-07-06T13:38:37.496486",
-            "last_retested_at_epoch": 1594388220.016775,
-            "last_retested_at_iso": "2020-07-10T13:37:00.016775",
+            "last_retested_at_epoch": 1594516846.657173,
+            "last_retested_at_iso": "2020-07-12T01:20:46.657173",
             "status": "INACTIVE"
         },
         "secure4app.com": {
@@ -1361,8 +1382,8 @@
         "sigma1.eu": {
             "included_at_epoch": 1592757313.642852,
             "included_at_iso": "2020-06-21T16:35:13.642852",
-            "last_retested_at_epoch": 1594388220.106973,
-            "last_retested_at_iso": "2020-07-10T13:37:00.106973",
+            "last_retested_at_epoch": 1594516853.033176,
+            "last_retested_at_iso": "2020-07-12T01:20:53.033176",
             "status": "INACTIVE"
         },
         "sitenews.098.pl": {
