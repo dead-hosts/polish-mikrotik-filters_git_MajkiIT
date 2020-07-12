@@ -829,15 +829,15 @@
         "klasterbhp.pl": {
             "included_at_epoch": 1594296606.195971,
             "included_at_iso": "2020-07-09T12:10:06.195971",
-            "last_retested_at_epoch": 1594384148.219476,
-            "last_retested_at_iso": "2020-07-10T12:29:08.219476",
+            "last_retested_at_epoch": 1594513179.89233,
+            "last_retested_at_iso": "2020-07-12T00:19:39.892330",
             "status": "INACTIVE"
         },
         "kolenda-labus.pl": {
             "included_at_epoch": 1594038740.761862,
             "included_at_iso": "2020-07-06T12:32:20.761862",
-            "last_retested_at_epoch": 1594384150.276311,
-            "last_retested_at_iso": "2020-07-10T12:29:10.276311",
+            "last_retested_at_epoch": 1594513181.982019,
+            "last_retested_at_iso": "2020-07-12T00:19:41.982019",
             "status": "INACTIVE"
         },
         "kolorowakotlina.pl": {
@@ -850,29 +850,29 @@
         "korkomath.pl": {
             "included_at_epoch": 1594297638.851028,
             "included_at_iso": "2020-07-09T12:27:18.851028",
-            "last_retested_at_epoch": 1594385220.92176,
-            "last_retested_at_iso": "2020-07-10T12:47:00.921760",
+            "last_retested_at_epoch": 1594513183.411423,
+            "last_retested_at_iso": "2020-07-12T00:19:43.411423",
             "status": "INACTIVE"
         },
         "kredyt-na-pesel.pl": {
             "included_at_epoch": 1594038744.216386,
             "included_at_iso": "2020-07-06T12:32:24.216386",
-            "last_retested_at_epoch": 1594385221.017305,
-            "last_retested_at_iso": "2020-07-10T12:47:01.017305",
+            "last_retested_at_epoch": 1594513185.373284,
+            "last_retested_at_iso": "2020-07-12T00:19:45.373284",
             "status": "INACTIVE"
         },
         "kredytybezbik.eu": {
             "included_at_epoch": 1593620670.039645,
             "included_at_iso": "2020-07-01T16:24:30.039645",
-            "last_retested_at_epoch": 1594385221.105438,
-            "last_retested_at_iso": "2020-07-10T12:47:01.105438",
+            "last_retested_at_epoch": 1594513185.526561,
+            "last_retested_at_iso": "2020-07-12T00:19:45.526561",
             "status": "INACTIVE"
         },
         "krukus.pl": {
             "included_at_epoch": 1594038745.090076,
             "included_at_iso": "2020-07-06T12:32:25.090076",
-            "last_retested_at_epoch": 1594385221.194846,
-            "last_retested_at_iso": "2020-07-10T12:47:01.194846",
+            "last_retested_at_epoch": 1594513186.185624,
+            "last_retested_at_iso": "2020-07-12T00:19:46.185624",
             "status": "INACTIVE"
         },
         "leszekzyglowicz.pl": {
@@ -885,8 +885,8 @@
         "lexlale.eu": {
             "included_at_epoch": 1592755074.350604,
             "included_at_iso": "2020-06-21T15:57:54.350604",
-            "last_retested_at_epoch": 1594385221.284377,
-            "last_retested_at_iso": "2020-07-10T12:47:01.284377",
+            "last_retested_at_epoch": 1594513196.776393,
+            "last_retested_at_iso": "2020-07-12T00:19:56.776393",
             "status": "INACTIVE"
         },
         "login-paribas.eu": {
@@ -906,22 +906,22 @@
         "losowa-gra.pl": {
             "included_at_epoch": 1593967115.483737,
             "included_at_iso": "2020-07-05T16:38:35.483737",
-            "last_retested_at_epoch": 1594385221.375022,
-            "last_retested_at_iso": "2020-07-10T12:47:01.375022",
+            "last_retested_at_epoch": 1594513205.016608,
+            "last_retested_at_iso": "2020-07-12T00:20:05.016608",
             "status": "INACTIVE"
         },
         "lukaszadamski.pl": {
             "included_at_epoch": 1594297661.665095,
             "included_at_iso": "2020-07-09T12:27:41.665095",
-            "last_retested_at_epoch": 1594385221.463919,
-            "last_retested_at_iso": "2020-07-10T12:47:01.463919",
+            "last_retested_at_epoch": 1594513207.242586,
+            "last_retested_at_iso": "2020-07-12T00:20:07.242586",
             "status": "INACTIVE"
         },
         "ma-1.lzglnter.com": {
             "included_at_epoch": 1592755084.303434,
             "included_at_iso": "2020-06-21T15:58:04.303434",
-            "last_retested_at_epoch": 1594385221.55261,
-            "last_retested_at_iso": "2020-07-10T12:47:01.552610",
+            "last_retested_at_epoch": 1594513208.568009,
+            "last_retested_at_iso": "2020-07-12T00:20:08.568009",
             "status": "INACTIVE"
         },
         "maestrokolo.pl": {
@@ -934,8 +934,8 @@
         "megolbassia.com": {
             "included_at_epoch": 1593100514.004346,
             "included_at_iso": "2020-06-25T15:55:14.004346",
-            "last_retested_at_epoch": 1594385221.642196,
-            "last_retested_at_iso": "2020-07-10T12:47:01.642196",
+            "last_retested_at_epoch": 1594513221.093057,
+            "last_retested_at_iso": "2020-07-12T00:20:21.093057",
             "status": "INACTIVE"
         },
         "mieszkanie-bochnia.pl": {
@@ -945,18 +945,11 @@
             "last_retested_at_iso": "2020-07-09T21:51:09.322953",
             "status": "INACTIVE"
         },
-        "mis.nbcc.ac.th": {
-            "included_at_epoch": 1594297679.295651,
-            "included_at_iso": "2020-07-09T12:27:59.295651",
-            "last_retested_at_epoch": 1594385221.731239,
-            "last_retested_at_iso": "2020-07-10T12:47:01.731239",
-            "status": "INACTIVE"
-        },
         "mkaltenpflege24h.pl": {
             "included_at_epoch": 1592755100.227939,
             "included_at_iso": "2020-06-21T15:58:20.227939",
-            "last_retested_at_epoch": 1594385221.82088,
-            "last_retested_at_iso": "2020-07-10T12:47:01.820880",
+            "last_retested_at_epoch": 1594513226.56164,
+            "last_retested_at_iso": "2020-07-12T00:20:26.561640",
             "status": "INACTIVE"
         },
         "mobilnyurlop.pl": {
@@ -969,8 +962,15 @@
         "mojakopia.pl": {
             "included_at_epoch": 1594297683.248713,
             "included_at_iso": "2020-07-09T12:28:03.248713",
-            "last_retested_at_epoch": 1594385221.909973,
-            "last_retested_at_iso": "2020-07-10T12:47:01.909973",
+            "last_retested_at_epoch": 1594513229.833531,
+            "last_retested_at_iso": "2020-07-12T00:20:29.833531",
+            "status": "INACTIVE"
+        },
+        "mstk.pl": {
+            "included_at_epoch": 1594513234.526342,
+            "included_at_iso": "2020-07-12T00:20:34.526342",
+            "last_retested_at_epoch": 1594513234.526342,
+            "last_retested_at_iso": "2020-07-12T00:20:34.526342",
             "status": "INACTIVE"
         },
         "mtpn.pl": {

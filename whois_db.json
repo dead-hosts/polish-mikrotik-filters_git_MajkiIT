@@ -18602,7 +18602,7 @@
     "kidstudio.pl": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "kierunkowy48.pl": {
         "epoch": 1602892800.0,
@@ -19427,6 +19427,11 @@
     "kurier-pocztex24.com": {
         "epoch": 1614643200.0,
         "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "kurier-twojapaczka.pl": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "kurier24-oplata.com": {
@@ -20382,7 +20387,7 @@
     "literaturafaktu.pl": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "litjackets.com": {
         "epoch": 1595721600.0,
@@ -20479,9 +20484,19 @@
         "expiration_date": "30-jun-2021",
         "state": "future"
     },
+    "lnpost.me": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
+    },
     "lnpost.net": {
         "epoch": 1624924800.0,
         "expiration_date": "29-jun-2021",
+        "state": "future"
+    },
+    "lnpost.org": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "lnpost.pl": {
@@ -20590,8 +20605,8 @@
         "state": "future"
     },
     "lolalynch.pl": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "lollipop-slodkiestoly.pl": {
@@ -20662,7 +20677,7 @@
     "lorete.pl": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "losososdesign.com": {
         "epoch": 1613692800.0,
@@ -21322,7 +21337,7 @@
     "marcin-rozycki.pl": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "marcofama.it": {
         "epoch": 1604448000.0,
@@ -22117,7 +22132,7 @@
     "micahproducts.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "michaelcastor.com": {
         "epoch": 1593216000.0,
@@ -23247,7 +23262,7 @@
     "musika.pl": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "muszynskiejadlo.pl": {
         "epoch": 1594857600.0,
