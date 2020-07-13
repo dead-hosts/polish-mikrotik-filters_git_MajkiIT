@@ -5659,8 +5659,8 @@
         "www.tangozwabrzycha.pl": {
             "included_at_epoch": 1594529000.387001,
             "included_at_iso": "2020-07-12T04:43:20.387001",
-            "last_retested_at_epoch": 1594529000.387001,
-            "last_retested_at_iso": "2020-07-12T04:43:20.387001",
+            "last_retested_at_epoch": 1594666012.377087,
+            "last_retested_at_iso": "2020-07-13T18:46:52.377087",
             "status": "INACTIVE"
         },
         "www.tatroscatering.com": {
@@ -5715,8 +5715,8 @@
         "www.testing3srv10.live": {
             "included_at_epoch": 1592269608.144882,
             "included_at_iso": "2020-06-16T01:06:48.144882",
-            "last_retested_at_epoch": 1594529000.954921,
-            "last_retested_at_iso": "2020-07-12T04:43:20.954921",
+            "last_retested_at_epoch": 1594666012.995392,
+            "last_retested_at_iso": "2020-07-13T18:46:52.995392",
             "status": "INACTIVE"
         },
         "www.testing3srv2.live": {
@@ -5785,15 +5785,15 @@
         "www.tiandewarszawa.pl": {
             "included_at_epoch": 1594529001.245485,
             "included_at_iso": "2020-07-12T04:43:21.245485",
-            "last_retested_at_epoch": 1594529001.245485,
-            "last_retested_at_iso": "2020-07-12T04:43:21.245485",
+            "last_retested_at_epoch": 1594666013.304559,
+            "last_retested_at_iso": "2020-07-13T18:46:53.304559",
             "status": "INACTIVE"
         },
         "www.timberlandchukka.pl": {
             "included_at_epoch": 1594529001.29252,
             "included_at_iso": "2020-07-12T04:43:21.292520",
-            "last_retested_at_epoch": 1594529001.29252,
-            "last_retested_at_iso": "2020-07-12T04:43:21.292520",
+            "last_retested_at_epoch": 1594666013.354837,
+            "last_retested_at_iso": "2020-07-13T18:46:53.354837",
             "status": "INACTIVE"
         },
         "www.tlumacz-wloskiego.com.pl": {
@@ -5813,8 +5813,8 @@
         "www.tomaszmumot.pl": {
             "included_at_epoch": 1594529001.488517,
             "included_at_iso": "2020-07-12T04:43:21.488517",
-            "last_retested_at_epoch": 1594529001.488517,
-            "last_retested_at_iso": "2020-07-12T04:43:21.488517",
+            "last_retested_at_epoch": 1594666013.557031,
+            "last_retested_at_iso": "2020-07-13T18:46:53.557031",
             "status": "INACTIVE"
         },
         "www.tomypolacy.online": {
@@ -5829,6 +5829,13 @@
             "included_at_iso": "2020-07-05T22:22:30.813109",
             "last_retested_at_epoch": 1594532763.721884,
             "last_retested_at_iso": "2020-07-12T05:46:03.721884",
+            "status": "INACTIVE"
+        },
+        "www.tunele-rozsaczajace.pl": {
+            "included_at_epoch": 1594666014.161237,
+            "included_at_iso": "2020-07-13T18:46:54.161237",
+            "last_retested_at_epoch": 1594666014.161237,
+            "last_retested_at_iso": "2020-07-13T18:46:54.161237",
             "status": "INACTIVE"
         },
         "www.tuobejrzysz.pl": {
@@ -5862,8 +5869,8 @@
         "www.twoj-kurier.services": {
             "included_at_epoch": 1594529002.419284,
             "included_at_iso": "2020-07-12T04:43:22.419284",
-            "last_retested_at_epoch": 1594529002.419284,
-            "last_retested_at_iso": "2020-07-12T04:43:22.419284",
+            "last_retested_at_epoch": 1594666014.581945,
+            "last_retested_at_iso": "2020-07-13T18:46:54.581945",
             "status": "INACTIVE"
         },
         "www.twoja-dostawa.com": {
@@ -5904,15 +5911,15 @@
         "www.twojapaczka.express": {
             "included_at_epoch": 1594529002.287348,
             "included_at_iso": "2020-07-12T04:43:22.287348",
-            "last_retested_at_epoch": 1594529002.287348,
-            "last_retested_at_iso": "2020-07-12T04:43:22.287348",
+            "last_retested_at_epoch": 1594666014.431996,
+            "last_retested_at_iso": "2020-07-13T18:46:54.431996",
             "status": "INACTIVE"
         },
         "www.twojapaczka.services": {
             "included_at_epoch": 1593122421.402599,
             "included_at_iso": "2020-06-25T22:00:21.402599",
-            "last_retested_at_epoch": 1594529002.306283,
-            "last_retested_at_iso": "2020-07-12T04:43:22.306283",
+            "last_retested_at_epoch": 1594666014.451863,
+            "last_retested_at_iso": "2020-07-13T18:46:54.451863",
             "status": "INACTIVE"
         },
         "www.twoje-foty.eu": {
@@ -5964,18 +5971,11 @@
             "last_retested_at_iso": "2020-07-12T05:31:26.220134",
             "status": "INACTIVE"
         },
-        "www.ubezpieczenieociac.pl": {
-            "included_at_epoch": 1594529002.560221,
-            "included_at_iso": "2020-07-12T04:43:22.560221",
-            "last_retested_at_epoch": 1594529002.560221,
-            "last_retested_at_iso": "2020-07-12T04:43:22.560221",
-            "status": "INACTIVE"
-        },
         "www.uggsklep.pl": {
             "included_at_epoch": 1594529002.635297,
             "included_at_iso": "2020-07-12T04:43:22.635297",
-            "last_retested_at_epoch": 1594529002.635297,
-            "last_retested_at_iso": "2020-07-12T04:43:22.635297",
+            "last_retested_at_epoch": 1594666014.810404,
+            "last_retested_at_iso": "2020-07-13T18:46:54.810404",
             "status": "INACTIVE"
         },
         "www.up-poczta-polska.net": {
@@ -5999,11 +5999,25 @@
             "last_retested_at_iso": "2020-07-12T05:46:06.321651",
             "status": "INACTIVE"
         },
+        "www.vanspl.pl": {
+            "included_at_epoch": 1594666015.450031,
+            "included_at_iso": "2020-07-13T18:46:55.450031",
+            "last_retested_at_epoch": 1594666015.450031,
+            "last_retested_at_iso": "2020-07-13T18:46:55.450031",
+            "status": "INACTIVE"
+        },
+        "www.vansprzecena.pl": {
+            "included_at_epoch": 1594666015.491009,
+            "included_at_iso": "2020-07-13T18:46:55.491009",
+            "last_retested_at_epoch": 1594666015.491009,
+            "last_retested_at_iso": "2020-07-13T18:46:55.491009",
+            "status": "INACTIVE"
+        },
         "www.vdlbova.pl": {
             "included_at_epoch": 1594529003.345298,
             "included_at_iso": "2020-07-12T04:43:23.345298",
-            "last_retested_at_epoch": 1594529003.345298,
-            "last_retested_at_iso": "2020-07-12T04:43:23.345298",
+            "last_retested_at_epoch": 1594666015.584476,
+            "last_retested_at_iso": "2020-07-13T18:46:55.584476",
             "status": "INACTIVE"
         },
         "www.visegrad4bicyclerace.pl": {
@@ -6016,15 +6030,15 @@
         "www.vodafone.com-gift-winner-lucky-day.vip": {
             "included_at_epoch": 1594529003.734249,
             "included_at_iso": "2020-07-12T04:43:23.734249",
-            "last_retested_at_epoch": 1594529003.734249,
-            "last_retested_at_iso": "2020-07-12T04:43:23.734249",
+            "last_retested_at_epoch": 1594666016.037745,
+            "last_retested_at_iso": "2020-07-13T18:46:56.037745",
             "status": "INACTIVE"
         },
         "www.warzonedns.com": {
             "included_at_epoch": 1594530585.997822,
             "included_at_iso": "2020-07-12T05:09:45.997822",
-            "last_retested_at_epoch": 1594530585.997822,
-            "last_retested_at_iso": "2020-07-12T05:09:45.997822",
+            "last_retested_at_epoch": 1594666016.452001,
+            "last_retested_at_iso": "2020-07-13T18:46:56.452001",
             "status": "INACTIVE"
         },
         "www.wdcdn.com": {
