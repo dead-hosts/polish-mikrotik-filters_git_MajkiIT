@@ -33637,7 +33637,7 @@
     "svkacademy.com": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "svo.cl": {
         "epoch": 1685404800.0,
@@ -35235,9 +35235,9 @@
         "state": "future"
     },
     "tootu.pl": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
-        "state": "past"
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
     },
     "top-daily-profit.com": {
         "epoch": 1610841600.0,
@@ -35487,6 +35487,11 @@
     "trampkitanie.pl": {
         "epoch": 1617667200.0,
         "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
+    "trampoliny.biz": {
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "trampolshop.com": {
@@ -35750,8 +35755,8 @@
         "state": "future"
     },
     "tunele-rozsaczajace.pl": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "tuniaf.com": {
@@ -35890,9 +35895,9 @@
         "state": "future"
     },
     "twoja-kariera.pl": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
-        "state": "past"
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
     },
     "twoja-pozyczka.com": {
         "epoch": 1612828800.0,
@@ -37115,9 +37120,9 @@
         "state": "future"
     },
     "vitinhvnt.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
-        "state": "past"
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
     },
     "vitromed.ro": {
         "epoch": 1877472000.0,
