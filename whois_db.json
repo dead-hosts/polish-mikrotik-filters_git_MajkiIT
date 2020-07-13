@@ -30169,6 +30169,11 @@
         "expiration_date": "18-aug-2020",
         "state": "future"
     },
+    "reservasbestco.com.br": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
+    },
     "residencelesarchanges.com": {
         "epoch": 1611100800.0,
         "expiration_date": "20-jan-2021",
@@ -30180,8 +30185,8 @@
         "state": "future"
     },
     "restauracjagracja.pl": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "restauracjah2o.pl": {
@@ -31570,9 +31575,9 @@
         "state": "future"
     },
     "sgipn.pl": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
-        "state": "past"
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
     },
     "sgraffito.com.pl": {
         "epoch": 1615248000.0,
@@ -31745,14 +31750,14 @@
         "state": "future"
     },
     "showmeflix.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
-        "state": "past"
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
     },
     "showsplash.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
-        "state": "past"
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
     },
     "showup-tv.com.pl": {
         "epoch": 1605225600.0,
@@ -32552,6 +32557,11 @@
     "sometechsense.com": {
         "epoch": 1619654400.0,
         "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
+    "songsrsuper.com": {
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
         "state": "future"
     },
     "sonnyelectric.com": {

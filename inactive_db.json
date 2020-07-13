@@ -1365,11 +1365,18 @@
             "last_retested_at_iso": "2020-07-13T12:49:30.574865",
             "status": "INACTIVE"
         },
+        "przytulisko.net.pl": {
+            "included_at_epoch": 1594646464.527852,
+            "included_at_iso": "2020-07-13T13:21:04.527852",
+            "last_retested_at_epoch": 1594646464.527852,
+            "last_retested_at_iso": "2020-07-13T13:21:04.527852",
+            "status": "INACTIVE"
+        },
         "r-dach.pl": {
             "included_at_epoch": 1594300680.435537,
             "included_at_iso": "2020-07-09T13:18:00.435537",
-            "last_retested_at_epoch": 1594516830.511828,
-            "last_retested_at_iso": "2020-07-12T01:20:30.511828",
+            "last_retested_at_epoch": 1594646474.70137,
+            "last_retested_at_iso": "2020-07-13T13:21:14.701370",
             "status": "INACTIVE"
         },
         "real-app.date": {
@@ -1382,8 +1389,8 @@
         "reeboknpcii.pl": {
             "included_at_epoch": 1593970628.213598,
             "included_at_iso": "2020-07-05T17:37:08.213598",
-            "last_retested_at_epoch": 1594516832.121176,
-            "last_retested_at_iso": "2020-07-12T01:20:32.121176",
+            "last_retested_at_epoch": 1594646476.532107,
+            "last_retested_at_iso": "2020-07-13T13:21:16.532107",
             "status": "INACTIVE"
         },
         "revinex.pl": {
@@ -1396,29 +1403,43 @@
         "rewardrey.com": {
             "included_at_epoch": 1592498965.541896,
             "included_at_iso": "2020-06-18T16:49:25.541896",
-            "last_retested_at_epoch": 1594516836.053941,
-            "last_retested_at_iso": "2020-07-12T01:20:36.053941",
+            "last_retested_at_epoch": 1594646480.854175,
+            "last_retested_at_iso": "2020-07-13T13:21:20.854175",
             "status": "INACTIVE"
         },
         "rowanyne.ooo": {
             "included_at_epoch": 1592836723.226615,
             "included_at_iso": "2020-06-22T14:38:43.226615",
-            "last_retested_at_epoch": 1594516839.428215,
-            "last_retested_at_iso": "2020-07-12T01:20:39.428215",
+            "last_retested_at_epoch": 1594646484.479836,
+            "last_retested_at_iso": "2020-07-13T13:21:24.479836",
             "status": "INACTIVE"
         },
         "rt4e34.win": {
             "included_at_epoch": 1593102649.297583,
             "included_at_iso": "2020-06-25T16:30:49.297583",
-            "last_retested_at_epoch": 1594516840.242053,
-            "last_retested_at_iso": "2020-07-12T01:20:40.242053",
+            "last_retested_at_epoch": 1594646485.40094,
+            "last_retested_at_iso": "2020-07-13T13:21:25.400940",
+            "status": "INACTIVE"
+        },
+        "rubi4edit.com": {
+            "included_at_epoch": 1594646485.562147,
+            "included_at_iso": "2020-07-13T13:21:25.562147",
+            "last_retested_at_epoch": 1594646485.562147,
+            "last_retested_at_iso": "2020-07-13T13:21:25.562147",
             "status": "INACTIVE"
         },
         "saarthieduhub.com": {
             "included_at_epoch": 1592498971.411186,
             "included_at_iso": "2020-06-18T16:49:31.411186",
-            "last_retested_at_epoch": 1594516841.865315,
-            "last_retested_at_iso": "2020-07-12T01:20:41.865315",
+            "last_retested_at_epoch": 1594646487.005765,
+            "last_retested_at_iso": "2020-07-13T13:21:27.005765",
+            "status": "INACTIVE"
+        },
+        "sabzgame.ir": {
+            "included_at_epoch": 1594646487.18128,
+            "included_at_iso": "2020-07-13T13:21:27.181280",
+            "last_retested_at_epoch": 1594646487.18128,
+            "last_retested_at_iso": "2020-07-13T13:21:27.181280",
             "status": "INACTIVE"
         },
         "sandomir.pl": {
@@ -1431,22 +1452,22 @@
         "sashapikula.com": {
             "included_at_epoch": 1593970640.307293,
             "included_at_iso": "2020-07-05T17:37:20.307293",
-            "last_retested_at_epoch": 1594516844.398409,
-            "last_retested_at_iso": "2020-07-12T01:20:44.398409",
+            "last_retested_at_epoch": 1594646489.87146,
+            "last_retested_at_iso": "2020-07-13T13:21:29.871460",
             "status": "INACTIVE"
         },
         "sasiedzkiportal.eu": {
             "included_at_epoch": 1594300695.005482,
             "included_at_iso": "2020-07-09T13:18:15.005482",
-            "last_retested_at_epoch": 1594516844.552951,
-            "last_retested_at_iso": "2020-07-12T01:20:44.552951",
+            "last_retested_at_epoch": 1594646489.887703,
+            "last_retested_at_iso": "2020-07-13T13:21:29.887703",
             "status": "INACTIVE"
         },
         "secondhand-gwo24.pl": {
             "included_at_epoch": 1594042717.496486,
             "included_at_iso": "2020-07-06T13:38:37.496486",
-            "last_retested_at_epoch": 1594516846.657173,
-            "last_retested_at_iso": "2020-07-12T01:20:46.657173",
+            "last_retested_at_epoch": 1594646492.288136,
+            "last_retested_at_iso": "2020-07-13T13:21:32.288136",
             "status": "INACTIVE"
         },
         "secure4app.com": {
@@ -1466,8 +1487,8 @@
         "sigma1.eu": {
             "included_at_epoch": 1592757313.642852,
             "included_at_iso": "2020-06-21T16:35:13.642852",
-            "last_retested_at_epoch": 1594516853.033176,
-            "last_retested_at_iso": "2020-07-12T01:20:53.033176",
+            "last_retested_at_epoch": 1594646499.072643,
+            "last_retested_at_iso": "2020-07-13T13:21:39.072643",
             "status": "INACTIVE"
         },
         "sitenews.098.pl": {
@@ -1491,6 +1512,13 @@
             "last_retested_at_iso": "2020-07-12T05:31:26.643005",
             "status": "INACTIVE"
         },
+        "solutions.nalbatech.com": {
+            "included_at_epoch": 1594646508.847095,
+            "included_at_iso": "2020-07-13T13:21:48.847095",
+            "last_retested_at_epoch": 1594646508.847095,
+            "last_retested_at_iso": "2020-07-13T13:21:48.847095",
+            "status": "INACTIVE"
+        },
         "spartakiada2014.com.pl": {
             "included_at_epoch": 1592758346.669862,
             "included_at_iso": "2020-06-21T16:52:26.669862",
@@ -1498,18 +1526,11 @@
             "last_retested_at_iso": "2020-07-12T05:31:23.876216",
             "status": "INACTIVE"
         },
-        "sprawdziany-odpowiedzi.bo.pl": {
-            "included_at_epoch": 1594388226.579081,
-            "included_at_iso": "2020-07-10T13:37:06.579081",
-            "last_retested_at_epoch": 1594517882.054463,
-            "last_retested_at_iso": "2020-07-12T01:38:02.054463",
-            "status": "INACTIVE"
-        },
         "sso.cloud.idecloud.com.pl": {
             "included_at_epoch": 1593103708.531338,
             "included_at_iso": "2020-06-25T16:48:28.531338",
-            "last_retested_at_epoch": 1594517883.790428,
-            "last_retested_at_iso": "2020-07-12T01:38:03.790428",
+            "last_retested_at_epoch": 1594646515.127908,
+            "last_retested_at_iso": "2020-07-13T13:21:55.127908",
             "status": "INACTIVE"
         },
         "statmach.pl": {
