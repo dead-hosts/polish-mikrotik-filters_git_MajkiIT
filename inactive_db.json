@@ -1820,6 +1820,13 @@
             "last_retested_at_iso": "2020-07-13T14:15:29.354230",
             "status": "INACTIVE"
         },
+        "www.aibd.sn": {
+            "included_at_epoch": 1594733433.762501,
+            "included_at_iso": "2020-07-14T13:30:33.762501",
+            "last_retested_at_epoch": 1594733433.762501,
+            "last_retested_at_iso": "2020-07-14T13:30:33.762501",
+            "status": "INACTIVE"
+        },
         "www.aktywacja.allegro6.pl": {
             "included_at_epoch": 1592502644.38436,
             "included_at_iso": "2020-06-18T17:50:44.384360",
@@ -1923,6 +1930,13 @@
             "included_at_iso": "2020-07-12T02:06:58.249717",
             "last_retested_at_epoch": 1594649730.258646,
             "last_retested_at_iso": "2020-07-13T14:15:30.258646",
+            "status": "INACTIVE"
+        },
+        "www.annitakurier.org": {
+            "included_at_epoch": 1594733434.472117,
+            "included_at_iso": "2020-07-14T13:30:34.472117",
+            "last_retested_at_epoch": 1594733434.472117,
+            "last_retested_at_iso": "2020-07-14T13:30:34.472117",
             "status": "INACTIVE"
         },
         "www.antyfeministyczna.pl": {
@@ -2030,11 +2044,32 @@
             "last_retested_at_iso": "2020-07-13T20:02:26.283336",
             "status": "INACTIVE"
         },
+        "www.australiabuty.pl": {
+            "included_at_epoch": 1594733434.99198,
+            "included_at_iso": "2020-07-14T13:30:34.991980",
+            "last_retested_at_epoch": 1594733434.99198,
+            "last_retested_at_iso": "2020-07-14T13:30:34.991980",
+            "status": "INACTIVE"
+        },
         "www.autokemar.pl": {
             "included_at_epoch": 1593974599.485437,
             "included_at_iso": "2020-07-05T18:43:19.485437",
             "last_retested_at_epoch": 1594670543.791012,
             "last_retested_at_iso": "2020-07-13T20:02:23.791012",
+            "status": "INACTIVE"
+        },
+        "www.automatyczny-dozownikmydla-pl.com": {
+            "included_at_epoch": 1594733435.031103,
+            "included_at_iso": "2020-07-14T13:30:35.031103",
+            "last_retested_at_epoch": 1594733435.031103,
+            "last_retested_at_iso": "2020-07-14T13:30:35.031103",
+            "status": "INACTIVE"
+        },
+        "www.bademandirguruji.com": {
+            "included_at_epoch": 1594733435.192819,
+            "included_at_iso": "2020-07-14T13:30:35.192819",
+            "last_retested_at_epoch": 1594733435.192819,
+            "last_retested_at_iso": "2020-07-14T13:30:35.192819",
             "status": "INACTIVE"
         },
         "www.bagstory.pl": {
@@ -2056,6 +2091,13 @@
             "included_at_iso": "2020-07-13T14:34:41.083546",
             "last_retested_at_epoch": 1594650881.083546,
             "last_retested_at_iso": "2020-07-13T14:34:41.083546",
+            "status": "INACTIVE"
+        },
+        "www.baseny.in": {
+            "included_at_epoch": 1594733435.314397,
+            "included_at_iso": "2020-07-14T13:30:35.314397",
+            "last_retested_at_epoch": 1594733435.314397,
+            "last_retested_at_iso": "2020-07-14T13:30:35.314397",
             "status": "INACTIVE"
         },
         "www.biletka.pl": {
