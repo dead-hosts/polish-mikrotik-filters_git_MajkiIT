@@ -33700,9 +33700,9 @@
         "state": "future"
     },
     "svkacademy.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
-        "state": "past"
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
+        "state": "future"
     },
     "svo.cl": {
         "epoch": 1685404800.0,
@@ -35792,6 +35792,11 @@
     "tuglakmotorbike.com": {
         "epoch": 1613865600.0,
         "expiration_date": "21-feb-2021",
+        "state": "future"
+    },
+    "tujestpolska.icu": {
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "tukociel.pl": {
