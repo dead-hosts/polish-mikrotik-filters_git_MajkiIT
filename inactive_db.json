@@ -87,8 +87,8 @@
         "a.alibuf.com:3": {
             "included_at_epoch": 1594507358.747135,
             "included_at_iso": "2020-07-11T22:42:38.747135",
-            "last_retested_at_epoch": 1594636707.331027,
-            "last_retested_at_iso": "2020-07-13T10:38:27.331027",
+            "last_retested_at_epoch": 1594724894.966159,
+            "last_retested_at_iso": "2020-07-14T11:08:14.966159",
             "status": "INVALID"
         },
         "acontrario.pl": {
@@ -115,15 +115,15 @@
         "akademiamocowania.pl": {
             "included_at_epoch": 1594636715.281426,
             "included_at_iso": "2020-07-13T10:38:35.281426",
-            "last_retested_at_epoch": 1594636715.281426,
-            "last_retested_at_iso": "2020-07-13T10:38:35.281426",
+            "last_retested_at_epoch": 1594724894.980793,
+            "last_retested_at_iso": "2020-07-14T11:08:14.980793",
             "status": "INACTIVE"
         },
         "akademiasw.pl": {
             "included_at_epoch": 1594636715.357239,
             "included_at_iso": "2020-07-13T10:38:35.357239",
-            "last_retested_at_epoch": 1594636715.357239,
-            "last_retested_at_iso": "2020-07-13T10:38:35.357239",
+            "last_retested_at_epoch": 1594724894.994601,
+            "last_retested_at_iso": "2020-07-14T11:08:14.994601",
             "status": "INACTIVE"
         },
         "aktywacja.allegro6.pl": {
