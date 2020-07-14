@@ -3122,6 +3122,13 @@
             "last_retested_at_iso": "2020-07-13T15:45:03.939799",
             "status": "INACTIVE"
         },
+        "www.gamee.top": {
+            "included_at_epoch": 1594736653.823757,
+            "included_at_iso": "2020-07-14T14:24:13.823757",
+            "last_retested_at_epoch": 1594736653.823757,
+            "last_retested_at_iso": "2020-07-14T14:24:13.823757",
+            "status": "INACTIVE"
+        },
         "www.garternal1.live": {
             "included_at_epoch": 1594523384.348758,
             "included_at_iso": "2020-07-12T03:09:44.348758",
@@ -3197,6 +3204,13 @@
             "included_at_iso": "2020-07-01T18:38:45.178794",
             "last_retested_at_epoch": 1594670542.493869,
             "last_retested_at_iso": "2020-07-13T20:02:22.493869",
+            "status": "INACTIVE"
+        },
+        "www.gdynia-fakt24.pl": {
+            "included_at_epoch": 1594736654.052455,
+            "included_at_iso": "2020-07-14T14:24:14.052455",
+            "last_retested_at_epoch": 1594736654.052455,
+            "last_retested_at_iso": "2020-07-14T14:24:14.052455",
             "status": "INACTIVE"
         },
         "www.getin-secure-bank.xyz": {
