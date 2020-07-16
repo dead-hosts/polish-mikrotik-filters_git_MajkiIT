@@ -30035,9 +30035,9 @@
         "state": "future"
     },
     "redgreenblogs.com": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
-        "state": "past"
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
+        "state": "future"
     },
     "redirectzone.com": {
         "epoch": 1622937600.0,
@@ -31492,7 +31492,7 @@
     "sendspace.pw": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "sensecafe.com.pl": {
         "epoch": 1595548800.0,
@@ -31672,6 +31672,11 @@
     "setup-firefox.host": {
         "epoch": 1611619200.0,
         "expiration_date": "26-jan-2021",
+        "state": "future"
+    },
+    "sevea-fr.com": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "seven.ge": {
@@ -32510,8 +32515,8 @@
         "state": "future"
     },
     "sneakerssklep.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
         "state": "future"
     },
     "sneakerstore.com.pl": {
