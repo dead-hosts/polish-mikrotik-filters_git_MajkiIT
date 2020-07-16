@@ -2314,6 +2314,11 @@
         "expiration_date": "28-jan-2021",
         "state": "future"
     },
+    "anythingbilliest.com": {
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
+        "state": "future"
+    },
     "apartahotelfamilyhouse.com": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
@@ -2372,6 +2377,11 @@
     "aplikacjaemuia.pl": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "aplikacjaplay.com": {
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "aplikacjeplay.com": {
@@ -2855,8 +2865,8 @@
         "state": "future"
     },
     "atlanticcity.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "atlanticgam.online": {
@@ -3697,7 +3707,7 @@
     "berryen.com": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bert24.com": {
         "epoch": 1610841600.0,
@@ -4312,6 +4322,11 @@
     "blok-gp.com.pl": {
         "epoch": 1625875200.0,
         "expiration_date": "10-jul-2021",
+        "state": "future"
+    },
+    "bloomcareltd.co.uk": {
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "blubox.pl": {
