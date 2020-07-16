@@ -1078,13 +1078,6 @@
             "last_retested_at_iso": "2020-07-16T12:19:19.927190",
             "status": "INACTIVE"
         },
-        "osphutastara.pl": {
-            "included_at_epoch": 1592497896.301634,
-            "included_at_iso": "2020-06-18T16:31:36.301634",
-            "last_retested_at_epoch": 1594669382.871848,
-            "last_retested_at_iso": "2020-07-13T19:43:02.871848",
-            "status": "INACTIVE"
-        },
         "ostatniachwila.098.pl": {
             "included_at_epoch": 1594298744.332626,
             "included_at_iso": "2020-07-09T12:45:44.332626",
@@ -6037,22 +6030,22 @@
         "www.vanspl.pl": {
             "included_at_epoch": 1594666015.450031,
             "included_at_iso": "2020-07-13T18:46:55.450031",
-            "last_retested_at_epoch": 1594666015.450031,
-            "last_retested_at_iso": "2020-07-13T18:46:55.450031",
+            "last_retested_at_epoch": 1594918263.996613,
+            "last_retested_at_iso": "2020-07-16T16:51:03.996613",
             "status": "INACTIVE"
         },
         "www.vansprzecena.pl": {
             "included_at_epoch": 1594666015.491009,
             "included_at_iso": "2020-07-13T18:46:55.491009",
-            "last_retested_at_epoch": 1594666015.491009,
-            "last_retested_at_iso": "2020-07-13T18:46:55.491009",
+            "last_retested_at_epoch": 1594918264.027855,
+            "last_retested_at_iso": "2020-07-16T16:51:04.027855",
             "status": "INACTIVE"
         },
         "www.vdlbova.pl": {
             "included_at_epoch": 1594529003.345298,
             "included_at_iso": "2020-07-12T04:43:23.345298",
-            "last_retested_at_epoch": 1594666015.584476,
-            "last_retested_at_iso": "2020-07-13T18:46:55.584476",
+            "last_retested_at_epoch": 1594918264.12186,
+            "last_retested_at_iso": "2020-07-16T16:51:04.121860",
             "status": "INACTIVE"
         },
         "www.visegrad4bicyclerace.pl": {
@@ -6065,15 +6058,22 @@
         "www.vodafone.com-gift-winner-lucky-day.vip": {
             "included_at_epoch": 1594529003.734249,
             "included_at_iso": "2020-07-12T04:43:23.734249",
-            "last_retested_at_epoch": 1594666016.037745,
-            "last_retested_at_iso": "2020-07-13T18:46:56.037745",
+            "last_retested_at_epoch": 1594918264.574323,
+            "last_retested_at_iso": "2020-07-16T16:51:04.574323",
+            "status": "INACTIVE"
+        },
+        "www.warszawa-gov.pl": {
+            "included_at_epoch": 1594918264.981783,
+            "included_at_iso": "2020-07-16T16:51:04.981783",
+            "last_retested_at_epoch": 1594918264.981783,
+            "last_retested_at_iso": "2020-07-16T16:51:04.981783",
             "status": "INACTIVE"
         },
         "www.warzonedns.com": {
             "included_at_epoch": 1594530585.997822,
             "included_at_iso": "2020-07-12T05:09:45.997822",
-            "last_retested_at_epoch": 1594666016.452001,
-            "last_retested_at_iso": "2020-07-13T18:46:56.452001",
+            "last_retested_at_epoch": 1594918265.012458,
+            "last_retested_at_iso": "2020-07-16T16:51:05.012458",
             "status": "INACTIVE"
         },
         "www.wdcdn.com": {
@@ -6095,6 +6095,13 @@
             "included_at_iso": "2020-06-21T19:49:53.218600",
             "last_retested_at_epoch": 1594669380.296886,
             "last_retested_at_iso": "2020-07-13T19:43:00.296886",
+            "status": "INACTIVE"
+        },
+        "www.weryfikacja-kosmetyczki.biz": {
+            "included_at_epoch": 1594918265.308489,
+            "included_at_iso": "2020-07-16T16:51:05.308489",
+            "last_retested_at_epoch": 1594918265.308489,
+            "last_retested_at_iso": "2020-07-16T16:51:05.308489",
             "status": "INACTIVE"
         },
         "www.wirtualna-uczelnia.pl": {
@@ -6146,6 +6153,13 @@
             "last_retested_at_iso": "2020-07-13T19:43:03.744313",
             "status": "INACTIVE"
         },
+        "www.ww1.shinden-anime.info": {
+            "included_at_epoch": 1594918266.14678,
+            "included_at_iso": "2020-07-16T16:51:06.146780",
+            "last_retested_at_epoch": 1594918266.14678,
+            "last_retested_at_iso": "2020-07-16T16:51:06.146780",
+            "status": "INACTIVE"
+        },
         "www.ww7.openwrt.com": {
             "included_at_epoch": 1594319546.783161,
             "included_at_iso": "2020-07-09T18:32:26.783161",
@@ -6191,22 +6205,15 @@
         "www.wysylka247.online": {
             "included_at_epoch": 1594530587.336401,
             "included_at_iso": "2020-07-12T05:09:47.336401",
-            "last_retested_at_epoch": 1594668024.013437,
-            "last_retested_at_iso": "2020-07-13T19:20:24.013437",
-            "status": "INACTIVE"
-        },
-        "www.wytfforniaglosu.pl": {
-            "included_at_epoch": 1594743866.116565,
-            "included_at_iso": "2020-07-14T16:24:26.116565",
-            "last_retested_at_epoch": 1594743866.116565,
-            "last_retested_at_iso": "2020-07-14T16:24:26.116565",
+            "last_retested_at_epoch": 1594918266.44473,
+            "last_retested_at_iso": "2020-07-16T16:51:06.444730",
             "status": "INACTIVE"
         },
         "www.xn--adidasgazellemskie-qnc.pl": {
             "included_at_epoch": 1594668024.219185,
             "included_at_iso": "2020-07-13T19:20:24.219185",
-            "last_retested_at_epoch": 1594668024.219185,
-            "last_retested_at_iso": "2020-07-13T19:20:24.219185",
+            "last_retested_at_epoch": 1594918266.669407,
+            "last_retested_at_iso": "2020-07-16T16:51:06.669407",
             "status": "INACTIVE"
         },
         "www.yeezy-boost350.pl": {
@@ -6214,13 +6221,6 @@
             "included_at_iso": "2020-06-25T22:17:38.896566",
             "last_retested_at_epoch": 1594669379.580602,
             "last_retested_at_iso": "2020-07-13T19:42:59.580602",
-            "status": "INACTIVE"
-        },
-        "www.yoyo-zdjecia.bo.pl": {
-            "included_at_epoch": 1594743866.624707,
-            "included_at_iso": "2020-07-14T16:24:26.624707",
-            "last_retested_at_epoch": 1594743866.624707,
-            "last_retested_at_iso": "2020-07-14T16:24:26.624707",
             "status": "INACTIVE"
         },
         "www.zaadoptujstacjeladowania.com.pl": {
@@ -6247,8 +6247,8 @@
         "www.zajazdoaza.pl": {
             "included_at_epoch": 1594668024.698773,
             "included_at_iso": "2020-07-13T19:20:24.698773",
-            "last_retested_at_epoch": 1594668024.698773,
-            "last_retested_at_iso": "2020-07-13T19:20:24.698773",
+            "last_retested_at_epoch": 1594918267.165447,
+            "last_retested_at_iso": "2020-07-16T16:51:07.165447",
             "status": "INACTIVE"
         },
         "www.zalukaj.online": {
@@ -6268,8 +6268,8 @@
         "www.zamawiam.h2g.pl": {
             "included_at_epoch": 1594668025.012489,
             "included_at_iso": "2020-07-13T19:20:25.012489",
-            "last_retested_at_epoch": 1594668025.012489,
-            "last_retested_at_iso": "2020-07-13T19:20:25.012489",
+            "last_retested_at_epoch": 1594918267.481404,
+            "last_retested_at_iso": "2020-07-16T16:51:07.481404",
             "status": "INACTIVE"
         },
         "www.zenicla.com": {
@@ -6286,18 +6286,11 @@
             "last_retested_at_iso": "2020-07-13T20:02:25.655098",
             "status": "INACTIVE"
         },
-        "www.zespol-artigo.pl": {
-            "included_at_epoch": 1594744747.314806,
-            "included_at_iso": "2020-07-14T16:39:07.314806",
-            "last_retested_at_epoch": 1594744747.314806,
-            "last_retested_at_iso": "2020-07-14T16:39:07.314806",
-            "status": "INACTIVE"
-        },
         "www.zxflux.pl": {
             "included_at_epoch": 1594668026.052674,
             "included_at_iso": "2020-07-13T19:20:26.052674",
-            "last_retested_at_epoch": 1594668026.052674,
-            "last_retested_at_iso": "2020-07-13T19:20:26.052674",
+            "last_retested_at_epoch": 1594918268.539929,
+            "last_retested_at_iso": "2020-07-16T16:51:08.539929",
             "status": "INACTIVE"
         },
         "www2.jessicagalfas.com": {
