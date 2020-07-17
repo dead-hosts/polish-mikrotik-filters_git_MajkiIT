@@ -5593,6 +5593,13 @@
             "last_retested_at_iso": "2020-07-16T16:33:10.196789",
             "status": "INVALID"
         },
+        "www.swiecomania.pl": {
+            "included_at_epoch": 1595002316.64402,
+            "included_at_iso": "2020-07-17T16:11:56.644020",
+            "last_retested_at_epoch": 1595002316.64402,
+            "last_retested_at_iso": "2020-07-17T16:11:56.644020",
+            "status": "INACTIVE"
+        },
         "www.szczepienie.net.pl": {
             "included_at_epoch": 1594664474.106412,
             "included_at_iso": "2020-07-13T18:21:14.106412",
@@ -5913,6 +5920,13 @@
             "included_at_iso": "2020-07-12T04:43:23.734249",
             "last_retested_at_epoch": 1594918264.574323,
             "last_retested_at_iso": "2020-07-16T16:51:04.574323",
+            "status": "INACTIVE"
+        },
+        "www.wachoviamotors.pl": {
+            "included_at_epoch": 1595002320.939889,
+            "included_at_iso": "2020-07-17T16:12:00.939889",
+            "last_retested_at_epoch": 1595002320.939889,
+            "last_retested_at_iso": "2020-07-17T16:12:00.939889",
             "status": "INACTIVE"
         },
         "www.warszawa-gov.pl": {
