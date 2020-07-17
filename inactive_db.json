@@ -311,15 +311,15 @@
         "bubblelife70.life": {
             "included_at_epoch": 1593097239.608061,
             "included_at_iso": "2020-06-25T15:00:39.608061",
-            "last_retested_at_epoch": 1594897610.551805,
-            "last_retested_at_iso": "2020-07-16T11:06:50.551805",
+            "last_retested_at_epoch": 1594985579.468342,
+            "last_retested_at_iso": "2020-07-17T11:32:59.468342",
             "status": "INACTIVE"
         },
         "buty-superstar.pl": {
             "included_at_epoch": 1594897613.059007,
             "included_at_iso": "2020-07-16T11:06:53.059007",
-            "last_retested_at_epoch": 1594897613.059007,
-            "last_retested_at_iso": "2020-07-16T11:06:53.059007",
+            "last_retested_at_epoch": 1594985579.482647,
+            "last_retested_at_iso": "2020-07-17T11:32:59.482647",
             "status": "INACTIVE"
         },
         "butysportowe-online.pl": {
@@ -332,36 +332,36 @@
         "c.vvvvvvvvv.ga:443": {
             "included_at_epoch": 1594509342.844133,
             "included_at_iso": "2020-07-11T23:15:42.844133",
-            "last_retested_at_epoch": 1594897636.680759,
-            "last_retested_at_iso": "2020-07-16T11:07:16.680759",
+            "last_retested_at_epoch": 1594985579.55068,
+            "last_retested_at_iso": "2020-07-17T11:32:59.550680",
             "status": "INVALID"
         },
         "cbk.m.dodo52.com": {
             "included_at_epoch": 1594897616.640105,
             "included_at_iso": "2020-07-16T11:06:56.640105",
-            "last_retested_at_epoch": 1594897616.640105,
-            "last_retested_at_iso": "2020-07-16T11:06:56.640105",
+            "last_retested_at_epoch": 1594985579.496619,
+            "last_retested_at_iso": "2020-07-17T11:32:59.496619",
             "status": "INACTIVE"
         },
         "chinhdropfile.myvnc.com:81": {
             "included_at_epoch": 1594509326.475409,
             "included_at_iso": "2020-07-11T23:15:26.475409",
-            "last_retested_at_epoch": 1594897621.2134,
-            "last_retested_at_iso": "2020-07-16T11:07:01.213400",
+            "last_retested_at_epoch": 1594985579.523695,
+            "last_retested_at_iso": "2020-07-17T11:32:59.523695",
             "status": "INVALID"
         },
         "chinhdropfile80.myvnc.com:81": {
             "included_at_epoch": 1594509326.46298,
             "included_at_iso": "2020-07-11T23:15:26.462980",
-            "last_retested_at_epoch": 1594897621.198718,
-            "last_retested_at_iso": "2020-07-16T11:07:01.198718",
+            "last_retested_at_epoch": 1594985579.510149,
+            "last_retested_at_iso": "2020-07-17T11:32:59.510149",
             "status": "INVALID"
         },
         "chj.m.dodo52.com": {
             "included_at_epoch": 1594897621.354482,
             "included_at_iso": "2020-07-16T11:07:01.354482",
-            "last_retested_at_epoch": 1594897621.354482,
-            "last_retested_at_iso": "2020-07-16T11:07:01.354482",
+            "last_retested_at_epoch": 1594985579.537186,
+            "last_retested_at_iso": "2020-07-17T11:32:59.537186",
             "status": "INACTIVE"
         },
         "cnto.pl": {
@@ -476,6 +476,13 @@
             "last_retested_at_iso": "2020-07-17T11:16:00.330602",
             "status": "INACTIVE"
         },
+        "e-blackwhite.pl": {
+            "included_at_epoch": 1594985581.329323,
+            "included_at_iso": "2020-07-17T11:33:01.329323",
+            "last_retested_at_epoch": 1594985581.329323,
+            "last_retested_at_iso": "2020-07-17T11:33:01.329323",
+            "status": "INACTIVE"
+        },
         "eastmostlitharges.online": {
             "included_at_epoch": 1593358014.813916,
             "included_at_iso": "2020-06-28T15:26:54.813916",
@@ -511,11 +518,25 @@
             "last_retested_at_iso": "2020-07-16T11:24:53.369343",
             "status": "INACTIVE"
         },
+        "emonitoring.poczta-polska8.pl": {
+            "included_at_epoch": 1594985591.212847,
+            "included_at_iso": "2020-07-17T11:33:11.212847",
+            "last_retested_at_epoch": 1594985591.212847,
+            "last_retested_at_iso": "2020-07-17T11:33:11.212847",
+            "status": "INACTIVE"
+        },
         "epicreact.pl": {
             "included_at_epoch": 1593617803.217006,
             "included_at_iso": "2020-07-01T15:36:43.217006",
             "last_retested_at_epoch": 1594920709.292293,
             "last_retested_at_iso": "2020-07-16T17:31:49.292293",
+            "status": "INACTIVE"
+        },
+        "europeancupkyokushin.pl": {
+            "included_at_epoch": 1594985601.811694,
+            "included_at_iso": "2020-07-17T11:33:21.811694",
+            "last_retested_at_epoch": 1594985601.811694,
+            "last_retested_at_iso": "2020-07-17T11:33:21.811694",
             "status": "INACTIVE"
         },
         "facebook.twoje-foty.eu": {
@@ -549,36 +570,36 @@
         "fevitum.pl": {
             "included_at_epoch": 1593098364.003004,
             "included_at_iso": "2020-06-25T15:19:24.003004",
-            "last_retested_at_epoch": 1594898713.742409,
-            "last_retested_at_iso": "2020-07-16T11:25:13.742409",
+            "last_retested_at_epoch": 1594985611.530056,
+            "last_retested_at_iso": "2020-07-17T11:33:31.530056",
             "status": "INACTIVE"
         },
         "fightfly.pl": {
             "included_at_epoch": 1593098364.537503,
             "included_at_iso": "2020-06-25T15:19:24.537503",
-            "last_retested_at_epoch": 1594898714.346587,
-            "last_retested_at_iso": "2020-07-16T11:25:14.346587",
+            "last_retested_at_epoch": 1594985611.885375,
+            "last_retested_at_iso": "2020-07-17T11:33:31.885375",
             "status": "INACTIVE"
         },
         "flipkrt.club": {
             "included_at_epoch": 1594294692.332806,
             "included_at_iso": "2020-07-09T11:38:12.332806",
-            "last_retested_at_epoch": 1594898722.135846,
-            "last_retested_at_iso": "2020-07-16T11:25:22.135846",
+            "last_retested_at_epoch": 1594985619.113967,
+            "last_retested_at_iso": "2020-07-17T11:33:39.113967",
             "status": "INACTIVE"
         },
         "footoografie-pobieralnia.eu": {
             "included_at_epoch": 1593619580.858689,
             "included_at_iso": "2020-07-01T16:06:20.858689",
-            "last_retested_at_epoch": 1594898723.647801,
-            "last_retested_at_iso": "2020-07-16T11:25:23.647801",
+            "last_retested_at_epoch": 1594985620.538883,
+            "last_retested_at_iso": "2020-07-17T11:33:40.538883",
             "status": "INACTIVE"
         },
         "fotoografie-pobierz.eu": {
             "included_at_epoch": 1593690711.527714,
             "included_at_iso": "2020-07-02T11:51:51.527714",
-            "last_retested_at_epoch": 1594898725.822306,
-            "last_retested_at_iso": "2020-07-16T11:25:25.822306",
+            "last_retested_at_epoch": 1594985622.574818,
+            "last_retested_at_iso": "2020-07-17T11:33:42.574818",
             "status": "INACTIVE"
         },
         "fresh-ideas.pl": {
@@ -591,43 +612,50 @@
         "fte.m.dodo52.com": {
             "included_at_epoch": 1594898728.788339,
             "included_at_iso": "2020-07-16T11:25:28.788339",
-            "last_retested_at_epoch": 1594898728.788339,
-            "last_retested_at_iso": "2020-07-16T11:25:28.788339",
+            "last_retested_at_epoch": 1594985625.38848,
+            "last_retested_at_iso": "2020-07-17T11:33:45.388480",
+            "status": "INACTIVE"
+        },
+        "gabwoo.ct0.net": {
+            "included_at_epoch": 1594985628.106225,
+            "included_at_iso": "2020-07-17T11:33:48.106225",
+            "last_retested_at_epoch": 1594985628.106225,
+            "last_retested_at_iso": "2020-07-17T11:33:48.106225",
             "status": "INACTIVE"
         },
         "games4girls.pl": {
             "included_at_epoch": 1594640223.394372,
             "included_at_iso": "2020-07-13T11:37:03.394372",
-            "last_retested_at_epoch": 1594898732.485011,
-            "last_retested_at_iso": "2020-07-16T11:25:32.485011",
+            "last_retested_at_epoch": 1594985628.999794,
+            "last_retested_at_iso": "2020-07-17T11:33:48.999794",
             "status": "INACTIVE"
         },
         "garenanow.myvnc.com:81": {
             "included_at_epoch": 1594510446.836032,
             "included_at_iso": "2020-07-11T23:34:06.836032",
-            "last_retested_at_epoch": 1594898733.41026,
-            "last_retested_at_iso": "2020-07-16T11:25:33.410260",
+            "last_retested_at_epoch": 1594985629.976467,
+            "last_retested_at_iso": "2020-07-17T11:33:49.976467",
             "status": "INVALID"
         },
         "garenanow4.myvnc.com:81": {
             "included_at_epoch": 1594510446.818323,
             "included_at_iso": "2020-07-11T23:34:06.818323",
-            "last_retested_at_epoch": 1594898733.392986,
-            "last_retested_at_iso": "2020-07-16T11:25:33.392986",
+            "last_retested_at_epoch": 1594985629.95933,
+            "last_retested_at_iso": "2020-07-17T11:33:49.959330",
             "status": "INVALID"
         },
         "geovipcar.ge": {
             "included_at_epoch": 1593359081.528124,
             "included_at_iso": "2020-06-28T15:44:41.528124",
-            "last_retested_at_epoch": 1594898737.897062,
-            "last_retested_at_iso": "2020-07-16T11:25:37.897062",
+            "last_retested_at_epoch": 1594985634.580843,
+            "last_retested_at_iso": "2020-07-17T11:33:54.580843",
             "status": "INACTIVE"
         },
         "gerotel.com": {
             "included_at_epoch": 1594511477.223489,
             "included_at_iso": "2020-07-11T23:51:17.223489",
-            "last_retested_at_epoch": 1594898738.112731,
-            "last_retested_at_iso": "2020-07-16T11:25:38.112731",
+            "last_retested_at_epoch": 1594985634.728031,
+            "last_retested_at_iso": "2020-07-17T11:33:54.728031",
             "status": "INACTIVE"
         },
         "getin-secure-bank.xyz‎": {
@@ -642,6 +670,13 @@
             "included_at_iso": "2020-07-10T12:09:34.739339",
             "last_retested_at_epoch": 1594898739.836049,
             "last_retested_at_iso": "2020-07-16T11:25:39.836049",
+            "status": "INACTIVE"
+        },
+        "gloosuj-pomagaj.eu": {
+            "included_at_epoch": 1594985638.747297,
+            "included_at_iso": "2020-07-17T11:33:58.747297",
+            "last_retested_at_epoch": 1594985638.747297,
+            "last_retested_at_iso": "2020-07-17T11:33:58.747297",
             "status": "INACTIVE"
         },
         "gokbrzezno.pl": {
