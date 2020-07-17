@@ -17,15 +17,15 @@
         ".dgecolesdepolice.bf": {
             "included_at_epoch": 1594509351.034974,
             "included_at_iso": "2020-07-11T23:15:51.034974",
-            "last_retested_at_epoch": 1594897644.571519,
-            "last_retested_at_iso": "2020-07-16T11:07:24.571519",
+            "last_retested_at_epoch": 1594984546.670916,
+            "last_retested_at_iso": "2020-07-17T11:15:46.670916",
             "status": "INVALID"
         },
         "01.losbuhosweb.com.mx": {
             "included_at_epoch": 1594895796.497513,
             "included_at_iso": "2020-07-16T10:36:36.497513",
-            "last_retested_at_epoch": 1594895796.497513,
-            "last_retested_at_iso": "2020-07-16T10:36:36.497513",
+            "last_retested_at_epoch": 1594984511.226962,
+            "last_retested_at_iso": "2020-07-17T11:15:11.226962",
             "status": "INACTIVE"
         },
         "1zp109.bid": {
@@ -381,85 +381,85 @@
         "da.alibuf.com:3": {
             "included_at_epoch": 1594509343.953938,
             "included_at_iso": "2020-07-11T23:15:43.953938",
-            "last_retested_at_epoch": 1594897637.769449,
-            "last_retested_at_iso": "2020-07-16T11:07:17.769449",
+            "last_retested_at_epoch": 1594984539.702807,
+            "last_retested_at_iso": "2020-07-17T11:15:39.702807",
             "status": "INVALID"
         },
         "denis928.000webhostapp.com": {
             "included_at_epoch": 1594509349.31469,
             "included_at_iso": "2020-07-11T23:15:49.314690",
-            "last_retested_at_epoch": 1594897642.981574,
-            "last_retested_at_iso": "2020-07-16T11:07:22.981574",
+            "last_retested_at_epoch": 1594984545.001806,
+            "last_retested_at_iso": "2020-07-17T11:15:45.001806",
             "status": "INACTIVE"
         },
         "dketrade.top": {
             "included_at_epoch": 1592751788.870206,
             "included_at_iso": "2020-06-21T15:03:08.870206",
-            "last_retested_at_epoch": 1594897648.326071,
-            "last_retested_at_iso": "2020-07-16T11:07:28.326071",
+            "last_retested_at_epoch": 1594984550.305708,
+            "last_retested_at_iso": "2020-07-17T11:15:50.305708",
             "status": "INACTIVE"
         },
         "dnn.alibuf.com:7723": {
             "included_at_epoch": 1594509355.829738,
             "included_at_iso": "2020-07-11T23:15:55.829738",
-            "last_retested_at_epoch": 1594897649.277812,
-            "last_retested_at_iso": "2020-07-16T11:07:29.277812",
+            "last_retested_at_epoch": 1594984551.215501,
+            "last_retested_at_iso": "2020-07-17T11:15:51.215501",
             "status": "INVALID"
         },
         "dns.alibuf.com:7723": {
             "included_at_epoch": 1594639143.569416,
             "included_at_iso": "2020-07-13T11:19:03.569416",
-            "last_retested_at_epoch": 1594897649.293224,
-            "last_retested_at_iso": "2020-07-16T11:07:29.293224",
+            "last_retested_at_epoch": 1594984551.231835,
+            "last_retested_at_iso": "2020-07-17T11:15:51.231835",
             "status": "INVALID"
         },
         "dogongulong.vn": {
             "included_at_epoch": 1593962872.192275,
             "included_at_iso": "2020-07-05T15:27:52.192275",
-            "last_retested_at_epoch": 1594897650.036175,
-            "last_retested_at_iso": "2020-07-16T11:07:30.036175",
+            "last_retested_at_epoch": 1594984552.014385,
+            "last_retested_at_iso": "2020-07-17T11:15:52.014385",
             "status": "INACTIVE"
         },
         "dotpay.e-pocztex.pl": {
             "included_at_epoch": 1594509360.514444,
             "included_at_iso": "2020-07-11T23:16:00.514444",
-            "last_retested_at_epoch": 1594897653.882534,
-            "last_retested_at_iso": "2020-07-16T11:07:33.882534",
+            "last_retested_at_epoch": 1594984555.885437,
+            "last_retested_at_iso": "2020-07-17T11:15:55.885437",
             "status": "INACTIVE"
         },
         "dotpay.etracking-ppocztapolska.com": {
             "included_at_epoch": 1593962876.214126,
             "included_at_iso": "2020-07-05T15:27:56.214126",
-            "last_retested_at_epoch": 1594897653.895885,
-            "last_retested_at_iso": "2020-07-16T11:07:33.895885",
+            "last_retested_at_epoch": 1594984555.911755,
+            "last_retested_at_iso": "2020-07-17T11:15:55.911755",
             "status": "INACTIVE"
         },
         "dotpay.i-pocztapolska.pl": {
             "included_at_epoch": 1594509360.549813,
             "included_at_iso": "2020-07-11T23:16:00.549813",
-            "last_retested_at_epoch": 1594897653.924138,
-            "last_retested_at_iso": "2020-07-16T11:07:33.924138",
+            "last_retested_at_epoch": 1594984555.92783,
+            "last_retested_at_iso": "2020-07-17T11:15:55.927830",
             "status": "INACTIVE"
         },
         "dotpay.ipoczta-polska.net": {
             "included_at_epoch": 1594509360.525495,
             "included_at_iso": "2020-07-11T23:16:00.525495",
-            "last_retested_at_epoch": 1594897653.909058,
-            "last_retested_at_iso": "2020-07-16T11:07:33.909058",
+            "last_retested_at_epoch": 1594984555.898726,
+            "last_retested_at_iso": "2020-07-17T11:15:55.898726",
             "status": "INACTIVE"
         },
         "dotpay.pocztex-polska.eu": {
             "included_at_epoch": 1594509360.571497,
             "included_at_iso": "2020-07-11T23:16:00.571497",
-            "last_retested_at_epoch": 1594897653.95086,
-            "last_retested_at_iso": "2020-07-16T11:07:33.950860",
+            "last_retested_at_epoch": 1594984555.95486,
+            "last_retested_at_iso": "2020-07-17T11:15:55.954860",
             "status": "INACTIVE"
         },
         "dotpay.up-poczta-polska.net": {
             "included_at_epoch": 1592828120.782147,
             "included_at_iso": "2020-06-22T12:15:20.782147",
-            "last_retested_at_epoch": 1594897653.937638,
-            "last_retested_at_iso": "2020-07-16T11:07:33.937638",
+            "last_retested_at_epoch": 1594984555.940738,
+            "last_retested_at_iso": "2020-07-17T11:15:55.940738",
             "status": "INACTIVE"
         },
         "drablutnik.pl": {
@@ -472,8 +472,8 @@
         "durakbufecengelkoy.com": {
             "included_at_epoch": 1592752822.333277,
             "included_at_iso": "2020-06-21T15:20:22.333277",
-            "last_retested_at_epoch": 1594897658.154929,
-            "last_retested_at_iso": "2020-07-16T11:07:38.154929",
+            "last_retested_at_epoch": 1594984560.330602,
+            "last_retested_at_iso": "2020-07-17T11:16:00.330602",
             "status": "INACTIVE"
         },
         "eastmostlitharges.online": {
