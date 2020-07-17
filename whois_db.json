@@ -267,7 +267,7 @@
     "3tcgroup.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "3ypackaging.com": {
         "epoch": 1610841600.0,
@@ -905,8 +905,8 @@
         "state": "future"
     },
     "adeptia.pl": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "adevent.pl": {
@@ -2064,6 +2064,11 @@
         "expiration_date": "22-jul-2020",
         "state": "future"
     },
+    "amt.co.in": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
     "amuletweb.com": {
         "epoch": 1616544000.0,
         "expiration_date": "24-mar-2021",
@@ -2162,6 +2167,11 @@
     "angelabrown.com": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "angelsdetour.com": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "angielskisylwia.pl": {
@@ -2894,6 +2904,11 @@
         "expiration_date": "12-feb-2021",
         "state": "future"
     },
+    "atrium-konie.pl": {
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "state": "future"
+    },
     "atteuqpotentialunlimited.com": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
@@ -2972,6 +2987,11 @@
     "autoescolaciganos.com.br": {
         "epoch": 1614038400.0,
         "expiration_date": "23-feb-2021",
+        "state": "future"
+    },
+    "autoforum-businessday.pl": {
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "autohit24.pl": {
@@ -3207,6 +3227,11 @@
     "ba3capital.com": {
         "epoch": 1617321600.0,
         "expiration_date": "02-apr-2021",
+        "state": "future"
+    },
+    "babajaga-deko.pl": {
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "babaroadways.in": {
@@ -3705,9 +3730,9 @@
         "state": "future"
     },
     "berryen.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
-        "state": "past"
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "state": "future"
     },
     "bert24.com": {
         "epoch": 1610841600.0,
@@ -3862,6 +3887,11 @@
     "bezpieczne-nieruchomosci.pl": {
         "epoch": 1620518400.0,
         "expiration_date": "09-may-2021",
+        "state": "future"
+    },
+    "bezpytan.pl": {
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "bfglasses.com": {
@@ -4097,6 +4127,11 @@
     "birajman.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "bistro-apetyczna.pl": {
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "bistrobravo.pl": {
@@ -4602,7 +4637,7 @@
     "boriouseruwer.info": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "borowkalubuskie.pl": {
         "epoch": 1602892800.0,
@@ -4612,6 +4647,11 @@
     "boryskowalski.pl": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "bosbank-24.pl": {
+        "epoch": 1656806400.0,
+        "expiration_date": "03-jul-2022",
         "state": "future"
     },
     "bosjia.com": {
