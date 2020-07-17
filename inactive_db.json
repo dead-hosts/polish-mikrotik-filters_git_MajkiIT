@@ -1753,15 +1753,15 @@
         "vkino.pl": {
             "included_at_epoch": 1594303762.819465,
             "included_at_iso": "2020-07-09T14:09:22.819465",
-            "last_retested_at_epoch": 1594905230.629672,
-            "last_retested_at_iso": "2020-07-16T13:13:50.629672",
+            "last_retested_at_epoch": 1594993074.837065,
+            "last_retested_at_iso": "2020-07-17T13:37:54.837065",
             "status": "INACTIVE"
         },
         "wernet.pl": {
             "included_at_epoch": 1593625638.739511,
             "included_at_iso": "2020-07-01T17:47:18.739511",
-            "last_retested_at_epoch": 1594905236.130269,
-            "last_retested_at_iso": "2020-07-16T13:13:56.130269",
+            "last_retested_at_epoch": 1594993074.854609,
+            "last_retested_at_iso": "2020-07-17T13:37:54.854609",
             "status": "INACTIVE"
         },
         "winfactory.pl": {
@@ -1781,8 +1781,8 @@
         "wins4n.win": {
             "included_at_epoch": 1593105009.273593,
             "included_at_iso": "2020-06-25T17:10:09.273593",
-            "last_retested_at_epoch": 1594905239.497945,
-            "last_retested_at_iso": "2020-07-16T13:13:59.497945",
+            "last_retested_at_epoch": 1594993074.871438,
+            "last_retested_at_iso": "2020-07-17T13:37:54.871438",
             "status": "INACTIVE"
         },
         "wojtekczyrnek.pl": {
@@ -1795,8 +1795,8 @@
         "wrzeszcz-pallotyni.pl": {
             "included_at_epoch": 1594905243.288238,
             "included_at_iso": "2020-07-16T13:14:03.288238",
-            "last_retested_at_epoch": 1594905243.288238,
-            "last_retested_at_iso": "2020-07-16T13:14:03.288238",
+            "last_retested_at_epoch": 1594993074.888689,
+            "last_retested_at_iso": "2020-07-17T13:37:54.888689",
             "status": "INACTIVE"
         },
         "wszystkiemiasta.pl": {
@@ -1804,13 +1804,6 @@
             "included_at_iso": "2020-06-21T17:10:32.582275",
             "last_retested_at_epoch": 1594920706.835408,
             "last_retested_at_iso": "2020-07-16T17:31:46.835408",
-            "status": "INACTIVE"
-        },
-        "wt111.downyouxi.com": {
-            "included_at_epoch": 1594905244.047704,
-            "included_at_iso": "2020-07-16T13:14:04.047704",
-            "last_retested_at_epoch": 1594905244.047704,
-            "last_retested_at_iso": "2020-07-16T13:14:04.047704",
             "status": "INACTIVE"
         },
         "wt112.downyouxi.com": {
@@ -1823,8 +1816,8 @@
         "wwa-informacje.co.pl": {
             "included_at_epoch": 1593366104.593317,
             "included_at_iso": "2020-06-28T17:41:44.593317",
-            "last_retested_at_epoch": 1594905244.425904,
-            "last_retested_at_iso": "2020-07-16T13:14:04.425904",
+            "last_retested_at_epoch": 1594993074.92313,
+            "last_retested_at_iso": "2020-07-17T13:37:54.923130",
             "status": "INACTIVE"
         },
         "www-apple-com-virus-removal-systems.fixingit.solutions": {
@@ -1837,8 +1830,8 @@
         "www.59fifty.pl": {
             "included_at_epoch": 1592841248.200291,
             "included_at_iso": "2020-06-22T15:54:08.200291",
-            "last_retested_at_epoch": 1594905244.910298,
-            "last_retested_at_iso": "2020-07-16T13:14:04.910298",
+            "last_retested_at_epoch": 1594993074.94014,
+            "last_retested_at_iso": "2020-07-17T13:37:54.940140",
             "status": "INACTIVE"
         },
         "www.a0copyplot.pl": {
@@ -2247,11 +2240,25 @@
             "last_retested_at_iso": "2020-07-16T17:31:48.739472",
             "status": "INACTIVE"
         },
+        "www.btc-era.com": {
+            "included_at_epoch": 1594993076.205006,
+            "included_at_iso": "2020-07-17T13:37:56.205006",
+            "last_retested_at_epoch": 1594993076.205006,
+            "last_retested_at_iso": "2020-07-17T13:37:56.205006",
+            "status": "INACTIVE"
+        },
         "www.buczek-cukiernia.pl": {
             "included_at_epoch": 1594906289.528761,
             "included_at_iso": "2020-07-16T13:31:29.528761",
             "last_retested_at_epoch": 1594906289.528761,
             "last_retested_at_iso": "2020-07-16T13:31:29.528761",
+            "status": "INACTIVE"
+        },
+        "www.businesspuls.online": {
+            "included_at_epoch": 1594993076.312409,
+            "included_at_iso": "2020-07-17T13:37:56.312409",
+            "last_retested_at_epoch": 1594993076.312409,
+            "last_retested_at_iso": "2020-07-17T13:37:56.312409",
             "status": "INACTIVE"
         },
         "www.butyfitflop.pl": {
@@ -2355,8 +2362,8 @@
         "www.chestnut-hill-farm.com": {
             "included_at_epoch": 1594734471.227062,
             "included_at_iso": "2020-07-14T13:47:51.227062",
-            "last_retested_at_epoch": 1594906290.571041,
-            "last_retested_at_iso": "2020-07-16T13:31:30.571041",
+            "last_retested_at_epoch": 1594993077.027002,
+            "last_retested_at_iso": "2020-07-17T13:37:57.027002",
             "status": "INACTIVE"
         },
         "www.cjpyqf.live": {
@@ -2404,8 +2411,8 @@
         "www.conversepolska.pl": {
             "included_at_epoch": 1594906291.348064,
             "included_at_iso": "2020-07-16T13:31:31.348064",
-            "last_retested_at_epoch": 1594906291.348064,
-            "last_retested_at_iso": "2020-07-16T13:31:31.348064",
+            "last_retested_at_epoch": 1594993077.749894,
+            "last_retested_at_iso": "2020-07-17T13:37:57.749894",
             "status": "INACTIVE"
         },
         "www.country.moppie91.com": {
