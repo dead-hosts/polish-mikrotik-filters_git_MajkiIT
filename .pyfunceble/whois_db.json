@@ -5044,6 +5044,11 @@
         "expiration_date": "27-feb-2022",
         "state": "future"
     },
+    "bushireinlondon.co.uk": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
     "businesspuls.online": {
         "epoch": 1622851200.0,
         "expiration_date": "05-jun-2021",
@@ -5654,6 +5659,11 @@
         "expiration_date": "26-aug-2020",
         "state": "future"
     },
+    "cellstore.net.br": {
+        "epoch": 1655856000.0,
+        "expiration_date": "22-jun-2022",
+        "state": "future"
+    },
     "celtainbrazil.com": {
         "epoch": 1620518400.0,
         "expiration_date": "09-may-2021",
@@ -5695,8 +5705,8 @@
         "state": "future"
     },
     "centrumdxn.pl": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "centrummedycyny.pl": {
@@ -6042,7 +6052,7 @@
     "chuckweiss.com": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "chudykucharz.pl": {
         "epoch": 1606780800.0,
@@ -6435,9 +6445,9 @@
         "state": "future"
     },
     "clubedoestudante.net.br": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
-        "state": "past"
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "state": "future"
     },
     "clubitaliano.pl": {
         "epoch": 1598313600.0,
@@ -6507,6 +6517,11 @@
     "coast-bank.com": {
         "epoch": 1617667200.0,
         "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
+    "cobhamplasteringservices.co.uk": {
+        "epoch": 1641859200.0,
+        "expiration_date": "11-jan-2022",
         "state": "future"
     },
     "cobolito.pl": {
@@ -8510,8 +8525,8 @@
         "state": "future"
     },
     "dlmyfile.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "dluzniku.com": {
@@ -8779,6 +8794,11 @@
         "expiration_date": "18-jun-2021",
         "state": "future"
     },
+    "doraflob.com": {
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
+        "state": "future"
+    },
     "doransky.info": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
@@ -9015,13 +9035,18 @@
         "state": "future"
     },
     "dplex.net": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "dpsobryte.pl": {
         "epoch": 1621382400.0,
         "expiration_date": "19-may-2021",
+        "state": "future"
+    },
+    "drabiny.in": {
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "drablutnik.pl": {
