@@ -5470,8 +5470,8 @@
         "www.sneakersytanie.pl": {
             "included_at_epoch": 1594916169.91007,
             "included_at_iso": "2020-07-16T16:16:09.910070",
-            "last_retested_at_epoch": 1595003341.047274,
-            "last_retested_at_iso": "2020-07-17T16:29:01.047274",
+            "last_retested_at_epoch": 1595276965.577062,
+            "last_retested_at_iso": "2020-07-20T20:29:25.577062",
             "status": "INACTIVE"
         },
         "www.soundshow.pl": {
@@ -5500,13 +5500,6 @@
             "included_at_iso": "2020-07-12T04:26:23.611227",
             "last_retested_at_epoch": 1595004142.704583,
             "last_retested_at_iso": "2020-07-17T16:42:22.704583",
-            "status": "INACTIVE"
-        },
-        "www.sprawdziany-odpowiedzi.bo.pl": {
-            "included_at_epoch": 1594916170.657311,
-            "included_at_iso": "2020-07-16T16:16:10.657311",
-            "last_retested_at_epoch": 1595003341.085841,
-            "last_retested_at_iso": "2020-07-17T16:29:01.085841",
             "status": "INACTIVE"
         },
         "www.sprzedazlacostebuty.pl": {
@@ -5540,8 +5533,8 @@
         "www.ssl.mmtgo.me": {
             "included_at_epoch": 1594527983.908249,
             "included_at_iso": "2020-07-12T04:26:23.908249",
-            "last_retested_at_epoch": 1595004018.737466,
-            "last_retested_at_iso": "2020-07-17T16:40:18.737466",
+            "last_retested_at_epoch": 1595276966.43326,
+            "last_retested_at_iso": "2020-07-20T20:29:26.433260",
             "status": "INACTIVE"
         },
         "www.sso-cloud-ideabank.eu": {
@@ -5589,8 +5582,8 @@
         "www.studiodermetica.pl": {
             "included_at_epoch": 1594917189.915611,
             "included_at_iso": "2020-07-16T16:33:09.915611",
-            "last_retested_at_epoch": 1595004018.778256,
-            "last_retested_at_iso": "2020-07-17T16:40:18.778256",
+            "last_retested_at_epoch": 1595276966.970379,
+            "last_retested_at_iso": "2020-07-20T20:29:26.970379",
             "status": "INACTIVE"
         },
         "www.studiujwopolu.pl": {
@@ -5624,23 +5617,9 @@
         "www.supermegacool.bit": {
             "included_at_epoch": 1594528999.618021,
             "included_at_iso": "2020-07-12T04:43:19.618021",
-            "last_retested_at_epoch": 1595004018.858332,
-            "last_retested_at_iso": "2020-07-17T16:40:18.858332",
+            "last_retested_at_epoch": 1595276967.187442,
+            "last_retested_at_iso": "2020-07-20T20:29:27.187442",
             "status": "INVALID"
-        },
-        "www.swiecomania.pl": {
-            "included_at_epoch": 1595002316.64402,
-            "included_at_iso": "2020-07-17T16:11:56.644020",
-            "last_retested_at_epoch": 1595002316.64402,
-            "last_retested_at_iso": "2020-07-17T16:11:56.644020",
-            "status": "INACTIVE"
-        },
-        "www.szczepienie.net.pl": {
-            "included_at_epoch": 1594664474.106412,
-            "included_at_iso": "2020-07-13T18:21:14.106412",
-            "last_retested_at_epoch": 1595004018.878168,
-            "last_retested_at_iso": "2020-07-17T16:40:18.878168",
-            "status": "INACTIVE"
         },
         "www.t21.pl": {
             "included_at_epoch": 1594056261.165638,
@@ -5652,8 +5631,15 @@
         "www.tangozwabrzycha.pl": {
             "included_at_epoch": 1594529000.387001,
             "included_at_iso": "2020-07-12T04:43:20.387001",
-            "last_retested_at_epoch": 1595004018.898077,
-            "last_retested_at_iso": "2020-07-17T16:40:18.898077",
+            "last_retested_at_epoch": 1595276967.992452,
+            "last_retested_at_iso": "2020-07-20T20:29:27.992452",
+            "status": "INACTIVE"
+        },
+        "www.tariqul.info": {
+            "included_at_epoch": 1595276968.106431,
+            "included_at_iso": "2020-07-20T20:29:28.106431",
+            "last_retested_at_epoch": 1595276968.106431,
+            "last_retested_at_iso": "2020-07-20T20:29:28.106431",
             "status": "INACTIVE"
         },
         "www.tatroscatering.com": {
@@ -5661,6 +5647,13 @@
             "included_at_iso": "2020-07-02T18:10:06.099822",
             "last_retested_at_epoch": 1594920706.936469,
             "last_retested_at_iso": "2020-07-16T17:31:46.936469",
+            "status": "INACTIVE"
+        },
+        "www.tchmielewski.pl": {
+            "included_at_epoch": 1595276968.15372,
+            "included_at_iso": "2020-07-20T20:29:28.153720",
+            "last_retested_at_epoch": 1595276968.15372,
+            "last_retested_at_iso": "2020-07-20T20:29:28.153720",
             "status": "INACTIVE"
         },
         "www.tekston.pl": {
@@ -5694,15 +5687,15 @@
         "www.testing3srv10.live": {
             "included_at_epoch": 1594742839.205851,
             "included_at_iso": "2020-07-14T16:07:19.205851",
-            "last_retested_at_epoch": 1595004018.91814,
-            "last_retested_at_iso": "2020-07-17T16:40:18.918140",
+            "last_retested_at_epoch": 1595276968.611947,
+            "last_retested_at_iso": "2020-07-20T20:29:28.611947",
             "status": "INACTIVE"
         },
         "www.tiandewarszawa.pl": {
             "included_at_epoch": 1594529001.245485,
             "included_at_iso": "2020-07-12T04:43:21.245485",
-            "last_retested_at_epoch": 1595004018.938151,
-            "last_retested_at_iso": "2020-07-17T16:40:18.938151",
+            "last_retested_at_epoch": 1595276968.899134,
+            "last_retested_at_iso": "2020-07-20T20:29:28.899134",
             "status": "INACTIVE"
         },
         "www.timberlandchukka.pl": {
