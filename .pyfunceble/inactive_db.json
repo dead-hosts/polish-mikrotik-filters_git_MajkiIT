@@ -1239,13 +1239,6 @@
             "last_retested_at_iso": "2020-07-26T16:13:19.471556",
             "status": "INACTIVE"
         },
-        "lommi.pl": {
-            "included_at_epoch": 1593360391.203281,
-            "included_at_iso": "2020-06-28T16:06:31.203281",
-            "last_retested_at_epoch": 1595535289.266837,
-            "last_retested_at_iso": "2020-07-23T20:14:49.266837",
-            "status": "INACTIVE"
-        },
         "losowa-gra.pl": {
             "included_at_epoch": 1593967115.483737,
             "included_at_iso": "2020-07-05T16:38:35.483737",
@@ -1414,60 +1407,74 @@
             "last_retested_at_iso": "2020-07-26T16:14:07.834968",
             "status": "INACTIVE"
         },
+        "odnajdujemydziewczynke.eu": {
+            "included_at_epoch": 1595781075.544251,
+            "included_at_iso": "2020-07-26T16:31:15.544251",
+            "last_retested_at_epoch": 1595781075.544251,
+            "last_retested_at_iso": "2020-07-26T16:31:15.544251",
+            "status": "INACTIVE"
+        },
         "offside2.000webhostapp.com": {
             "included_at_epoch": 1594514747.682484,
             "included_at_iso": "2020-07-12T00:45:47.682484",
-            "last_retested_at_epoch": 1595521692.663855,
-            "last_retested_at_iso": "2020-07-23T16:28:12.663855",
+            "last_retested_at_epoch": 1595781075.941498,
+            "last_retested_at_iso": "2020-07-26T16:31:15.941498",
             "status": "INACTIVE"
         },
         "ogloszenie-nagrod.eu": {
             "included_at_epoch": 1595264851.61949,
             "included_at_iso": "2020-07-20T17:07:31.619490",
-            "last_retested_at_epoch": 1595521693.251015,
-            "last_retested_at_iso": "2020-07-23T16:28:13.251015",
+            "last_retested_at_epoch": 1595781076.573062,
+            "last_retested_at_iso": "2020-07-26T16:31:16.573062",
             "status": "INACTIVE"
         },
         "olbart.pl": {
             "included_at_epoch": 1593696867.079852,
             "included_at_iso": "2020-07-02T13:34:27.079852",
-            "last_retested_at_epoch": 1595521694.207383,
-            "last_retested_at_iso": "2020-07-23T16:28:14.207383",
+            "last_retested_at_epoch": 1595781077.592202,
+            "last_retested_at_iso": "2020-07-26T16:31:17.592202",
             "status": "INACTIVE"
         },
         "ostatniachwila.098.pl": {
             "included_at_epoch": 1594298744.332626,
             "included_at_iso": "2020-07-09T12:45:44.332626",
-            "last_retested_at_epoch": 1595521701.495972,
-            "last_retested_at_iso": "2020-07-23T16:28:21.495972",
+            "last_retested_at_epoch": 1595781085.285459,
+            "last_retested_at_iso": "2020-07-26T16:31:25.285459",
             "status": "INACTIVE"
         },
         "owl-art.pl": {
             "included_at_epoch": 1595521703.276915,
             "included_at_iso": "2020-07-23T16:28:23.276915",
-            "last_retested_at_epoch": 1595521703.276915,
-            "last_retested_at_iso": "2020-07-23T16:28:23.276915",
+            "last_retested_at_epoch": 1595781087.223802,
+            "last_retested_at_iso": "2020-07-26T16:31:27.223802",
             "status": "INACTIVE"
         },
         "paginas.constructorajksalcedo.com": {
             "included_at_epoch": 1593696877.998755,
             "included_at_iso": "2020-07-02T13:34:37.998755",
-            "last_retested_at_epoch": 1595521707.819559,
-            "last_retested_at_iso": "2020-07-23T16:28:27.819559",
+            "last_retested_at_epoch": 1595781092.114414,
+            "last_retested_at_iso": "2020-07-26T16:31:32.114414",
             "status": "INACTIVE"
         },
         "pay.poczta-polska24.com": {
             "included_at_epoch": 1594514765.295391,
             "included_at_iso": "2020-07-12T00:46:05.295391",
-            "last_retested_at_epoch": 1595521711.690838,
-            "last_retested_at_iso": "2020-07-23T16:28:31.690838",
+            "last_retested_at_epoch": 1595781096.235077,
+            "last_retested_at_iso": "2020-07-26T16:31:36.235077",
+            "status": "INACTIVE"
+        },
+        "phusonland.vn": {
+            "included_at_epoch": 1595781100.68886,
+            "included_at_iso": "2020-07-26T16:31:40.688860",
+            "last_retested_at_epoch": 1595781100.68886,
+            "last_retested_at_iso": "2020-07-26T16:31:40.688860",
             "status": "INACTIVE"
         },
         "play-tube.pl": {
             "included_at_epoch": 1593363240.51198,
             "included_at_iso": "2020-06-28T16:54:00.511980",
-            "last_retested_at_epoch": 1595521721.084675,
-            "last_retested_at_iso": "2020-07-23T16:28:41.084675",
+            "last_retested_at_epoch": 1595781106.310635,
+            "last_retested_at_iso": "2020-07-26T16:31:46.310635",
             "status": "INACTIVE"
         },
         "pljestnaj.pl": {
@@ -1487,8 +1494,8 @@
         "pobiieerz-fotografiee.eu": {
             "included_at_epoch": 1593623483.242032,
             "included_at_iso": "2020-07-01T17:11:23.242032",
-            "last_retested_at_epoch": 1595521723.804756,
-            "last_retested_at_iso": "2020-07-23T16:28:43.804756",
+            "last_retested_at_epoch": 1595781109.284171,
+            "last_retested_at_iso": "2020-07-26T16:31:49.284171",
             "status": "INACTIVE"
         },
         "pociagdoukrainy.pl": {
@@ -1501,8 +1508,8 @@
         "pocztex-polska.eu": {
             "included_at_epoch": 1594514779.329989,
             "included_at_iso": "2020-07-12T00:46:19.329989",
-            "last_retested_at_epoch": 1595521726.068613,
-            "last_retested_at_iso": "2020-07-23T16:28:46.068613",
+            "last_retested_at_epoch": 1595781111.662271,
+            "last_retested_at_iso": "2020-07-26T16:31:51.662271",
             "status": "INACTIVE"
         },
         "poland.bit-revolution.world": {
@@ -1515,43 +1522,43 @@
         "portalgminny.cal24.pl": {
             "included_at_epoch": 1595264888.900809,
             "included_at_iso": "2020-07-20T17:08:08.900809",
-            "last_retested_at_epoch": 1595521732.218804,
-            "last_retested_at_iso": "2020-07-23T16:28:52.218804",
+            "last_retested_at_epoch": 1595781118.255587,
+            "last_retested_at_iso": "2020-07-26T16:31:58.255587",
             "status": "INACTIVE"
         },
         "portalpowiatowy.098.pl": {
             "included_at_epoch": 1594298772.840684,
             "included_at_iso": "2020-07-09T12:46:12.840684",
-            "last_retested_at_epoch": 1595521732.235884,
-            "last_retested_at_iso": "2020-07-23T16:28:52.235884",
+            "last_retested_at_epoch": 1595781118.293045,
+            "last_retested_at_iso": "2020-07-26T16:31:58.293045",
             "status": "INACTIVE"
         },
         "portalpowiatowy.cal24.pl": {
             "included_at_epoch": 1594514784.987711,
             "included_at_iso": "2020-07-12T00:46:24.987711",
-            "last_retested_at_epoch": 1595521732.25269,
-            "last_retested_at_iso": "2020-07-23T16:28:52.252690",
+            "last_retested_at_epoch": 1595781118.275814,
+            "last_retested_at_iso": "2020-07-26T16:31:58.275814",
             "status": "INACTIVE"
         },
         "portalsasiedzki.eu": {
             "included_at_epoch": 1594298773.02236,
             "included_at_iso": "2020-07-09T12:46:13.022360",
-            "last_retested_at_epoch": 1595521732.274807,
-            "last_retested_at_iso": "2020-07-23T16:28:52.274807",
+            "last_retested_at_epoch": 1595781118.320655,
+            "last_retested_at_iso": "2020-07-26T16:31:58.320655",
             "status": "INACTIVE"
         },
         "portalwojewodzki.cal24.pl": {
             "included_at_epoch": 1593363250.558157,
             "included_at_iso": "2020-06-28T16:54:10.558157",
-            "last_retested_at_epoch": 1595521732.377035,
-            "last_retested_at_iso": "2020-07-23T16:28:52.377035",
+            "last_retested_at_epoch": 1595781118.414168,
+            "last_retested_at_iso": "2020-07-26T16:31:58.414168",
             "status": "INACTIVE"
         },
         "po�yczaj.online.pl": {
             "included_at_epoch": 1594516812.975189,
             "included_at_iso": "2020-07-12T01:20:12.975189",
-            "last_retested_at_epoch": 1595521735.875494,
-            "last_retested_at_iso": "2020-07-23T16:28:55.875494",
+            "last_retested_at_epoch": 1595781122.204544,
+            "last_retested_at_iso": "2020-07-26T16:32:02.204544",
             "status": "INVALID"
         },
         "praktycznyidealista.pl": {
@@ -1564,8 +1571,8 @@
         "pramodkumarsingh.000webhostapp.com": {
             "included_at_epoch": 1594516814.403702,
             "included_at_iso": "2020-07-12T01:20:14.403702",
-            "last_retested_at_epoch": 1595521737.614803,
-            "last_retested_at_iso": "2020-07-23T16:28:57.614803",
+            "last_retested_at_epoch": 1595781124.133355,
+            "last_retested_at_iso": "2020-07-26T16:32:04.133355",
             "status": "INACTIVE"
         },
         "prawoibezprawie.pl": {
@@ -1573,6 +1580,13 @@
             "included_at_iso": "2020-07-12T01:20:14.622218",
             "last_retested_at_epoch": 1595535295.281869,
             "last_retested_at_iso": "2020-07-23T20:14:55.281869",
+            "status": "INACTIVE"
+        },
+        "prl.zerety.xyz": {
+            "included_at_epoch": 1595781125.63324,
+            "included_at_iso": "2020-07-26T16:32:05.633240",
+            "last_retested_at_epoch": 1595781125.63324,
+            "last_retested_at_iso": "2020-07-26T16:32:05.633240",
             "status": "INACTIVE"
         },
         "programrefundacji.pl": {
@@ -1596,18 +1610,25 @@
             "last_retested_at_iso": "2020-07-23T20:14:55.261129",
             "status": "INACTIVE"
         },
+        "proventus.com.pl": {
+            "included_at_epoch": 1595781128.956766,
+            "included_at_iso": "2020-07-26T16:32:08.956766",
+            "last_retested_at_epoch": 1595781128.956766,
+            "last_retested_at_iso": "2020-07-26T16:32:08.956766",
+            "status": "INACTIVE"
+        },
         "przeglosuj-strone.eu": {
             "included_at_epoch": 1594387158.91825,
             "included_at_iso": "2020-07-10T13:19:18.918250",
-            "last_retested_at_epoch": 1595521743.017365,
-            "last_retested_at_iso": "2020-07-23T16:29:03.017365",
+            "last_retested_at_epoch": 1595781130.067658,
+            "last_retested_at_iso": "2020-07-26T16:32:10.067658",
             "status": "INACTIVE"
         },
         "przesyleczki.com": {
             "included_at_epoch": 1594729975.187655,
             "included_at_iso": "2020-07-14T12:32:55.187655",
-            "last_retested_at_epoch": 1595521743.458289,
-            "last_retested_at_iso": "2020-07-23T16:29:03.458289",
+            "last_retested_at_epoch": 1595781130.453071,
+            "last_retested_at_iso": "2020-07-26T16:32:10.453071",
             "status": "INACTIVE"
         },
         "przytulisko.net.pl": {
@@ -1620,8 +1641,8 @@
         "pubkotlownia.pl": {
             "included_at_epoch": 1595264901.711147,
             "included_at_iso": "2020-07-20T17:08:21.711147",
-            "last_retested_at_epoch": 1595521745.037261,
-            "last_retested_at_iso": "2020-07-23T16:29:05.037261",
+            "last_retested_at_epoch": 1595781132.185069,
+            "last_retested_at_iso": "2020-07-26T16:32:12.185069",
             "status": "INACTIVE"
         },
         "r-dach.pl": {
@@ -1634,8 +1655,8 @@
         "reeboknpcii.pl": {
             "included_at_epoch": 1593970628.213598,
             "included_at_iso": "2020-07-05T17:37:08.213598",
-            "last_retested_at_epoch": 1595522770.344883,
-            "last_retested_at_iso": "2020-07-23T16:46:10.344883",
+            "last_retested_at_epoch": 1595781143.527996,
+            "last_retested_at_iso": "2020-07-26T16:32:23.527996",
             "status": "INACTIVE"
         },
         "revinex.pl": {
