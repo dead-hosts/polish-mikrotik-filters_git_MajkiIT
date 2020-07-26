@@ -17,8 +17,8 @@
         ".dgecolesdepolice.bf": {
             "included_at_epoch": 1594509351.034974,
             "included_at_iso": "2020-07-11T23:15:51.034974",
-            "last_retested_at_epoch": 1595535289.348901,
-            "last_retested_at_iso": "2020-07-23T20:14:49.348901",
+            "last_retested_at_epoch": 1595776782.772083,
+            "last_retested_at_iso": "2020-07-26T15:19:42.772083",
             "status": "INVALID"
         },
         "01.losbuhosweb.com.mx": {
@@ -346,8 +346,22 @@
         "brzuchfit.pl": {
             "included_at_epoch": 1595259076.091748,
             "included_at_iso": "2020-07-20T15:31:16.091748",
-            "last_retested_at_epoch": 1595517339.70611,
-            "last_retested_at_iso": "2020-07-23T15:15:39.706110",
+            "last_retested_at_epoch": 1595776746.607634,
+            "last_retested_at_iso": "2020-07-26T15:19:06.607634",
+            "status": "INACTIVE"
+        },
+        "bubblelife70.life": {
+            "included_at_epoch": 1595776747.105517,
+            "included_at_iso": "2020-07-26T15:19:07.105517",
+            "last_retested_at_epoch": 1595776747.105517,
+            "last_retested_at_iso": "2020-07-26T15:19:07.105517",
+            "status": "INACTIVE"
+        },
+        "bulby.pl": {
+            "included_at_epoch": 1595776747.737417,
+            "included_at_iso": "2020-07-26T15:19:07.737417",
+            "last_retested_at_epoch": 1595776747.737417,
+            "last_retested_at_iso": "2020-07-26T15:19:07.737417",
             "status": "INACTIVE"
         },
         "buty-superstar.pl": {
@@ -367,50 +381,57 @@
         "c.vvvvvvvvv.ga:443": {
             "included_at_epoch": 1594509342.844133,
             "included_at_iso": "2020-07-11T23:15:42.844133",
-            "last_retested_at_epoch": 1595517371.611465,
-            "last_retested_at_iso": "2020-07-23T15:16:11.611465",
+            "last_retested_at_epoch": 1595776774.57986,
+            "last_retested_at_iso": "2020-07-26T15:19:34.579860",
             "status": "INVALID"
         },
         "caspianelectric.ir": {
             "included_at_epoch": 1595517346.845615,
             "included_at_iso": "2020-07-23T15:15:46.845615",
-            "last_retested_at_epoch": 1595517346.845615,
-            "last_retested_at_iso": "2020-07-23T15:15:46.845615",
+            "last_retested_at_epoch": 1595776752.834548,
+            "last_retested_at_iso": "2020-07-26T15:19:12.834548",
             "status": "INACTIVE"
         },
         "cbk.m.dodo52.com": {
             "included_at_epoch": 1594897616.640105,
             "included_at_iso": "2020-07-16T11:06:56.640105",
-            "last_retested_at_epoch": 1595517347.302578,
-            "last_retested_at_iso": "2020-07-23T15:15:47.302578",
+            "last_retested_at_epoch": 1595776753.187957,
+            "last_retested_at_iso": "2020-07-26T15:19:13.187957",
+            "status": "INACTIVE"
+        },
+        "cg.hotwp.net": {
+            "included_at_epoch": 1595776756.244512,
+            "included_at_iso": "2020-07-26T15:19:16.244512",
+            "last_retested_at_epoch": 1595776756.244512,
+            "last_retested_at_iso": "2020-07-26T15:19:16.244512",
             "status": "INACTIVE"
         },
         "chinhdropfile.myvnc.com:81": {
             "included_at_epoch": 1594509326.475409,
             "included_at_iso": "2020-07-11T23:15:26.475409",
-            "last_retested_at_epoch": 1595517352.866211,
-            "last_retested_at_iso": "2020-07-23T15:15:52.866211",
+            "last_retested_at_epoch": 1595776758.198974,
+            "last_retested_at_iso": "2020-07-26T15:19:18.198974",
             "status": "INVALID"
         },
         "chinhdropfile80.myvnc.com:81": {
             "included_at_epoch": 1594509326.46298,
             "included_at_iso": "2020-07-11T23:15:26.462980",
-            "last_retested_at_epoch": 1595517352.850039,
-            "last_retested_at_iso": "2020-07-23T15:15:52.850039",
+            "last_retested_at_epoch": 1595776758.184274,
+            "last_retested_at_iso": "2020-07-26T15:19:18.184274",
             "status": "INVALID"
         },
         "chj.m.dodo52.com": {
             "included_at_epoch": 1594897621.354482,
             "included_at_iso": "2020-07-16T11:07:01.354482",
-            "last_retested_at_epoch": 1595517352.955914,
-            "last_retested_at_iso": "2020-07-23T15:15:52.955914",
+            "last_retested_at_epoch": 1595776758.279206,
+            "last_retested_at_iso": "2020-07-26T15:19:18.279206",
             "status": "INACTIVE"
         },
         "cl-closeprotection.fr": {
             "included_at_epoch": 1595517357.428484,
             "included_at_iso": "2020-07-23T15:15:57.428484",
-            "last_retested_at_epoch": 1595517357.428484,
-            "last_retested_at_iso": "2020-07-23T15:15:57.428484",
+            "last_retested_at_epoch": 1595776762.204599,
+            "last_retested_at_iso": "2020-07-26T15:19:22.204599",
             "status": "INACTIVE"
         },
         "cnto.pl": {
@@ -430,113 +451,113 @@
         "da.alibuf.com:3": {
             "included_at_epoch": 1594509343.953938,
             "included_at_iso": "2020-07-11T23:15:43.953938",
-            "last_retested_at_epoch": 1595535288.159381,
-            "last_retested_at_iso": "2020-07-23T20:14:48.159381",
+            "last_retested_at_epoch": 1595776775.728873,
+            "last_retested_at_iso": "2020-07-26T15:19:35.728873",
             "status": "INVALID"
         },
         "daily-jokes.net": {
             "included_at_epoch": 1595259104.194028,
             "included_at_iso": "2020-07-20T15:31:44.194028",
-            "last_retested_at_epoch": 1595517373.246321,
-            "last_retested_at_iso": "2020-07-23T15:16:13.246321",
+            "last_retested_at_epoch": 1595776776.158746,
+            "last_retested_at_iso": "2020-07-26T15:19:36.158746",
             "status": "INACTIVE"
         },
         "denis928.000webhostapp.com": {
             "included_at_epoch": 1594509349.31469,
             "included_at_iso": "2020-07-11T23:15:49.314690",
-            "last_retested_at_epoch": 1595517378.695041,
-            "last_retested_at_iso": "2020-07-23T15:16:18.695041",
+            "last_retested_at_epoch": 1595776781.074224,
+            "last_retested_at_iso": "2020-07-26T15:19:41.074224",
             "status": "INACTIVE"
         },
         "dketrade.top": {
             "included_at_epoch": 1595259114.374151,
             "included_at_iso": "2020-07-20T15:31:54.374151",
-            "last_retested_at_epoch": 1595517384.731423,
-            "last_retested_at_iso": "2020-07-23T15:16:24.731423",
+            "last_retested_at_epoch": 1595776786.588441,
+            "last_retested_at_iso": "2020-07-26T15:19:46.588441",
             "status": "INACTIVE"
         },
         "dnn.alibuf.com:7723": {
             "included_at_epoch": 1594509355.829738,
             "included_at_iso": "2020-07-11T23:15:55.829738",
-            "last_retested_at_epoch": 1595517385.795088,
-            "last_retested_at_iso": "2020-07-23T15:16:25.795088",
+            "last_retested_at_epoch": 1595776787.514235,
+            "last_retested_at_iso": "2020-07-26T15:19:47.514235",
             "status": "INVALID"
         },
         "dns.alibuf.com:7723": {
             "included_at_epoch": 1594639143.569416,
             "included_at_iso": "2020-07-13T11:19:03.569416",
-            "last_retested_at_epoch": 1595517385.81304,
-            "last_retested_at_iso": "2020-07-23T15:16:25.813040",
+            "last_retested_at_epoch": 1595776787.530374,
+            "last_retested_at_iso": "2020-07-26T15:19:47.530374",
             "status": "INVALID"
         },
         "dogongulong.vn": {
             "included_at_epoch": 1593962872.192275,
             "included_at_iso": "2020-07-05T15:27:52.192275",
-            "last_retested_at_epoch": 1595517386.638995,
-            "last_retested_at_iso": "2020-07-23T15:16:26.638995",
+            "last_retested_at_epoch": 1595776788.328643,
+            "last_retested_at_iso": "2020-07-26T15:19:48.328643",
             "status": "INACTIVE"
         },
         "dotpay.e-pocztex.pl": {
             "included_at_epoch": 1594509360.514444,
             "included_at_iso": "2020-07-11T23:16:00.514444",
-            "last_retested_at_epoch": 1595517390.84756,
-            "last_retested_at_iso": "2020-07-23T15:16:30.847560",
+            "last_retested_at_epoch": 1595776792.403331,
+            "last_retested_at_iso": "2020-07-26T15:19:52.403331",
             "status": "INACTIVE"
         },
         "dotpay.etracking-ppocztapolska.com": {
             "included_at_epoch": 1593962876.214126,
             "included_at_iso": "2020-07-05T15:27:56.214126",
-            "last_retested_at_epoch": 1595517390.862151,
-            "last_retested_at_iso": "2020-07-23T15:16:30.862151",
+            "last_retested_at_epoch": 1595776792.389974,
+            "last_retested_at_iso": "2020-07-26T15:19:52.389974",
             "status": "INACTIVE"
         },
         "dotpay.i-pocztapolska.pl": {
             "included_at_epoch": 1594509360.549813,
             "included_at_iso": "2020-07-11T23:16:00.549813",
-            "last_retested_at_epoch": 1595517390.894165,
-            "last_retested_at_iso": "2020-07-23T15:16:30.894165",
+            "last_retested_at_epoch": 1595776792.430302,
+            "last_retested_at_iso": "2020-07-26T15:19:52.430302",
             "status": "INACTIVE"
         },
         "dotpay.ipoczta-polska.net": {
             "included_at_epoch": 1594509360.525495,
             "included_at_iso": "2020-07-11T23:16:00.525495",
-            "last_retested_at_epoch": 1595517390.876699,
-            "last_retested_at_iso": "2020-07-23T15:16:30.876699",
+            "last_retested_at_epoch": 1595776792.416799,
+            "last_retested_at_iso": "2020-07-26T15:19:52.416799",
             "status": "INACTIVE"
         },
         "dotpay.pocztex-polska.eu": {
             "included_at_epoch": 1594509360.571497,
             "included_at_iso": "2020-07-11T23:16:00.571497",
-            "last_retested_at_epoch": 1595517390.923167,
-            "last_retested_at_iso": "2020-07-23T15:16:30.923167",
+            "last_retested_at_epoch": 1595776792.444216,
+            "last_retested_at_iso": "2020-07-26T15:19:52.444216",
             "status": "INACTIVE"
         },
         "dotpay.up-poczta-polska.net": {
             "included_at_epoch": 1595259120.147029,
             "included_at_iso": "2020-07-20T15:32:00.147029",
-            "last_retested_at_epoch": 1595517390.908453,
-            "last_retested_at_iso": "2020-07-23T15:16:30.908453",
+            "last_retested_at_epoch": 1595776792.526282,
+            "last_retested_at_iso": "2020-07-26T15:19:52.526282",
             "status": "INACTIVE"
         },
         "down11.downyouxi.com": {
             "included_at_epoch": 1595259120.436523,
             "included_at_iso": "2020-07-20T15:32:00.436523",
-            "last_retested_at_epoch": 1595517391.363304,
-            "last_retested_at_iso": "2020-07-23T15:16:31.363304",
+            "last_retested_at_epoch": 1595776792.87888,
+            "last_retested_at_iso": "2020-07-26T15:19:52.878880",
             "status": "INACTIVE"
         },
         "down12.downyouxi.com": {
             "included_at_epoch": 1595259120.423215,
             "included_at_iso": "2020-07-20T15:32:00.423215",
-            "last_retested_at_epoch": 1595517391.377936,
-            "last_retested_at_iso": "2020-07-23T15:16:31.377936",
+            "last_retested_at_epoch": 1595776792.892587,
+            "last_retested_at_iso": "2020-07-26T15:19:52.892587",
             "status": "INACTIVE"
         },
         "down8.downyouxi.com": {
             "included_at_epoch": 1595259120.454402,
             "included_at_iso": "2020-07-20T15:32:00.454402",
-            "last_retested_at_epoch": 1595517391.398795,
-            "last_retested_at_iso": "2020-07-23T15:16:31.398795",
+            "last_retested_at_epoch": 1595776792.912916,
+            "last_retested_at_iso": "2020-07-26T15:19:52.912916",
             "status": "INACTIVE"
         },
         "drablutnik.pl": {
