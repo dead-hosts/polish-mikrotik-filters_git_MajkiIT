@@ -1708,60 +1708,74 @@
             "last_retested_at_iso": "2020-08-01T16:36:33.999086",
             "status": "INACTIVE"
         },
+        "pogodaparyz.pl": {
+            "included_at_epoch": 1596300835.943454,
+            "included_at_iso": "2020-08-01T16:53:55.943454",
+            "last_retested_at_epoch": 1596300835.943454,
+            "last_retested_at_iso": "2020-08-01T16:53:55.943454",
+            "status": "INACTIVE"
+        },
+        "pokojewkolobrzegu.com.pl": {
+            "included_at_epoch": 1596300836.224204,
+            "included_at_iso": "2020-08-01T16:53:56.224204",
+            "last_retested_at_epoch": 1596300836.224204,
+            "last_retested_at_iso": "2020-08-01T16:53:56.224204",
+            "status": "INACTIVE"
+        },
         "portalgminny.cal24.pl": {
             "included_at_epoch": 1595264888.900809,
             "included_at_iso": "2020-07-20T17:08:08.900809",
-            "last_retested_at_epoch": 1596040449.195972,
-            "last_retested_at_iso": "2020-07-29T16:34:09.195972",
+            "last_retested_at_epoch": 1596300841.769419,
+            "last_retested_at_iso": "2020-08-01T16:54:01.769419",
             "status": "INACTIVE"
         },
         "portalpowiatowy.098.pl": {
             "included_at_epoch": 1594298772.840684,
             "included_at_iso": "2020-07-09T12:46:12.840684",
-            "last_retested_at_epoch": 1596040449.287295,
-            "last_retested_at_iso": "2020-07-29T16:34:09.287295",
+            "last_retested_at_epoch": 1596300841.804048,
+            "last_retested_at_iso": "2020-08-01T16:54:01.804048",
             "status": "INACTIVE"
         },
         "portalpowiatowy.cal24.pl": {
             "included_at_epoch": 1594514784.987711,
             "included_at_iso": "2020-07-12T00:46:24.987711",
-            "last_retested_at_epoch": 1596040449.310237,
-            "last_retested_at_iso": "2020-07-29T16:34:09.310237",
+            "last_retested_at_epoch": 1596300841.786808,
+            "last_retested_at_iso": "2020-08-01T16:54:01.786808",
             "status": "INACTIVE"
         },
         "portalsasiedzki.eu": {
             "included_at_epoch": 1594298773.02236,
             "included_at_iso": "2020-07-09T12:46:13.022360",
-            "last_retested_at_epoch": 1596041476.523196,
-            "last_retested_at_iso": "2020-07-29T16:51:16.523196",
+            "last_retested_at_epoch": 1596300841.826143,
+            "last_retested_at_iso": "2020-08-01T16:54:01.826143",
             "status": "INACTIVE"
         },
         "portalwojewodzki.098.pl": {
             "included_at_epoch": 1596041476.505077,
             "included_at_iso": "2020-07-29T16:51:16.505077",
-            "last_retested_at_epoch": 1596041476.505077,
-            "last_retested_at_iso": "2020-07-29T16:51:16.505077",
+            "last_retested_at_epoch": 1596300841.860311,
+            "last_retested_at_iso": "2020-08-01T16:54:01.860311",
             "status": "INACTIVE"
         },
         "portalwojewodzki.cal24.pl": {
             "included_at_epoch": 1596041476.615066,
             "included_at_iso": "2020-07-29T16:51:16.615066",
-            "last_retested_at_epoch": 1596041476.615066,
-            "last_retested_at_iso": "2020-07-29T16:51:16.615066",
+            "last_retested_at_epoch": 1596300841.843257,
+            "last_retested_at_iso": "2020-08-01T16:54:01.843257",
             "status": "INACTIVE"
         },
         "po�yczaj.online.pl": {
             "included_at_epoch": 1594516812.975189,
             "included_at_iso": "2020-07-12T01:20:12.975189",
-            "last_retested_at_epoch": 1596041480.206978,
-            "last_retested_at_iso": "2020-07-29T16:51:20.206978",
+            "last_retested_at_epoch": 1596300845.851813,
+            "last_retested_at_iso": "2020-08-01T16:54:05.851813",
             "status": "INVALID"
         },
         "pramodkumarsingh.000webhostapp.com": {
             "included_at_epoch": 1594516814.403702,
             "included_at_iso": "2020-07-12T01:20:14.403702",
-            "last_retested_at_epoch": 1596041481.930799,
-            "last_retested_at_iso": "2020-07-29T16:51:21.930799",
+            "last_retested_at_epoch": 1596300847.68222,
+            "last_retested_at_iso": "2020-08-01T16:54:07.682220",
             "status": "INACTIVE"
         },
         "prawoibezprawie.pl": {
@@ -1788,15 +1802,15 @@
         "przeglosuj-strone.eu": {
             "included_at_epoch": 1594387158.91825,
             "included_at_iso": "2020-07-10T13:19:18.918250",
-            "last_retested_at_epoch": 1596041487.64492,
-            "last_retested_at_iso": "2020-07-29T16:51:27.644920",
+            "last_retested_at_epoch": 1596300853.903256,
+            "last_retested_at_iso": "2020-08-01T16:54:13.903256",
             "status": "INACTIVE"
         },
         "przesyleczki.com": {
             "included_at_epoch": 1594729975.187655,
             "included_at_iso": "2020-07-14T12:32:55.187655",
-            "last_retested_at_epoch": 1596041488.106221,
-            "last_retested_at_iso": "2020-07-29T16:51:28.106221",
+            "last_retested_at_epoch": 1596300854.30315,
+            "last_retested_at_iso": "2020-08-01T16:54:14.303150",
             "status": "INACTIVE"
         },
         "przytulisko.net.pl": {
@@ -1820,67 +1834,88 @@
             "last_retested_at_iso": "2020-07-29T20:20:26.580095",
             "status": "INACTIVE"
         },
+        "rdraff.com-app1.site": {
+            "included_at_epoch": 1596300866.917421,
+            "included_at_iso": "2020-08-01T16:54:26.917421",
+            "last_retested_at_epoch": 1596300866.917421,
+            "last_retested_at_iso": "2020-08-01T16:54:26.917421",
+            "status": "INACTIVE"
+        },
         "reeboknpcii.pl": {
             "included_at_epoch": 1593970628.213598,
             "included_at_iso": "2020-07-05T17:37:08.213598",
-            "last_retested_at_epoch": 1596041500.762506,
-            "last_retested_at_iso": "2020-07-29T16:51:40.762506",
+            "last_retested_at_epoch": 1596300868.760597,
+            "last_retested_at_iso": "2020-08-01T16:54:28.760597",
             "status": "INACTIVE"
         },
         "rewardrey.com": {
             "included_at_epoch": 1594989926.163994,
             "included_at_iso": "2020-07-17T12:45:26.163994",
-            "last_retested_at_epoch": 1596041504.964027,
-            "last_retested_at_iso": "2020-07-29T16:51:44.964027",
+            "last_retested_at_epoch": 1596300874.023164,
+            "last_retested_at_iso": "2020-08-01T16:54:34.023164",
             "status": "INACTIVE"
         },
         "rowanyne.ooo": {
             "included_at_epoch": 1595265951.488502,
             "included_at_iso": "2020-07-20T17:25:51.488502",
-            "last_retested_at_epoch": 1596041508.969901,
-            "last_retested_at_iso": "2020-07-29T16:51:48.969901",
+            "last_retested_at_epoch": 1596300878.81737,
+            "last_retested_at_iso": "2020-08-01T16:54:38.817370",
             "status": "INACTIVE"
         },
         "rt4e34.win": {
             "included_at_epoch": 1595522778.972504,
             "included_at_iso": "2020-07-23T16:46:18.972504",
-            "last_retested_at_epoch": 1596041510.014475,
-            "last_retested_at_iso": "2020-07-29T16:51:50.014475",
+            "last_retested_at_epoch": 1596300880.1471,
+            "last_retested_at_iso": "2020-08-01T16:54:40.147100",
             "status": "INACTIVE"
         },
         "rubi4edit.com": {
             "included_at_epoch": 1594646485.562147,
             "included_at_iso": "2020-07-13T13:21:25.562147",
-            "last_retested_at_epoch": 1596041510.108432,
-            "last_retested_at_iso": "2020-07-29T16:51:50.108432",
+            "last_retested_at_epoch": 1596300880.324902,
+            "last_retested_at_iso": "2020-08-01T16:54:40.324902",
             "status": "INACTIVE"
         },
         "sabzgame.ir": {
             "included_at_epoch": 1594646487.18128,
             "included_at_iso": "2020-07-13T13:21:27.181280",
-            "last_retested_at_epoch": 1596041511.876924,
-            "last_retested_at_iso": "2020-07-29T16:51:51.876924",
+            "last_retested_at_epoch": 1596300882.199578,
+            "last_retested_at_iso": "2020-08-01T16:54:42.199578",
+            "status": "INACTIVE"
+        },
+        "santander-bank-polska.braceletluck.com": {
+            "included_at_epoch": 1596300885.165,
+            "included_at_iso": "2020-08-01T16:54:45.165000",
+            "last_retested_at_epoch": 1596300885.165,
+            "last_retested_at_iso": "2020-08-01T16:54:45.165000",
+            "status": "INACTIVE"
+        },
+        "santander-bank-polska.robo71.com": {
+            "included_at_epoch": 1596300885.183528,
+            "included_at_iso": "2020-08-01T16:54:45.183528",
+            "last_retested_at_epoch": 1596300885.183528,
+            "last_retested_at_iso": "2020-08-01T16:54:45.183528",
             "status": "INACTIVE"
         },
         "sashapikula.com": {
             "included_at_epoch": 1593970640.307293,
             "included_at_iso": "2020-07-05T17:37:20.307293",
-            "last_retested_at_epoch": 1596041514.848776,
-            "last_retested_at_iso": "2020-07-29T16:51:54.848776",
+            "last_retested_at_epoch": 1596300885.511194,
+            "last_retested_at_iso": "2020-08-01T16:54:45.511194",
             "status": "INACTIVE"
         },
         "sasiedzkiewiesci.cal24.pl": {
             "included_at_epoch": 1595522783.500058,
             "included_at_iso": "2020-07-23T16:46:23.500058",
-            "last_retested_at_epoch": 1596041514.950691,
-            "last_retested_at_iso": "2020-07-29T16:51:54.950691",
+            "last_retested_at_epoch": 1596300885.608292,
+            "last_retested_at_iso": "2020-08-01T16:54:45.608292",
             "status": "INACTIVE"
         },
         "sasiedzkiportal.eu": {
             "included_at_epoch": 1594300695.005482,
             "included_at_iso": "2020-07-09T13:18:15.005482",
-            "last_retested_at_epoch": 1596041514.967986,
-            "last_retested_at_iso": "2020-07-29T16:51:54.967986",
+            "last_retested_at_epoch": 1596300885.626648,
+            "last_retested_at_iso": "2020-08-01T16:54:45.626648",
             "status": "INACTIVE"
         },
         "secondhand-gwo24.pl": {
@@ -1893,15 +1928,22 @@
         "secure-eplatnosc.com": {
             "included_at_epoch": 1595265959.173814,
             "included_at_iso": "2020-07-20T17:25:59.173814",
-            "last_retested_at_epoch": 1596041517.488224,
-            "last_retested_at_iso": "2020-07-29T16:51:57.488224",
+            "last_retested_at_epoch": 1596300888.658807,
+            "last_retested_at_iso": "2020-08-01T16:54:48.658807",
             "status": "INACTIVE"
         },
         "sigma1.eu": {
             "included_at_epoch": 1595265965.595802,
             "included_at_iso": "2020-07-20T17:26:05.595802",
-            "last_retested_at_epoch": 1596041524.359877,
-            "last_retested_at_iso": "2020-07-29T16:52:04.359877",
+            "last_retested_at_epoch": 1596300896.232219,
+            "last_retested_at_iso": "2020-08-01T16:54:56.232219",
+            "status": "INACTIVE"
+        },
+        "simmafia.pl": {
+            "included_at_epoch": 1596300897.04861,
+            "included_at_iso": "2020-08-01T16:54:57.048610",
+            "last_retested_at_epoch": 1596300897.04861,
+            "last_retested_at_iso": "2020-08-01T16:54:57.048610",
             "status": "INACTIVE"
         },
         "slipknot1.pl": {
