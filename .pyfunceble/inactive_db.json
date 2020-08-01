@@ -6230,6 +6230,13 @@
             "last_retested_at_iso": "2020-07-29T20:20:25.669222",
             "status": "INACTIVE"
         },
+        "www.sklep-agricar.pl": {
+            "included_at_epoch": 1596311236.444258,
+            "included_at_iso": "2020-08-01T19:47:16.444258",
+            "last_retested_at_epoch": 1596311236.444258,
+            "last_retested_at_iso": "2020-08-01T19:47:16.444258",
+            "status": "INACTIVE"
+        },
         "www.skleppolo.pl": {
             "included_at_epoch": 1594664471.453189,
             "included_at_iso": "2020-07-13T18:21:11.453189",
@@ -6254,8 +6261,8 @@
         "www.slajdy.com.pl": {
             "included_at_epoch": 1595791556.736239,
             "included_at_iso": "2020-07-26T19:25:56.736239",
-            "last_retested_at_epoch": 1596050894.628869,
-            "last_retested_at_iso": "2020-07-29T19:28:14.628869",
+            "last_retested_at_epoch": 1596311236.683536,
+            "last_retested_at_iso": "2020-08-01T19:47:16.683536",
             "status": "INACTIVE"
         },
         "www.slaskie-innowacje.pl": {
@@ -6268,8 +6275,8 @@
         "www.slowkariera.pl": {
             "included_at_epoch": 1594527982.889229,
             "included_at_iso": "2020-07-12T04:26:22.889229",
-            "last_retested_at_epoch": 1596050894.71817,
-            "last_retested_at_iso": "2020-07-29T19:28:14.718170",
+            "last_retested_at_epoch": 1596311236.756543,
+            "last_retested_at_iso": "2020-08-01T19:47:16.756543",
             "status": "INACTIVE"
         },
         "www.sluchawafm.pl": {
@@ -6289,8 +6296,8 @@
         "www.sopot-fakt24.pl": {
             "included_at_epoch": 1595532154.356518,
             "included_at_iso": "2020-07-23T19:22:34.356518",
-            "last_retested_at_epoch": 1596050895.27752,
-            "last_retested_at_iso": "2020-07-29T19:28:15.277520",
+            "last_retested_at_epoch": 1596311237.330822,
+            "last_retested_at_iso": "2020-08-01T19:47:17.330822",
             "status": "INACTIVE"
         },
         "www.soundshow.pl": {
@@ -6317,8 +6324,8 @@
         "www.splot.org.pl": {
             "included_at_epoch": 1595791557.66896,
             "included_at_iso": "2020-07-26T19:25:57.668960",
-            "last_retested_at_epoch": 1596050895.53745,
-            "last_retested_at_iso": "2020-07-29T19:28:15.537450",
+            "last_retested_at_epoch": 1596311237.610527,
+            "last_retested_at_iso": "2020-08-01T19:47:17.610527",
             "status": "INACTIVE"
         },
         "www.spyderpolska.pl": {
@@ -6338,8 +6345,8 @@
         "www.ssl.mmtgo.me": {
             "included_at_epoch": 1594527983.908249,
             "included_at_iso": "2020-07-12T04:26:23.908249",
-            "last_retested_at_epoch": 1596051955.62929,
-            "last_retested_at_iso": "2020-07-29T19:45:55.629290",
+            "last_retested_at_epoch": 1596311237.953343,
+            "last_retested_at_iso": "2020-08-01T19:47:17.953343",
             "status": "INACTIVE"
         },
         "www.startrainst.com": {
@@ -6352,8 +6359,8 @@
         "www.statusnim.info": {
             "included_at_epoch": 1595791558.221853,
             "included_at_iso": "2020-07-26T19:25:58.221853",
-            "last_retested_at_epoch": 1596051955.849661,
-            "last_retested_at_iso": "2020-07-29T19:45:55.849661",
+            "last_retested_at_epoch": 1596311238.192887,
+            "last_retested_at_iso": "2020-08-01T19:47:18.192887",
             "status": "INACTIVE"
         },
         "www.stowarzyszeniewkp.pl": {
@@ -6373,8 +6380,8 @@
         "www.studiodermetica.pl": {
             "included_at_epoch": 1594917189.915611,
             "included_at_iso": "2020-07-16T16:33:09.915611",
-            "last_retested_at_epoch": 1596051956.233742,
-            "last_retested_at_iso": "2020-07-29T19:45:56.233742",
+            "last_retested_at_epoch": 1596311238.591427,
+            "last_retested_at_iso": "2020-08-01T19:47:18.591427",
             "status": "INACTIVE"
         },
         "www.studiujwopolu.pl": {
@@ -6408,29 +6415,36 @@
         "www.supermegacool.bit": {
             "included_at_epoch": 1594528999.618021,
             "included_at_iso": "2020-07-12T04:43:19.618021",
-            "last_retested_at_epoch": 1596051956.467386,
-            "last_retested_at_iso": "2020-07-29T19:45:56.467386",
+            "last_retested_at_epoch": 1596311238.831754,
+            "last_retested_at_iso": "2020-08-01T19:47:18.831754",
             "status": "INVALID"
         },
         "www.supplementum.pl": {
             "included_at_epoch": 1595791558.923797,
             "included_at_iso": "2020-07-26T19:25:58.923797",
-            "last_retested_at_epoch": 1596051956.518774,
-            "last_retested_at_iso": "2020-07-29T19:45:56.518774",
+            "last_retested_at_epoch": 1596311238.884851,
+            "last_retested_at_iso": "2020-08-01T19:47:18.884851",
+            "status": "INACTIVE"
+        },
+        "www.swapgg.pl": {
+            "included_at_epoch": 1596311238.968543,
+            "included_at_iso": "2020-08-01T19:47:18.968543",
+            "last_retested_at_epoch": 1596311238.968543,
+            "last_retested_at_iso": "2020-08-01T19:47:18.968543",
             "status": "INACTIVE"
         },
         "www.swiezyblog.com.pl": {
             "included_at_epoch": 1595532156.148827,
             "included_at_iso": "2020-07-23T19:22:36.148827",
-            "last_retested_at_epoch": 1596051956.751982,
-            "last_retested_at_iso": "2020-07-29T19:45:56.751982",
+            "last_retested_at_epoch": 1596311239.146073,
+            "last_retested_at_iso": "2020-08-01T19:47:19.146073",
             "status": "INACTIVE"
         },
         "www.szklobudowlane.com.pl": {
             "included_at_epoch": 1595791559.429043,
             "included_at_iso": "2020-07-26T19:25:59.429043",
-            "last_retested_at_epoch": 1596051957.015334,
-            "last_retested_at_iso": "2020-07-29T19:45:57.015334",
+            "last_retested_at_epoch": 1596311239.43965,
+            "last_retested_at_iso": "2020-08-01T19:47:19.439650",
             "status": "INACTIVE"
         },
         "www.t21.pl": {
@@ -6443,36 +6457,43 @@
         "www.t500track29.com": {
             "included_at_epoch": 1595791559.665612,
             "included_at_iso": "2020-07-26T19:25:59.665612",
-            "last_retested_at_epoch": 1596051957.24168,
-            "last_retested_at_iso": "2020-07-29T19:45:57.241680",
+            "last_retested_at_epoch": 1596311239.683736,
+            "last_retested_at_iso": "2020-08-01T19:47:19.683736",
             "status": "INACTIVE"
         },
         "www.tangozwabrzycha.pl": {
             "included_at_epoch": 1594529000.387001,
             "included_at_iso": "2020-07-12T04:43:20.387001",
-            "last_retested_at_epoch": 1596051957.37262,
-            "last_retested_at_iso": "2020-07-29T19:45:57.372620",
+            "last_retested_at_epoch": 1596311239.795781,
+            "last_retested_at_iso": "2020-08-01T19:47:19.795781",
             "status": "INACTIVE"
         },
         "www.taniewizytowki.info.pl": {
             "included_at_epoch": 1595791559.863534,
             "included_at_iso": "2020-07-26T19:25:59.863534",
-            "last_retested_at_epoch": 1596051957.423783,
-            "last_retested_at_iso": "2020-07-29T19:45:57.423783",
+            "last_retested_at_epoch": 1596311239.879027,
+            "last_retested_at_iso": "2020-08-01T19:47:19.879027",
+            "status": "INACTIVE"
+        },
+        "www.tanzeelbuilders.com": {
+            "included_at_epoch": 1596311239.900805,
+            "included_at_iso": "2020-08-01T19:47:19.900805",
+            "last_retested_at_epoch": 1596311239.900805,
+            "last_retested_at_iso": "2020-08-01T19:47:19.900805",
             "status": "INACTIVE"
         },
         "www.tariqul.info": {
             "included_at_epoch": 1595276968.106431,
             "included_at_iso": "2020-07-20T20:29:28.106431",
-            "last_retested_at_epoch": 1596051957.505625,
-            "last_retested_at_iso": "2020-07-29T19:45:57.505625",
+            "last_retested_at_epoch": 1596311239.962846,
+            "last_retested_at_iso": "2020-08-01T19:47:19.962846",
             "status": "INACTIVE"
         },
         "www.teespoon.co": {
             "included_at_epoch": 1595791560.082181,
             "included_at_iso": "2020-07-26T19:26:00.082181",
-            "last_retested_at_epoch": 1596051957.651154,
-            "last_retested_at_iso": "2020-07-29T19:45:57.651154",
+            "last_retested_at_epoch": 1596311240.118964,
+            "last_retested_at_iso": "2020-08-01T19:47:20.118964",
             "status": "INACTIVE"
         },
         "www.tematyczny.h2g.pl": {
@@ -6485,22 +6506,22 @@
         "www.testclub.pl": {
             "included_at_epoch": 1595791560.484924,
             "included_at_iso": "2020-07-26T19:26:00.484924",
-            "last_retested_at_epoch": 1596051958.040539,
-            "last_retested_at_iso": "2020-07-29T19:45:58.040539",
+            "last_retested_at_epoch": 1596311240.503956,
+            "last_retested_at_iso": "2020-08-01T19:47:20.503956",
             "status": "INACTIVE"
         },
         "www.testing3srv10.live": {
             "included_at_epoch": 1594742839.205851,
             "included_at_iso": "2020-07-14T16:07:19.205851",
-            "last_retested_at_epoch": 1596051958.061352,
-            "last_retested_at_iso": "2020-07-29T19:45:58.061352",
+            "last_retested_at_epoch": 1596311240.525962,
+            "last_retested_at_iso": "2020-08-01T19:47:20.525962",
             "status": "INACTIVE"
         },
         "www.tiandewarszawa.pl": {
             "included_at_epoch": 1594529001.245485,
             "included_at_iso": "2020-07-12T04:43:21.245485",
-            "last_retested_at_epoch": 1596051958.375777,
-            "last_retested_at_iso": "2020-07-29T19:45:58.375777",
+            "last_retested_at_epoch": 1596311240.843245,
+            "last_retested_at_iso": "2020-08-01T19:47:20.843245",
             "status": "INACTIVE"
         },
         "www.timberlandchukka.pl": {
@@ -6527,22 +6548,15 @@
         "www.tommyhalfigero.top": {
             "included_at_epoch": 1595792573.737614,
             "included_at_iso": "2020-07-26T19:42:53.737614",
-            "last_retested_at_epoch": 1596051958.607844,
-            "last_retested_at_iso": "2020-07-29T19:45:58.607844",
-            "status": "INACTIVE"
-        },
-        "www.tomojbiznes.pl": {
-            "included_at_epoch": 1596051958.628875,
-            "included_at_iso": "2020-07-29T19:45:58.628875",
-            "last_retested_at_epoch": 1596051958.628875,
-            "last_retested_at_iso": "2020-07-29T19:45:58.628875",
+            "last_retested_at_epoch": 1596311241.070238,
+            "last_retested_at_iso": "2020-08-01T19:47:21.070238",
             "status": "INACTIVE"
         },
         "www.topanonse.pl": {
             "included_at_epoch": 1595792573.796548,
             "included_at_iso": "2020-07-26T19:42:53.796548",
-            "last_retested_at_epoch": 1596051958.649893,
-            "last_retested_at_iso": "2020-07-29T19:45:58.649893",
+            "last_retested_at_epoch": 1596311241.114663,
+            "last_retested_at_iso": "2020-08-01T19:47:21.114663",
             "status": "INACTIVE"
         },
         "www.topparagliding.pl": {
