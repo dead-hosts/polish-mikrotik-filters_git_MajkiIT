@@ -6205,64 +6205,64 @@
         "www.spindlemovies.com": {
             "included_at_epoch": 1597094934.116509,
             "included_at_iso": "2020-08-10T21:28:54.116509",
-            "last_retested_at_epoch": 1597355360.480801,
-            "last_retested_at_iso": "2020-08-13T21:49:20.480801",
+            "last_retested_at_epoch": 1597614409.486496,
+            "last_retested_at_iso": "2020-08-16T21:46:49.486496",
             "status": "INACTIVE"
         },
         "www.splot.org.pl": {
             "included_at_epoch": 1595791557.66896,
             "included_at_iso": "2020-07-26T19:25:57.668960",
-            "last_retested_at_epoch": 1597355360.535004,
-            "last_retested_at_iso": "2020-08-13T21:49:20.535004",
+            "last_retested_at_epoch": 1597614409.53834,
+            "last_retested_at_iso": "2020-08-16T21:46:49.538340",
             "status": "INACTIVE"
         },
         "www.ssl.mmtgo.me": {
             "included_at_epoch": 1597094934.58415,
             "included_at_iso": "2020-08-10T21:28:54.584150",
-            "last_retested_at_epoch": 1597355360.898383,
-            "last_retested_at_iso": "2020-08-13T21:49:20.898383",
+            "last_retested_at_epoch": 1597614409.881032,
+            "last_retested_at_iso": "2020-08-16T21:46:49.881032",
             "status": "INACTIVE"
         },
         "www.sso-cloud-ideabank.at": {
             "included_at_epoch": 1596566645.567062,
             "included_at_iso": "2020-08-04T18:44:05.567062",
-            "last_retested_at_epoch": 1597355360.940093,
-            "last_retested_at_iso": "2020-08-13T21:49:20.940093",
+            "last_retested_at_epoch": 1597614409.93232,
+            "last_retested_at_iso": "2020-08-16T21:46:49.932320",
             "status": "INACTIVE"
         },
         "www.stackspay.com": {
             "included_at_epoch": 1596835879.445304,
             "included_at_iso": "2020-08-07T21:31:19.445304",
-            "last_retested_at_epoch": 1597355360.971522,
-            "last_retested_at_iso": "2020-08-13T21:49:20.971522",
+            "last_retested_at_epoch": 1597614409.978645,
+            "last_retested_at_iso": "2020-08-16T21:46:49.978645",
             "status": "INACTIVE"
         },
         "www.status.shop.pl": {
             "included_at_epoch": 1597355361.169713,
             "included_at_iso": "2020-08-13T21:49:21.169713",
-            "last_retested_at_epoch": 1597355361.169713,
-            "last_retested_at_iso": "2020-08-13T21:49:21.169713",
+            "last_retested_at_epoch": 1597614410.159619,
+            "last_retested_at_iso": "2020-08-16T21:46:50.159619",
             "status": "INACTIVE"
         },
         "www.statusnim.info": {
             "included_at_epoch": 1595791558.221853,
             "included_at_iso": "2020-07-26T19:25:58.221853",
-            "last_retested_at_epoch": 1597355361.148641,
-            "last_retested_at_iso": "2020-08-13T21:49:21.148641",
+            "last_retested_at_epoch": 1597614410.118014,
+            "last_retested_at_iso": "2020-08-16T21:46:50.118014",
             "status": "INACTIVE"
         },
         "www.stopkomornikowi.pl": {
             "included_at_epoch": 1596566645.977231,
             "included_at_iso": "2020-08-04T18:44:05.977231",
-            "last_retested_at_epoch": 1597355361.390014,
-            "last_retested_at_iso": "2020-08-13T21:49:21.390014",
+            "last_retested_at_epoch": 1597614410.364222,
+            "last_retested_at_iso": "2020-08-16T21:46:50.364222",
             "status": "INACTIVE"
         },
-        "www.studiodermetica.pl": {
-            "included_at_epoch": 1597355361.606882,
-            "included_at_iso": "2020-08-13T21:49:21.606882",
-            "last_retested_at_epoch": 1597355361.606882,
-            "last_retested_at_iso": "2020-08-13T21:49:21.606882",
+        "www.studioartandcafe.pl": {
+            "included_at_epoch": 1597614410.541246,
+            "included_at_iso": "2020-08-16T21:46:50.541246",
+            "last_retested_at_epoch": 1597614410.541246,
+            "last_retested_at_iso": "2020-08-16T21:46:50.541246",
             "status": "INACTIVE"
         },
         "www.stylowezycie.pl": {
@@ -6275,78 +6275,92 @@
         "www.supermegacool.bit": {
             "included_at_epoch": 1597095965.049418,
             "included_at_iso": "2020-08-10T21:46:05.049418",
-            "last_retested_at_epoch": 1597355361.859731,
-            "last_retested_at_iso": "2020-08-13T21:49:21.859731",
+            "last_retested_at_epoch": 1597614410.811007,
+            "last_retested_at_iso": "2020-08-16T21:46:50.811007",
             "status": "INVALID"
         },
         "www.superstarbuty.pl": {
             "included_at_epoch": 1597355361.901589,
             "included_at_iso": "2020-08-13T21:49:21.901589",
-            "last_retested_at_epoch": 1597355361.901589,
-            "last_retested_at_iso": "2020-08-13T21:49:21.901589",
+            "last_retested_at_epoch": 1597614410.842372,
+            "last_retested_at_iso": "2020-08-16T21:46:50.842372",
             "status": "INACTIVE"
         },
         "www.supplementum.pl": {
             "included_at_epoch": 1595791558.923797,
             "included_at_iso": "2020-07-26T19:25:58.923797",
-            "last_retested_at_epoch": 1597355361.933016,
-            "last_retested_at_iso": "2020-08-13T21:49:21.933016",
+            "last_retested_at_epoch": 1597614410.873885,
+            "last_retested_at_iso": "2020-08-16T21:46:50.873885",
             "status": "INACTIVE"
         },
         "www.swapgg.pl": {
             "included_at_epoch": 1596311238.968543,
             "included_at_iso": "2020-08-01T19:47:18.968543",
-            "last_retested_at_epoch": 1597355362.006219,
-            "last_retested_at_iso": "2020-08-13T21:49:22.006219",
+            "last_retested_at_epoch": 1597614410.943204,
+            "last_retested_at_iso": "2020-08-16T21:46:50.943204",
             "status": "INACTIVE"
         },
         "www.swiezyblog.com.pl": {
             "included_at_epoch": 1595532156.148827,
             "included_at_iso": "2020-07-23T19:22:36.148827",
-            "last_retested_at_epoch": 1597355362.180746,
-            "last_retested_at_iso": "2020-08-13T21:49:22.180746",
+            "last_retested_at_epoch": 1597614411.120898,
+            "last_retested_at_iso": "2020-08-16T21:46:51.120898",
             "status": "INACTIVE"
         },
         "www.szalone.eu": {
             "included_at_epoch": 1597355362.335535,
             "included_at_iso": "2020-08-13T21:49:22.335535",
-            "last_retested_at_epoch": 1597355362.335535,
-            "last_retested_at_iso": "2020-08-13T21:49:22.335535",
+            "last_retested_at_epoch": 1597614411.2683,
+            "last_retested_at_iso": "2020-08-16T21:46:51.268300",
             "status": "INACTIVE"
         },
         "www.szklobudowlane.com.pl": {
             "included_at_epoch": 1595791559.429043,
             "included_at_iso": "2020-07-26T19:25:59.429043",
-            "last_retested_at_epoch": 1597355362.518073,
-            "last_retested_at_iso": "2020-08-13T21:49:22.518073",
+            "last_retested_at_epoch": 1597614411.426032,
+            "last_retested_at_iso": "2020-08-16T21:46:51.426032",
+            "status": "INACTIVE"
+        },
+        "www.szybka-pozyczka.com": {
+            "included_at_epoch": 1597614411.583204,
+            "included_at_iso": "2020-08-16T21:46:51.583204",
+            "last_retested_at_epoch": 1597614411.583204,
+            "last_retested_at_iso": "2020-08-16T21:46:51.583204",
             "status": "INACTIVE"
         },
         "www.szybka-wyplata.pl": {
             "included_at_epoch": 1596566647.149863,
             "included_at_iso": "2020-08-04T18:44:07.149863",
-            "last_retested_at_epoch": 1597355362.683616,
-            "last_retested_at_iso": "2020-08-13T21:49:22.683616",
+            "last_retested_at_epoch": 1597614411.604386,
+            "last_retested_at_iso": "2020-08-16T21:46:51.604386",
+            "status": "INACTIVE"
+        },
+        "www.szybkikurier.online": {
+            "included_at_epoch": 1597614411.662648,
+            "included_at_iso": "2020-08-16T21:46:51.662648",
+            "last_retested_at_epoch": 1597614411.662648,
+            "last_retested_at_iso": "2020-08-16T21:46:51.662648",
             "status": "INACTIVE"
         },
         "www.t500track29.com": {
             "included_at_epoch": 1595791559.665612,
             "included_at_iso": "2020-07-26T19:25:59.665612",
-            "last_retested_at_epoch": 1597355362.767375,
-            "last_retested_at_iso": "2020-08-13T21:49:22.767375",
+            "last_retested_at_epoch": 1597614411.702493,
+            "last_retested_at_iso": "2020-08-16T21:46:51.702493",
             "status": "INACTIVE"
         },
         "www.tangozwabrzycha.pl": {
             "included_at_epoch": 1597095966.112726,
             "included_at_iso": "2020-08-10T21:46:06.112726",
-            "last_retested_at_epoch": 1597355362.906363,
-            "last_retested_at_iso": "2020-08-13T21:49:22.906363",
+            "last_retested_at_epoch": 1597614411.808672,
+            "last_retested_at_iso": "2020-08-16T21:46:51.808672",
             "status": "INACTIVE"
         },
         "www.taniewizytowki.info.pl": {
             "included_at_epoch": 1595791559.863534,
             "included_at_iso": "2020-07-26T19:25:59.863534",
-            "last_retested_at_epoch": 1597355362.958727,
-            "last_retested_at_iso": "2020-08-13T21:49:22.958727",
+            "last_retested_at_epoch": 1597614411.889399,
+            "last_retested_at_iso": "2020-08-16T21:46:51.889399",
             "status": "INACTIVE"
         },
         "www.tanzeelbuilders.com": {
@@ -6373,15 +6387,15 @@
         "www.testclub.pl": {
             "included_at_epoch": 1595791560.484924,
             "included_at_iso": "2020-07-26T19:26:00.484924",
-            "last_retested_at_epoch": 1597355363.515854,
-            "last_retested_at_iso": "2020-08-13T21:49:23.515854",
+            "last_retested_at_epoch": 1597614412.401929,
+            "last_retested_at_iso": "2020-08-16T21:46:52.401929",
             "status": "INACTIVE"
         },
         "www.testing3srv10.live": {
             "included_at_epoch": 1597355363.547046,
             "included_at_iso": "2020-08-13T21:49:23.547046",
-            "last_retested_at_epoch": 1597355363.547046,
-            "last_retested_at_iso": "2020-08-13T21:49:23.547046",
+            "last_retested_at_epoch": 1597614412.432992,
+            "last_retested_at_iso": "2020-08-16T21:46:52.432992",
             "status": "INACTIVE"
         },
         "www.thesite.pl": {
@@ -6394,15 +6408,15 @@
         "www.tiandewarszawa.pl": {
             "included_at_epoch": 1597095967.133516,
             "included_at_iso": "2020-08-10T21:46:07.133516",
-            "last_retested_at_epoch": 1597355363.899074,
-            "last_retested_at_iso": "2020-08-13T21:49:23.899074",
+            "last_retested_at_epoch": 1597614412.734917,
+            "last_retested_at_iso": "2020-08-16T21:46:52.734917",
             "status": "INACTIVE"
         },
         "www.todaynews9.in": {
             "included_at_epoch": 1596836911.663353,
             "included_at_iso": "2020-08-07T21:48:31.663353",
-            "last_retested_at_epoch": 1597355364.056179,
-            "last_retested_at_iso": "2020-08-13T21:49:24.056179",
+            "last_retested_at_epoch": 1597614412.85156,
+            "last_retested_at_iso": "2020-08-16T21:46:52.851560",
             "status": "INACTIVE"
         },
         "www.tojachtczarter.pl": {
@@ -6415,120 +6429,120 @@
         "www.tommyhalfigero.top": {
             "included_at_epoch": 1595792573.737614,
             "included_at_iso": "2020-07-26T19:42:53.737614",
-            "last_retested_at_epoch": 1597355364.140193,
-            "last_retested_at_iso": "2020-08-13T21:49:24.140193",
+            "last_retested_at_epoch": 1597614412.959155,
+            "last_retested_at_iso": "2020-08-16T21:46:52.959155",
             "status": "INACTIVE"
         },
         "www.topanonse.pl": {
             "included_at_epoch": 1595792573.796548,
             "included_at_iso": "2020-07-26T19:42:53.796548",
-            "last_retested_at_epoch": 1597355364.205112,
-            "last_retested_at_iso": "2020-08-13T21:49:24.205112",
+            "last_retested_at_epoch": 1597614413.019161,
+            "last_retested_at_iso": "2020-08-16T21:46:53.019161",
             "status": "INACTIVE"
         },
         "www.trampcamp.pl": {
             "included_at_epoch": 1596836912.061762,
             "included_at_iso": "2020-08-07T21:48:32.061762",
-            "last_retested_at_epoch": 1597355364.500913,
-            "last_retested_at_iso": "2020-08-13T21:49:24.500913",
+            "last_retested_at_epoch": 1597614413.27476,
+            "last_retested_at_iso": "2020-08-16T21:46:53.274760",
             "status": "INACTIVE"
         },
         "www.trampkiconverse.com": {
             "included_at_epoch": 1597355364.479715,
             "included_at_iso": "2020-08-13T21:49:24.479715",
-            "last_retested_at_epoch": 1597355364.479715,
-            "last_retested_at_iso": "2020-08-13T21:49:24.479715",
+            "last_retested_at_epoch": 1597614413.306621,
+            "last_retested_at_iso": "2020-08-16T21:46:53.306621",
             "status": "INACTIVE"
         },
         "www.trampoliny.club": {
             "included_at_epoch": 1595277984.851975,
             "included_at_iso": "2020-07-20T20:46:24.851975",
-            "last_retested_at_epoch": 1597355364.562277,
-            "last_retested_at_iso": "2020-08-13T21:49:24.562277",
+            "last_retested_at_epoch": 1597614413.367028,
+            "last_retested_at_iso": "2020-08-16T21:46:53.367028",
             "status": "INACTIVE"
         },
         "www.triumphboard.net.pl": {
             "included_at_epoch": 1595277984.978629,
             "included_at_iso": "2020-07-20T20:46:24.978629",
-            "last_retested_at_epoch": 1597355364.779447,
-            "last_retested_at_iso": "2020-08-13T21:49:24.779447",
+            "last_retested_at_epoch": 1597614413.51598,
+            "last_retested_at_iso": "2020-08-16T21:46:53.515980",
             "status": "INACTIVE"
         },
         "www.tujestpolska.icu": {
             "included_at_epoch": 1597355364.904041,
             "included_at_iso": "2020-08-13T21:49:24.904041",
-            "last_retested_at_epoch": 1597355364.904041,
-            "last_retested_at_iso": "2020-08-13T21:49:24.904041",
+            "last_retested_at_epoch": 1597614413.625698,
+            "last_retested_at_iso": "2020-08-16T21:46:53.625698",
             "status": "INACTIVE"
         },
         "www.tujestpolska.online": {
             "included_at_epoch": 1597355364.928604,
             "included_at_iso": "2020-08-13T21:49:24.928604",
-            "last_retested_at_epoch": 1597355364.928604,
-            "last_retested_at_iso": "2020-08-13T21:49:24.928604",
+            "last_retested_at_epoch": 1597614413.647912,
+            "last_retested_at_iso": "2020-08-16T21:46:53.647912",
             "status": "INACTIVE"
         },
         "www.tunele-rozsaczajace.pl": {
             "included_at_epoch": 1597095968.126395,
             "included_at_iso": "2020-08-10T21:46:08.126395",
-            "last_retested_at_epoch": 1597357571.632946,
-            "last_retested_at_iso": "2020-08-13T22:26:11.632946",
+            "last_retested_at_epoch": 1597614413.68869,
+            "last_retested_at_iso": "2020-08-16T21:46:53.688690",
             "status": "INACTIVE"
         },
         "www.turbostrategiawalutowa.pl": {
             "included_at_epoch": 1595792574.43922,
             "included_at_iso": "2020-07-26T19:42:54.439220",
-            "last_retested_at_epoch": 1597357571.6888,
-            "last_retested_at_iso": "2020-08-13T22:26:11.688800",
+            "last_retested_at_epoch": 1597614413.739209,
+            "last_retested_at_iso": "2020-08-16T21:46:53.739209",
             "status": "INACTIVE"
         },
         "www.tvpinformacja1.eu": {
             "included_at_epoch": 1596051959.524388,
             "included_at_iso": "2020-07-29T19:45:59.524388",
-            "last_retested_at_epoch": 1597357571.896736,
-            "last_retested_at_iso": "2020-08-13T22:26:11.896736",
+            "last_retested_at_epoch": 1597614413.926467,
+            "last_retested_at_iso": "2020-08-16T21:46:53.926467",
             "status": "INACTIVE"
         },
         "www.tvpinformacyjnie.eu": {
             "included_at_epoch": 1595792574.584782,
             "included_at_iso": "2020-07-26T19:42:54.584782",
-            "last_retested_at_epoch": 1597357571.939862,
-            "last_retested_at_iso": "2020-08-13T22:26:11.939862",
+            "last_retested_at_epoch": 1597614413.989238,
+            "last_retested_at_iso": "2020-08-16T21:46:53.989238",
             "status": "INACTIVE"
         },
         "www.tvpinformacyjnie1.eu": {
             "included_at_epoch": 1596051959.546332,
             "included_at_iso": "2020-07-29T19:45:59.546332",
-            "last_retested_at_epoch": 1597357571.918513,
-            "last_retested_at_iso": "2020-08-13T22:26:11.918513",
+            "last_retested_at_epoch": 1597614413.958377,
+            "last_retested_at_iso": "2020-08-16T21:46:53.958377",
             "status": "INACTIVE"
         },
         "www.twoj-kurier.services": {
             "included_at_epoch": 1597095968.809907,
             "included_at_iso": "2020-08-10T21:46:08.809907",
-            "last_retested_at_epoch": 1597357572.311183,
-            "last_retested_at_iso": "2020-08-13T22:26:12.311183",
+            "last_retested_at_epoch": 1597614414.317314,
+            "last_retested_at_iso": "2020-08-16T21:46:54.317314",
             "status": "INACTIVE"
         },
         "www.twoja-paka.pl": {
             "included_at_epoch": 1596051959.767059,
             "included_at_iso": "2020-07-29T19:45:59.767059",
-            "last_retested_at_epoch": 1597357572.169369,
-            "last_retested_at_iso": "2020-08-13T22:26:12.169369",
+            "last_retested_at_epoch": 1597614414.198438,
+            "last_retested_at_iso": "2020-08-16T21:46:54.198438",
             "status": "INACTIVE"
         },
         "www.twojapaczka.express": {
             "included_at_epoch": 1597095968.614598,
             "included_at_iso": "2020-08-10T21:46:08.614598",
-            "last_retested_at_epoch": 1597357572.137319,
-            "last_retested_at_iso": "2020-08-13T22:26:12.137319",
+            "last_retested_at_epoch": 1597614414.126312,
+            "last_retested_at_iso": "2020-08-16T21:46:54.126312",
             "status": "INACTIVE"
         },
         "www.twojapaczka.services": {
             "included_at_epoch": 1595792574.740428,
             "included_at_iso": "2020-07-26T19:42:54.740428",
-            "last_retested_at_epoch": 1597357572.115203,
-            "last_retested_at_iso": "2020-08-13T22:26:12.115203",
+            "last_retested_at_epoch": 1597614414.157076,
+            "last_retested_at_iso": "2020-08-16T21:46:54.157076",
             "status": "INACTIVE"
         },
         "www.uks-osemka.pl": {
