@@ -983,15 +983,15 @@
         "flipkrt.club": {
             "included_at_epoch": 1596816131.518728,
             "included_at_iso": "2020-08-07T16:02:11.518728",
-            "last_retested_at_epoch": 1597595492.406119,
-            "last_retested_at_iso": "2020-08-16T16:31:32.406119",
+            "last_retested_at_epoch": 1597855142.441678,
+            "last_retested_at_iso": "2020-08-19T16:39:02.441678",
             "status": "INACTIVE"
         },
         "footoografie-pobieralnia.eu": {
             "included_at_epoch": 1596296526.909388,
             "included_at_iso": "2020-08-01T15:42:06.909388",
-            "last_retested_at_epoch": 1597595494.531151,
-            "last_retested_at_iso": "2020-08-16T16:31:34.531151",
+            "last_retested_at_epoch": 1597855144.805689,
+            "last_retested_at_iso": "2020-08-19T16:39:04.805689",
             "status": "INACTIVE"
         },
         "forum.isi.ac.id": {
@@ -1004,15 +1004,29 @@
         "fotoografie-pobierz.eu": {
             "included_at_epoch": 1596296529.43428,
             "included_at_iso": "2020-08-01T15:42:09.434280",
-            "last_retested_at_epoch": 1597595497.405297,
-            "last_retested_at_iso": "2020-08-16T16:31:37.405297",
+            "last_retested_at_epoch": 1597855147.698874,
+            "last_retested_at_iso": "2020-08-19T16:39:07.698874",
             "status": "INACTIVE"
         },
         "fte.m.dodo52.com": {
             "included_at_epoch": 1597334764.421953,
             "included_at_iso": "2020-08-13T16:06:04.421953",
-            "last_retested_at_epoch": 1597595501.428804,
-            "last_retested_at_iso": "2020-08-16T16:31:41.428804",
+            "last_retested_at_epoch": 1597855152.201225,
+            "last_retested_at_iso": "2020-08-19T16:39:12.201225",
+            "status": "INACTIVE"
+        },
+        "gadajzdrow.eu": {
+            "included_at_epoch": 1597855156.321721,
+            "included_at_iso": "2020-08-19T16:39:16.321721",
+            "last_retested_at_epoch": 1597855156.321721,
+            "last_retested_at_iso": "2020-08-19T16:39:16.321721",
+            "status": "INACTIVE"
+        },
+        "gamerlug.ir": {
+            "included_at_epoch": 1597855157.566975,
+            "included_at_iso": "2020-08-19T16:39:17.566975",
+            "last_retested_at_epoch": 1597855157.566975,
+            "last_retested_at_iso": "2020-08-19T16:39:17.566975",
             "status": "INACTIVE"
         },
         "gangkarpiarzy.pl": {
@@ -1025,43 +1039,50 @@
         "garenanow.myvnc.com:81": {
             "included_at_epoch": 1597077319.217808,
             "included_at_iso": "2020-08-10T16:35:19.217808",
-            "last_retested_at_epoch": 1597595507.779349,
-            "last_retested_at_iso": "2020-08-16T16:31:47.779349",
+            "last_retested_at_epoch": 1597855158.723731,
+            "last_retested_at_iso": "2020-08-19T16:39:18.723731",
             "status": "INVALID"
         },
         "garenanow4.myvnc.com:81": {
             "included_at_epoch": 1597077319.199416,
             "included_at_iso": "2020-08-10T16:35:19.199416",
-            "last_retested_at_epoch": 1597595507.760272,
-            "last_retested_at_iso": "2020-08-16T16:31:47.760272",
+            "last_retested_at_epoch": 1597855158.70251,
+            "last_retested_at_iso": "2020-08-19T16:39:18.702510",
             "status": "INVALID"
         },
         "gazetagminna.cal24.pl": {
             "included_at_epoch": 1597077321.7095,
             "included_at_iso": "2020-08-10T16:35:21.709500",
-            "last_retested_at_epoch": 1597595510.395816,
-            "last_retested_at_iso": "2020-08-16T16:31:50.395816",
+            "last_retested_at_epoch": 1597855161.578476,
+            "last_retested_at_iso": "2020-08-19T16:39:21.578476",
             "status": "INACTIVE"
         },
         "gazetapowiatowa.cal24.pl": {
             "included_at_epoch": 1597077322.317697,
             "included_at_iso": "2020-08-10T16:35:22.317697",
-            "last_retested_at_epoch": 1597595511.013935,
-            "last_retested_at_iso": "2020-08-16T16:31:51.013935",
+            "last_retested_at_epoch": 1597855162.271629,
+            "last_retested_at_iso": "2020-08-19T16:39:22.271629",
+            "status": "INACTIVE"
+        },
+        "gazetawojewodzka.cal24.pl": {
+            "included_at_epoch": 1597855162.382601,
+            "included_at_iso": "2020-08-19T16:39:22.382601",
+            "last_retested_at_epoch": 1597855162.382601,
+            "last_retested_at_iso": "2020-08-19T16:39:22.382601",
             "status": "INACTIVE"
         },
         "geovipcar.ge": {
             "included_at_epoch": 1596038206.146387,
             "included_at_iso": "2020-07-29T15:56:46.146387",
-            "last_retested_at_epoch": 1597595514.425393,
-            "last_retested_at_iso": "2020-08-16T16:31:54.425393",
+            "last_retested_at_epoch": 1597855166.006576,
+            "last_retested_at_iso": "2020-08-19T16:39:26.006576",
             "status": "INACTIVE"
         },
         "gerotel.com": {
             "included_at_epoch": 1597077325.771211,
             "included_at_iso": "2020-08-10T16:35:25.771211",
-            "last_retested_at_epoch": 1597595514.688365,
-            "last_retested_at_iso": "2020-08-16T16:31:54.688365",
+            "last_retested_at_epoch": 1597855166.290571,
+            "last_retested_at_iso": "2020-08-19T16:39:26.290571",
             "status": "INACTIVE"
         },
         "gilotyna.com.pl": {
@@ -1074,22 +1095,36 @@
         "gimnazjumlyski.pl": {
             "included_at_epoch": 1597595517.230912,
             "included_at_iso": "2020-08-16T16:31:57.230912",
-            "last_retested_at_epoch": 1597595517.230912,
-            "last_retested_at_iso": "2020-08-16T16:31:57.230912",
+            "last_retested_at_epoch": 1597855169.296864,
+            "last_retested_at_iso": "2020-08-19T16:39:29.296864",
+            "status": "INACTIVE"
+        },
+        "glob-tech.com.pl": {
+            "included_at_epoch": 1597855172.085402,
+            "included_at_iso": "2020-08-19T16:39:32.085402",
+            "last_retested_at_epoch": 1597855172.085402,
+            "last_retested_at_iso": "2020-08-19T16:39:32.085402",
             "status": "INACTIVE"
         },
         "gloosuj-pomagaj.eu": {
             "included_at_epoch": 1597595519.683624,
             "included_at_iso": "2020-08-16T16:31:59.683624",
-            "last_retested_at_epoch": 1597595519.683624,
-            "last_retested_at_iso": "2020-08-16T16:31:59.683624",
+            "last_retested_at_epoch": 1597855172.104369,
+            "last_retested_at_iso": "2020-08-19T16:39:32.104369",
             "status": "INACTIVE"
         },
         "gotowkanadzis.pl": {
             "included_at_epoch": 1596038214.106981,
             "included_at_iso": "2020-07-29T15:56:54.106981",
-            "last_retested_at_epoch": 1597595523.302576,
-            "last_retested_at_iso": "2020-08-16T16:32:03.302576",
+            "last_retested_at_epoch": 1597855176.054678,
+            "last_retested_at_iso": "2020-08-19T16:39:36.054678",
+            "status": "INACTIVE"
+        },
+        "gratissos.com": {
+            "included_at_epoch": 1597855178.930619,
+            "included_at_iso": "2020-08-19T16:39:38.930619",
+            "last_retested_at_epoch": 1597855178.930619,
+            "last_retested_at_iso": "2020-08-19T16:39:38.930619",
             "status": "INACTIVE"
         },
         "greatpe.pl": {
@@ -1102,29 +1137,29 @@
         "grumman.pl": {
             "included_at_epoch": 1595778911.193513,
             "included_at_iso": "2020-07-26T15:55:11.193513",
-            "last_retested_at_epoch": 1597595528.46173,
-            "last_retested_at_iso": "2020-08-16T16:32:08.461730",
+            "last_retested_at_epoch": 1597855182.207326,
+            "last_retested_at_iso": "2020-08-19T16:39:42.207326",
             "status": "INACTIVE"
         },
         "hanoihub.vn": {
             "included_at_epoch": 1596547151.205,
             "included_at_iso": "2020-08-04T13:19:11.205000",
-            "last_retested_at_epoch": 1597595533.843066,
-            "last_retested_at_iso": "2020-08-16T16:32:13.843066",
+            "last_retested_at_epoch": 1597855188.034644,
+            "last_retested_at_iso": "2020-08-19T16:39:48.034644",
             "status": "INACTIVE"
         },
         "happach.pl": {
             "included_at_epoch": 1596297576.806039,
             "included_at_iso": "2020-08-01T15:59:36.806039",
-            "last_retested_at_epoch": 1597595533.940156,
-            "last_retested_at_iso": "2020-08-16T16:32:13.940156",
+            "last_retested_at_epoch": 1597855188.233848,
+            "last_retested_at_iso": "2020-08-19T16:39:48.233848",
             "status": "INACTIVE"
         },
         "healthknowledge.my": {
             "included_at_epoch": 1596297580.132127,
             "included_at_iso": "2020-08-01T15:59:40.132127",
-            "last_retested_at_epoch": 1597595537.818927,
-            "last_retested_at_iso": "2020-08-16T16:32:17.818927",
+            "last_retested_at_epoch": 1597855192.343121,
+            "last_retested_at_iso": "2020-08-19T16:39:52.343121",
             "status": "INACTIVE"
         },
         "hipnozawpolsce.pl": {
@@ -1137,29 +1172,36 @@
         "hippbeta.000webhostapp.com": {
             "included_at_epoch": 1597077351.43593,
             "included_at_iso": "2020-08-10T16:35:51.435930",
-            "last_retested_at_epoch": 1597595540.68353,
-            "last_retested_at_iso": "2020-08-16T16:32:20.683530",
+            "last_retested_at_epoch": 1597855195.51459,
+            "last_retested_at_iso": "2020-08-19T16:39:55.514590",
+            "status": "INACTIVE"
+        },
+        "homgar.pl": {
+            "included_at_epoch": 1597855198.622067,
+            "included_at_iso": "2020-08-19T16:39:58.622067",
+            "last_retested_at_epoch": 1597855198.622067,
+            "last_retested_at_iso": "2020-08-19T16:39:58.622067",
             "status": "INACTIVE"
         },
         "houston.cypshluchim.com": {
             "included_at_epoch": 1597335832.485285,
             "included_at_iso": "2020-08-13T16:23:52.485285",
-            "last_retested_at_epoch": 1597595545.38261,
-            "last_retested_at_iso": "2020-08-16T16:32:25.382610",
+            "last_retested_at_epoch": 1597855200.843627,
+            "last_retested_at_iso": "2020-08-19T16:40:00.843627",
             "status": "INACTIVE"
         },
         "htecgroup.in": {
             "included_at_epoch": 1595778924.919821,
             "included_at_iso": "2020-07-26T15:55:24.919821",
-            "last_retested_at_epoch": 1597595546.078063,
-            "last_retested_at_iso": "2020-08-16T16:32:26.078063",
+            "last_retested_at_epoch": 1597855201.777331,
+            "last_retested_at_iso": "2020-08-19T16:40:01.777331",
             "status": "INACTIVE"
         },
         "i-faktynews24.eu": {
             "included_at_epoch": 1597335838.997886,
             "included_at_iso": "2020-08-13T16:23:58.997886",
-            "last_retested_at_epoch": 1597595552.12064,
-            "last_retested_at_iso": "2020-08-16T16:32:32.120640",
+            "last_retested_at_epoch": 1597855208.526434,
+            "last_retested_at_iso": "2020-08-19T16:40:08.526434",
             "status": "INACTIVE"
         },
         "i-wiadomosci24.eu": {
@@ -1172,22 +1214,29 @@
         "i01001.dgn.vn:1": {
             "included_at_epoch": 1597077358.44075,
             "included_at_iso": "2020-08-10T16:35:58.440750",
-            "last_retested_at_epoch": 1597595547.862363,
-            "last_retested_at_iso": "2020-08-16T16:32:27.862363",
+            "last_retested_at_epoch": 1597855203.901561,
+            "last_retested_at_iso": "2020-08-19T16:40:03.901561",
             "status": "INVALID"
+        },
+        "icloud.find-ip.us": {
+            "included_at_epoch": 1597855205.212157,
+            "included_at_iso": "2020-08-19T16:40:05.212157",
+            "last_retested_at_epoch": 1597855205.212157,
+            "last_retested_at_iso": "2020-08-19T16:40:05.212157",
+            "status": "INACTIVE"
         },
         "id.user-access.online": {
             "included_at_epoch": 1596297591.489715,
             "included_at_iso": "2020-08-01T15:59:51.489715",
-            "last_retested_at_epoch": 1597595551.003984,
-            "last_retested_at_iso": "2020-08-16T16:32:31.003984",
+            "last_retested_at_epoch": 1597855207.299963,
+            "last_retested_at_iso": "2020-08-19T16:40:07.299963",
             "status": "INACTIVE"
         },
         "ideabank-logowanie.at": {
             "included_at_epoch": 1596038237.179082,
             "included_at_iso": "2020-07-29T15:57:17.179082",
-            "last_retested_at_epoch": 1597595549.736766,
-            "last_retested_at_iso": "2020-08-16T16:32:29.736766",
+            "last_retested_at_epoch": 1597855205.889289,
+            "last_retested_at_iso": "2020-08-19T16:40:05.889289",
             "status": "INACTIVE"
         },
         "indonesias.me:9998": {
