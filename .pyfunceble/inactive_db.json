@@ -17,8 +17,8 @@
         ".dgecolesdepolice.bf": {
             "included_at_epoch": 1597074487.118862,
             "included_at_iso": "2020-08-10T15:48:07.118862",
-            "last_retested_at_epoch": 1597592945.771118,
-            "last_retested_at_iso": "2020-08-16T15:49:05.771118",
+            "last_retested_at_epoch": 1597851674.446464,
+            "last_retested_at_iso": "2020-08-19T15:41:14.446464",
             "status": "INVALID"
         },
         "01.losbuhosweb.com.mx": {
@@ -339,8 +339,8 @@
         "blog.wpvvusso.xyz": {
             "included_at_epoch": 1597592889.083595,
             "included_at_iso": "2020-08-16T15:48:09.083595",
-            "last_retested_at_epoch": 1597592889.083595,
-            "last_retested_at_iso": "2020-08-16T15:48:09.083595",
+            "last_retested_at_epoch": 1597851613.493295,
+            "last_retested_at_iso": "2020-08-19T15:40:13.493295",
             "status": "INACTIVE"
         },
         "bluesgarage.pl": {
@@ -357,32 +357,46 @@
             "last_retested_at_iso": "2020-08-16T22:17:47.901911",
             "status": "INACTIVE"
         },
+        "bnp.coast-bank.com": {
+            "included_at_epoch": 1597851614.819404,
+            "included_at_iso": "2020-08-19T15:40:14.819404",
+            "last_retested_at_epoch": 1597851614.819404,
+            "last_retested_at_iso": "2020-08-19T15:40:14.819404",
+            "status": "INACTIVE"
+        },
         "bnpparibas-login.at": {
             "included_at_epoch": 1596813450.524196,
             "included_at_iso": "2020-08-07T15:17:30.524196",
-            "last_retested_at_epoch": 1597592890.443041,
-            "last_retested_at_iso": "2020-08-16T15:48:10.443041",
+            "last_retested_at_epoch": 1597851614.914779,
+            "last_retested_at_iso": "2020-08-19T15:40:14.914779",
+            "status": "INACTIVE"
+        },
+        "bnpparibas-logowanie.at": {
+            "included_at_epoch": 1597851615.009038,
+            "included_at_iso": "2020-08-19T15:40:15.009038",
+            "last_retested_at_epoch": 1597851615.009038,
+            "last_retested_at_iso": "2020-08-19T15:40:15.009038",
             "status": "INACTIVE"
         },
         "bonus.allegro.to": {
             "included_at_epoch": 1596036030.317789,
             "included_at_iso": "2020-07-29T15:20:30.317789",
-            "last_retested_at_epoch": 1597592892.427945,
-            "last_retested_at_iso": "2020-08-16T15:48:12.427945",
+            "last_retested_at_epoch": 1597851617.079963,
+            "last_retested_at_iso": "2020-08-19T15:40:17.079963",
             "status": "INACTIVE"
         },
         "bubblelife70.life": {
             "included_at_epoch": 1595776747.105517,
             "included_at_iso": "2020-07-26T15:19:07.105517",
-            "last_retested_at_epoch": 1597592897.357356,
-            "last_retested_at_iso": "2020-08-16T15:48:17.357356",
+            "last_retested_at_epoch": 1597851622.584824,
+            "last_retested_at_iso": "2020-08-19T15:40:22.584824",
             "status": "INACTIVE"
         },
         "bulby.pl": {
             "included_at_epoch": 1595776747.737417,
             "included_at_iso": "2020-07-26T15:19:07.737417",
-            "last_retested_at_epoch": 1597592898.019082,
-            "last_retested_at_iso": "2020-08-16T15:48:18.019082",
+            "last_retested_at_epoch": 1597851623.542124,
+            "last_retested_at_iso": "2020-08-19T15:40:23.542124",
             "status": "INACTIVE"
         },
         "butysalomonsklep.pl": {
@@ -395,71 +409,85 @@
         "c.vvvvvvvvv.ga:443": {
             "included_at_epoch": 1597333647.236647,
             "included_at_iso": "2020-08-13T15:47:27.236647",
-            "last_retested_at_epoch": 1597592934.80952,
-            "last_retested_at_iso": "2020-08-16T15:48:54.809520",
+            "last_retested_at_epoch": 1597851662.595406,
+            "last_retested_at_iso": "2020-08-19T15:41:02.595406",
             "status": "INVALID"
         },
         "callgeorge.com.au": {
             "included_at_epoch": 1596295398.78967,
             "included_at_iso": "2020-08-01T15:23:18.789670",
-            "last_retested_at_epoch": 1597592901.938521,
-            "last_retested_at_iso": "2020-08-16T15:48:21.938521",
+            "last_retested_at_epoch": 1597851627.353455,
+            "last_retested_at_iso": "2020-08-19T15:40:27.353455",
             "status": "INACTIVE"
         },
         "caspianelectric.ir": {
             "included_at_epoch": 1595517346.845615,
             "included_at_iso": "2020-07-23T15:15:46.845615",
-            "last_retested_at_epoch": 1597592905.16995,
-            "last_retested_at_iso": "2020-08-16T15:48:25.169950",
+            "last_retested_at_epoch": 1597851631.069649,
+            "last_retested_at_iso": "2020-08-19T15:40:31.069649",
             "status": "INACTIVE"
         },
         "cbk.m.dodo52.com": {
             "included_at_epoch": 1597333617.749128,
             "included_at_iso": "2020-08-13T15:46:57.749128",
-            "last_retested_at_epoch": 1597592905.683835,
-            "last_retested_at_iso": "2020-08-16T15:48:25.683835",
+            "last_retested_at_epoch": 1597851631.776654,
+            "last_retested_at_iso": "2020-08-19T15:40:31.776654",
             "status": "INACTIVE"
         },
         "cdnus.laboratoryconecpttoday.com": {
             "included_at_epoch": 1596543001.909011,
             "included_at_iso": "2020-08-04T12:10:01.909011",
-            "last_retested_at_epoch": 1597592907.023174,
-            "last_retested_at_iso": "2020-08-16T15:48:27.023174",
+            "last_retested_at_epoch": 1597851633.097464,
+            "last_retested_at_iso": "2020-08-19T15:40:33.097464",
+            "status": "INACTIVE"
+        },
+        "chinese2stdyonlyywalkaloneinlifev18tfd.duckdns.org": {
+            "included_at_epoch": 1597851639.100192,
+            "included_at_iso": "2020-08-19T15:40:39.100192",
+            "last_retested_at_epoch": 1597851639.100192,
+            "last_retested_at_iso": "2020-08-19T15:40:39.100192",
             "status": "INACTIVE"
         },
         "chinhdropfile.myvnc.com:81": {
             "included_at_epoch": 1597074454.49231,
             "included_at_iso": "2020-08-10T15:47:34.492310",
-            "last_retested_at_epoch": 1597592912.52792,
-            "last_retested_at_iso": "2020-08-16T15:48:32.527920",
+            "last_retested_at_epoch": 1597851639.131998,
+            "last_retested_at_iso": "2020-08-19T15:40:39.131998",
             "status": "INVALID"
         },
         "chinhdropfile80.myvnc.com:81": {
             "included_at_epoch": 1597074454.478053,
             "included_at_iso": "2020-08-10T15:47:34.478053",
-            "last_retested_at_epoch": 1597592912.510594,
-            "last_retested_at_iso": "2020-08-16T15:48:32.510594",
+            "last_retested_at_epoch": 1597851639.116128,
+            "last_retested_at_iso": "2020-08-19T15:40:39.116128",
             "status": "INVALID"
         },
         "chj.m.dodo52.com": {
             "included_at_epoch": 1597333624.792708,
             "included_at_iso": "2020-08-13T15:47:04.792708",
-            "last_retested_at_epoch": 1597592912.709116,
-            "last_retested_at_iso": "2020-08-16T15:48:32.709116",
+            "last_retested_at_epoch": 1597851639.230253,
+            "last_retested_at_iso": "2020-08-19T15:40:39.230253",
             "status": "INACTIVE"
         },
         "cityhomes.lk": {
             "included_at_epoch": 1596814504.211502,
             "included_at_iso": "2020-08-07T15:35:04.211502",
-            "last_retested_at_epoch": 1597592916.706294,
-            "last_retested_at_iso": "2020-08-16T15:48:36.706294",
+            "last_retested_at_epoch": 1597851643.461644,
+            "last_retested_at_iso": "2020-08-19T15:40:43.461644",
             "status": "INACTIVE"
         },
         "cl-closeprotection.fr": {
             "included_at_epoch": 1595517357.428484,
             "included_at_iso": "2020-07-23T15:15:57.428484",
-            "last_retested_at_epoch": 1597592917.941751,
-            "last_retested_at_iso": "2020-08-16T15:48:37.941751",
+            "last_retested_at_epoch": 1597851645.028932,
+            "last_retested_at_iso": "2020-08-19T15:40:45.028932",
+            "status": "INACTIVE"
+        },
+        "cn52267.tmweb.ru": {
+            "included_at_epoch": 1597851647.29688,
+            "included_at_iso": "2020-08-19T15:40:47.296880",
+            "last_retested_at_epoch": 1597851647.29688,
+            "last_retested_at_iso": "2020-08-19T15:40:47.296880",
             "status": "INACTIVE"
         },
         "cnc.luxstresser.xyz": {
@@ -467,6 +495,13 @@
             "included_at_iso": "2020-07-29T15:20:54.719849",
             "last_retested_at_epoch": 1597616265.816941,
             "last_retested_at_iso": "2020-08-16T22:17:45.816941",
+            "status": "INACTIVE"
+        },
+        "consityr600.xyz": {
+            "included_at_epoch": 1597851651.231011,
+            "included_at_iso": "2020-08-19T15:40:51.231011",
+            "last_retested_at_epoch": 1597851651.231011,
+            "last_retested_at_iso": "2020-08-19T15:40:51.231011",
             "status": "INACTIVE"
         },
         "csburo.lu": {
@@ -479,15 +514,22 @@
         "da.alibuf.com:3": {
             "included_at_epoch": 1597333648.752239,
             "included_at_iso": "2020-08-13T15:47:28.752239",
-            "last_retested_at_epoch": 1597592936.237182,
-            "last_retested_at_iso": "2020-08-16T15:48:56.237182",
+            "last_retested_at_epoch": 1597851664.201555,
+            "last_retested_at_iso": "2020-08-19T15:41:04.201555",
             "status": "INVALID"
+        },
+        "daily-jokes.net": {
+            "included_at_epoch": 1597851664.816634,
+            "included_at_iso": "2020-08-19T15:41:04.816634",
+            "last_retested_at_epoch": 1597851664.816634,
+            "last_retested_at_iso": "2020-08-19T15:41:04.816634",
+            "status": "INACTIVE"
         },
         "denis928.000webhostapp.com": {
             "included_at_epoch": 1597074485.136194,
             "included_at_iso": "2020-08-10T15:48:05.136194",
-            "last_retested_at_epoch": 1597592943.652833,
-            "last_retested_at_iso": "2020-08-16T15:49:03.652833",
+            "last_retested_at_epoch": 1597851672.317574,
+            "last_retested_at_iso": "2020-08-19T15:41:12.317574",
             "status": "INACTIVE"
         },
         "deszczysko.pl": {
@@ -495,6 +537,13 @@
             "included_at_iso": "2020-08-10T15:48:06.488925",
             "last_retested_at_epoch": 1597592945.231197,
             "last_retested_at_iso": "2020-08-16T15:49:05.231197",
+            "status": "INACTIVE"
+        },
+        "dketrade.top": {
+            "included_at_epoch": 1597851680.482781,
+            "included_at_iso": "2020-08-19T15:41:20.482781",
+            "last_retested_at_epoch": 1597851680.482781,
+            "last_retested_at_iso": "2020-08-19T15:41:20.482781",
             "status": "INACTIVE"
         },
         "dnn.alibuf.com:7723": {
