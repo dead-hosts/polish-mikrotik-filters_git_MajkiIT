@@ -49529,14 +49529,19 @@
         "expiration_date": "18-jun-2021",
         "state": "future"
     },
+    "vniel.co.kr": {
+        "epoch": 1660867200.0,
+        "expiration_date": "19-aug-2022",
+        "state": "future"
+    },
     "vnitservice.com": {
         "epoch": 1635120000.0,
         "expiration_date": "25-oct-2021",
         "state": "future"
     },
     "vnotrk.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "vnwaste.com": {
@@ -49692,6 +49697,11 @@
     "vsbuty.com": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "vsederevyashki.ru": {
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "vseobuch.ru": {
@@ -50517,7 +50527,7 @@
     "winebiddingthailand.com": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "winfactory.pl": {
         "epoch": 1627344000.0,
@@ -50542,6 +50552,11 @@
     "winoandfriends.pl": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
+    "winqits.com": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "wins4n.win": {
@@ -51000,8 +51015,8 @@
         "state": "future"
     },
     "wujianji.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "wulierji.com": {
