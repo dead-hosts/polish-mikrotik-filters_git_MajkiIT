@@ -2047,22 +2047,22 @@
         "miejskiportal.eu": {
             "included_at_epoch": 1597858696.718923,
             "included_at_iso": "2020-08-19T17:38:16.718923",
-            "last_retested_at_epoch": 1598115884.904428,
-            "last_retested_at_iso": "2020-08-22T17:04:44.904428",
+            "last_retested_at_epoch": 1598378718.574141,
+            "last_retested_at_iso": "2020-08-25T18:05:18.574141",
             "status": "INACTIVE"
         },
         "milbonss.online": {
             "included_at_epoch": 1598115885.586397,
             "included_at_iso": "2020-08-22T17:04:45.586397",
-            "last_retested_at_epoch": 1598115885.586397,
-            "last_retested_at_iso": "2020-08-22T17:04:45.586397",
+            "last_retested_at_epoch": 1598378719.319878,
+            "last_retested_at_iso": "2020-08-25T18:05:19.319878",
             "status": "INACTIVE"
         },
         "mkaltenpflege24h.pl": {
             "included_at_epoch": 1597858700.698142,
             "included_at_iso": "2020-08-19T17:38:20.698142",
-            "last_retested_at_epoch": 1598115889.098529,
-            "last_retested_at_iso": "2020-08-22T17:04:49.098529",
+            "last_retested_at_epoch": 1598378722.704291,
+            "last_retested_at_iso": "2020-08-25T18:05:22.704291",
             "status": "INACTIVE"
         },
         "modeleaut.net.pl": {
@@ -2075,8 +2075,8 @@
         "mojemiastoinfo.eu": {
             "included_at_epoch": 1596819205.575042,
             "included_at_iso": "2020-08-07T16:53:25.575042",
-            "last_retested_at_epoch": 1598115894.18913,
-            "last_retested_at_iso": "2020-08-22T17:04:54.189130",
+            "last_retested_at_epoch": 1598378727.723643,
+            "last_retested_at_iso": "2020-08-25T18:05:27.723643",
             "status": "INACTIVE"
         },
         "momentum.xcaligula.xyz": {
@@ -2089,64 +2089,78 @@
         "money-wp.pl": {
             "included_at_epoch": 1596819206.496591,
             "included_at_iso": "2020-08-07T16:53:26.496591",
-            "last_retested_at_epoch": 1598115895.35266,
-            "last_retested_at_iso": "2020-08-22T17:04:55.352660",
+            "last_retested_at_epoch": 1598378728.753919,
+            "last_retested_at_iso": "2020-08-25T18:05:28.753919",
+            "status": "INACTIVE"
+        },
+        "mpestudios.pt": {
+            "included_at_epoch": 1598378732.984567,
+            "included_at_iso": "2020-08-25T18:05:32.984567",
+            "last_retested_at_epoch": 1598378732.984567,
+            "last_retested_at_iso": "2020-08-25T18:05:32.984567",
             "status": "INACTIVE"
         },
         "mvb.kz": {
             "included_at_epoch": 1597858714.763876,
             "included_at_iso": "2020-08-19T17:38:34.763876",
-            "last_retested_at_epoch": 1598115903.477044,
-            "last_retested_at_iso": "2020-08-22T17:05:03.477044",
+            "last_retested_at_epoch": 1598378736.661311,
+            "last_retested_at_iso": "2020-08-25T18:05:36.661311",
             "status": "INACTIVE"
         },
         "napthecao.top": {
             "included_at_epoch": 1597858720.803094,
             "included_at_iso": "2020-08-19T17:38:40.803094",
-            "last_retested_at_epoch": 1598115909.614932,
-            "last_retested_at_iso": "2020-08-22T17:05:09.614932",
+            "last_retested_at_epoch": 1598378742.715534,
+            "last_retested_at_iso": "2020-08-25T18:05:42.715534",
             "status": "INACTIVE"
         },
-        "naszpolskiswiat.icu": {
-            "included_at_epoch": 1598115910.931922,
-            "included_at_iso": "2020-08-22T17:05:10.931922",
-            "last_retested_at_epoch": 1598115910.931922,
-            "last_retested_at_iso": "2020-08-22T17:05:10.931922",
-            "status": "INACTIVE"
-        },
-        "naszpolskiswiat.site": {
-            "included_at_epoch": 1598115910.950401,
-            "included_at_iso": "2020-08-22T17:05:10.950401",
-            "last_retested_at_epoch": 1598115910.950401,
-            "last_retested_at_iso": "2020-08-22T17:05:10.950401",
+        "naszapolskaa.xyz": {
+            "included_at_epoch": 1598378743.557896,
+            "included_at_iso": "2020-08-25T18:05:43.557896",
+            "last_retested_at_epoch": 1598378743.557896,
+            "last_retested_at_iso": "2020-08-25T18:05:43.557896",
             "status": "INACTIVE"
         },
         "naturalbornchocolate.eu": {
             "included_at_epoch": 1597858722.639231,
             "included_at_iso": "2020-08-19T17:38:42.639231",
-            "last_retested_at_epoch": 1598115911.519353,
-            "last_retested_at_iso": "2020-08-22T17:05:11.519353",
+            "last_retested_at_epoch": 1598378744.928616,
+            "last_retested_at_iso": "2020-08-25T18:05:44.928616",
             "status": "INACTIVE"
         },
         "nazywo.h2g.pl": {
             "included_at_epoch": 1596820653.011368,
             "included_at_iso": "2020-08-07T17:17:33.011368",
-            "last_retested_at_epoch": 1598115913.093246,
-            "last_retested_at_iso": "2020-08-22T17:05:13.093246",
+            "last_retested_at_epoch": 1598378746.602103,
+            "last_retested_at_iso": "2020-08-25T18:05:46.602103",
             "status": "INACTIVE"
         },
         "neomedia.in.net": {
             "included_at_epoch": 1597080499.889108,
             "included_at_iso": "2020-08-10T17:28:19.889108",
-            "last_retested_at_epoch": 1598115914.485165,
-            "last_retested_at_iso": "2020-08-22T17:05:14.485165",
+            "last_retested_at_epoch": 1598378747.907664,
+            "last_retested_at_iso": "2020-08-25T18:05:47.907664",
+            "status": "INACTIVE"
+        },
+        "neshoitry.ddns.net": {
+            "included_at_epoch": 1598378748.495256,
+            "included_at_iso": "2020-08-25T18:05:48.495256",
+            "last_retested_at_epoch": 1598378748.495256,
+            "last_retested_at_iso": "2020-08-25T18:05:48.495256",
             "status": "INACTIVE"
         },
         "netflix-update.platnosci.medalcheck.com": {
             "included_at_epoch": 1596549933.88329,
             "included_at_iso": "2020-08-04T14:05:33.883290",
-            "last_retested_at_epoch": 1598115915.365773,
-            "last_retested_at_iso": "2020-08-22T17:05:15.365773",
+            "last_retested_at_epoch": 1598378748.796165,
+            "last_retested_at_iso": "2020-08-25T18:05:48.796165",
+            "status": "INACTIVE"
+        },
+        "newstygodnia.pro-linuxpl.com": {
+            "included_at_epoch": 1598378751.67453,
+            "included_at_iso": "2020-08-25T18:05:51.674530",
+            "last_retested_at_epoch": 1598378751.67453,
+            "last_retested_at_iso": "2020-08-25T18:05:51.674530",
             "status": "INACTIVE"
         },
         "nikewholesale.pl": {
@@ -2156,81 +2170,81 @@
             "last_retested_at_iso": "2020-08-22T22:40:48.403719",
             "status": "INACTIVE"
         },
-        "ninjavpn.xyz": {
-            "included_at_epoch": 1598115921.923027,
-            "included_at_iso": "2020-08-22T17:05:21.923027",
-            "last_retested_at_epoch": 1598115921.923027,
-            "last_retested_at_iso": "2020-08-22T17:05:21.923027",
-            "status": "INACTIVE"
-        },
         "noblebank.getin-secure.com.pl": {
             "included_at_epoch": 1598115922.937691,
             "included_at_iso": "2020-08-22T17:05:22.937691",
-            "last_retested_at_epoch": 1598115922.937691,
-            "last_retested_at_iso": "2020-08-22T17:05:22.937691",
+            "last_retested_at_epoch": 1598378756.303479,
+            "last_retested_at_iso": "2020-08-25T18:05:56.303479",
             "status": "INACTIVE"
         },
         "novaworld-novaland.vn": {
             "included_at_epoch": 1597598209.595086,
             "included_at_iso": "2020-08-16T17:16:49.595086",
-            "last_retested_at_epoch": 1598115925.402258,
-            "last_retested_at_iso": "2020-08-22T17:05:25.402258",
+            "last_retested_at_epoch": 1598378758.882146,
+            "last_retested_at_iso": "2020-08-25T18:05:58.882146",
             "status": "INACTIVE"
         },
         "nucuoihalong.com": {
             "included_at_epoch": 1596820666.289673,
             "included_at_iso": "2020-08-07T17:17:46.289673",
-            "last_retested_at_epoch": 1598115928.067766,
-            "last_retested_at_iso": "2020-08-22T17:05:28.067766",
+            "last_retested_at_epoch": 1598378761.374524,
+            "last_retested_at_iso": "2020-08-25T18:06:01.374524",
+            "status": "INACTIVE"
+        },
+        "odnajdujemydziewczynke.eu": {
+            "included_at_epoch": 1598378764.687046,
+            "included_at_iso": "2020-08-25T18:06:04.687046",
+            "last_retested_at_epoch": 1598378764.687046,
+            "last_retested_at_iso": "2020-08-25T18:06:04.687046",
             "status": "INACTIVE"
         },
         "offside2.000webhostapp.com": {
             "included_at_epoch": 1597080515.520427,
             "included_at_iso": "2020-08-10T17:28:35.520427",
-            "last_retested_at_epoch": 1598115931.947894,
-            "last_retested_at_iso": "2020-08-22T17:05:31.947894",
+            "last_retested_at_epoch": 1598378765.178183,
+            "last_retested_at_iso": "2020-08-25T18:06:05.178183",
             "status": "INACTIVE"
         },
         "ogloszenie-nagrod.eu": {
             "included_at_epoch": 1597860447.111362,
             "included_at_iso": "2020-08-19T18:07:27.111362",
-            "last_retested_at_epoch": 1598115932.616019,
-            "last_retested_at_iso": "2020-08-22T17:05:32.616019",
+            "last_retested_at_epoch": 1598378765.922832,
+            "last_retested_at_iso": "2020-08-25T18:06:05.922832",
             "status": "INACTIVE"
         },
         "olbart.pl": {
             "included_at_epoch": 1596299756.327626,
             "included_at_iso": "2020-08-01T16:35:56.327626",
-            "last_retested_at_epoch": 1598115934.019419,
-            "last_retested_at_iso": "2020-08-22T17:05:34.019419",
+            "last_retested_at_epoch": 1598378766.973081,
+            "last_retested_at_iso": "2020-08-25T18:06:06.973081",
             "status": "INACTIVE"
         },
         "olx.pl-offerta.pro": {
             "included_at_epoch": 1597338327.741044,
             "included_at_iso": "2020-08-13T17:05:27.741044",
-            "last_retested_at_epoch": 1598115934.688952,
-            "last_retested_at_iso": "2020-08-22T17:05:34.688952",
+            "last_retested_at_epoch": 1598378767.37367,
+            "last_retested_at_iso": "2020-08-25T18:06:07.373670",
             "status": "INACTIVE"
         },
         "onet24.stronazen.pl": {
             "included_at_epoch": 1596820673.125576,
             "included_at_iso": "2020-08-07T17:17:53.125576",
-            "last_retested_at_epoch": 1598115935.747091,
-            "last_retested_at_iso": "2020-08-22T17:05:35.747091",
+            "last_retested_at_epoch": 1598378768.429577,
+            "last_retested_at_iso": "2020-08-25T18:06:08.429577",
             "status": "INACTIVE"
         },
         "ostatniachwila.098.pl": {
             "included_at_epoch": 1596820680.728332,
             "included_at_iso": "2020-08-07T17:18:00.728332",
-            "last_retested_at_epoch": 1598117677.747386,
-            "last_retested_at_iso": "2020-08-22T17:34:37.747386",
+            "last_retested_at_epoch": 1598378777.490745,
+            "last_retested_at_iso": "2020-08-25T18:06:17.490745",
             "status": "INACTIVE"
         },
         "otomoto.k23mp1.eu": {
             "included_at_epoch": 1597860460.028548,
             "included_at_iso": "2020-08-19T18:07:40.028548",
-            "last_retested_at_epoch": 1598117678.942153,
-            "last_retested_at_iso": "2020-08-22T17:34:38.942153",
+            "last_retested_at_epoch": 1598378778.691545,
+            "last_retested_at_iso": "2020-08-25T18:06:18.691545",
             "status": "INACTIVE"
         },
         "ozzp-rp.pl": {
@@ -2240,11 +2254,18 @@
             "last_retested_at_iso": "2020-08-22T22:40:49.011175",
             "status": "INACTIVE"
         },
+        "p500.mon-application.com": {
+            "included_at_epoch": 1598378780.566292,
+            "included_at_iso": "2020-08-25T18:06:20.566292",
+            "last_retested_at_epoch": 1598378780.566292,
+            "last_retested_at_iso": "2020-08-25T18:06:20.566292",
+            "status": "INACTIVE"
+        },
         "paginas.constructorajksalcedo.com": {
             "included_at_epoch": 1596299772.507182,
             "included_at_iso": "2020-08-01T16:36:12.507182",
-            "last_retested_at_epoch": 1598117687.037591,
-            "last_retested_at_iso": "2020-08-22T17:34:47.037591",
+            "last_retested_at_epoch": 1598378786.936107,
+            "last_retested_at_iso": "2020-08-25T18:06:26.936107",
             "status": "INACTIVE"
         },
         "pay.poczta-polska24.com": {
