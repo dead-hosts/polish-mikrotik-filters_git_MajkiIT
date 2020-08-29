@@ -53769,6 +53769,12 @@
         "expiration_date": "28-jul-2020",
         "state": "future"
     },
+    "wyklej.pl": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "wyleczpc.pl": {
         "epoch": 1620172800.0,
         "expiration_date": "05-may-2021",
@@ -54010,8 +54016,9 @@
         "state": "future"
     },
     "xiaodaji.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "xiaoliyu.shop": {
@@ -54272,6 +54279,7 @@
     "xoreha84.bid": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
+        "server": "whois.nic.bid",
         "state": "past"
     },
     "xorides.com": {
@@ -54285,8 +54293,9 @@
         "state": "future"
     },
     "xpertscrm.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "xpertshealthcare.com": {
@@ -54379,6 +54388,12 @@
         "expiration_date": "16-apr-2021",
         "state": "future"
     },
+    "yangmassage.net": {
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "yannmagallon-graphiste.fr": {
         "epoch": 1624406400.0,
         "expiration_date": "23-jun-2021",
@@ -54459,6 +54474,18 @@
         "expiration_date": "03-sep-2020",
         "state": "future"
     },
+    "yhyhzx.com": {
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "yibpshop.com": {
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "yingxiaowang.club": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
@@ -54477,6 +54504,12 @@
     "yiyangjz.cn": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
+    "ynpenterprise.com": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "yogashayan.com": {
@@ -54582,6 +54615,12 @@
     "yourperlebleue.com": {
         "epoch": 1620864000.0,
         "expiration_date": "13-may-2021",
+        "state": "future"
+    },
+    "youstore21.com": {
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "youth.gov.cn": {
@@ -54915,8 +54954,9 @@
         "state": "future"
     },
     "zamedi.pl": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zamieszkajwmlawie.pl": {
@@ -55002,11 +55042,18 @@
     "zawijawa.pl": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "zbig-spaw.pl": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
+    "zcomunicacion.com": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "zcontentlocker7gpa8a.xyz": {
@@ -55072,6 +55119,12 @@
     "zedgalaxyplays.com": {
         "epoch": 1624406400.0,
         "expiration_date": "23-jun-2021",
+        "state": "future"
+    },
+    "zehraakgul.com": {
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "zelazkowkuchni.pl": {
@@ -55150,8 +55203,9 @@
         "state": "future"
     },
     "zestawnaprawczy-do-wgniecen.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "zeyghami.com": {
@@ -55457,7 +55511,8 @@
     "zskleczany.pl": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "zspbytonia.pl": {
         "epoch": 1617667200.0,
@@ -55482,6 +55537,12 @@
     "zszzarnow.pl": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
+    "ztbrw.cn": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "zteandroid.com": {

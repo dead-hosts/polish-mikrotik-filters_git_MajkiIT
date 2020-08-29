@@ -9653,6 +9653,13 @@
             "last_retested_at_iso": "2020-08-25T23:14:02.029713",
             "status": "INACTIVE"
         },
+        "www.zerety.xyz": {
+            "included_at_epoch": 1598664559.244388,
+            "included_at_iso": "2020-08-29T01:29:19.244388",
+            "last_retested_at_epoch": 1598664559.244388,
+            "last_retested_at_iso": "2020-08-29T01:29:19.244388",
+            "status": "INACTIVE"
+        },
         "www.zespol-bonus.pl": {
             "included_at_epoch": 1597876376.745334,
             "included_at_iso": "2020-08-19T22:32:56.745334",
@@ -9826,6 +9833,13 @@
             "included_at_iso": "2020-08-10T22:20:39.615354",
             "last_retested_at_epoch": 1598397137.537901,
             "last_retested_at_iso": "2020-08-25T23:12:17.537901",
+            "status": "INACTIVE"
+        },
+        "zdjecia-popatrz.eu": {
+            "included_at_epoch": 1598664564.433389,
+            "included_at_iso": "2020-08-29T01:29:24.433389",
+            "last_retested_at_epoch": 1598664564.433389,
+            "last_retested_at_iso": "2020-08-29T01:29:24.433389",
             "status": "INACTIVE"
         },
         "zhetysu360.kz": {
