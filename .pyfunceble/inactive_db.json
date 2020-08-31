@@ -2870,6 +2870,20 @@
             "last_retested_at_iso": "2020-08-28T18:40:51.277190",
             "status": "INACTIVE"
         },
+        "tematdnia24.h2g.pl": {
+            "included_at_epoch": 1598896209.563103,
+            "included_at_iso": "2020-08-31T17:50:09.563103",
+            "last_retested_at_epoch": 1598896209.563103,
+            "last_retested_at_iso": "2020-08-31T17:50:09.563103",
+            "status": "INACTIVE"
+        },
+        "tematinfo.hekko24.pl": {
+            "included_at_epoch": 1598896209.587543,
+            "included_at_iso": "2020-08-31T17:50:09.587543",
+            "last_retested_at_epoch": 1598896209.587543,
+            "last_retested_at_iso": "2020-08-31T17:50:09.587543",
+            "status": "INACTIVE"
+        },
         "tematyczny.h2g.pl": {
             "included_at_epoch": 1596823563.436846,
             "included_at_iso": "2020-08-07T18:06:03.436846",
@@ -2891,11 +2905,25 @@
             "last_retested_at_iso": "2020-08-28T18:41:00.991314",
             "status": "INACTIVE"
         },
+        "thepropertydealerz.com": {
+            "included_at_epoch": 1598896210.825485,
+            "included_at_iso": "2020-08-31T17:50:10.825485",
+            "last_retested_at_epoch": 1598896210.825485,
+            "last_retested_at_iso": "2020-08-31T17:50:10.825485",
+            "status": "INACTIVE"
+        },
         "thietbisontinhdien.vn": {
             "included_at_epoch": 1598121069.129855,
             "included_at_iso": "2020-08-22T18:31:09.129855",
             "last_retested_at_epoch": 1598640065.887696,
             "last_retested_at_iso": "2020-08-28T18:41:05.887696",
+            "status": "INACTIVE"
+        },
+        "thuvienphim.net": {
+            "included_at_epoch": 1598896211.251176,
+            "included_at_iso": "2020-08-31T17:50:11.251176",
+            "last_retested_at_epoch": 1598896211.251176,
+            "last_retested_at_iso": "2020-08-31T17:50:11.251176",
             "status": "INACTIVE"
         },
         "topanonse.pl": {
@@ -3017,6 +3045,27 @@
             "last_retested_at_iso": "2020-08-28T18:41:29.225385",
             "status": "INACTIVE"
         },
+        "uks-osemka.pl": {
+            "included_at_epoch": 1598896214.628845,
+            "included_at_iso": "2020-08-31T17:50:14.628845",
+            "last_retested_at_epoch": 1598896214.628845,
+            "last_retested_at_iso": "2020-08-31T17:50:14.628845",
+            "status": "INACTIVE"
+        },
+        "unident-union.pl": {
+            "included_at_epoch": 1598896214.863746,
+            "included_at_iso": "2020-08-31T17:50:14.863746",
+            "last_retested_at_epoch": 1598896214.863746,
+            "last_retested_at_iso": "2020-08-31T17:50:14.863746",
+            "status": "INACTIVE"
+        },
+        "upajmeter.com": {
+            "included_at_epoch": 1598896215.043236,
+            "included_at_iso": "2020-08-31T17:50:15.043236",
+            "last_retested_at_epoch": 1598896215.043236,
+            "last_retested_at_iso": "2020-08-31T17:50:15.043236",
+            "status": "INACTIVE"
+        },
         "upd.m.dodo52.com": {
             "included_at_epoch": 1597343245.481115,
             "included_at_iso": "2020-08-13T18:27:25.481115",
@@ -3024,11 +3073,25 @@
             "last_retested_at_iso": "2020-08-28T18:41:35.369827",
             "status": "INACTIVE"
         },
+        "upgradecheck12.thebestwaystofindreliablesoftwares.surf": {
+            "included_at_epoch": 1598896215.134981,
+            "included_at_iso": "2020-08-31T17:50:15.134981",
+            "last_retested_at_epoch": 1598896215.134981,
+            "last_retested_at_iso": "2020-08-31T17:50:15.134981",
+            "status": "INACTIVE"
+        },
         "uralushki.ru": {
             "included_at_epoch": 1596824745.232691,
             "included_at_iso": "2020-08-07T18:25:45.232691",
             "last_retested_at_epoch": 1598640096.783661,
             "last_retested_at_iso": "2020-08-28T18:41:36.783661",
+            "status": "INACTIVE"
+        },
+        "uzytecznie.pl": {
+            "included_at_epoch": 1598896215.710902,
+            "included_at_iso": "2020-08-31T17:50:15.710902",
+            "last_retested_at_epoch": 1598896215.710902,
+            "last_retested_at_iso": "2020-08-31T17:50:15.710902",
             "status": "INACTIVE"
         },
         "videos.karaokelagramola.es": {
@@ -3101,6 +3164,13 @@
             "last_retested_at_iso": "2020-08-28T19:12:54.165770",
             "status": "INACTIVE"
         },
+        "wernet.pl": {
+            "included_at_epoch": 1598896219.059115,
+            "included_at_iso": "2020-08-31T17:50:19.059115",
+            "last_retested_at_epoch": 1598896219.059115,
+            "last_retested_at_iso": "2020-08-31T17:50:19.059115",
+            "status": "INACTIVE"
+        },
         "weryfikacja2025.pro-linuxpl.com": {
             "included_at_epoch": 1598641974.895743,
             "included_at_iso": "2020-08-28T19:12:54.895743",
@@ -3150,6 +3220,13 @@
             "last_retested_at_iso": "2020-08-28T19:13:06.172427",
             "status": "INACTIVE"
         },
+        "ww.paczkaups.com": {
+            "included_at_epoch": 1598896221.070557,
+            "included_at_iso": "2020-08-31T17:50:21.070557",
+            "last_retested_at_epoch": 1598896221.070557,
+            "last_retested_at_iso": "2020-08-31T17:50:21.070557",
+            "status": "INACTIVE"
+        },
         "ww.paczkbups.com": {
             "included_at_epoch": 1597864036.940896,
             "included_at_iso": "2020-08-19T19:07:16.940896",
@@ -3190,6 +3267,13 @@
             "included_at_iso": "2020-08-07T18:26:17.602257",
             "last_retested_at_epoch": 1598641988.386609,
             "last_retested_at_iso": "2020-08-28T19:13:08.386609",
+            "status": "INACTIVE"
+        },
+        "ww.paczksups.com": {
+            "included_at_epoch": 1598896221.104706,
+            "included_at_iso": "2020-08-31T17:50:21.104706",
+            "last_retested_at_epoch": 1598896221.104706,
+            "last_retested_at_iso": "2020-08-31T17:50:21.104706",
             "status": "INACTIVE"
         },
         "ww.paczktups.com": {
