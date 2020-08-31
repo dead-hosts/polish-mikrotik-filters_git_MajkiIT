@@ -2562,6 +2562,13 @@
             "last_retested_at_iso": "2020-08-28T18:10:54.327465",
             "status": "INACTIVE"
         },
+        "santander-bank-polska.robo71.com": {
+            "included_at_epoch": 1598895169.284663,
+            "included_at_iso": "2020-08-31T17:32:49.284663",
+            "last_retested_at_epoch": 1598895169.284663,
+            "last_retested_at_iso": "2020-08-31T17:32:49.284663",
+            "status": "INACTIVE"
+        },
         "sashapikula.com": {
             "included_at_epoch": 1596553866.715358,
             "included_at_iso": "2020-08-04T15:11:06.715358",
@@ -2597,6 +2604,13 @@
             "last_retested_at_iso": "2020-08-28T18:10:58.137073",
             "status": "INACTIVE"
         },
+        "secondland.pl": {
+            "included_at_epoch": 1598895169.733594,
+            "included_at_iso": "2020-08-31T17:32:49.733594",
+            "last_retested_at_epoch": 1598895169.733594,
+            "last_retested_at_iso": "2020-08-31T17:32:49.733594",
+            "status": "INACTIVE"
+        },
         "secure-eplatnosc.com": {
             "included_at_epoch": 1597861607.253829,
             "included_at_iso": "2020-08-19T18:26:47.253829",
@@ -2618,11 +2632,39 @@
             "last_retested_at_iso": "2020-08-28T18:11:00.496234",
             "status": "INACTIVE"
         },
+        "seobar.pl": {
+            "included_at_epoch": 1598895170.006244,
+            "included_at_iso": "2020-08-31T17:32:50.006244",
+            "last_retested_at_epoch": 1598895170.006244,
+            "last_retested_at_iso": "2020-08-31T17:32:50.006244",
+            "status": "INACTIVE"
+        },
+        "shidokan-lodz.pl": {
+            "included_at_epoch": 1598895171.268766,
+            "included_at_iso": "2020-08-31T17:32:51.268766",
+            "last_retested_at_epoch": 1598895171.268766,
+            "last_retested_at_iso": "2020-08-31T17:32:51.268766",
+            "status": "INACTIVE"
+        },
         "sigma1.eu": {
             "included_at_epoch": 1597861616.148746,
             "included_at_iso": "2020-08-19T18:26:56.148746",
             "last_retested_at_epoch": 1598638268.555598,
             "last_retested_at_iso": "2020-08-28T18:11:08.555598",
+            "status": "INACTIVE"
+        },
+        "sklep-agricar.pl": {
+            "included_at_epoch": 1598895172.256721,
+            "included_at_iso": "2020-08-31T17:32:52.256721",
+            "last_retested_at_epoch": 1598895172.256721,
+            "last_retested_at_iso": "2020-08-31T17:32:52.256721",
+            "status": "INACTIVE"
+        },
+        "sklep1748948.home.pl": {
+            "included_at_epoch": 1598895172.220433,
+            "included_at_iso": "2020-08-31T17:32:52.220433",
+            "last_retested_at_epoch": 1598895172.220433,
+            "last_retested_at_iso": "2020-08-31T17:32:52.220433",
             "status": "INACTIVE"
         },
         "slajdy.com.pl": {
@@ -2644,6 +2686,13 @@
             "included_at_iso": "2020-08-10T18:20:19.261975",
             "last_retested_at_epoch": 1598638278.491364,
             "last_retested_at_iso": "2020-08-28T18:11:18.491364",
+            "status": "INACTIVE"
+        },
+        "smtp.iskreameco.com": {
+            "included_at_epoch": 1598895172.977955,
+            "included_at_iso": "2020-08-31T17:32:52.977955",
+            "last_retested_at_epoch": 1598895172.977955,
+            "last_retested_at_iso": "2020-08-31T17:32:52.977955",
             "status": "INACTIVE"
         },
         "smtp.unversal-stahl.com": {
@@ -2688,6 +2737,13 @@
             "last_retested_at_iso": "2020-08-28T18:11:31.777678",
             "status": "INACTIVE"
         },
+        "ssvylrn.pw": {
+            "included_at_epoch": 1598895174.79791,
+            "included_at_iso": "2020-08-31T17:32:54.797910",
+            "last_retested_at_epoch": 1598895174.79791,
+            "last_retested_at_iso": "2020-08-31T17:32:54.797910",
+            "status": "INACTIVE"
+        },
         "stdygreenkegheedahatakankeadeshnaa24bax.duckdns.org": {
             "included_at_epoch": 1597862659.113723,
             "included_at_iso": "2020-08-19T18:44:19.113723",
@@ -2707,6 +2763,13 @@
             "included_at_iso": "2020-08-28T18:11:34.868179",
             "last_retested_at_epoch": 1598638294.868179,
             "last_retested_at_iso": "2020-08-28T18:11:34.868179",
+            "status": "INACTIVE"
+        },
+        "stopkomornikowi.pl": {
+            "included_at_epoch": 1598895175.671185,
+            "included_at_iso": "2020-08-31T17:32:55.671185",
+            "last_retested_at_epoch": 1598895175.671185,
+            "last_retested_at_iso": "2020-08-31T17:32:55.671185",
             "status": "INACTIVE"
         },
         "studioformy-synergia.pl": {
@@ -2756,6 +2819,20 @@
             "included_at_iso": "2020-08-25T18:43:07.040535",
             "last_retested_at_epoch": 1598640044.839272,
             "last_retested_at_iso": "2020-08-28T18:40:44.839272",
+            "status": "INACTIVE"
+        },
+        "szuc.pl": {
+            "included_at_epoch": 1598895177.690054,
+            "included_at_iso": "2020-08-31T17:32:57.690054",
+            "last_retested_at_epoch": 1598895177.690054,
+            "last_retested_at_iso": "2020-08-31T17:32:57.690054",
+            "status": "INACTIVE"
+        },
+        "szybka-wyplata.pl": {
+            "included_at_epoch": 1598895177.764663,
+            "included_at_iso": "2020-08-31T17:32:57.764663",
+            "last_retested_at_epoch": 1598895177.764663,
+            "last_retested_at_iso": "2020-08-31T17:32:57.764663",
             "status": "INACTIVE"
         },
         "t.honker.info:8": {
