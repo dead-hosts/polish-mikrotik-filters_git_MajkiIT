@@ -35790,6 +35790,7 @@
     "offerzone.click": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
+        "server": "whois.uniregistry.net",
         "state": "past"
     },
     "office-supply.top": {
@@ -35812,6 +35813,12 @@
         "expiration_date": "01-jul-2021",
         "state": "future"
     },
+    "oficina24.online": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
     "oficinadinheiro.com.br": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
@@ -35828,8 +35835,9 @@
         "state": "future"
     },
     "ogladaj.online": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.nic.online",
         "state": "future"
     },
     "ogladajfilmy.pl": {
@@ -35860,6 +35868,12 @@
     "ogloszenie.space": {
         "epoch": 1616630400.0,
         "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "oglosznie-elektroniczne.host": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.nic.host",
         "state": "future"
     },
     "oglosznie-elektroniczne.tech": {
@@ -35920,6 +35934,12 @@
     "okazjeinternetowe.pl": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "okbuilding.ge": {
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
+        "server": "whois.nic.ge",
         "state": "future"
     },
     "okcupidating.com": {
@@ -36225,6 +36245,7 @@
     "onlinedhobi.co.in": {
         "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
+        "server": "whois.registry.in",
         "state": "past"
     },
     "onlinefilmy.pl": {
@@ -36257,9 +36278,21 @@
         "expiration_date": "01-jul-2021",
         "state": "future"
     },
+    "onlineprzelew.online": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
     "onlineprzelew.space": {
         "epoch": 1630022400.0,
         "expiration_date": "27-aug-2021",
+        "state": "future"
+    },
+    "onlineprzelew.tech": {
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.nic.tech",
         "state": "future"
     },
     "onlinerekruter.com": {
@@ -36468,9 +36501,10 @@
         "state": "future"
     },
     "oplac24.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
-        "state": "past"
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "oplaca-sie.pl": {
         "epoch": 1627948800.0,
@@ -36518,9 +36552,10 @@
         "state": "future"
     },
     "opolis.io": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
-        "state": "past"
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.nic.io",
+        "state": "future"
     },
     "oponymagcarleszno.pl": {
         "epoch": 1604880000.0,
@@ -36770,7 +36805,8 @@
     "ostriwin.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "osullivansremovals.co.uk": {
         "epoch": 1631232000.0,
@@ -36957,14 +36993,21 @@
         "expiration_date": "25-mar-2021",
         "state": "future"
     },
+    "ozcanelektronik.com.tr": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
+        "server": "whois.nic.tr",
+        "state": "future"
+    },
     "ozebox.pl": {
         "epoch": 1628035200.0,
         "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "ozemag.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ozfin.ru": {
@@ -36988,8 +37031,9 @@
         "state": "future"
     },
     "p-ride.live": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.nic.live",
         "state": "future"
     },
     "p2btechnologies.com": {
@@ -37787,6 +37831,12 @@
         "expiration_date": "05-dec-2020",
         "state": "future"
     },
+    "paulospainting.com": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "paulscomputing.com": {
         "epoch": 1644451200.0,
         "expiration_date": "10-feb-2022",
@@ -37840,6 +37890,12 @@
     "payagenebiotech.com": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
+    "payanlara.com": {
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "paycoinbrokerfx.com": {
@@ -38722,6 +38778,12 @@
         "expiration_date": "02-jun-2021",
         "state": "future"
     },
+    "planosdesaudesemcarencia.com": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "plantsandpots.com": {
         "epoch": 1620518400.0,
         "expiration_date": "09-may-2021",
@@ -38760,6 +38822,12 @@
     "platnosc-kurier.com": {
         "epoch": 1618012800.0,
         "expiration_date": "10-apr-2021",
+        "state": "future"
+    },
+    "platnosc-online.website": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.nic.website",
         "state": "future"
     },
     "platnosc-payu.pl": {
@@ -39037,6 +39105,12 @@
         "expiration_date": "08-nov-2020",
         "state": "future"
     },
+    "pobieracz.com.pl": {
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "pobieralnia.com.pl": {
         "epoch": 1619654400.0,
         "expiration_date": "29-apr-2021",
@@ -39283,8 +39357,9 @@
         "state": "future"
     },
     "podbiegi.pl": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "podnosnik.pila.pl": {
@@ -39633,8 +39708,9 @@
         "state": "future"
     },
     "pomerania-bn.pl": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "pomoc-fakty24.pl": {
@@ -40110,6 +40186,7 @@
     "pozyczka.click": {
         "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
+        "server": "whois.uniregistry.net",
         "state": "past"
     },
     "pozyczkanatelefon24.pl": {
@@ -40265,6 +40342,12 @@
     "prayercenter.uk": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
+    "premieroneescrow.com": {
+        "epoch": 1746921600.0,
+        "expiration_date": "11-may-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "premium-offers.space": {
@@ -40542,6 +40625,18 @@
         "expiration_date": "22-apr-2021",
         "state": "future"
     },
+    "projectx.ug": {
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "server": "whois.co.ug",
+        "state": "future"
+    },
+    "projectz.ug": {
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "server": "whois.co.ug",
+        "state": "future"
+    },
     "projekthd.com": {
         "epoch": 1622851200.0,
         "expiration_date": "05-jun-2021",
@@ -40652,6 +40747,12 @@
         "expiration_date": "18-apr-2021",
         "state": "future"
     },
+    "prosech.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "proslandvietnam.com": {
         "epoch": 1618876800.0,
         "expiration_date": "20-apr-2021",
@@ -40685,6 +40786,12 @@
     "protesttaxi.pl": {
         "epoch": 1624492800.0,
         "expiration_date": "24-jun-2021",
+        "state": "future"
+    },
+    "proteusleadership.com": {
+        "epoch": 1648339200.0,
+        "expiration_date": "27-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "protocolsolution.com": {
@@ -40777,6 +40884,18 @@
         "expiration_date": "28-mar-2021",
         "state": "future"
     },
+    "przechowalnia.net": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "przechowanie.net": {
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "przechwycone-zdjecia.pl": {
         "epoch": 1618358400.0,
         "expiration_date": "14-apr-2021",
@@ -40815,6 +40934,12 @@
     "przekazy24.net": {
         "epoch": 1629244800.0,
         "expiration_date": "18-aug-2021",
+        "state": "future"
+    },
+    "przelew24online.site": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "przelew24santander.site": {
@@ -41060,6 +41185,7 @@
     "puchdresult.co.in": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
+        "server": "whois.registry.in",
         "state": "past"
     },
     "puckiewopr.pl": {
@@ -41283,8 +41409,9 @@
         "state": "future"
     },
     "qbrak.pl": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "qcthienphu.com": {
@@ -41355,6 +41482,12 @@
     "qsteam.pl": {
         "epoch": 1619049600.0,
         "expiration_date": "22-apr-2021",
+        "state": "future"
+    },
+    "qstride.com": {
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "quadre.pl": {
@@ -41565,6 +41698,12 @@
     "radowiczdamian.pl": {
         "epoch": 1618704000.0,
         "expiration_date": "18-apr-2021",
+        "state": "future"
+    },
+    "radyantisitma.com": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "radzymin-pzw.pl": {
@@ -41785,6 +41924,12 @@
     "ramissio.com": {
         "epoch": 1682553600.0,
         "expiration_date": "27-apr-2023",
+        "state": "future"
+    },
+    "ramlit.com": {
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ranczobojszowy.pl": {
@@ -42372,6 +42517,12 @@
         "expiration_date": "03-jan-2022",
         "state": "future"
     },
+    "rejasan.com": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "rekabangunselaras.com": {
         "epoch": 1618012800.0,
         "expiration_date": "10-apr-2021",
@@ -42485,6 +42636,12 @@
     "renatoparente.com": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
+    "rendangmizaki.com": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rendaprevi.com.br": {
