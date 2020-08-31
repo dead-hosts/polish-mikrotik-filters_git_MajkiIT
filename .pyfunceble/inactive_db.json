@@ -504,6 +504,20 @@
             "last_retested_at_iso": "2020-08-28T15:51:22.421712",
             "status": "INACTIVE"
         },
+        "butyasicsdamskie.pl": {
+            "included_at_epoch": 1598888601.436425,
+            "included_at_iso": "2020-08-31T15:43:21.436425",
+            "last_retested_at_epoch": 1598888601.436425,
+            "last_retested_at_iso": "2020-08-31T15:43:21.436425",
+            "status": "INACTIVE"
+        },
+        "butydamskieoutlet.pl": {
+            "included_at_epoch": 1598888601.466218,
+            "included_at_iso": "2020-08-31T15:43:21.466218",
+            "last_retested_at_epoch": 1598888601.466218,
+            "last_retested_at_iso": "2020-08-31T15:43:21.466218",
+            "status": "INACTIVE"
+        },
         "butysalomonsklep.pl": {
             "included_at_epoch": 1596542995.975674,
             "included_at_iso": "2020-08-04T12:09:55.975674",
@@ -517,6 +531,13 @@
             "last_retested_at_epoch": 1598629923.029792,
             "last_retested_at_iso": "2020-08-28T15:52:03.029792",
             "status": "INVALID"
+        },
+        "callgeorge.com.au": {
+            "included_at_epoch": 1598888601.579923,
+            "included_at_iso": "2020-08-31T15:43:21.579923",
+            "last_retested_at_epoch": 1598888601.579923,
+            "last_retested_at_iso": "2020-08-31T15:43:21.579923",
+            "status": "INACTIVE"
         },
         "came.net.pl": {
             "included_at_epoch": 1598372071.28299,
@@ -740,6 +761,20 @@
             "included_at_iso": "2020-08-19T16:08:36.385944",
             "last_retested_at_epoch": 1598631696.579535,
             "last_retested_at_iso": "2020-08-28T16:21:36.579535",
+            "status": "INACTIVE"
+        },
+        "doulawpoznaniu.pl": {
+            "included_at_epoch": 1598888605.630355,
+            "included_at_iso": "2020-08-31T15:43:25.630355",
+            "last_retested_at_epoch": 1598888605.630355,
+            "last_retested_at_iso": "2020-08-31T15:43:25.630355",
+            "status": "INACTIVE"
+        },
+        "download.w65.pl": {
+            "included_at_epoch": 1598888605.769182,
+            "included_at_iso": "2020-08-31T15:43:25.769182",
+            "last_retested_at_epoch": 1598888605.769182,
+            "last_retested_at_iso": "2020-08-31T15:43:25.769182",
             "status": "INACTIVE"
         },
         "dpd-redirect-parcel-secure-user-address.halloween-quiz.co.uk": {
