@@ -9996,6 +9996,13 @@
             "last_retested_at_iso": "2020-08-25T22:59:29.877476",
             "status": "INACTIVE"
         },
+        "www.zawijawa.pl": {
+            "included_at_epoch": 1598903308.828537,
+            "included_at_iso": "2020-08-31T19:48:28.828537",
+            "last_retested_at_epoch": 1598903308.828537,
+            "last_retested_at_iso": "2020-08-31T19:48:28.828537",
+            "status": "INACTIVE"
+        },
         "www.zdjecia-popatrz.eu": {
             "included_at_epoch": 1598663295.682132,
             "included_at_iso": "2020-08-29T01:08:15.682132",
@@ -10190,6 +10197,13 @@
             "included_at_iso": "2020-08-10T22:20:39.615354",
             "last_retested_at_epoch": 1598397137.537901,
             "last_retested_at_iso": "2020-08-25T23:12:17.537901",
+            "status": "INACTIVE"
+        },
+        "zawijawa.pl": {
+            "included_at_epoch": 1598903313.194783,
+            "included_at_iso": "2020-08-31T19:48:33.194783",
+            "last_retested_at_epoch": 1598903313.194783,
+            "last_retested_at_iso": "2020-08-31T19:48:33.194783",
             "status": "INACTIVE"
         },
         "zdjecia-popatrz.eu": {
