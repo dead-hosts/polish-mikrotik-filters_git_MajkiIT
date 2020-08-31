@@ -805,6 +805,13 @@
             "last_retested_at_iso": "2020-08-28T16:21:51.269863",
             "status": "INACTIVE"
         },
+        "e-informacje24.eu": {
+            "included_at_epoch": 1598890362.836179,
+            "included_at_iso": "2020-08-31T16:12:42.836179",
+            "last_retested_at_epoch": 1598890362.836179,
+            "last_retested_at_iso": "2020-08-31T16:12:42.836179",
+            "status": "INACTIVE"
+        },
         "e-onetfakty24.eu": {
             "included_at_epoch": 1598631729.612379,
             "included_at_iso": "2020-08-28T16:22:09.612379",
@@ -852,6 +859,13 @@
             "included_at_iso": "2020-08-28T16:21:53.605609",
             "last_retested_at_epoch": 1598631713.605609,
             "last_retested_at_iso": "2020-08-28T16:21:53.605609",
+            "status": "INACTIVE"
+        },
+        "edenslask.pl": {
+            "included_at_epoch": 1598890362.658185,
+            "included_at_iso": "2020-08-31T16:12:42.658185",
+            "last_retested_at_epoch": 1598890362.658185,
+            "last_retested_at_iso": "2020-08-31T16:12:42.658185",
             "status": "INACTIVE"
         },
         "ekspresovo-pl.fun": {
@@ -987,6 +1001,13 @@
             "last_retested_at_iso": "2020-08-28T16:22:37.307814",
             "status": "INACTIVE"
         },
+        "fit-smerfetka.pl": {
+            "included_at_epoch": 1598890366.390749,
+            "included_at_iso": "2020-08-31T16:12:46.390749",
+            "last_retested_at_epoch": 1598890366.390749,
+            "last_retested_at_iso": "2020-08-31T16:12:46.390749",
+            "status": "INACTIVE"
+        },
         "flipkrt.club": {
             "included_at_epoch": 1596816131.518728,
             "included_at_iso": "2020-08-07T16:02:11.518728",
@@ -994,11 +1015,32 @@
             "last_retested_at_iso": "2020-08-28T16:39:52.355171",
             "status": "INACTIVE"
         },
+        "footoografie-pobieralnia.eu": {
+            "included_at_epoch": 1598890366.663643,
+            "included_at_iso": "2020-08-31T16:12:46.663643",
+            "last_retested_at_epoch": 1598890366.663643,
+            "last_retested_at_iso": "2020-08-31T16:12:46.663643",
+            "status": "INACTIVE"
+        },
         "forum.isi.ac.id": {
             "included_at_epoch": 1597334759.038136,
             "included_at_iso": "2020-08-13T16:05:59.038136",
             "last_retested_at_epoch": 1598397240.174279,
             "last_retested_at_iso": "2020-08-25T23:14:00.174279",
+            "status": "INACTIVE"
+        },
+        "fotobraj.pl": {
+            "included_at_epoch": 1598890366.776112,
+            "included_at_iso": "2020-08-31T16:12:46.776112",
+            "last_retested_at_epoch": 1598890366.776112,
+            "last_retested_at_iso": "2020-08-31T16:12:46.776112",
+            "status": "INACTIVE"
+        },
+        "fotoografie-pobierz.eu": {
+            "included_at_epoch": 1598890366.823568,
+            "included_at_iso": "2020-08-31T16:12:46.823568",
+            "last_retested_at_epoch": 1598890366.823568,
+            "last_retested_at_iso": "2020-08-31T16:12:46.823568",
             "status": "INACTIVE"
         },
         "fte.m.dodo52.com": {
@@ -1090,6 +1132,13 @@
             "included_at_iso": "2020-08-10T16:35:25.771211",
             "last_retested_at_epoch": 1598632816.570031,
             "last_retested_at_iso": "2020-08-28T16:40:16.570031",
+            "status": "INACTIVE"
+        },
+        "gim9sc.pl": {
+            "included_at_epoch": 1598890368.486754,
+            "included_at_iso": "2020-08-31T16:12:48.486754",
+            "last_retested_at_epoch": 1598890368.486754,
+            "last_retested_at_iso": "2020-08-31T16:12:48.486754",
             "status": "INACTIVE"
         },
         "gimnazjumlyski.pl": {

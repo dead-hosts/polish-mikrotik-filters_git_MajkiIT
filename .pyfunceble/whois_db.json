@@ -14021,6 +14021,12 @@
         "expiration_date": "06-may-2021",
         "state": "future"
     },
+    "e-kinomaniak.pl": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "e-koronawirusnews.pl": {
         "epoch": 1615334400.0,
         "expiration_date": "10-mar-2021",
@@ -14946,6 +14952,12 @@
         "expiration_date": "12-dec-2020",
         "state": "future"
     },
+    "ekseyazilim.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "eksperdanismanlik.com": {
         "epoch": 1628035200.0,
         "expiration_date": "04-aug-2021",
@@ -15112,8 +15124,9 @@
         "state": "future"
     },
     "elled.pl": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ellepioffice.com": {
@@ -15464,6 +15477,7 @@
     "engetrate.com.br": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
+        "server": "whois.registro.br",
         "state": "past"
     },
     "engineersdesignindia.in": {
@@ -15764,7 +15778,14 @@
     "equipamentosmix.com.br": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
+        "server": "whois.registro.br",
         "state": "past"
+    },
+    "equiposjj.com": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "equisystemti.com": {
         "epoch": 1604966400.0,
@@ -16241,6 +16262,12 @@
         "expiration_date": "10-nov-2020",
         "state": "future"
     },
+    "evaluna.info": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "evekurier.org": {
         "epoch": 1625184000.0,
         "expiration_date": "02-jul-2021",
@@ -16266,6 +16293,12 @@
         "expiration_date": "14-may-2021",
         "state": "future"
     },
+    "evolucaodigitalconsultoria.com.br": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "server": "whois.registro.br",
+        "state": "future"
+    },
     "evrimo.com": {
         "epoch": 1653350400.0,
         "expiration_date": "24-may-2022",
@@ -16279,6 +16312,7 @@
     "ewallet.ci": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
+        "server": "whois.nic.ci",
         "state": "past"
     },
     "ewciakurier.com": {
@@ -16294,6 +16328,12 @@
     "eworldtrack.com": {
         "epoch": 1622332800.0,
         "expiration_date": "30-may-2021",
+        "state": "future"
+    },
+    "exagono.com.mx": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "server": "whois.mx",
         "state": "future"
     },
     "examometer.com": {
@@ -16617,8 +16657,9 @@
         "state": "future"
     },
     "facedesign.pl": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "faceibook.pl": {
@@ -17196,6 +17237,12 @@
         "expiration_date": "14-mar-2021",
         "state": "future"
     },
+    "feed-boosterblogger.com": {
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "feel-more.pl": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
@@ -17224,6 +17271,12 @@
     "felixcarpetcleaning.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "felyroedd.com": {
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "feniks-tm.pl": {
@@ -17447,8 +17500,9 @@
         "state": "future"
     },
     "filedownloader.pl": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "filedownloads.pl": {
@@ -17596,6 +17650,12 @@
         "expiration_date": "25-apr-2021",
         "state": "future"
     },
+    "filmasyhd.pl": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "filmhit.pl": {
         "epoch": 1617580800.0,
         "expiration_date": "05-apr-2021",
@@ -17629,6 +17689,12 @@
     "filmovnia.pl": {
         "epoch": 1613779200.0,
         "expiration_date": "20-feb-2021",
+        "state": "future"
+    },
+    "filmownia.online": {
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "server": "whois.nic.online",
         "state": "future"
     },
     "filmowo-24.com": {
@@ -18299,6 +18365,7 @@
     "foodfocus.in": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
+        "server": "whois.registry.in",
         "state": "past"
     },
     "foodmaltese.com": {
@@ -18572,8 +18639,9 @@
         "state": "future"
     },
     "fotowpis.pl": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "fotozwardon.pl": {
@@ -18734,6 +18802,7 @@
     "freesamsung.club": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "freespiritmind.com": {
@@ -18784,6 +18853,7 @@
     "fresherslab.in": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
+        "server": "whois.registry.in",
         "state": "past"
     },
     "freshestate.com.pl": {
@@ -18929,6 +18999,12 @@
     "fundacionausubelvirtual.com": {
         "epoch": 1605484800.0,
         "expiration_date": "16-nov-2020",
+        "state": "future"
+    },
+    "fundacionemme.com.ar": {
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
+        "server": "whois.nic.ar",
         "state": "future"
     },
     "fundacjaanimus.com.pl": {
@@ -19084,6 +19160,12 @@
     "fxgm.com": {
         "epoch": 1711411200.0,
         "expiration_date": "26-mar-2024",
+        "state": "future"
+    },
+    "fxpb.us": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "server": "whois.nic.us",
         "state": "future"
     },
     "fzweiming.com": {
@@ -19671,6 +19753,12 @@
         "expiration_date": "15-jun-2021",
         "state": "future"
     },
+    "generaldeviales.com": {
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "generuj-kod.me": {
         "epoch": 1627948800.0,
         "expiration_date": "03-aug-2021",
@@ -19749,6 +19837,12 @@
     "geoav.cl": {
         "epoch": 1619913600.0,
         "expiration_date": "02-may-2021",
+        "state": "future"
+    },
+    "geoffoglemusic.com": {
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "geogeekgis.com": {
@@ -19892,8 +19986,9 @@
         "state": "future"
     },
     "gethelplinenumber.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "getimmediateedge.com": {
@@ -20106,6 +20201,12 @@
         "expiration_date": "21-jan-2021",
         "state": "future"
     },
+    "giral2.com": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "girlgeekdinners.com": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
@@ -20179,6 +20280,12 @@
     "gladiabernardi.com.br": {
         "epoch": 1602633600.0,
         "expiration_date": "14-oct-2020",
+        "state": "future"
+    },
+    "glafka.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "glass-supplier-in-china.com": {
@@ -20421,6 +20528,12 @@
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
+    "goftmanclinic.com": {
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "gogameportal.com": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
@@ -20496,6 +20609,12 @@
         "expiration_date": "17-may-2021",
         "state": "future"
     },
+    "goldendragontkd.com": {
+        "epoch": 1734652800.0,
+        "expiration_date": "20-dec-2024",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "goldengarden.com.br": {
         "epoch": 1624320000.0,
         "expiration_date": "22-jun-2021",
@@ -20524,6 +20643,12 @@
     "goldilockstraining.com": {
         "epoch": 1615334400.0,
         "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
+    "goldkeyroofing.com": {
+        "epoch": 1741305600.0,
+        "expiration_date": "07-mar-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "goldoni.co.uk": {
