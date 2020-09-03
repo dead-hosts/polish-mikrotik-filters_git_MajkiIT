@@ -784,6 +784,13 @@
             "last_retested_at_iso": "2020-08-31T15:43:25.769182",
             "status": "INACTIVE"
         },
+        "dpd-redirect-parcel-secure-user-address.dpd-parcelsecure.com": {
+            "included_at_epoch": 1599149195.427303,
+            "included_at_iso": "2020-09-03T16:06:35.427303",
+            "last_retested_at_epoch": 1599149195.427303,
+            "last_retested_at_iso": "2020-09-03T16:06:35.427303",
+            "status": "INACTIVE"
+        },
         "dpd-redirect-parcel-secure-user-address.halloween-quiz.co.uk": {
             "included_at_epoch": 1598631698.58481,
             "included_at_iso": "2020-08-28T16:21:38.584810",
@@ -805,6 +812,13 @@
             "last_retested_at_iso": "2020-08-28T16:21:43.895013",
             "status": "INACTIVE"
         },
+        "dziennikmiasta.098.pl": {
+            "included_at_epoch": 1599149196.149732,
+            "included_at_iso": "2020-09-03T16:06:36.149732",
+            "last_retested_at_epoch": 1599149196.149732,
+            "last_retested_at_iso": "2020-09-03T16:06:36.149732",
+            "status": "INACTIVE"
+        },
         "e-blackwhite.pl": {
             "included_at_epoch": 1597594040.639452,
             "included_at_iso": "2020-08-16T16:07:20.639452",
@@ -817,6 +831,13 @@
             "included_at_iso": "2020-08-31T16:12:42.836179",
             "last_retested_at_epoch": 1598890362.836179,
             "last_retested_at_iso": "2020-08-31T16:12:42.836179",
+            "status": "INACTIVE"
+        },
+        "e-mojemiasto.eu": {
+            "included_at_epoch": 1599149197.384905,
+            "included_at_iso": "2020-09-03T16:06:37.384905",
+            "last_retested_at_epoch": 1599149197.384905,
+            "last_retested_at_iso": "2020-09-03T16:06:37.384905",
             "status": "INACTIVE"
         },
         "e-onetfakty24.eu": {
@@ -882,6 +903,13 @@
             "last_retested_at_iso": "2020-08-28T16:22:00.661040",
             "status": "INACTIVE"
         },
+        "emiliareichert.pl": {
+            "included_at_epoch": 1599149197.360497,
+            "included_at_iso": "2020-09-03T16:06:37.360497",
+            "last_retested_at_epoch": 1599149197.360497,
+            "last_retested_at_iso": "2020-09-03T16:06:37.360497",
+            "status": "INACTIVE"
+        },
         "emonitoring-poczta-polska.eu": {
             "included_at_epoch": 1597075572.228914,
             "included_at_iso": "2020-08-10T16:06:12.228914",
@@ -917,11 +945,32 @@
             "last_retested_at_iso": "2020-08-28T16:22:09.503462",
             "status": "INACTIVE"
         },
+        "erhherrehhre.n4t.co": {
+            "included_at_epoch": 1599149198.143498,
+            "included_at_iso": "2020-09-03T16:06:38.143498",
+            "last_retested_at_epoch": 1599149198.143498,
+            "last_retested_at_iso": "2020-09-03T16:06:38.143498",
+            "status": "INACTIVE"
+        },
+        "ericius.eu": {
+            "included_at_epoch": 1599149198.170737,
+            "included_at_iso": "2020-09-03T16:06:38.170737",
+            "last_retested_at_epoch": 1599149198.170737,
+            "last_retested_at_iso": "2020-09-03T16:06:38.170737",
+            "status": "INACTIVE"
+        },
         "europeancupkyokushin.pl": {
             "included_at_epoch": 1597594067.61004,
             "included_at_iso": "2020-08-16T16:07:47.610040",
             "last_retested_at_epoch": 1598631742.298018,
             "last_retested_at_iso": "2020-08-28T16:22:22.298018",
+            "status": "INACTIVE"
+        },
+        "eventownik.pl": {
+            "included_at_epoch": 1599149198.528935,
+            "included_at_iso": "2020-09-03T16:06:38.528935",
+            "last_retested_at_epoch": 1599149198.528935,
+            "last_retested_at_iso": "2020-09-03T16:06:38.528935",
             "status": "INACTIVE"
         },
         "expoindex.pl": {
@@ -966,6 +1015,13 @@
             "last_retested_at_iso": "2020-08-28T16:22:28.015007",
             "status": "INACTIVE"
         },
+        "faktgminny.098.pl": {
+            "included_at_epoch": 1599149199.015239,
+            "included_at_iso": "2020-09-03T16:06:39.015239",
+            "last_retested_at_epoch": 1599149199.015239,
+            "last_retested_at_iso": "2020-09-03T16:06:39.015239",
+            "status": "INACTIVE"
+        },
         "fakty-alert.eu": {
             "included_at_epoch": 1597853362.948652,
             "included_at_iso": "2020-08-19T16:09:22.948652",
@@ -978,6 +1034,13 @@
             "included_at_iso": "2020-08-19T16:09:23.814324",
             "last_retested_at_epoch": 1598631750.628231,
             "last_retested_at_iso": "2020-08-28T16:22:30.628231",
+            "status": "INACTIVE"
+        },
+        "fbvetu.n4t.co": {
+            "included_at_epoch": 1599149199.620519,
+            "included_at_iso": "2020-09-03T16:06:39.620519",
+            "last_retested_at_epoch": 1599149199.620519,
+            "last_retested_at_iso": "2020-09-03T16:06:39.620519",
             "status": "INACTIVE"
         },
         "festival-dialog-wroclaw.pl": {
@@ -1041,6 +1104,20 @@
             "included_at_iso": "2020-08-31T16:12:46.823568",
             "last_retested_at_epoch": 1598890366.823568,
             "last_retested_at_iso": "2020-08-31T16:12:46.823568",
+            "status": "INACTIVE"
+        },
+        "fotoquznia.com.pl": {
+            "included_at_epoch": 1599149200.876766,
+            "included_at_iso": "2020-09-03T16:06:40.876766",
+            "last_retested_at_epoch": 1599149200.876766,
+            "last_retested_at_iso": "2020-09-03T16:06:40.876766",
+            "status": "INACTIVE"
+        },
+        "fsgliwice.pl": {
+            "included_at_epoch": 1599149201.486188,
+            "included_at_iso": "2020-09-03T16:06:41.486188",
+            "last_retested_at_epoch": 1599149201.486188,
+            "last_retested_at_iso": "2020-09-03T16:06:41.486188",
             "status": "INACTIVE"
         },
         "fte.m.dodo52.com": {
