@@ -8211,6 +8211,13 @@
             "last_retested_at_iso": "2020-08-28T21:31:28.490978",
             "status": "INACTIVE"
         },
+        "www.portalmiasta.cal24.pl": {
+            "included_at_epoch": 1599159719.120445,
+            "included_at_iso": "2020-09-03T19:01:59.120445",
+            "last_retested_at_epoch": 1599159719.120445,
+            "last_retested_at_iso": "2020-09-03T19:01:59.120445",
+            "status": "INACTIVE"
+        },
         "www.portalmiejski.eu": {
             "included_at_epoch": 1598392136.745851,
             "included_at_iso": "2020-08-25T21:48:56.745851",
@@ -8335,6 +8342,20 @@
             "included_at_iso": "2020-08-31T19:19:53.279644",
             "last_retested_at_epoch": 1598901593.279644,
             "last_retested_at_iso": "2020-08-31T19:19:53.279644",
+            "status": "INACTIVE"
+        },
+        "www.przechowalnia24.net": {
+            "included_at_epoch": 1599159720.044762,
+            "included_at_iso": "2020-09-03T19:02:00.044762",
+            "last_retested_at_epoch": 1599159720.044762,
+            "last_retested_at_iso": "2020-09-03T19:02:00.044762",
+            "status": "INACTIVE"
+        },
+        "www.przechowalnie.net": {
+            "included_at_epoch": 1599159720.08262,
+            "included_at_iso": "2020-09-03T19:02:00.082620",
+            "last_retested_at_epoch": 1599159720.08262,
+            "last_retested_at_iso": "2020-09-03T19:02:00.082620",
             "status": "INACTIVE"
         },
         "www.przechowanie.net": {
@@ -8538,6 +8559,13 @@
             "included_at_iso": "2020-08-19T21:51:33.653199",
             "last_retested_at_epoch": 1598650291.739159,
             "last_retested_at_iso": "2020-08-28T21:31:31.739159",
+            "status": "INACTIVE"
+        },
+        "www.refferalstaff.com": {
+            "included_at_epoch": 1599159721.156282,
+            "included_at_iso": "2020-09-03T19:02:01.156282",
+            "last_retested_at_epoch": 1599159721.156282,
+            "last_retested_at_iso": "2020-09-03T19:02:01.156282",
             "status": "INACTIVE"
         },
         "www.regencyinnhotels.com": {
@@ -8799,6 +8827,13 @@
             "last_retested_at_iso": "2020-08-31T19:19:57.789878",
             "status": "INACTIVE"
         },
+        "www.skupzabytkowych.pl": {
+            "included_at_epoch": 1599159724.903532,
+            "included_at_iso": "2020-09-03T19:02:04.903532",
+            "last_retested_at_epoch": 1599159724.903532,
+            "last_retested_at_iso": "2020-09-03T19:02:04.903532",
+            "status": "INACTIVE"
+        },
         "www.slajdy.com.pl": {
             "included_at_epoch": 1598394291.787828,
             "included_at_iso": "2020-08-25T22:24:51.787828",
@@ -8855,6 +8890,13 @@
             "last_retested_at_iso": "2020-08-28T21:48:42.852233",
             "status": "INACTIVE"
         },
+        "www.sso-cloud-ideabank.at": {
+            "included_at_epoch": 1599159726.357913,
+            "included_at_iso": "2020-09-03T19:02:06.357913",
+            "last_retested_at_epoch": 1599159726.357913,
+            "last_retested_at_iso": "2020-09-03T19:02:06.357913",
+            "status": "INACTIVE"
+        },
         "www.stackspay.com": {
             "included_at_epoch": 1596835879.445304,
             "included_at_iso": "2020-08-07T21:31:19.445304",
@@ -8888,6 +8930,20 @@
             "included_at_iso": "2020-08-28T21:48:43.388504",
             "last_retested_at_epoch": 1598651323.388504,
             "last_retested_at_iso": "2020-08-28T21:48:43.388504",
+            "status": "INACTIVE"
+        },
+        "www.strefaurodysklep.com.pl": {
+            "included_at_epoch": 1599159726.934589,
+            "included_at_iso": "2020-09-03T19:02:06.934589",
+            "last_retested_at_epoch": 1599159726.934589,
+            "last_retested_at_iso": "2020-09-03T19:02:06.934589",
+            "status": "INACTIVE"
+        },
+        "www.strefaurodysklep.pl": {
+            "included_at_epoch": 1599159726.906146,
+            "included_at_iso": "2020-09-03T19:02:06.906146",
+            "last_retested_at_epoch": 1599159726.906146,
+            "last_retested_at_iso": "2020-09-03T19:02:06.906146",
             "status": "INACTIVE"
         },
         "www.studioartandcafe.pl": {
