@@ -1295,6 +1295,13 @@
             "last_retested_at_iso": "2020-08-28T16:40:32.509531",
             "status": "INACTIVE"
         },
+        "hanoihub.vn": {
+            "included_at_epoch": 1599150251.829991,
+            "included_at_iso": "2020-09-03T16:24:11.829991",
+            "last_retested_at_epoch": 1599150251.829991,
+            "last_retested_at_iso": "2020-09-03T16:24:11.829991",
+            "status": "INACTIVE"
+        },
         "happach.pl": {
             "included_at_epoch": 1598891404.119717,
             "included_at_iso": "2020-08-31T16:30:04.119717",
@@ -1328,6 +1335,13 @@
             "included_at_iso": "2020-08-19T16:39:58.622067",
             "last_retested_at_epoch": 1598632849.667858,
             "last_retested_at_iso": "2020-08-28T16:40:49.667858",
+            "status": "INACTIVE"
+        },
+        "hostfeboe.n4t.co": {
+            "included_at_epoch": 1599150252.577026,
+            "included_at_iso": "2020-09-03T16:24:12.577026",
+            "last_retested_at_epoch": 1599150252.577026,
+            "last_retested_at_iso": "2020-09-03T16:24:12.577026",
             "status": "INACTIVE"
         },
         "hotnews24h.pl": {
@@ -1419,6 +1433,13 @@
             "included_at_iso": "2020-08-07T16:34:40.032008",
             "last_retested_at_epoch": 1598632867.432617,
             "last_retested_at_iso": "2020-08-28T16:41:07.432617",
+            "status": "INACTIVE"
+        },
+        "infogminne.cal24.pl": {
+            "included_at_epoch": 1599150253.830496,
+            "included_at_iso": "2020-09-03T16:24:13.830496",
+            "last_retested_at_epoch": 1599150253.830496,
+            "last_retested_at_iso": "2020-09-03T16:24:13.830496",
             "status": "INACTIVE"
         },
         "infomacjadnia.pro-linuxpl.com": {
@@ -1671,6 +1692,13 @@
             "included_at_iso": "2020-08-13T16:41:31.242009",
             "last_retested_at_epoch": 1598634714.490422,
             "last_retested_at_iso": "2020-08-28T17:11:54.490422",
+            "status": "INACTIVE"
+        },
+        "kalin.pvi.pl": {
+            "included_at_epoch": 1599150256.841121,
+            "included_at_iso": "2020-09-03T16:24:16.841121",
+            "last_retested_at_epoch": 1599150256.841121,
+            "last_retested_at_iso": "2020-09-03T16:24:16.841121",
             "status": "INACTIVE"
         },
         "karokorale.pl": {
