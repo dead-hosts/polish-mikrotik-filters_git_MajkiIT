@@ -56983,8 +56983,9 @@
         "state": "future"
     },
     "zaluknij.pl": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zaluknij.xyz": {
@@ -57320,6 +57321,12 @@
         "expiration_date": "28-apr-2021",
         "state": "future"
     },
+    "zhafaro.store": {
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "server": "whois.nic.store",
+        "state": "future"
+    },
     "zhaoyouxiu.com": {
         "epoch": 1628294400.0,
         "expiration_date": "07-aug-2021",
@@ -57509,6 +57516,12 @@
     "zonefound.com.cn": {
         "epoch": 1670889600.0,
         "expiration_date": "13-dec-2022",
+        "state": "future"
+    },
+    "zoomandshootphotography.com": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "zoracle.com": {
