@@ -2723,6 +2723,13 @@
             "last_retested_at_iso": "2020-08-31T17:32:49.284663",
             "status": "INACTIVE"
         },
+        "sashapikula.com": {
+            "included_at_epoch": 1599153479.442324,
+            "included_at_iso": "2020-09-03T17:17:59.442324",
+            "last_retested_at_epoch": 1599153479.442324,
+            "last_retested_at_iso": "2020-09-03T17:17:59.442324",
+            "status": "INACTIVE"
+        },
         "sasiedzkagazeta.eu": {
             "included_at_epoch": 1598119261.409883,
             "included_at_iso": "2020-08-22T18:01:01.409883",
@@ -2849,6 +2856,13 @@
             "last_retested_at_iso": "2020-08-28T18:11:18.667781",
             "status": "INACTIVE"
         },
+        "smtp.znshenesolar.com": {
+            "included_at_epoch": 1599153483.257193,
+            "included_at_iso": "2020-09-03T17:18:03.257193",
+            "last_retested_at_epoch": 1599153483.257193,
+            "last_retested_at_iso": "2020-09-03T17:18:03.257193",
+            "status": "INACTIVE"
+        },
         "solutions.nalbatech.com": {
             "included_at_epoch": 1597083622.654448,
             "included_at_iso": "2020-08-10T18:20:22.654448",
@@ -2868,6 +2882,13 @@
             "included_at_iso": "2020-08-25T18:42:46.276904",
             "last_retested_at_epoch": 1598638287.497224,
             "last_retested_at_iso": "2020-08-28T18:11:27.497224",
+            "status": "INACTIVE"
+        },
+        "sso-cloud-ideabank.at": {
+            "included_at_epoch": 1599153484.795243,
+            "included_at_iso": "2020-09-03T17:18:04.795243",
+            "last_retested_at_epoch": 1599153484.795243,
+            "last_retested_at_iso": "2020-09-03T17:18:04.795243",
             "status": "INACTIVE"
         },
         "sso.cloud.idecloud.com.pl": {
