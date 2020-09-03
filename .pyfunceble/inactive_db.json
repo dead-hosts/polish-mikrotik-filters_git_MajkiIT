@@ -2247,6 +2247,13 @@
             "last_retested_at_iso": "2020-08-28T17:34:41.394087",
             "status": "INACTIVE"
         },
+        "noweinformacje.icu": {
+            "included_at_epoch": 1599152435.362156,
+            "included_at_iso": "2020-09-03T17:00:35.362156",
+            "last_retested_at_epoch": 1599152435.362156,
+            "last_retested_at_iso": "2020-09-03T17:00:35.362156",
+            "status": "INACTIVE"
+        },
         "nucuoihalong.com": {
             "included_at_epoch": 1596820666.289673,
             "included_at_iso": "2020-08-07T17:17:46.289673",
@@ -2273,6 +2280,13 @@
             "included_at_iso": "2020-08-19T18:07:27.111362",
             "last_retested_at_epoch": 1598636089.155063,
             "last_retested_at_iso": "2020-08-28T17:34:49.155063",
+            "status": "INACTIVE"
+        },
+        "oglosznie-elektroniczne.name": {
+            "included_at_epoch": 1599152436.348904,
+            "included_at_iso": "2020-09-03T17:00:36.348904",
+            "last_retested_at_epoch": 1599152436.348904,
+            "last_retested_at_iso": "2020-09-03T17:00:36.348904",
             "status": "INACTIVE"
         },
         "olbart.pl": {
@@ -2308,6 +2322,13 @@
             "included_at_iso": "2020-08-31T17:09:23.582936",
             "last_retested_at_epoch": 1598893763.582936,
             "last_retested_at_iso": "2020-08-31T17:09:23.582936",
+            "status": "INACTIVE"
+        },
+        "openclient.sroinfo.com": {
+            "included_at_epoch": 1599152437.363568,
+            "included_at_iso": "2020-09-03T17:00:37.363568",
+            "last_retested_at_epoch": 1599152437.363568,
+            "last_retested_at_iso": "2020-09-03T17:00:37.363568",
             "status": "INACTIVE"
         },
         "ordinateur-portable-degriffe.blogspot.com": {
@@ -2485,6 +2506,13 @@
             "last_retested_at_iso": "2020-08-28T17:52:54.725456",
             "status": "INACTIVE"
         },
+        "portalmiasta.cal24.pl": {
+            "included_at_epoch": 1599152441.800739,
+            "included_at_iso": "2020-09-03T17:00:41.800739",
+            "last_retested_at_epoch": 1599152441.800739,
+            "last_retested_at_iso": "2020-09-03T17:00:41.800739",
+            "status": "INACTIVE"
+        },
         "portalmiejski.eu": {
             "included_at_epoch": 1598379855.414693,
             "included_at_iso": "2020-08-25T18:24:15.414693",
@@ -2609,6 +2637,20 @@
             "included_at_iso": "2020-08-31T17:09:32.894464",
             "last_retested_at_epoch": 1598893772.894464,
             "last_retested_at_iso": "2020-08-31T17:09:32.894464",
+            "status": "INACTIVE"
+        },
+        "reeboknpcii.pl": {
+            "included_at_epoch": 1599152445.334827,
+            "included_at_iso": "2020-09-03T17:00:45.334827",
+            "last_retested_at_epoch": 1599152445.334827,
+            "last_retested_at_iso": "2020-09-03T17:00:45.334827",
+            "status": "INACTIVE"
+        },
+        "rehab4pets.pl": {
+            "included_at_epoch": 1599152445.64909,
+            "included_at_iso": "2020-09-03T17:00:45.649090",
+            "last_retested_at_epoch": 1599152445.64909,
+            "last_retested_at_iso": "2020-09-03T17:00:45.649090",
             "status": "INACTIVE"
         },
         "rewardrey.com": {
