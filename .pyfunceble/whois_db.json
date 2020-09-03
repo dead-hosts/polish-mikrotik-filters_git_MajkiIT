@@ -56114,8 +56114,9 @@
         "state": "future"
     },
     "xn--1-7sbc0bfr0ah0c.xn--p1ai": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "xn--161-mddeaaq2el.xn--p1ai": {
@@ -56387,8 +56388,9 @@
         "state": "future"
     },
     "xwai.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "xxxgame.su": {
@@ -56506,7 +56508,8 @@
     "yeuquynhnhai.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "yhyhzx.com": {
         "epoch": 1633305600.0,
