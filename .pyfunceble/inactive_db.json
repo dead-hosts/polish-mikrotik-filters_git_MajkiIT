@@ -497,6 +497,13 @@
             "last_retested_at_iso": "2020-08-28T15:51:22.421712",
             "status": "INACTIVE"
         },
+        "butikedyta.cal24.pl": {
+            "included_at_epoch": 1599147650.472063,
+            "included_at_iso": "2020-09-03T15:40:50.472063",
+            "last_retested_at_epoch": 1599147650.472063,
+            "last_retested_at_iso": "2020-09-03T15:40:50.472063",
+            "status": "INACTIVE"
+        },
         "butyasicsdamskie.pl": {
             "included_at_epoch": 1598888601.436425,
             "included_at_iso": "2020-08-31T15:43:21.436425",
@@ -551,6 +558,13 @@
             "included_at_iso": "2020-08-28T15:51:32.251982",
             "last_retested_at_epoch": 1598629892.251982,
             "last_retested_at_iso": "2020-08-28T15:51:32.251982",
+            "status": "INACTIVE"
+        },
+        "cdnus.laboratoryconecpttoday.com": {
+            "included_at_epoch": 1599147650.975047,
+            "included_at_iso": "2020-09-03T15:40:50.975047",
+            "last_retested_at_epoch": 1599147650.975047,
+            "last_retested_at_iso": "2020-09-03T15:40:50.975047",
             "status": "INACTIVE"
         },
         "cg.hotwp.net": {
@@ -637,6 +651,20 @@
             "last_retested_at_iso": "2020-08-28T15:52:05.173738",
             "status": "INACTIVE"
         },
+        "daohannganhang.com.vn": {
+            "included_at_epoch": 1599147652.836521,
+            "included_at_iso": "2020-09-03T15:40:52.836521",
+            "last_retested_at_epoch": 1599147652.836521,
+            "last_retested_at_iso": "2020-09-03T15:40:52.836521",
+            "status": "INACTIVE"
+        },
+        "ddgrawer.pl": {
+            "included_at_epoch": 1599147653.178015,
+            "included_at_iso": "2020-09-03T15:40:53.178015",
+            "last_retested_at_epoch": 1599147653.178015,
+            "last_retested_at_iso": "2020-09-03T15:40:53.178015",
+            "status": "INACTIVE"
+        },
         "dekadagierka.pl": {
             "included_at_epoch": 1598111291.789538,
             "included_at_iso": "2020-08-22T15:48:11.789538",
@@ -686,6 +714,13 @@
             "last_retested_at_iso": "2020-08-28T16:21:29.133577",
             "status": "INVALID"
         },
+        "dogongulong.vn": {
+            "included_at_epoch": 1599147654.010502,
+            "included_at_iso": "2020-09-03T15:40:54.010502",
+            "last_retested_at_epoch": 1599147654.010502,
+            "last_retested_at_iso": "2020-09-03T15:40:54.010502",
+            "status": "INACTIVE"
+        },
         "domtrakenski.pl": {
             "included_at_epoch": 1597074496.035513,
             "included_at_iso": "2020-08-10T15:48:16.035513",
@@ -698,6 +733,13 @@
             "included_at_iso": "2020-08-10T15:48:19.467604",
             "last_retested_at_epoch": 1598631696.392353,
             "last_retested_at_iso": "2020-08-28T16:21:36.392353",
+            "status": "INACTIVE"
+        },
+        "dotpay.etracking-ppocztapolska.com": {
+            "included_at_epoch": 1599147654.18989,
+            "included_at_iso": "2020-09-03T15:40:54.189890",
+            "last_retested_at_epoch": 1599147654.18989,
+            "last_retested_at_iso": "2020-09-03T15:40:54.189890",
             "status": "INACTIVE"
         },
         "dotpay.i-pocztapolska.pl": {
