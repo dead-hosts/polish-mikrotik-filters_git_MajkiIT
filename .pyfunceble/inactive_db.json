@@ -2002,6 +2002,41 @@
             "last_retested_at_iso": "2020-08-28T17:12:37.145605",
             "status": "INACTIVE"
         },
+        "lnpost.generujkody.app": {
+            "included_at_epoch": 1599410880.973719,
+            "included_at_iso": "2020-09-06T16:48:00.973719",
+            "last_retested_at_epoch": 1599410880.973719,
+            "last_retested_at_iso": "2020-09-06T16:48:00.973719",
+            "status": "INACTIVE"
+        },
+        "lnpost.generujkody.cc": {
+            "included_at_epoch": 1599410880.996984,
+            "included_at_iso": "2020-09-06T16:48:00.996984",
+            "last_retested_at_epoch": 1599410880.996984,
+            "last_retested_at_iso": "2020-09-06T16:48:00.996984",
+            "status": "INACTIVE"
+        },
+        "lnpost.generujkody.com": {
+            "included_at_epoch": 1599410881.042709,
+            "included_at_iso": "2020-09-06T16:48:01.042709",
+            "last_retested_at_epoch": 1599410881.042709,
+            "last_retested_at_iso": "2020-09-06T16:48:01.042709",
+            "status": "INACTIVE"
+        },
+        "lnpost.generujkody.me": {
+            "included_at_epoch": 1599410881.01949,
+            "included_at_iso": "2020-09-06T16:48:01.019490",
+            "last_retested_at_epoch": 1599410881.01949,
+            "last_retested_at_iso": "2020-09-06T16:48:01.019490",
+            "status": "INACTIVE"
+        },
+        "lnpost.generujkody.net": {
+            "included_at_epoch": 1599410881.071589,
+            "included_at_iso": "2020-09-06T16:48:01.071589",
+            "last_retested_at_epoch": 1599410881.071589,
+            "last_retested_at_iso": "2020-09-06T16:48:01.071589",
+            "status": "INACTIVE"
+        },
         "lnpost.kody-odbioru.store": {
             "included_at_epoch": 1599151294.224143,
             "included_at_iso": "2020-09-03T16:41:34.224143",
@@ -2021,6 +2056,13 @@
             "included_at_iso": "2020-09-03T16:41:34.394518",
             "last_retested_at_epoch": 1599151294.394518,
             "last_retested_at_iso": "2020-09-03T16:41:34.394518",
+            "status": "INACTIVE"
+        },
+        "logowanie-paribas.at": {
+            "included_at_epoch": 1599410881.247936,
+            "included_at_iso": "2020-09-06T16:48:01.247936",
+            "last_retested_at_epoch": 1599410881.247936,
+            "last_retested_at_iso": "2020-09-06T16:48:01.247936",
             "status": "INACTIVE"
         },
         "loparnille.se": {
@@ -2072,6 +2114,13 @@
             "last_retested_at_iso": "2020-08-28T17:33:39.316231",
             "status": "INACTIVE"
         },
+        "mandarini.ge": {
+            "included_at_epoch": 1599410882.177447,
+            "included_at_iso": "2020-09-06T16:48:02.177447",
+            "last_retested_at_epoch": 1599410882.177447,
+            "last_retested_at_iso": "2020-09-06T16:48:02.177447",
+            "status": "INACTIVE"
+        },
         "mandlevhesteelfixers.co.za": {
             "included_at_epoch": 1598892512.763631,
             "included_at_iso": "2020-08-31T16:48:32.763631",
@@ -2100,11 +2149,32 @@
             "last_retested_at_iso": "2020-08-28T17:33:43.936969",
             "status": "INACTIVE"
         },
+        "masujemy.com.pl": {
+            "included_at_epoch": 1599410882.9119,
+            "included_at_iso": "2020-09-06T16:48:02.911900",
+            "last_retested_at_epoch": 1599410882.9119,
+            "last_retested_at_iso": "2020-09-06T16:48:02.911900",
+            "status": "INACTIVE"
+        },
         "mcl-nieruchomosci.pl": {
             "included_at_epoch": 1597336951.013586,
             "included_at_iso": "2020-08-13T16:42:31.013586",
             "last_retested_at_epoch": 1598397241.104388,
             "last_retested_at_iso": "2020-08-25T23:14:01.104388",
+            "status": "INACTIVE"
+        },
+        "mediartvagd.in.net": {
+            "included_at_epoch": 1599410883.251185,
+            "included_at_iso": "2020-09-06T16:48:03.251185",
+            "last_retested_at_epoch": 1599410883.251185,
+            "last_retested_at_iso": "2020-09-06T16:48:03.251185",
+            "status": "INACTIVE"
+        },
+        "medios.in.net": {
+            "included_at_epoch": 1599410883.313285,
+            "included_at_iso": "2020-09-06T16:48:03.313285",
+            "last_retested_at_epoch": 1599410883.313285,
+            "last_retested_at_iso": "2020-09-06T16:48:03.313285",
             "status": "INACTIVE"
         },
         "megachiny.eu": {
@@ -2170,6 +2240,13 @@
             "last_retested_at_iso": "2020-08-28T17:34:03.692199",
             "status": "INACTIVE"
         },
+        "mobiluj.eu": {
+            "included_at_epoch": 1599410884.773353,
+            "included_at_iso": "2020-09-06T16:48:04.773353",
+            "last_retested_at_epoch": 1599410884.773353,
+            "last_retested_at_iso": "2020-09-06T16:48:04.773353",
+            "status": "INACTIVE"
+        },
         "moje-informacje24.eu": {
             "included_at_epoch": 1599151298.325473,
             "included_at_iso": "2020-09-03T16:41:38.325473",
@@ -2177,11 +2254,32 @@
             "last_retested_at_iso": "2020-09-03T16:41:38.325473",
             "status": "INACTIVE"
         },
+        "mojemiastoinfo.eu": {
+            "included_at_epoch": 1599410885.044022,
+            "included_at_iso": "2020-09-06T16:48:05.044022",
+            "last_retested_at_epoch": 1599410885.044022,
+            "last_retested_at_iso": "2020-09-06T16:48:05.044022",
+            "status": "INACTIVE"
+        },
         "momentum.xcaligula.xyz": {
             "included_at_epoch": 1598115894.954988,
             "included_at_iso": "2020-08-22T17:04:54.954988",
             "last_retested_at_epoch": 1598397241.877174,
             "last_retested_at_iso": "2020-08-25T23:14:01.877174",
+            "status": "INACTIVE"
+        },
+        "money-wp.pl": {
+            "included_at_epoch": 1599410885.150878,
+            "included_at_iso": "2020-09-06T16:48:05.150878",
+            "last_retested_at_epoch": 1599410885.150878,
+            "last_retested_at_iso": "2020-09-06T16:48:05.150878",
+            "status": "INACTIVE"
+        },
+        "monitoringi24.eu": {
+            "included_at_epoch": 1599410885.217918,
+            "included_at_iso": "2020-09-06T16:48:05.217918",
+            "last_retested_at_epoch": 1599410885.217918,
+            "last_retested_at_iso": "2020-09-06T16:48:05.217918",
             "status": "INACTIVE"
         },
         "mpestudios.pt": {
@@ -2231,6 +2329,13 @@
             "included_at_iso": "2020-08-19T17:38:42.639231",
             "last_retested_at_epoch": 1598636067.124052,
             "last_retested_at_iso": "2020-08-28T17:34:27.124052",
+            "status": "INACTIVE"
+        },
+        "nazywo.h2g.pl": {
+            "included_at_epoch": 1599410886.815823,
+            "included_at_iso": "2020-09-06T16:48:06.815823",
+            "last_retested_at_epoch": 1599410886.815823,
+            "last_retested_at_iso": "2020-09-06T16:48:06.815823",
             "status": "INACTIVE"
         },
         "nebulait.pl": {
