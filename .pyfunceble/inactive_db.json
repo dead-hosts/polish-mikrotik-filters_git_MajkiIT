@@ -3668,6 +3668,13 @@
             "last_retested_at_iso": "2020-08-28T19:13:08.267914",
             "status": "INACTIVE"
         },
+        "ww.paczkfups.com": {
+            "included_at_epoch": 1599415591.378186,
+            "included_at_iso": "2020-09-06T18:06:31.378186",
+            "last_retested_at_epoch": 1599415591.378186,
+            "last_retested_at_iso": "2020-09-06T18:06:31.378186",
+            "status": "INACTIVE"
+        },
         "ww.paczkhups.com": {
             "included_at_epoch": 1599154532.591652,
             "included_at_iso": "2020-09-03T17:35:32.591652",
@@ -3694,6 +3701,13 @@
             "included_at_iso": "2020-09-03T17:35:32.631232",
             "last_retested_at_epoch": 1599154532.631232,
             "last_retested_at_iso": "2020-09-03T17:35:32.631232",
+            "status": "INACTIVE"
+        },
+        "ww.paczkrups.com": {
+            "included_at_epoch": 1599415591.413128,
+            "included_at_iso": "2020-09-06T18:06:31.413128",
+            "last_retested_at_epoch": 1599415591.413128,
+            "last_retested_at_iso": "2020-09-06T18:06:31.413128",
             "status": "INACTIVE"
         },
         "ww.paczksups.com": {
@@ -3773,6 +3787,13 @@
             "last_retested_at_iso": "2020-08-28T19:13:08.982916",
             "status": "INACTIVE"
         },
+        "www.50kaweek.live": {
+            "included_at_epoch": 1599415591.864369,
+            "included_at_iso": "2020-09-06T18:06:31.864369",
+            "last_retested_at_epoch": 1599415591.864369,
+            "last_retested_at_iso": "2020-09-06T18:06:31.864369",
+            "status": "INACTIVE"
+        },
         "www.account.login.appid.customer.online.curriculumvitae.live": {
             "included_at_epoch": 1598897445.989789,
             "included_at_iso": "2020-08-31T18:10:45.989789",
@@ -3808,6 +3829,13 @@
             "last_retested_at_iso": "2020-08-28T19:13:09.652169",
             "status": "INACTIVE"
         },
+        "www.ads-fb.co": {
+            "included_at_epoch": 1599415592.442373,
+            "included_at_iso": "2020-09-06T18:06:32.442373",
+            "last_retested_at_epoch": 1599415592.442373,
+            "last_retested_at_iso": "2020-09-06T18:06:32.442373",
+            "status": "INACTIVE"
+        },
         "www.agricoletrade.com": {
             "included_at_epoch": 1597602899.945269,
             "included_at_iso": "2020-08-16T18:34:59.945269",
@@ -3820,6 +3848,13 @@
             "included_at_iso": "2020-08-31T18:10:46.376015",
             "last_retested_at_epoch": 1598897446.376015,
             "last_retested_at_iso": "2020-08-31T18:10:46.376015",
+            "status": "INACTIVE"
+        },
+        "www.aiiegroiokainie.online": {
+            "included_at_epoch": 1599415592.58881,
+            "included_at_iso": "2020-09-06T18:06:32.588810",
+            "last_retested_at_epoch": 1599415592.58881,
+            "last_retested_at_iso": "2020-09-06T18:06:32.588810",
             "status": "INACTIVE"
         },
         "www.airhuarache.pl": {
@@ -3946,6 +3981,13 @@
             "included_at_iso": "2020-08-13T18:45:06.758378",
             "last_retested_at_epoch": 1598643231.131817,
             "last_retested_at_iso": "2020-08-28T19:33:51.131817",
+            "status": "INACTIVE"
+        },
+        "www.antares.trade": {
+            "included_at_epoch": 1599415593.44937,
+            "included_at_iso": "2020-09-06T18:06:33.449370",
+            "last_retested_at_epoch": 1599415593.44937,
+            "last_retested_at_iso": "2020-09-06T18:06:33.449370",
             "status": "INACTIVE"
         },
         "www.anzugreifen1.live": {
@@ -4130,6 +4172,13 @@
             "last_retested_at_iso": "2020-08-28T19:33:52.358742",
             "status": "INACTIVE"
         },
+        "www.awes-flasher.info": {
+            "included_at_epoch": 1599415594.15698,
+            "included_at_iso": "2020-09-06T18:06:34.156980",
+            "last_retested_at_epoch": 1599415594.15698,
+            "last_retested_at_iso": "2020-09-06T18:06:34.156980",
+            "status": "INACTIVE"
+        },
         "www.bankmillennium.shanaraemay.com": {
             "included_at_epoch": 1597866198.951189,
             "included_at_iso": "2020-08-19T19:43:18.951189",
@@ -4163,6 +4212,13 @@
             "included_at_iso": "2020-09-03T17:52:46.011943",
             "last_retested_at_epoch": 1599155566.011943,
             "last_retested_at_iso": "2020-09-03T17:52:46.011943",
+            "status": "INACTIVE"
+        },
+        "www.bcsgleba.pl": {
+            "included_at_epoch": 1599415594.496247,
+            "included_at_iso": "2020-09-06T18:06:34.496247",
+            "last_retested_at_epoch": 1599415594.496247,
+            "last_retested_at_iso": "2020-09-06T18:06:34.496247",
             "status": "INACTIVE"
         },
         "www.behavioriks.pl": {
@@ -4242,11 +4298,25 @@
             "last_retested_at_iso": "2020-08-31T18:10:49.280394",
             "status": "INACTIVE"
         },
+        "www.bitcointime.xyz": {
+            "included_at_epoch": 1599415595.117307,
+            "included_at_iso": "2020-09-06T18:06:35.117307",
+            "last_retested_at_epoch": 1599415595.117307,
+            "last_retested_at_iso": "2020-09-06T18:06:35.117307",
+            "status": "INACTIVE"
+        },
         "www.bitprofit.brokerselection.pro": {
             "included_at_epoch": 1597345451.309876,
             "included_at_iso": "2020-08-13T19:04:11.309876",
             "last_retested_at_epoch": 1598643233.899142,
             "last_retested_at_iso": "2020-08-28T19:33:53.899142",
+            "status": "INACTIVE"
+        },
+        "www.biznes-planet-paribas.at": {
+            "included_at_epoch": 1599415595.199204,
+            "included_at_iso": "2020-09-06T18:06:35.199204",
+            "last_retested_at_epoch": 1599415595.199204,
+            "last_retested_at_iso": "2020-09-06T18:06:35.199204",
             "status": "INACTIVE"
         },
         "www.blog-in.biz": {
@@ -4270,11 +4340,32 @@
             "last_retested_at_iso": "2020-08-28T19:33:54.140941",
             "status": "INACTIVE"
         },
+        "www.bnp-paribas-login.at": {
+            "included_at_epoch": 1599415595.369416,
+            "included_at_iso": "2020-09-06T18:06:35.369416",
+            "last_retested_at_epoch": 1599415595.369416,
+            "last_retested_at_iso": "2020-09-06T18:06:35.369416",
+            "status": "INACTIVE"
+        },
+        "www.bnpparibas-login.at": {
+            "included_at_epoch": 1599415595.395823,
+            "included_at_iso": "2020-09-06T18:06:35.395823",
+            "last_retested_at_epoch": 1599415595.395823,
+            "last_retested_at_iso": "2020-09-06T18:06:35.395823",
+            "status": "INACTIVE"
+        },
         "www.bnpparibas-logowanie.at": {
             "included_at_epoch": 1597866200.291623,
             "included_at_iso": "2020-08-19T19:43:20.291623",
             "last_retested_at_epoch": 1598643234.212665,
             "last_retested_at_iso": "2020-08-28T19:33:54.212665",
+            "status": "INACTIVE"
+        },
+        "www.bnpparibas-secure.at": {
+            "included_at_epoch": 1599415595.422276,
+            "included_at_iso": "2020-09-06T18:06:35.422276",
+            "last_retested_at_epoch": 1599415595.422276,
+            "last_retested_at_iso": "2020-09-06T18:06:35.422276",
             "status": "INACTIVE"
         },
         "www.bohema-suprasl.pl": {
@@ -4303,6 +4394,13 @@
             "included_at_iso": "2020-08-19T19:43:20.635628",
             "last_retested_at_epoch": 1598643234.609495,
             "last_retested_at_iso": "2020-08-28T19:33:54.609495",
+            "status": "INACTIVE"
+        },
+        "www.btc-billionaire.com": {
+            "included_at_epoch": 1599415595.776767,
+            "included_at_iso": "2020-09-06T18:06:35.776767",
+            "last_retested_at_epoch": 1599415595.776767,
+            "last_retested_at_iso": "2020-09-06T18:06:35.776767",
             "status": "INACTIVE"
         },
         "www.btc-era.com": {
@@ -4389,6 +4487,13 @@
             "last_retested_at_iso": "2020-08-28T19:33:55.123376",
             "status": "INACTIVE"
         },
+        "www.caffeepolit.pl": {
+            "included_at_epoch": 1599415596.044139,
+            "included_at_iso": "2020-09-06T18:06:36.044139",
+            "last_retested_at_epoch": 1599415596.044139,
+            "last_retested_at_iso": "2020-09-06T18:06:36.044139",
+            "status": "INACTIVE"
+        },
         "www.ce.wielkanagroda.com": {
             "included_at_epoch": 1597087122.4292,
             "included_at_iso": "2020-08-10T19:18:42.429200",
@@ -4450,6 +4555,13 @@
             "included_at_iso": "2020-08-13T19:04:13.382192",
             "last_retested_at_epoch": 1598643236.159679,
             "last_retested_at_iso": "2020-08-28T19:33:56.159679",
+            "status": "INACTIVE"
+        },
+        "www.cinemaplanet.pl": {
+            "included_at_epoch": 1599415597.083997,
+            "included_at_iso": "2020-09-06T18:06:37.083997",
+            "last_retested_at_epoch": 1599415597.083997,
+            "last_retested_at_iso": "2020-09-06T18:06:37.083997",
             "status": "INACTIVE"
         },
         "www.classicleather.pl": {
