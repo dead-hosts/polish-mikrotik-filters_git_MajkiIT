@@ -2975,6 +2975,13 @@
             "last_retested_at_iso": "2020-08-28T18:10:50.350858",
             "status": "INACTIVE"
         },
+        "santander-bank-polska.genesadirgantara.com": {
+            "included_at_epoch": 1599413289.013429,
+            "included_at_iso": "2020-09-06T17:28:09.013429",
+            "last_retested_at_epoch": 1599413289.013429,
+            "last_retested_at_iso": "2020-09-06T17:28:09.013429",
+            "status": "INACTIVE"
+        },
         "santander-bank-polska.robo71.com": {
             "included_at_epoch": 1598895169.284663,
             "included_at_iso": "2020-08-31T17:32:49.284663",
@@ -3003,6 +3010,13 @@
             "last_retested_at_iso": "2020-08-28T18:10:55.170801",
             "status": "INACTIVE"
         },
+        "sasiedzkiportal.eu": {
+            "included_at_epoch": 1599413289.186412,
+            "included_at_iso": "2020-09-06T17:28:09.186412",
+            "last_retested_at_epoch": 1599413289.186412,
+            "last_retested_at_iso": "2020-09-06T17:28:09.186412",
+            "status": "INACTIVE"
+        },
         "seansobox.pl": {
             "included_at_epoch": 1598638258.137073,
             "included_at_iso": "2020-08-28T18:10:58.137073",
@@ -3017,11 +3031,25 @@
             "last_retested_at_iso": "2020-08-31T17:32:49.733594",
             "status": "INACTIVE"
         },
+        "secure-bnpparibas.at": {
+            "included_at_epoch": 1599413289.795667,
+            "included_at_iso": "2020-09-06T17:28:09.795667",
+            "last_retested_at_epoch": 1599413289.795667,
+            "last_retested_at_iso": "2020-09-06T17:28:09.795667",
+            "status": "INACTIVE"
+        },
         "secure-eplatnosc.com": {
             "included_at_epoch": 1597861607.253829,
             "included_at_iso": "2020-08-19T18:26:47.253829",
             "last_retested_at_epoch": 1598638259.086133,
             "last_retested_at_iso": "2020-08-28T18:10:59.086133",
+            "status": "INACTIVE"
+        },
+        "secure-paribas.at": {
+            "included_at_epoch": 1599413289.869528,
+            "included_at_iso": "2020-09-06T17:28:09.869528",
+            "last_retested_at_epoch": 1599413289.869528,
+            "last_retested_at_iso": "2020-09-06T17:28:09.869528",
             "status": "INACTIVE"
         },
         "sensecafe.com.pl": {
@@ -3183,6 +3211,13 @@
             "included_at_iso": "2020-08-31T17:32:55.671185",
             "last_retested_at_epoch": 1598895175.671185,
             "last_retested_at_iso": "2020-08-31T17:32:55.671185",
+            "status": "INACTIVE"
+        },
+        "stowarzyszeniesedziow.pl": {
+            "included_at_epoch": 1599413294.690779,
+            "included_at_iso": "2020-09-06T17:28:14.690779",
+            "last_retested_at_epoch": 1599413294.690779,
+            "last_retested_at_iso": "2020-09-06T17:28:14.690779",
             "status": "INACTIVE"
         },
         "studioformy-synergia.pl": {

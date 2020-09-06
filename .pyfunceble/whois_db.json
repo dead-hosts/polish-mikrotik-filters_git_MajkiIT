@@ -42406,6 +42406,12 @@
         "expiration_date": "12-sep-2020",
         "state": "future"
     },
+    "pulseti.com": {
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "pumaoutletpolska.pl": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
@@ -42694,8 +42700,9 @@
         "state": "future"
     },
     "qubble.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "queenyconnection.com": {
@@ -43508,8 +43515,9 @@
         "state": "future"
     },
     "reebokfurylite.pl": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "reeboknpcii.pl": {
@@ -44300,11 +44308,18 @@
     "rochelldiy.com": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "rocketbagger.com": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "rocketviral.com": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rocketx.fun": {
@@ -44689,7 +44704,8 @@
     "rtvagdpro.net": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "rtvmax.pl": {
         "epoch": 1607126400.0,
@@ -45282,6 +45298,12 @@
         "expiration_date": "27-jul-2022",
         "state": "future"
     },
+    "sarthakfoundationtrust.org": {
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "sashapikula.com": {
         "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
@@ -45369,8 +45391,9 @@
         "state": "future"
     },
     "sbhosale.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sbsdance.in": {
@@ -45399,8 +45422,9 @@
         "state": "future"
     },
     "scantronixinc.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "scenbe.com": {
@@ -45582,8 +45606,9 @@
         "state": "future"
     },
     "secondchance4citizens.org": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "secondguardian.me": {
@@ -46211,6 +46236,12 @@
         "expiration_date": "18-may-2022",
         "state": "future"
     },
+    "shivamkhandelwal.in": {
+        "epoch": 1716940800.0,
+        "expiration_date": "29-may-2024",
+        "server": "whois.registry.in",
+        "state": "future"
+    },
     "shkglobalhealth.org": {
         "epoch": 1645488000.0,
         "expiration_date": "22-feb-2022",
@@ -46675,6 +46706,12 @@
     "sirthinks.com": {
         "epoch": 1610409600.0,
         "expiration_date": "12-jan-2021",
+        "state": "future"
+    },
+    "sistelligent.com": {
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sistemagema.com.ar": {
@@ -47399,6 +47436,12 @@
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
+    "solarcom.com.ar": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
+        "server": "whois.nic.ar",
+        "state": "future"
+    },
     "solarefekt.pl": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
@@ -47604,6 +47647,12 @@
     "sortier1.com": {
         "epoch": 1611619200.0,
         "expiration_date": "26-jan-2021",
+        "state": "future"
+    },
+    "sorvetesbrotinho.com.br": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "server": "whois.registro.br",
         "state": "future"
     },
     "sosflam.com": {
@@ -47912,6 +47961,12 @@
         "expiration_date": "29-jul-2021",
         "state": "future"
     },
+    "spookyservice.xyz": {
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "spor.la": {
         "epoch": 1625011200.0,
         "expiration_date": "30-jun-2021",
@@ -47982,6 +48037,12 @@
     "spplodz.pl": {
         "epoch": 1609632000.0,
         "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
+    "sprawajestprosta21.site": {
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "sprawdzianyodpowiedzi.pl": {
@@ -48165,8 +48226,9 @@
         "state": "future"
     },
     "ssman.pl": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ssmconsultingllc.com": {
