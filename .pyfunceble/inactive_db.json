@@ -10465,6 +10465,13 @@
             "last_retested_at_iso": "2020-08-25T22:59:26.235268",
             "status": "INACTIVE"
         },
+        "www.waust.at": {
+            "included_at_epoch": 1599421747.96437,
+            "included_at_iso": "2020-09-06T19:49:07.964370",
+            "last_retested_at_epoch": 1599421747.96437,
+            "last_retested_at_iso": "2020-09-06T19:49:07.964370",
+            "status": "INACTIVE"
+        },
         "www.wedkarstwodapio.pl": {
             "included_at_epoch": 1598135082.604559,
             "included_at_iso": "2020-08-22T22:24:42.604559",
@@ -10477,6 +10484,20 @@
             "included_at_iso": "2020-08-29T01:08:13.047363",
             "last_retested_at_epoch": 1598663293.047363,
             "last_retested_at_iso": "2020-08-29T01:08:13.047363",
+            "status": "INACTIVE"
+        },
+        "www.wersow-24.atwebpages.com": {
+            "included_at_epoch": 1599421748.298618,
+            "included_at_iso": "2020-09-06T19:49:08.298618",
+            "last_retested_at_epoch": 1599421748.298618,
+            "last_retested_at_iso": "2020-09-06T19:49:08.298618",
+            "status": "INACTIVE"
+        },
+        "www.wersow-gola24.mypressonline.com": {
+            "included_at_epoch": 1599421748.26906,
+            "included_at_iso": "2020-09-06T19:49:08.269060",
+            "last_retested_at_epoch": 1599421748.26906,
+            "last_retested_at_iso": "2020-09-06T19:49:08.269060",
             "status": "INACTIVE"
         },
         "www.weryfikacja-kosmetyczki.biz": {
@@ -10645,6 +10666,13 @@
             "included_at_iso": "2020-08-10T22:10:41.368238",
             "last_retested_at_epoch": 1598396368.430254,
             "last_retested_at_iso": "2020-08-25T22:59:28.430254",
+            "status": "INACTIVE"
+        },
+        "www.wysylkovo.online": {
+            "included_at_epoch": 1599421749.619021,
+            "included_at_iso": "2020-09-06T19:49:09.619021",
+            "last_retested_at_epoch": 1599421749.619021,
+            "last_retested_at_iso": "2020-09-06T19:49:09.619021",
             "status": "INACTIVE"
         },
         "www.wysylkovo24.online": {

@@ -56932,6 +56932,12 @@
         "expiration_date": "22-jun-2021",
         "state": "future"
     },
+    "xsdhly.com": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "xtecsoft.com": {
         "epoch": 1654387200.0,
         "expiration_date": "05-jun-2022",
@@ -57091,10 +57097,10 @@
         "state": "future"
     },
     "yeuquynhnhai.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "yhyhzx.com": {
         "epoch": 1633305600.0,
@@ -57465,7 +57471,8 @@
     "zakupyagd.net": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "zalukaj-cda.pl": {
         "epoch": 1625097600.0,
