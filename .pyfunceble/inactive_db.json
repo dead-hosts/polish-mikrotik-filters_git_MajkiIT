@@ -9261,6 +9261,20 @@
             "last_retested_at_iso": "2020-08-31T19:19:55.913909",
             "status": "INACTIVE"
         },
+        "www.secure-bnpparibas.at": {
+            "included_at_epoch": 1599420804.661504,
+            "included_at_iso": "2020-09-06T19:33:24.661504",
+            "last_retested_at_epoch": 1599420804.661504,
+            "last_retested_at_iso": "2020-09-06T19:33:24.661504",
+            "status": "INACTIVE"
+        },
+        "www.secure-paribas.at": {
+            "included_at_epoch": 1599420804.742105,
+            "included_at_iso": "2020-09-06T19:33:24.742105",
+            "last_retested_at_epoch": 1599420804.742105,
+            "last_retested_at_iso": "2020-09-06T19:33:24.742105",
+            "status": "INACTIVE"
+        },
         "www.secureclick20.com": {
             "included_at_epoch": 1598132487.973844,
             "included_at_iso": "2020-08-22T21:41:27.973844",
@@ -9422,6 +9436,20 @@
             "last_retested_at_iso": "2020-09-03T19:02:06.357913",
             "status": "INACTIVE"
         },
+        "www.stackspay.com": {
+            "included_at_epoch": 1599420808.262044,
+            "included_at_iso": "2020-09-06T19:33:28.262044",
+            "last_retested_at_epoch": 1599420808.262044,
+            "last_retested_at_iso": "2020-09-06T19:33:28.262044",
+            "status": "INACTIVE"
+        },
+        "www.starc.se": {
+            "included_at_epoch": 1599420808.355063,
+            "included_at_iso": "2020-09-06T19:33:28.355063",
+            "last_retested_at_epoch": 1599420808.355063,
+            "last_retested_at_iso": "2020-09-06T19:33:28.355063",
+            "status": "INACTIVE"
+        },
         "www.status.shop.pl": {
             "included_at_epoch": 1597355361.169713,
             "included_at_iso": "2020-08-13T21:49:21.169713",
@@ -9567,6 +9595,13 @@
             "included_at_iso": "2020-08-25T22:42:07.235192",
             "last_retested_at_epoch": 1598651324.837217,
             "last_retested_at_iso": "2020-08-28T21:48:44.837217",
+            "status": "INACTIVE"
+        },
+        "www.szmoldparts.com": {
+            "included_at_epoch": 1599420809.72383,
+            "included_at_iso": "2020-09-06T19:33:29.723830",
+            "last_retested_at_epoch": 1599420809.72383,
+            "last_retested_at_iso": "2020-09-06T19:33:29.723830",
             "status": "INACTIVE"
         },
         "www.szybka-wyplata.pl": {
@@ -9987,6 +10022,13 @@
             "included_at_iso": "2020-08-10T21:46:07.133516",
             "last_retested_at_epoch": 1598395329.292978,
             "last_retested_at_iso": "2020-08-25T22:42:09.292978",
+            "status": "INACTIVE"
+        },
+        "www.tobylowczoraj.online": {
+            "included_at_epoch": 1599420810.975659,
+            "included_at_iso": "2020-09-06T19:33:30.975659",
+            "last_retested_at_epoch": 1599420810.975659,
+            "last_retested_at_iso": "2020-09-06T19:33:30.975659",
             "status": "INACTIVE"
         },
         "www.tojestnewsprawdziwy.xyz": {
