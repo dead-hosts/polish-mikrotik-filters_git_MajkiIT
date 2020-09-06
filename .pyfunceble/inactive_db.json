@@ -1414,6 +1414,13 @@
             "last_retested_at_iso": "2020-08-28T16:40:46.676674",
             "status": "INACTIVE"
         },
+        "homemedia.in.net": {
+            "included_at_epoch": 1599409849.355041,
+            "included_at_iso": "2020-09-06T16:30:49.355041",
+            "last_retested_at_epoch": 1599409849.355041,
+            "last_retested_at_iso": "2020-09-06T16:30:49.355041",
+            "status": "INACTIVE"
+        },
         "homgar.pl": {
             "included_at_epoch": 1597855198.622067,
             "included_at_iso": "2020-08-19T16:39:58.622067",
@@ -1461,6 +1468,13 @@
             "included_at_iso": "2020-08-31T16:30:04.827362",
             "last_retested_at_epoch": 1598891404.827362,
             "last_retested_at_iso": "2020-08-31T16:30:04.827362",
+            "status": "INACTIVE"
+        },
+        "hurtmaniac.pl": {
+            "included_at_epoch": 1599409849.80597,
+            "included_at_iso": "2020-09-06T16:30:49.805970",
+            "last_retested_at_epoch": 1599409849.80597,
+            "last_retested_at_iso": "2020-09-06T16:30:49.805970",
             "status": "INACTIVE"
         },
         "hyut.000webhostapp.com": {
@@ -1512,6 +1526,20 @@
             "last_retested_at_iso": "2020-08-28T16:40:57.311152",
             "status": "INACTIVE"
         },
+        "indonesias.me:9998": {
+            "included_at_epoch": 1599409850.515381,
+            "included_at_iso": "2020-09-06T16:30:50.515381",
+            "last_retested_at_epoch": 1599409850.515381,
+            "last_retested_at_iso": "2020-09-06T16:30:50.515381",
+            "status": "INVALID"
+        },
+        "info-wojewodzkie.cal24.pl": {
+            "included_at_epoch": 1599409850.818051,
+            "included_at_iso": "2020-09-06T16:30:50.818051",
+            "last_retested_at_epoch": 1599409850.818051,
+            "last_retested_at_iso": "2020-09-06T16:30:50.818051",
+            "status": "INACTIVE"
+        },
         "infogminne.cal24.pl": {
             "included_at_epoch": 1599150253.830496,
             "included_at_iso": "2020-09-03T16:24:13.830496",
@@ -1561,6 +1589,76 @@
             "last_retested_at_iso": "2020-08-28T16:41:06.338503",
             "status": "INACTIVE"
         },
+        "informacyjnyportal.cal24.pl": {
+            "included_at_epoch": 1599409850.710732,
+            "included_at_iso": "2020-09-06T16:30:50.710732",
+            "last_retested_at_epoch": 1599409850.710732,
+            "last_retested_at_iso": "2020-09-06T16:30:50.710732",
+            "status": "INACTIVE"
+        },
+        "informatorwojewodzki.cal24.pl": {
+            "included_at_epoch": 1599409850.73377,
+            "included_at_iso": "2020-09-06T16:30:50.733770",
+            "last_retested_at_epoch": 1599409850.73377,
+            "last_retested_at_iso": "2020-09-06T16:30:50.733770",
+            "status": "INACTIVE"
+        },
+        "inpost.generuj-kod.app": {
+            "included_at_epoch": 1599409851.021922,
+            "included_at_iso": "2020-09-06T16:30:51.021922",
+            "last_retested_at_epoch": 1599409851.021922,
+            "last_retested_at_iso": "2020-09-06T16:30:51.021922",
+            "status": "INACTIVE"
+        },
+        "inpost.generuj-kod.com": {
+            "included_at_epoch": 1599409851.078508,
+            "included_at_iso": "2020-09-06T16:30:51.078508",
+            "last_retested_at_epoch": 1599409851.078508,
+            "last_retested_at_iso": "2020-09-06T16:30:51.078508",
+            "status": "INACTIVE"
+        },
+        "inpost.generuj-kod.me": {
+            "included_at_epoch": 1599409851.1264,
+            "included_at_iso": "2020-09-06T16:30:51.126400",
+            "last_retested_at_epoch": 1599409851.1264,
+            "last_retested_at_iso": "2020-09-06T16:30:51.126400",
+            "status": "INACTIVE"
+        },
+        "inpost.generuj-kod.net": {
+            "included_at_epoch": 1599409851.149325,
+            "included_at_iso": "2020-09-06T16:30:51.149325",
+            "last_retested_at_epoch": 1599409851.149325,
+            "last_retested_at_iso": "2020-09-06T16:30:51.149325",
+            "status": "INACTIVE"
+        },
+        "inpost.generujkod.app": {
+            "included_at_epoch": 1599409851.044073,
+            "included_at_iso": "2020-09-06T16:30:51.044073",
+            "last_retested_at_epoch": 1599409851.044073,
+            "last_retested_at_iso": "2020-09-06T16:30:51.044073",
+            "status": "INACTIVE"
+        },
+        "inpost.generujkod.com": {
+            "included_at_epoch": 1599409851.103211,
+            "included_at_iso": "2020-09-06T16:30:51.103211",
+            "last_retested_at_epoch": 1599409851.103211,
+            "last_retested_at_iso": "2020-09-06T16:30:51.103211",
+            "status": "INACTIVE"
+        },
+        "inpost.generujkod.me": {
+            "included_at_epoch": 1599409851.172093,
+            "included_at_iso": "2020-09-06T16:30:51.172093",
+            "last_retested_at_epoch": 1599409851.172093,
+            "last_retested_at_iso": "2020-09-06T16:30:51.172093",
+            "status": "INACTIVE"
+        },
+        "inpost.generujkod.net": {
+            "included_at_epoch": 1599409851.198787,
+            "included_at_iso": "2020-09-06T16:30:51.198787",
+            "last_retested_at_epoch": 1599409851.198787,
+            "last_retested_at_iso": "2020-09-06T16:30:51.198787",
+            "status": "INACTIVE"
+        },
         "inpost.kod-odbioru.app": {
             "included_at_epoch": 1598891406.030468,
             "included_at_iso": "2020-08-31T16:30:06.030468",
@@ -1573,6 +1671,13 @@
             "included_at_iso": "2020-08-25T17:05:29.142284",
             "last_retested_at_epoch": 1598634690.672495,
             "last_retested_at_iso": "2020-08-28T17:11:30.672495",
+            "status": "INACTIVE"
+        },
+        "inpost.kody-odbioru.me": {
+            "included_at_epoch": 1599409851.24219,
+            "included_at_iso": "2020-09-06T16:30:51.242190",
+            "last_retested_at_epoch": 1599409851.24219,
+            "last_retested_at_iso": "2020-09-06T16:30:51.242190",
             "status": "INACTIVE"
         },
         "inpost.kodyodbioru.app": {
@@ -1650,6 +1755,13 @@
             "included_at_iso": "2020-08-19T17:04:48.624349",
             "last_retested_at_epoch": 1598634692.062033,
             "last_retested_at_iso": "2020-08-28T17:11:32.062033",
+            "status": "INACTIVE"
+        },
+        "inpost.wygeneruj-kod.me": {
+            "included_at_epoch": 1599409851.337688,
+            "included_at_iso": "2020-09-06T16:30:51.337688",
+            "last_retested_at_epoch": 1599409851.337688,
+            "last_retested_at_iso": "2020-09-06T16:30:51.337688",
             "status": "INACTIVE"
         },
         "inpost.wygeneruj.net": {
