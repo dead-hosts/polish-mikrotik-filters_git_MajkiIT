@@ -511,6 +511,13 @@
             "last_retested_at_iso": "2020-08-28T15:51:13.555027",
             "status": "INACTIVE"
         },
+        "bnpparibas-secure.at": {
+            "included_at_epoch": 1599407287.833684,
+            "included_at_iso": "2020-09-06T15:48:07.833684",
+            "last_retested_at_epoch": 1599407287.833684,
+            "last_retested_at_iso": "2020-09-06T15:48:07.833684",
+            "status": "INACTIVE"
+        },
         "bonus.allegro.to": {
             "included_at_epoch": 1598629875.660439,
             "included_at_iso": "2020-08-28T15:51:15.660439",
@@ -637,11 +644,25 @@
             "last_retested_at_iso": "2020-08-28T15:51:38.562219",
             "status": "INACTIVE"
         },
+        "cityhomes.lk": {
+            "included_at_epoch": 1599407289.315215,
+            "included_at_iso": "2020-09-06T15:48:09.315215",
+            "last_retested_at_epoch": 1599407289.315215,
+            "last_retested_at_iso": "2020-09-06T15:48:09.315215",
+            "status": "INACTIVE"
+        },
         "cl-closeprotection.fr": {
             "included_at_epoch": 1598111265.648822,
             "included_at_iso": "2020-08-22T15:47:45.648822",
             "last_retested_at_epoch": 1598629904.612174,
             "last_retested_at_iso": "2020-08-28T15:51:44.612174",
+            "status": "INACTIVE"
+        },
+        "cloud-sso-idea.at": {
+            "included_at_epoch": 1599407289.428619,
+            "included_at_iso": "2020-09-06T15:48:09.428619",
+            "last_retested_at_epoch": 1599407289.428619,
+            "last_retested_at_iso": "2020-09-06T15:48:09.428619",
             "status": "INACTIVE"
         },
         "club-heaven.pl": {
@@ -665,6 +686,13 @@
             "last_retested_at_iso": "2020-08-28T15:51:47.943030",
             "status": "INACTIVE"
         },
+        "contestlight.pl": {
+            "included_at_epoch": 1599407290.038896,
+            "included_at_iso": "2020-09-06T15:48:10.038896",
+            "last_retested_at_epoch": 1599407290.038896,
+            "last_retested_at_iso": "2020-09-06T15:48:10.038896",
+            "status": "INACTIVE"
+        },
         "da.alibuf.com:3": {
             "included_at_epoch": 1597333648.752239,
             "included_at_iso": "2020-08-13T15:47:28.752239",
@@ -677,6 +705,13 @@
             "included_at_iso": "2020-08-19T15:41:04.816634",
             "last_retested_at_epoch": 1598629925.173738,
             "last_retested_at_iso": "2020-08-28T15:52:05.173738",
+            "status": "INACTIVE"
+        },
+        "dampolznicze.pl": {
+            "included_at_epoch": 1599407290.657599,
+            "included_at_iso": "2020-09-06T15:48:10.657599",
+            "last_retested_at_epoch": 1599407290.657599,
+            "last_retested_at_iso": "2020-09-06T15:48:10.657599",
             "status": "INACTIVE"
         },
         "daohannganhang.com.vn": {
