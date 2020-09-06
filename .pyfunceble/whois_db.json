@@ -14021,6 +14021,12 @@
         "expiration_date": "13-sep-2020",
         "state": "future"
     },
+    "dupmaster.net": {
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "durakbufecengelkoy.com": {
         "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
@@ -14052,10 +14058,10 @@
         "state": "future"
     },
     "duyster.info": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "server": "whois.afilias.net",
-        "state": "past"
+        "state": "future"
     },
     "duzysklep.com": {
         "epoch": 1625443200.0,
@@ -14666,8 +14672,9 @@
         "state": "future"
     },
     "e-udanezakupy.pl": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "e-uprowadzeniedworzec.pl": {
@@ -14769,6 +14776,12 @@
     "easma.cn": {
         "epoch": 1621641600.0,
         "expiration_date": "22-may-2021",
+        "state": "future"
+    },
+    "eastexs.com": {
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "eastmostlitharges.online": {
@@ -15238,6 +15251,12 @@
         "expiration_date": "20-oct-2021",
         "state": "future"
     },
+    "eforbilgisayar.com": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "eforsa.pl": {
         "epoch": 1627084800.0,
         "expiration_date": "24-jul-2021",
@@ -15524,6 +15543,12 @@
         "expiration_date": "01-dec-2020",
         "state": "future"
     },
+    "elektro.waw.pl": {
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "elektro24h.pl": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
@@ -15622,10 +15647,10 @@
         "state": "future"
     },
     "elsolivers.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "eltarrodecafe.com": {
         "epoch": 1610928000.0,
@@ -16033,6 +16058,12 @@
     "entouchgraphics.com": {
         "epoch": 1624579200.0,
         "expiration_date": "25-jun-2021",
+        "state": "future"
+    },
+    "entrennar.com": {
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "entrenofutbol.com": {
@@ -16789,7 +16820,7 @@
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
         "server": "whois.registro.br",
-        "state": "future"
+        "state": "past"
     },
     "evrimo.com": {
         "epoch": 1653350400.0,
@@ -17556,6 +17587,12 @@
         "expiration_date": "28-sep-2020",
         "state": "future"
     },
+    "fashiontoride.com": {
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "fashporium.shop": {
         "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
@@ -17654,6 +17691,12 @@
     "fb-fb-messenger.info": {
         "epoch": 1628812800.0,
         "expiration_date": "13-aug-2021",
+        "state": "future"
+    },
+    "fb-fb-update.com": {
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fb-manager.net": {
@@ -18604,8 +18647,9 @@
         "state": "future"
     },
     "fitsekret.pl": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "fitsweets.pl": {
@@ -18956,8 +19000,9 @@
         "state": "future"
     },
     "forestarii.pl": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "forestcountymunnar.com": {
@@ -19914,7 +19959,8 @@
     "gangasecurity.in": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.registry.in",
+        "state": "past"
     },
     "gangkarpiarzy.pl": {
         "epoch": 1597449600.0,
@@ -20248,8 +20294,9 @@
         "state": "future"
     },
     "geekbook.pl": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "geekyhillbilly.com": {
