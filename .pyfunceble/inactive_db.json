@@ -3318,6 +3318,13 @@
             "last_retested_at_iso": "2020-08-31T17:50:09.587543",
             "status": "INACTIVE"
         },
+        "tematyczny.h2g.pl": {
+            "included_at_epoch": 1599414319.338064,
+            "included_at_iso": "2020-09-06T17:45:19.338064",
+            "last_retested_at_epoch": 1599414319.338064,
+            "last_retested_at_iso": "2020-09-06T17:45:19.338064",
+            "status": "INACTIVE"
+        },
         "test.iyibakkendine.com": {
             "included_at_epoch": 1598121064.90412,
             "included_at_iso": "2020-08-22T18:31:04.904120",
@@ -3451,6 +3458,20 @@
             "last_retested_at_iso": "2020-09-03T17:35:26.184530",
             "status": "INACTIVE"
         },
+        "typowanie-glosuj.eu": {
+            "included_at_epoch": 1599414323.137447,
+            "included_at_iso": "2020-09-06T17:45:23.137447",
+            "last_retested_at_epoch": 1599414323.137447,
+            "last_retested_at_iso": "2020-09-06T17:45:23.137447",
+            "status": "INACTIVE"
+        },
+        "typuj-wyniki.eu": {
+            "included_at_epoch": 1599414323.170758,
+            "included_at_iso": "2020-09-06T17:45:23.170758",
+            "last_retested_at_epoch": 1599414323.170758,
+            "last_retested_at_iso": "2020-09-06T17:45:23.170758",
+            "status": "INACTIVE"
+        },
         "uks-osemka.pl": {
             "included_at_epoch": 1598896214.628845,
             "included_at_iso": "2020-08-31T17:50:14.628845",
@@ -3484,6 +3505,13 @@
             "included_at_iso": "2020-08-31T17:50:15.134981",
             "last_retested_at_epoch": 1598896215.134981,
             "last_retested_at_iso": "2020-08-31T17:50:15.134981",
+            "status": "INACTIVE"
+        },
+        "uralushki.ru": {
+            "included_at_epoch": 1599414324.006468,
+            "included_at_iso": "2020-09-06T17:45:24.006468",
+            "last_retested_at_epoch": 1599414324.006468,
+            "last_retested_at_iso": "2020-09-06T17:45:24.006468",
             "status": "INACTIVE"
         },
         "uzytecznie.pl": {
@@ -3547,6 +3575,13 @@
             "included_at_iso": "2020-08-19T19:06:57.670838",
             "last_retested_at_epoch": 1598641968.682573,
             "last_retested_at_iso": "2020-08-28T19:12:48.682573",
+            "status": "INACTIVE"
+        },
+        "wakacje.allegro.news": {
+            "included_at_epoch": 1599414326.179781,
+            "included_at_iso": "2020-09-06T17:45:26.179781",
+            "last_retested_at_epoch": 1599414326.179781,
+            "last_retested_at_iso": "2020-09-06T17:45:26.179781",
             "status": "INACTIVE"
         },
         "wakacje.allegro.press": {
