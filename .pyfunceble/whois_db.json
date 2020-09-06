@@ -35856,10 +35856,10 @@
         "state": "future"
     },
     "nikanels.pl": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "nikeairadidaszx.pl": {
         "epoch": 1612656000.0,
@@ -36575,7 +36575,8 @@
     "nympropiedades.cl": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
-        "state": "future"
+        "server": "whois.nic.cl",
+        "state": "past"
     },
     "nypthealing.com": {
         "epoch": 1599609600.0,
@@ -36866,10 +36867,22 @@
         "expiration_date": "22-may-2021",
         "state": "future"
     },
+    "ogloszenie-elektronika.host": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.nic.host",
+        "state": "future"
+    },
     "ogloszenie-elektronika.online": {
         "epoch": 1630195200.0,
         "expiration_date": "29-aug-2021",
         "server": "whois.nic.online",
+        "state": "future"
+    },
+    "ogloszenie-elektronika.site": {
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "ogloszenie-elektronika.tech": {
@@ -38113,8 +38126,9 @@
         "state": "future"
     },
     "paco.co.th": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.thnic.co.th",
         "state": "future"
     },
     "pacom.it": {
@@ -38455,6 +38469,12 @@
     "paganwitch.com": {
         "epoch": 1618963200.0,
         "expiration_date": "21-apr-2021",
+        "state": "future"
+    },
+    "paidtrees.com": {
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "paifemouchoa.com": {
@@ -39245,6 +39265,12 @@
         "expiration_date": "15-apr-2023",
         "state": "future"
     },
+    "personalizzabili.com": {
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "perugourmetsour.cl": {
         "epoch": 1623283200.0,
         "expiration_date": "10-jun-2021",
@@ -39921,6 +39947,12 @@
         "expiration_date": "09-jun-2021",
         "state": "future"
     },
+    "platnoscionline.xyz": {
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "platnosconline.online": {
         "epoch": 1629849600.0,
         "expiration_date": "25-aug-2021",
@@ -40052,8 +40084,9 @@
         "state": "future"
     },
     "playweez.pl": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "plazowapolska.pl": {
@@ -40514,6 +40547,12 @@
         "expiration_date": "01-aug-2020",
         "state": "future"
     },
+    "pol-news24.pl": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "pol-pocztapolska.net": {
         "epoch": 1621555200.0,
         "expiration_date": "21-may-2021",
@@ -40907,8 +40946,9 @@
         "state": "future"
     },
     "pornmania.pl": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "porownajtv24.pl": {
@@ -40942,8 +40982,9 @@
         "state": "future"
     },
     "porumar.pl": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "porvitto.com": {
@@ -41458,6 +41499,12 @@
         "expiration_date": "09-jan-2021",
         "state": "future"
     },
+    "prestasicash.com.ar": {
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
+        "server": "whois.nic.ar",
+        "state": "future"
+    },
     "prestigefg.com": {
         "epoch": 1627344000.0,
         "expiration_date": "27-jul-2021",
@@ -41469,8 +41516,9 @@
         "state": "future"
     },
     "prevalue.pl": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "prezentacje-wiab.pl": {
@@ -42047,6 +42095,12 @@
     "przelewonline.site": {
         "epoch": 1630022400.0,
         "expiration_date": "27-aug-2021",
+        "state": "future"
+    },
+    "przelewonline.website": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.nic.website",
         "state": "future"
     },
     "przemekkanecki.pl": {
