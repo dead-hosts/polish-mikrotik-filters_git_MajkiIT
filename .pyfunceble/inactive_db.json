@@ -2807,11 +2807,39 @@
             "last_retested_at_iso": "2020-09-06T16:48:02.911900",
             "status": "INACTIVE"
         },
+        "maximizebrain.com": {
+            "included_at_epoch": 1599671097.279822,
+            "included_at_iso": "2020-09-09T17:04:57.279822",
+            "last_retested_at_epoch": 1599671097.279822,
+            "last_retested_at_iso": "2020-09-09T17:04:57.279822",
+            "status": "INACTIVE"
+        },
+        "mbtbuty.pl": {
+            "included_at_epoch": 1599671097.595807,
+            "included_at_iso": "2020-09-09T17:04:57.595807",
+            "last_retested_at_epoch": 1599671097.595807,
+            "last_retested_at_iso": "2020-09-09T17:04:57.595807",
+            "status": "INACTIVE"
+        },
+        "mcjnysfngwuc.com": {
+            "included_at_epoch": 1599671097.640971,
+            "included_at_iso": "2020-09-09T17:04:57.640971",
+            "last_retested_at_epoch": 1599671097.640971,
+            "last_retested_at_iso": "2020-09-09T17:04:57.640971",
+            "status": "INACTIVE"
+        },
         "mcl-nieruchomosci.pl": {
             "included_at_epoch": 1597336951.013586,
             "included_at_iso": "2020-08-13T16:42:31.013586",
             "last_retested_at_epoch": 1598397241.104388,
             "last_retested_at_iso": "2020-08-25T23:14:01.104388",
+            "status": "INACTIVE"
+        },
+        "mcxqrjeelhgg.com": {
+            "included_at_epoch": 1599671097.775089,
+            "included_at_iso": "2020-09-09T17:04:57.775089",
+            "last_retested_at_epoch": 1599671097.775089,
+            "last_retested_at_iso": "2020-09-09T17:04:57.775089",
             "status": "INACTIVE"
         },
         "mediartvagd.in.net": {
@@ -2933,6 +2961,13 @@
             "last_retested_at_iso": "2020-09-06T16:48:05.217918",
             "status": "INACTIVE"
         },
+        "motoholla.com": {
+            "included_at_epoch": 1599671100.279785,
+            "included_at_iso": "2020-09-09T17:05:00.279785",
+            "last_retested_at_epoch": 1599671100.279785,
+            "last_retested_at_iso": "2020-09-09T17:05:00.279785",
+            "status": "INACTIVE"
+        },
         "mpestudios.pt": {
             "included_at_epoch": 1598378732.984567,
             "included_at_iso": "2020-08-25T18:05:32.984567",
@@ -2952,6 +2987,13 @@
             "included_at_iso": "2020-08-28T17:34:19.541673",
             "last_retested_at_epoch": 1598636059.541673,
             "last_retested_at_iso": "2020-08-28T17:34:19.541673",
+            "status": "INACTIVE"
+        },
+        "mynvbbjypwyu.com": {
+            "included_at_epoch": 1599671101.434797,
+            "included_at_iso": "2020-09-09T17:05:01.434797",
+            "last_retested_at_epoch": 1599671101.434797,
+            "last_retested_at_iso": "2020-09-09T17:05:01.434797",
             "status": "INACTIVE"
         },
         "napthecao.top": {
@@ -2996,6 +3038,13 @@
             "last_retested_at_iso": "2020-08-31T16:48:37.883268",
             "status": "INACTIVE"
         },
+        "neomedia.in.net": {
+            "included_at_epoch": 1599671102.672574,
+            "included_at_iso": "2020-09-09T17:05:02.672574",
+            "last_retested_at_epoch": 1599671102.672574,
+            "last_retested_at_iso": "2020-09-09T17:05:02.672574",
+            "status": "INACTIVE"
+        },
         "neshoitry.ddns.net": {
             "included_at_epoch": 1598378748.495256,
             "included_at_iso": "2020-08-25T18:05:48.495256",
@@ -3015,6 +3064,20 @@
             "included_at_iso": "2020-09-03T16:41:40.915917",
             "last_retested_at_epoch": 1599151300.915917,
             "last_retested_at_iso": "2020-09-03T16:41:40.915917",
+            "status": "INACTIVE"
+        },
+        "netflix.pl.lightersidepodcast.com": {
+            "included_at_epoch": 1599671102.7579,
+            "included_at_iso": "2020-09-09T17:05:02.757900",
+            "last_retested_at_epoch": 1599671102.7579,
+            "last_retested_at_iso": "2020-09-09T17:05:02.757900",
+            "status": "INACTIVE"
+        },
+        "netflix.pl.murataydeniz.com.tr": {
+            "included_at_epoch": 1599671102.787322,
+            "included_at_iso": "2020-09-09T17:05:02.787322",
+            "last_retested_at_epoch": 1599671102.787322,
+            "last_retested_at_iso": "2020-09-09T17:05:02.787322",
             "status": "INACTIVE"
         },
         "netflix.pl.springday.com.tr": {
@@ -3073,6 +3136,13 @@
             "last_retested_at_iso": "2020-08-28T17:34:38.570955",
             "status": "INACTIVE"
         },
+        "nort.calag.at": {
+            "included_at_epoch": 1599671104.38331,
+            "included_at_iso": "2020-09-09T17:05:04.383310",
+            "last_retested_at_epoch": 1599671104.38331,
+            "last_retested_at_iso": "2020-09-09T17:05:04.383310",
+            "status": "INACTIVE"
+        },
         "novaworld-novaland.vn": {
             "included_at_epoch": 1597598209.595086,
             "included_at_iso": "2020-08-16T17:16:49.595086",
@@ -3101,6 +3171,27 @@
             "last_retested_at_iso": "2020-08-28T17:34:48.040986",
             "status": "INACTIVE"
         },
+        "oferta189515.xyz": {
+            "included_at_epoch": 1599671106.121869,
+            "included_at_iso": "2020-09-09T17:05:06.121869",
+            "last_retested_at_epoch": 1599671106.121869,
+            "last_retested_at_iso": "2020-09-09T17:05:06.121869",
+            "status": "INACTIVE"
+        },
+        "oferta651981.online": {
+            "included_at_epoch": 1599671106.145803,
+            "included_at_iso": "2020-09-09T17:05:06.145803",
+            "last_retested_at_epoch": 1599671106.145803,
+            "last_retested_at_iso": "2020-09-09T17:05:06.145803",
+            "status": "INACTIVE"
+        },
+        "offside2.000webhostapp.com": {
+            "included_at_epoch": 1599671106.402266,
+            "included_at_iso": "2020-09-09T17:05:06.402266",
+            "last_retested_at_epoch": 1599671106.402266,
+            "last_retested_at_iso": "2020-09-09T17:05:06.402266",
+            "status": "INACTIVE"
+        },
         "ogloszenie-nagrod.eu": {
             "included_at_epoch": 1597860447.111362,
             "included_at_iso": "2020-08-19T18:07:27.111362",
@@ -3113,6 +3204,13 @@
             "included_at_iso": "2020-09-03T17:00:36.348904",
             "last_retested_at_epoch": 1599152436.348904,
             "last_retested_at_iso": "2020-09-03T17:00:36.348904",
+            "status": "INACTIVE"
+        },
+        "ohmjjqnjyxod.com": {
+            "included_at_epoch": 1599671106.678717,
+            "included_at_iso": "2020-09-09T17:05:06.678717",
+            "last_retested_at_epoch": 1599671106.678717,
+            "last_retested_at_iso": "2020-09-09T17:05:06.678717",
             "status": "INACTIVE"
         },
         "olbart.pl": {
@@ -3150,6 +3248,13 @@
             "last_retested_at_iso": "2020-08-31T17:09:23.582936",
             "status": "INACTIVE"
         },
+        "op94xbm9gywuo2qnck6ydco9ex88f2tt.top": {
+            "included_at_epoch": 1599671107.584181,
+            "included_at_iso": "2020-09-09T17:05:07.584181",
+            "last_retested_at_epoch": 1599671107.584181,
+            "last_retested_at_iso": "2020-09-09T17:05:07.584181",
+            "status": "INACTIVE"
+        },
         "openclient.sroinfo.com": {
             "included_at_epoch": 1599152437.363568,
             "included_at_iso": "2020-09-03T17:00:37.363568",
@@ -3178,6 +3283,13 @@
             "last_retested_at_iso": "2020-09-06T17:10:52.237964",
             "status": "INACTIVE"
         },
+        "otodom.website": {
+            "included_at_epoch": 1599671108.422624,
+            "included_at_iso": "2020-09-09T17:05:08.422624",
+            "last_retested_at_epoch": 1599671108.422624,
+            "last_retested_at_iso": "2020-09-09T17:05:08.422624",
+            "status": "INACTIVE"
+        },
         "otomoto.k23mp1.eu": {
             "included_at_epoch": 1597860460.028548,
             "included_at_iso": "2020-08-19T18:07:40.028548",
@@ -3190,6 +3302,13 @@
             "included_at_iso": "2020-08-25T18:06:20.566292",
             "last_retested_at_epoch": 1598637131.645454,
             "last_retested_at_iso": "2020-08-28T17:52:11.645454",
+            "status": "INACTIVE"
+        },
+        "pactocaqueta.com.co": {
+            "included_at_epoch": 1599671108.759151,
+            "included_at_iso": "2020-09-09T17:05:08.759151",
+            "last_retested_at_epoch": 1599671108.759151,
+            "last_retested_at_iso": "2020-09-09T17:05:08.759151",
             "status": "INACTIVE"
         },
         "paginas.constructorajksalcedo.com": {
