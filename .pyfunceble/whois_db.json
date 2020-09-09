@@ -13327,8 +13327,9 @@
         "state": "future"
     },
     "doladujfona.net": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "doladujfona.org": {
@@ -13642,6 +13643,12 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "dotacioneselporvenir.com": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "dotawdh.com": {
         "epoch": 1623715200.0,
         "expiration_date": "15-jun-2021",
@@ -13925,6 +13932,12 @@
         "expiration_date": "26-mar-2024",
         "state": "future"
     },
+    "drinkangola.com": {
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "drinkgusto.sg": {
         "epoch": 1620950400.0,
         "expiration_date": "14-may-2021",
@@ -13933,6 +13946,12 @@
     "drinkiprzepisy.pl": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "drinksangola.com": {
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "drivemotorsport.ca": {
@@ -14048,7 +14067,8 @@
     "dstang.com": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "dstk-ssyal-pandemi.com": {
         "epoch": 1623456000.0,
@@ -14965,8 +14985,9 @@
         "state": "future"
     },
     "easypdfcombine.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1662595200.0,
+        "expiration_date": "08-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "easytogets.com": {
@@ -15694,8 +15715,9 @@
         "state": "future"
     },
     "elektro24h.pl": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "elektromax-serwis.pl": {
@@ -16062,6 +16084,12 @@
         "expiration_date": "09-dec-2020",
         "state": "future"
     },
+    "emyhope.com": {
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "enbutique.com": {
         "epoch": 1614470400.0,
         "expiration_date": "28-feb-2021",
@@ -16118,10 +16146,10 @@
         "state": "future"
     },
     "engeserv.com.br": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "server": "whois.registro.br",
-        "state": "past"
+        "state": "future"
     },
     "engetrate.com.br": {
         "epoch": 1629072000.0,
@@ -16301,6 +16329,12 @@
         "expiration_date": "30-jun-2020",
         "state": "future"
     },
+    "epicsinvestment.com": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "epicurius.com.br": {
         "epoch": 1622246400.0,
         "expiration_date": "29-may-2021",
@@ -16324,6 +16358,12 @@
     "eplotery.pl": {
         "epoch": 1612310400.0,
         "expiration_date": "03-feb-2021",
+        "state": "future"
+    },
+    "epoczta-interia.com": {
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "epoczta-polska.com": {
@@ -16595,8 +16635,9 @@
         "state": "future"
     },
     "eshoes.com.pl": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "eskk.pl": {
@@ -16971,6 +17012,12 @@
         "expiration_date": "24-may-2022",
         "state": "future"
     },
+    "evutt.ee": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "server": "whois.tld.ee",
+        "state": "future"
+    },
     "ewaiguo.com": {
         "epoch": 1623196800.0,
         "expiration_date": "09-jun-2021",
@@ -17036,6 +17083,18 @@
     "excelz.com": {
         "epoch": 1694304000.0,
         "expiration_date": "10-sep-2023",
+        "state": "future"
+    },
+    "excentral-int.com": {
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "excentral.com": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "exceptionalnews.com": {
@@ -17575,6 +17634,12 @@
         "expiration_date": "27-apr-2021",
         "state": "future"
     },
+    "falconsytms.com": {
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "faldo.pl": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
@@ -17863,6 +17928,12 @@
         "expiration_date": "18-aug-2021",
         "state": "future"
     },
+    "fb-smieszne.pl": {
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "fb-stalking.com": {
         "epoch": 1621296000.0,
         "expiration_date": "18-may-2021",
@@ -17903,6 +17974,12 @@
         "expiration_date": "25-nov-2020",
         "state": "future"
     },
+    "fbweryfikacja.pl": {
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "fcamylleibrahim.top": {
         "epoch": 1626220800.0,
         "expiration_date": "14-jul-2021",
@@ -17915,8 +17992,9 @@
         "state": "future"
     },
     "fcnord17.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fdf24.pl": {
@@ -18398,6 +18476,12 @@
         "epoch": 1623974400.0,
         "expiration_date": "18-jun-2021",
         "server": "whois.nic.online",
+        "state": "future"
+    },
+    "filmownia24.pl": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "filmowo-24.com": {
@@ -18967,6 +19051,12 @@
         "expiration_date": "19-dec-2020",
         "state": "future"
     },
+    "flufanceineo.com": {
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "flyarnoldaviation.com": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
@@ -18977,9 +19067,27 @@
         "expiration_date": "08-oct-2020",
         "state": "future"
     },
+    "flyingintheclouds1.live": {
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "server": "whois.nic.live",
+        "state": "future"
+    },
+    "flyingintheclouds15.live": {
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "server": "whois.nic.live",
+        "state": "future"
+    },
     "flyingintheclouds19.live": {
         "epoch": 1620777600.0,
         "expiration_date": "12-may-2021",
+        "state": "future"
+    },
+    "flyingintheclouds7.live": {
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "server": "whois.nic.live",
         "state": "future"
     },
     "flypig.group": {
@@ -19666,8 +19774,9 @@
         "state": "future"
     },
     "fuddict.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fugitdeacasa.ro": {
@@ -20427,6 +20536,12 @@
         "expiration_date": "08-jun-2021",
         "state": "future"
     },
+    "gecan.ca": {
+        "epoch": 1701648000.0,
+        "expiration_date": "04-dec-2023",
+        "server": "whois.cira.ca",
+        "state": "future"
+    },
     "gedeonhause.com": {
         "epoch": 1628467200.0,
         "expiration_date": "09-aug-2021",
@@ -20517,6 +20632,42 @@
     "generuj-kod.me": {
         "epoch": 1627948800.0,
         "expiration_date": "03-aug-2021",
+        "state": "future"
+    },
+    "generuj-kody.net": {
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "generujkody.app": {
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.nic.google",
+        "state": "future"
+    },
+    "generujkody.cc": {
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "ccwhois.verisign-grs.com",
+        "state": "future"
+    },
+    "generujkody.com": {
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "generujkody.me": {
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.nic.me",
+        "state": "future"
+    },
+    "generujkody.net": {
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "genesif.com": {

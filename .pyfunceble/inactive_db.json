@@ -1015,11 +1015,39 @@
             "last_retested_at_iso": "2020-09-03T15:40:54.010502",
             "status": "INACTIVE"
         },
+        "dotpay.e-pocztex.pl": {
+            "included_at_epoch": 1599667506.588464,
+            "included_at_iso": "2020-09-09T16:05:06.588464",
+            "last_retested_at_epoch": 1599667506.588464,
+            "last_retested_at_iso": "2020-09-09T16:05:06.588464",
+            "status": "INACTIVE"
+        },
         "dotpay.etracking-ppocztapolska.com": {
             "included_at_epoch": 1599147654.18989,
             "included_at_iso": "2020-09-03T15:40:54.189890",
             "last_retested_at_epoch": 1599147654.18989,
             "last_retested_at_iso": "2020-09-03T15:40:54.189890",
+            "status": "INACTIVE"
+        },
+        "dotpay.i-pocztapolska.pl": {
+            "included_at_epoch": 1599667506.632529,
+            "included_at_iso": "2020-09-09T16:05:06.632529",
+            "last_retested_at_epoch": 1599667506.632529,
+            "last_retested_at_iso": "2020-09-09T16:05:06.632529",
+            "status": "INACTIVE"
+        },
+        "dotpay.ipoczta-polska.net": {
+            "included_at_epoch": 1599667506.612176,
+            "included_at_iso": "2020-09-09T16:05:06.612176",
+            "last_retested_at_epoch": 1599667506.612176,
+            "last_retested_at_iso": "2020-09-09T16:05:06.612176",
+            "status": "INACTIVE"
+        },
+        "dotpay.pocztex-polska.eu": {
+            "included_at_epoch": 1599667506.655996,
+            "included_at_iso": "2020-09-09T16:05:06.655996",
+            "last_retested_at_epoch": 1599667506.655996,
+            "last_retested_at_iso": "2020-09-09T16:05:06.655996",
             "status": "INACTIVE"
         },
         "dotpay.up-poczta-polska.net": {
@@ -1155,6 +1183,13 @@
             "last_retested_at_iso": "2020-08-31T16:12:42.658185",
             "status": "INACTIVE"
         },
+        "ekspresovo-pl.fun": {
+            "included_at_epoch": 1599667508.007183,
+            "included_at_iso": "2020-09-09T16:05:08.007183",
+            "last_retested_at_epoch": 1599667508.007183,
+            "last_retested_at_iso": "2020-09-09T16:05:08.007183",
+            "status": "INACTIVE"
+        },
         "elektronicze-poszukiwania.eu": {
             "included_at_epoch": 1599408812.891331,
             "included_at_iso": "2020-09-06T16:13:32.891331",
@@ -1167,6 +1202,13 @@
             "included_at_iso": "2020-09-03T16:06:37.360497",
             "last_retested_at_epoch": 1599149197.360497,
             "last_retested_at_iso": "2020-09-03T16:06:37.360497",
+            "status": "INACTIVE"
+        },
+        "emonitoring-poczta-polska.eu": {
+            "included_at_epoch": 1599667508.303717,
+            "included_at_iso": "2020-09-09T16:05:08.303717",
+            "last_retested_at_epoch": 1599667508.303717,
+            "last_retested_at_iso": "2020-09-09T16:05:08.303717",
             "status": "INACTIVE"
         },
         "emonitoring.poczta-polska2.pl": {
@@ -1428,6 +1470,34 @@
             "last_retested_at_iso": "2020-08-25T23:14:00.479139",
             "status": "INACTIVE"
         },
+        "garenanow.myvnc.com:81": {
+            "included_at_epoch": 1599667513.116854,
+            "included_at_iso": "2020-09-09T16:05:13.116854",
+            "last_retested_at_epoch": 1599667513.116854,
+            "last_retested_at_iso": "2020-09-09T16:05:13.116854",
+            "status": "INVALID"
+        },
+        "garenanow4.myvnc.com:81": {
+            "included_at_epoch": 1599667513.092487,
+            "included_at_iso": "2020-09-09T16:05:13.092487",
+            "last_retested_at_epoch": 1599667513.092487,
+            "last_retested_at_iso": "2020-09-09T16:05:13.092487",
+            "status": "INVALID"
+        },
+        "gazetagminna.cal24.pl": {
+            "included_at_epoch": 1599667513.244504,
+            "included_at_iso": "2020-09-09T16:05:13.244504",
+            "last_retested_at_epoch": 1599667513.244504,
+            "last_retested_at_iso": "2020-09-09T16:05:13.244504",
+            "status": "INACTIVE"
+        },
+        "gazetapowiatowa.cal24.pl": {
+            "included_at_epoch": 1599667513.301462,
+            "included_at_iso": "2020-09-09T16:05:13.301462",
+            "last_retested_at_epoch": 1599667513.301462,
+            "last_retested_at_iso": "2020-09-09T16:05:13.301462",
+            "status": "INACTIVE"
+        },
         "gazetasasiedzka.eu": {
             "included_at_epoch": 1598113695.644025,
             "included_at_iso": "2020-08-22T16:28:15.644025",
@@ -1447,6 +1517,13 @@
             "included_at_iso": "2020-08-28T16:40:16.265609",
             "last_retested_at_epoch": 1598632816.265609,
             "last_retested_at_iso": "2020-08-28T16:40:16.265609",
+            "status": "INACTIVE"
+        },
+        "gerotel.com": {
+            "included_at_epoch": 1599667514.151912,
+            "included_at_iso": "2020-09-09T16:05:14.151912",
+            "last_retested_at_epoch": 1599667514.151912,
+            "last_retested_at_iso": "2020-09-09T16:05:14.151912",
             "status": "INACTIVE"
         },
         "gim9sc.pl": {
