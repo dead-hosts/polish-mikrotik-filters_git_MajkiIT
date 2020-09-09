@@ -7483,6 +7483,13 @@
             "last_retested_at_iso": "2020-08-28T20:20:08.022298",
             "status": "INACTIVE"
         },
+        "www.go.0o.click": {
+            "included_at_epoch": 1599677356.583388,
+            "included_at_iso": "2020-09-09T18:49:16.583388",
+            "last_retested_at_epoch": 1599677356.583388,
+            "last_retested_at_iso": "2020-09-09T18:49:16.583388",
+            "status": "INACTIVE"
+        },
         "www.goaribhs.edu.bd": {
             "included_at_epoch": 1599417658.510308,
             "included_at_iso": "2020-09-06T18:40:58.510308",
@@ -7495,6 +7502,111 @@
             "included_at_iso": "2020-08-25T20:36:25.582417",
             "last_retested_at_epoch": 1598646008.160912,
             "last_retested_at_iso": "2020-08-28T20:20:08.160912",
+            "status": "INACTIVE"
+        },
+        "www.goedekans1.live": {
+            "included_at_epoch": 1599677356.851337,
+            "included_at_iso": "2020-09-09T18:49:16.851337",
+            "last_retested_at_epoch": 1599677356.851337,
+            "last_retested_at_iso": "2020-09-09T18:49:16.851337",
+            "status": "INACTIVE"
+        },
+        "www.goedekans10.live": {
+            "included_at_epoch": 1599677356.645023,
+            "included_at_iso": "2020-09-09T18:49:16.645023",
+            "last_retested_at_epoch": 1599677356.645023,
+            "last_retested_at_iso": "2020-09-09T18:49:16.645023",
+            "status": "INACTIVE"
+        },
+        "www.goedekans11.live": {
+            "included_at_epoch": 1599677356.67438,
+            "included_at_iso": "2020-09-09T18:49:16.674380",
+            "last_retested_at_epoch": 1599677356.67438,
+            "last_retested_at_iso": "2020-09-09T18:49:16.674380",
+            "status": "INACTIVE"
+        },
+        "www.goedekans12.live": {
+            "included_at_epoch": 1599677356.733681,
+            "included_at_iso": "2020-09-09T18:49:16.733681",
+            "last_retested_at_epoch": 1599677356.733681,
+            "last_retested_at_iso": "2020-09-09T18:49:16.733681",
+            "status": "INACTIVE"
+        },
+        "www.goedekans13.live": {
+            "included_at_epoch": 1599677356.704106,
+            "included_at_iso": "2020-09-09T18:49:16.704106",
+            "last_retested_at_epoch": 1599677356.704106,
+            "last_retested_at_iso": "2020-09-09T18:49:16.704106",
+            "status": "INACTIVE"
+        },
+        "www.goedekans14.live": {
+            "included_at_epoch": 1599677356.79261,
+            "included_at_iso": "2020-09-09T18:49:16.792610",
+            "last_retested_at_epoch": 1599677356.79261,
+            "last_retested_at_iso": "2020-09-09T18:49:16.792610",
+            "status": "INACTIVE"
+        },
+        "www.goedekans15.live": {
+            "included_at_epoch": 1599677356.763354,
+            "included_at_iso": "2020-09-09T18:49:16.763354",
+            "last_retested_at_epoch": 1599677356.763354,
+            "last_retested_at_iso": "2020-09-09T18:49:16.763354",
+            "status": "INACTIVE"
+        },
+        "www.goedekans2.live": {
+            "included_at_epoch": 1599677356.822076,
+            "included_at_iso": "2020-09-09T18:49:16.822076",
+            "last_retested_at_epoch": 1599677356.822076,
+            "last_retested_at_iso": "2020-09-09T18:49:16.822076",
+            "status": "INACTIVE"
+        },
+        "www.goedekans3.live": {
+            "included_at_epoch": 1599677356.910124,
+            "included_at_iso": "2020-09-09T18:49:16.910124",
+            "last_retested_at_epoch": 1599677356.910124,
+            "last_retested_at_iso": "2020-09-09T18:49:16.910124",
+            "status": "INACTIVE"
+        },
+        "www.goedekans4.live": {
+            "included_at_epoch": 1599677356.880837,
+            "included_at_iso": "2020-09-09T18:49:16.880837",
+            "last_retested_at_epoch": 1599677356.880837,
+            "last_retested_at_iso": "2020-09-09T18:49:16.880837",
+            "status": "INACTIVE"
+        },
+        "www.goedekans5.live": {
+            "included_at_epoch": 1599677356.93949,
+            "included_at_iso": "2020-09-09T18:49:16.939490",
+            "last_retested_at_epoch": 1599677356.93949,
+            "last_retested_at_iso": "2020-09-09T18:49:16.939490",
+            "status": "INACTIVE"
+        },
+        "www.goedekans7.live": {
+            "included_at_epoch": 1599677356.968967,
+            "included_at_iso": "2020-09-09T18:49:16.968967",
+            "last_retested_at_epoch": 1599677356.968967,
+            "last_retested_at_iso": "2020-09-09T18:49:16.968967",
+            "status": "INACTIVE"
+        },
+        "www.goedekans8.live": {
+            "included_at_epoch": 1599677357.027687,
+            "included_at_iso": "2020-09-09T18:49:17.027687",
+            "last_retested_at_epoch": 1599677357.027687,
+            "last_retested_at_iso": "2020-09-09T18:49:17.027687",
+            "status": "INACTIVE"
+        },
+        "www.goedekans9.live": {
+            "included_at_epoch": 1599677356.998313,
+            "included_at_iso": "2020-09-09T18:49:16.998313",
+            "last_retested_at_epoch": 1599677356.998313,
+            "last_retested_at_iso": "2020-09-09T18:49:16.998313",
+            "status": "INACTIVE"
+        },
+        "www.golfsport.com.pl": {
+            "included_at_epoch": 1599677357.088128,
+            "included_at_iso": "2020-09-09T18:49:17.088128",
+            "last_retested_at_epoch": 1599677357.088128,
+            "last_retested_at_iso": "2020-09-09T18:49:17.088128",
             "status": "INACTIVE"
         },
         "www.gothic4u.pl": {
@@ -7537,6 +7649,48 @@
             "included_at_iso": "2020-08-22T19:52:30.680025",
             "last_retested_at_epoch": 1598646008.561277,
             "last_retested_at_iso": "2020-08-28T20:20:08.561277",
+            "status": "INACTIVE"
+        },
+        "www.greenelephants10.live": {
+            "included_at_epoch": 1599677357.465862,
+            "included_at_iso": "2020-09-09T18:49:17.465862",
+            "last_retested_at_epoch": 1599677357.465862,
+            "last_retested_at_iso": "2020-09-09T18:49:17.465862",
+            "status": "INACTIVE"
+        },
+        "www.greenelephants11.live": {
+            "included_at_epoch": 1599677357.495001,
+            "included_at_iso": "2020-09-09T18:49:17.495001",
+            "last_retested_at_epoch": 1599677357.495001,
+            "last_retested_at_iso": "2020-09-09T18:49:17.495001",
+            "status": "INACTIVE"
+        },
+        "www.greenelephants12.live": {
+            "included_at_epoch": 1599677357.552993,
+            "included_at_iso": "2020-09-09T18:49:17.552993",
+            "last_retested_at_epoch": 1599677357.552993,
+            "last_retested_at_iso": "2020-09-09T18:49:17.552993",
+            "status": "INACTIVE"
+        },
+        "www.greenelephants13.live": {
+            "included_at_epoch": 1599677357.524009,
+            "included_at_iso": "2020-09-09T18:49:17.524009",
+            "last_retested_at_epoch": 1599677357.524009,
+            "last_retested_at_iso": "2020-09-09T18:49:17.524009",
+            "status": "INACTIVE"
+        },
+        "www.greenelephants14.live": {
+            "included_at_epoch": 1599677357.582986,
+            "included_at_iso": "2020-09-09T18:49:17.582986",
+            "last_retested_at_epoch": 1599677357.582986,
+            "last_retested_at_iso": "2020-09-09T18:49:17.582986",
+            "status": "INACTIVE"
+        },
+        "www.greenelephants15.live": {
+            "included_at_epoch": 1599677357.612563,
+            "included_at_iso": "2020-09-09T18:49:17.612563",
+            "last_retested_at_epoch": 1599677357.612563,
+            "last_retested_at_iso": "2020-09-09T18:49:17.612563",
             "status": "INACTIVE"
         },
         "www.greenlabik.pl": {
@@ -7588,11 +7742,88 @@
             "last_retested_at_iso": "2020-08-28T20:39:43.342832",
             "status": "INACTIVE"
         },
+        "www.hd.videos.co.pl": {
+            "included_at_epoch": 1599677358.271705,
+            "included_at_iso": "2020-09-09T18:49:18.271705",
+            "last_retested_at_epoch": 1599677358.271705,
+            "last_retested_at_iso": "2020-09-09T18:49:18.271705",
+            "status": "INACTIVE"
+        },
+        "www.headregret1.live": {
+            "included_at_epoch": 1599677358.241942,
+            "included_at_iso": "2020-09-09T18:49:18.241942",
+            "last_retested_at_epoch": 1599677358.241942,
+            "last_retested_at_iso": "2020-09-09T18:49:18.241942",
+            "status": "INACTIVE"
+        },
+        "www.headregret2.live": {
+            "included_at_epoch": 1599677358.333165,
+            "included_at_iso": "2020-09-09T18:49:18.333165",
+            "last_retested_at_epoch": 1599677358.333165,
+            "last_retested_at_iso": "2020-09-09T18:49:18.333165",
+            "status": "INACTIVE"
+        },
+        "www.headregret3.live": {
+            "included_at_epoch": 1599677358.302608,
+            "included_at_iso": "2020-09-09T18:49:18.302608",
+            "last_retested_at_epoch": 1599677358.302608,
+            "last_retested_at_iso": "2020-09-09T18:49:18.302608",
+            "status": "INACTIVE"
+        },
+        "www.headregret4.live": {
+            "included_at_epoch": 1599677358.398833,
+            "included_at_iso": "2020-09-09T18:49:18.398833",
+            "last_retested_at_epoch": 1599677358.398833,
+            "last_retested_at_iso": "2020-09-09T18:49:18.398833",
+            "status": "INACTIVE"
+        },
+        "www.headregret5.live": {
+            "included_at_epoch": 1599677358.369375,
+            "included_at_iso": "2020-09-09T18:49:18.369375",
+            "last_retested_at_epoch": 1599677358.369375,
+            "last_retested_at_iso": "2020-09-09T18:49:18.369375",
+            "status": "INACTIVE"
+        },
+        "www.headregret6.live": {
+            "included_at_epoch": 1599677358.428348,
+            "included_at_iso": "2020-09-09T18:49:18.428348",
+            "last_retested_at_epoch": 1599677358.428348,
+            "last_retested_at_iso": "2020-09-09T18:49:18.428348",
+            "status": "INACTIVE"
+        },
+        "www.headregret7.live": {
+            "included_at_epoch": 1599677358.45792,
+            "included_at_iso": "2020-09-09T18:49:18.457920",
+            "last_retested_at_epoch": 1599677358.45792,
+            "last_retested_at_iso": "2020-09-09T18:49:18.457920",
+            "status": "INACTIVE"
+        },
+        "www.headregret8.live": {
+            "included_at_epoch": 1599677358.517115,
+            "included_at_iso": "2020-09-09T18:49:18.517115",
+            "last_retested_at_epoch": 1599677358.517115,
+            "last_retested_at_iso": "2020-09-09T18:49:18.517115",
+            "status": "INACTIVE"
+        },
+        "www.headregret9.live": {
+            "included_at_epoch": 1599677358.487528,
+            "included_at_iso": "2020-09-09T18:49:18.487528",
+            "last_retested_at_epoch": 1599677358.487528,
+            "last_retested_at_iso": "2020-09-09T18:49:18.487528",
+            "status": "INACTIVE"
+        },
         "www.heredatetime.com": {
             "included_at_epoch": 1598647183.82714,
             "included_at_iso": "2020-08-28T20:39:43.827140",
             "last_retested_at_epoch": 1598647183.82714,
             "last_retested_at_iso": "2020-08-28T20:39:43.827140",
+            "status": "INACTIVE"
+        },
+        "www.holyurbanhotel.com": {
+            "included_at_epoch": 1599677358.83626,
+            "included_at_iso": "2020-09-09T18:49:18.836260",
+            "last_retested_at_epoch": 1599677358.83626,
+            "last_retested_at_iso": "2020-09-09T18:49:18.836260",
             "status": "INACTIVE"
         },
         "www.homemedia.in.net": {
@@ -7614,6 +7845,13 @@
             "included_at_iso": "2020-09-03T18:27:26.351557",
             "last_retested_at_epoch": 1599157646.351557,
             "last_retested_at_iso": "2020-09-03T18:27:26.351557",
+            "status": "INACTIVE"
+        },
+        "www.hpaudiobooksfree.com": {
+            "included_at_epoch": 1599677359.114149,
+            "included_at_iso": "2020-09-09T18:49:19.114149",
+            "last_retested_at_epoch": 1599677359.114149,
+            "last_retested_at_iso": "2020-09-09T18:49:19.114149",
             "status": "INACTIVE"
         },
         "www.hrhererhtng.001www.com": {
@@ -7644,11 +7882,25 @@
             "last_retested_at_iso": "2020-09-03T18:27:26.544756",
             "status": "INACTIVE"
         },
+        "www.i-dworzecporwaniepl.pl": {
+            "included_at_epoch": 1599677359.489305,
+            "included_at_iso": "2020-09-09T18:49:19.489305",
+            "last_retested_at_epoch": 1599677359.489305,
+            "last_retested_at_iso": "2020-09-09T18:49:19.489305",
+            "status": "INACTIVE"
+        },
         "www.i-faktynews24.eu": {
             "included_at_epoch": 1597349441.877241,
             "included_at_iso": "2020-08-13T20:10:41.877241",
             "last_retested_at_epoch": 1598647184.777816,
             "last_retested_at_iso": "2020-08-28T20:39:44.777816",
+            "status": "INACTIVE"
+        },
+        "www.i-informacje24.eu": {
+            "included_at_epoch": 1599677359.608538,
+            "included_at_iso": "2020-09-09T18:49:19.608538",
+            "last_retested_at_epoch": 1599677359.608538,
+            "last_retested_at_iso": "2020-09-09T18:49:19.608538",
             "status": "INACTIVE"
         },
         "www.i-onetfakty24.site": {
@@ -7705,6 +7957,13 @@
             "included_at_iso": "2020-09-06T18:41:00.948050",
             "last_retested_at_epoch": 1599417660.94805,
             "last_retested_at_iso": "2020-09-06T18:41:00.948050",
+            "status": "INACTIVE"
+        },
+        "www.info24-warszawa.pl": {
+            "included_at_epoch": 1599677359.867363,
+            "included_at_iso": "2020-09-09T18:49:19.867363",
+            "last_retested_at_epoch": 1599677359.867363,
+            "last_retested_at_iso": "2020-09-09T18:49:19.867363",
             "status": "INACTIVE"
         },
         "www.infodostarcz.net": {
@@ -7917,6 +8176,20 @@
             "last_retested_at_iso": "2020-08-28T20:39:46.411146",
             "status": "INACTIVE"
         },
+        "www.inpost.pl.novaintermed.ro": {
+            "included_at_epoch": 1599677360.380748,
+            "included_at_iso": "2020-09-09T18:49:20.380748",
+            "last_retested_at_epoch": 1599677360.380748,
+            "last_retested_at_iso": "2020-09-09T18:49:20.380748",
+            "status": "INACTIVE"
+        },
+        "www.inpost24-paczka.com": {
+            "included_at_epoch": 1599677360.280336,
+            "included_at_iso": "2020-09-09T18:49:20.280336",
+            "last_retested_at_epoch": 1599677360.280336,
+            "last_retested_at_iso": "2020-09-09T18:49:20.280336",
+            "status": "INACTIVE"
+        },
         "www.inpost24.me": {
             "included_at_epoch": 1598128501.663091,
             "included_at_iso": "2020-08-22T20:35:01.663091",
@@ -7929,6 +8202,13 @@
             "included_at_iso": "2020-08-22T20:35:01.717020",
             "last_retested_at_epoch": 1598647185.828723,
             "last_retested_at_iso": "2020-08-28T20:39:45.828723",
+            "status": "INACTIVE"
+        },
+        "www.inpostapp.net": {
+            "included_at_epoch": 1599677360.330815,
+            "included_at_iso": "2020-09-09T18:49:20.330815",
+            "last_retested_at_epoch": 1599677360.330815,
+            "last_retested_at_iso": "2020-09-09T18:49:20.330815",
             "status": "INACTIVE"
         },
         "www.inpostkode-pl.com": {
@@ -7973,11 +8253,39 @@
             "last_retested_at_iso": "2020-08-28T20:39:46.535006",
             "status": "INACTIVE"
         },
+        "www.instragramweb.com": {
+            "included_at_epoch": 1599677360.473124,
+            "included_at_iso": "2020-09-09T18:49:20.473124",
+            "last_retested_at_epoch": 1599677360.473124,
+            "last_retested_at_iso": "2020-09-09T18:49:20.473124",
+            "status": "INACTIVE"
+        },
         "www.interia-poczta.email": {
             "included_at_epoch": 1599157647.681875,
             "included_at_iso": "2020-09-03T18:27:27.681875",
             "last_retested_at_epoch": 1599157647.681875,
             "last_retested_at_iso": "2020-09-03T18:27:27.681875",
+            "status": "INACTIVE"
+        },
+        "www.iporwaniapolska24.pl": {
+            "included_at_epoch": 1599677360.767145,
+            "included_at_iso": "2020-09-09T18:49:20.767145",
+            "last_retested_at_epoch": 1599677360.767145,
+            "last_retested_at_iso": "2020-09-09T18:49:20.767145",
+            "status": "INACTIVE"
+        },
+        "www.iporwaniedziecka24.pl": {
+            "included_at_epoch": 1599677360.796743,
+            "included_at_iso": "2020-09-09T18:49:20.796743",
+            "last_retested_at_epoch": 1599677360.796743,
+            "last_retested_at_iso": "2020-09-09T18:49:20.796743",
+            "status": "INACTIVE"
+        },
+        "www.iporwaniedziecka24.waw.pl": {
+            "included_at_epoch": 1599677360.837056,
+            "included_at_iso": "2020-09-09T18:49:20.837056",
+            "last_retested_at_epoch": 1599677360.837056,
+            "last_retested_at_iso": "2020-09-09T18:49:20.837056",
             "status": "INACTIVE"
         },
         "www.isalska.pl": {
@@ -8013,6 +8321,13 @@
             "included_at_iso": "2020-08-16T20:06:06.999196",
             "last_retested_at_epoch": 1598647187.70505,
             "last_retested_at_iso": "2020-08-28T20:39:47.705050",
+            "status": "INACTIVE"
+        },
+        "www.jookerclik.site": {
+            "included_at_epoch": 1599677361.615299,
+            "included_at_iso": "2020-09-09T18:49:21.615299",
+            "last_retested_at_epoch": 1599677361.615299,
+            "last_retested_at_iso": "2020-09-09T18:49:21.615299",
             "status": "INACTIVE"
         },
         "www.jsdevelopmentq1.live": {
@@ -8113,6 +8428,13 @@
             "last_retested_at_iso": "2020-09-06T18:41:02.189683",
             "status": "INACTIVE"
         },
+        "www.justdoit-polska.com": {
+            "included_at_epoch": 1599677361.795013,
+            "included_at_iso": "2020-09-09T18:49:21.795013",
+            "last_retested_at_epoch": 1599677361.795013,
+            "last_retested_at_iso": "2020-09-09T18:49:21.795013",
+            "status": "INACTIVE"
+        },
         "www.kajtoognia.pl": {
             "included_at_epoch": 1597869661.530632,
             "included_at_iso": "2020-08-19T20:41:01.530632",
@@ -8148,11 +8470,25 @@
             "last_retested_at_iso": "2020-09-06T18:41:02.641956",
             "status": "INACTIVE"
         },
+        "www.kelesoglugroup.com": {
+            "included_at_epoch": 1599677362.417836,
+            "included_at_iso": "2020-09-09T18:49:22.417836",
+            "last_retested_at_epoch": 1599677362.417836,
+            "last_retested_at_iso": "2020-09-09T18:49:22.417836",
+            "status": "INACTIVE"
+        },
         "www.kinotek.pl": {
             "included_at_epoch": 1598899516.954139,
             "included_at_iso": "2020-08-31T18:45:16.954139",
             "last_retested_at_epoch": 1598899516.954139,
             "last_retested_at_iso": "2020-08-31T18:45:16.954139",
+            "status": "INACTIVE"
+        },
+        "www.kitcarforum.pl": {
+            "included_at_epoch": 1599677362.675757,
+            "included_at_iso": "2020-09-09T18:49:22.675757",
+            "last_retested_at_epoch": 1599677362.675757,
+            "last_retested_at_iso": "2020-09-09T18:49:22.675757",
             "status": "INACTIVE"
         },
         "www.kmelektryk.pl": {
@@ -8251,6 +8587,13 @@
             "included_at_iso": "2020-08-28T20:57:09.946587",
             "last_retested_at_epoch": 1598648229.946587,
             "last_retested_at_iso": "2020-08-28T20:57:09.946587",
+            "status": "INACTIVE"
+        },
+        "www.kurier24-oplata.com": {
+            "included_at_epoch": 1599677363.70494,
+            "included_at_iso": "2020-09-09T18:49:23.704940",
+            "last_retested_at_epoch": 1599677363.70494,
+            "last_retested_at_iso": "2020-09-09T18:49:23.704940",
             "status": "INACTIVE"
         },
         "www.kurierowo.fun": {
