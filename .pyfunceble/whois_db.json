@@ -60597,8 +60597,9 @@
         "state": "future"
     },
     "zespolcwiklice.pl": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zespolformat.com.pl": {
@@ -60614,6 +60615,12 @@
     "zestawnaprawczy-do-wgniecen.com": {
         "epoch": 1629936000.0,
         "expiration_date": "26-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "zevert55.com": {
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },

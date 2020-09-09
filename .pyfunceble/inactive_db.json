@@ -12831,6 +12831,13 @@
             "last_retested_at_iso": "2020-08-25T23:12:22.499153",
             "status": "INACTIVE"
         },
+        "zn90h4.bid": {
+            "included_at_epoch": 1599681771.907301,
+            "included_at_iso": "2020-09-09T20:02:51.907301",
+            "last_retested_at_epoch": 1599681771.907301,
+            "last_retested_at_iso": "2020-09-09T20:02:51.907301",
+            "status": "INACTIVE"
+        },
         "zpotrzebyserc.pl": {
             "included_at_epoch": 1597877028.53585,
             "included_at_iso": "2020-08-19T22:43:48.535850",
