@@ -14,6 +14,13 @@
             "last_retested_at_iso": "2020-09-09T15:30:25.421377",
             "status": "INVALID"
         },
+        ".dgecolesdepolice.bf": {
+            "included_at_epoch": 1599666465.106645,
+            "included_at_iso": "2020-09-09T15:47:45.106645",
+            "last_retested_at_epoch": 1599666465.106645,
+            "last_retested_at_iso": "2020-09-09T15:47:45.106645",
+            "status": "INVALID"
+        },
         "01.losbuhosweb.com.mx": {
             "included_at_epoch": 1597331788.497703,
             "included_at_iso": "2020-08-13T15:16:28.497703",
@@ -805,6 +812,13 @@
             "last_retested_at_iso": "2020-08-28T15:51:30.673356",
             "status": "INACTIVE"
         },
+        "cda-film.pl": {
+            "included_at_epoch": 1599666462.442721,
+            "included_at_iso": "2020-09-09T15:47:42.442721",
+            "last_retested_at_epoch": 1599666462.442721,
+            "last_retested_at_iso": "2020-09-09T15:47:42.442721",
+            "status": "INACTIVE"
+        },
         "cdn.truelife.vn": {
             "included_at_epoch": 1598629892.251982,
             "included_at_iso": "2020-08-28T15:51:32.251982",
@@ -832,6 +846,27 @@
             "last_retested_at_epoch": 1598397239.446729,
             "last_retested_at_iso": "2020-08-25T23:13:59.446729",
             "status": "INACTIVE"
+        },
+        "chinese2stdyonlyywalkaloneinlifev25fuq.duckdns.org": {
+            "included_at_epoch": 1599666462.698439,
+            "included_at_iso": "2020-09-09T15:47:42.698439",
+            "last_retested_at_epoch": 1599666462.698439,
+            "last_retested_at_iso": "2020-09-09T15:47:42.698439",
+            "status": "INACTIVE"
+        },
+        "chinhdropfile.myvnc.com:81": {
+            "included_at_epoch": 1599666462.74251,
+            "included_at_iso": "2020-09-09T15:47:42.742510",
+            "last_retested_at_epoch": 1599666462.74251,
+            "last_retested_at_iso": "2020-09-09T15:47:42.742510",
+            "status": "INVALID"
+        },
+        "chinhdropfile80.myvnc.com:81": {
+            "included_at_epoch": 1599666462.71885,
+            "included_at_iso": "2020-09-09T15:47:42.718850",
+            "last_retested_at_epoch": 1599666462.71885,
+            "last_retested_at_iso": "2020-09-09T15:47:42.718850",
+            "status": "INVALID"
         },
         "chj.m.dodo52.com": {
             "included_at_epoch": 1597333624.792708,
@@ -889,6 +924,13 @@
             "last_retested_at_iso": "2020-09-06T15:48:10.038896",
             "status": "INACTIVE"
         },
+        "czsl.91756.cn": {
+            "included_at_epoch": 1599666464.349737,
+            "included_at_iso": "2020-09-09T15:47:44.349737",
+            "last_retested_at_epoch": 1599666464.349737,
+            "last_retested_at_iso": "2020-09-09T15:47:44.349737",
+            "status": "INACTIVE"
+        },
         "da.alibuf.com:3": {
             "included_at_epoch": 1597333648.752239,
             "included_at_iso": "2020-08-13T15:47:28.752239",
@@ -931,6 +973,13 @@
             "last_retested_at_iso": "2020-08-28T15:52:11.831211",
             "status": "INACTIVE"
         },
+        "denis928.000webhostapp.com": {
+            "included_at_epoch": 1599666464.86592,
+            "included_at_iso": "2020-09-09T15:47:44.865920",
+            "last_retested_at_epoch": 1599666464.86592,
+            "last_retested_at_iso": "2020-09-09T15:47:44.865920",
+            "status": "INACTIVE"
+        },
         "designgraphic.pl": {
             "included_at_epoch": 1598372117.114327,
             "included_at_iso": "2020-08-25T16:15:17.114327",
@@ -951,6 +1000,13 @@
             "last_retested_at_epoch": 1598631687.525677,
             "last_retested_at_iso": "2020-08-28T16:21:27.525677",
             "status": "INACTIVE"
+        },
+        "dnn.alibuf.com:7723": {
+            "included_at_epoch": 1599666465.361184,
+            "included_at_iso": "2020-09-09T15:47:45.361184",
+            "last_retested_at_epoch": 1599666465.361184,
+            "last_retested_at_iso": "2020-09-09T15:47:45.361184",
+            "status": "INVALID"
         },
         "dogongulong.vn": {
             "included_at_epoch": 1599147654.010502,
