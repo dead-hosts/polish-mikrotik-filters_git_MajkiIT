@@ -60087,6 +60087,12 @@
         "expiration_date": "23-jun-2021",
         "state": "future"
     },
+    "yanyne.online": {
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
     "yardcommunity.org": {
         "epoch": 1625011200.0,
         "expiration_date": "30-jun-2021",
@@ -60441,8 +60447,9 @@
         "state": "future"
     },
     "ywjgjvpuyitnbiw.info": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "ywqzz.com": {
@@ -60797,6 +60804,12 @@
         "expiration_date": "29-aug-2020",
         "server": "whois.dns.pl",
         "state": "past"
+    },
+    "zazynek.pl": {
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
     },
     "zbig-spaw.pl": {
         "epoch": 1593388800.0,
