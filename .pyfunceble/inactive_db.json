@@ -854,11 +854,25 @@
             "last_retested_at_iso": "2020-09-09T16:22:41.749545",
             "status": "INACTIVE"
         },
+        "bsonus.xyz": {
+            "included_at_epoch": 1599925529.631205,
+            "included_at_iso": "2020-09-12T15:45:29.631205",
+            "last_retested_at_epoch": 1599925529.631205,
+            "last_retested_at_iso": "2020-09-12T15:45:29.631205",
+            "status": "INACTIVE"
+        },
         "bubblelife70.life": {
             "included_at_epoch": 1598372065.905522,
             "included_at_iso": "2020-08-25T16:14:25.905522",
             "last_retested_at_epoch": 1598629881.499949,
             "last_retested_at_iso": "2020-08-28T15:51:21.499949",
+            "status": "INACTIVE"
+        },
+        "bulbulstore.com": {
+            "included_at_epoch": 1599925529.69455,
+            "included_at_iso": "2020-09-12T15:45:29.694550",
+            "last_retested_at_epoch": 1599925529.69455,
+            "last_retested_at_iso": "2020-09-12T15:45:29.694550",
             "status": "INACTIVE"
         },
         "bulby.pl": {
@@ -889,6 +903,13 @@
             "last_retested_at_iso": "2020-08-31T15:43:21.466218",
             "status": "INACTIVE"
         },
+        "c.vvvvvvvvv.ga:443": {
+            "included_at_epoch": 1599925531.36109,
+            "included_at_iso": "2020-09-12T15:45:31.361090",
+            "last_retested_at_epoch": 1599925531.36109,
+            "last_retested_at_iso": "2020-09-12T15:45:31.361090",
+            "status": "INVALID"
+        },
         "callgeorge.com.au": {
             "included_at_epoch": 1598888601.579923,
             "included_at_iso": "2020-08-31T15:43:21.579923",
@@ -908,6 +929,13 @@
             "included_at_iso": "2020-08-22T15:47:31.613732",
             "last_retested_at_epoch": 1598629889.924787,
             "last_retested_at_iso": "2020-08-28T15:51:29.924787",
+            "status": "INACTIVE"
+        },
+        "cbk.m.dodo52.com": {
+            "included_at_epoch": 1599925530.01521,
+            "included_at_iso": "2020-09-12T15:45:30.015210",
+            "last_retested_at_epoch": 1599925530.01521,
+            "last_retested_at_iso": "2020-09-12T15:45:30.015210",
             "status": "INACTIVE"
         },
         "cda-film.pl": {
@@ -980,6 +1008,13 @@
             "last_retested_at_iso": "2020-09-09T15:47:42.718850",
             "status": "INVALID"
         },
+        "chj.m.dodo52.com": {
+            "included_at_epoch": 1599925530.318903,
+            "included_at_iso": "2020-09-12T15:45:30.318903",
+            "last_retested_at_epoch": 1599925530.318903,
+            "last_retested_at_iso": "2020-09-12T15:45:30.318903",
+            "status": "INACTIVE"
+        },
         "cityhomes.lk": {
             "included_at_epoch": 1599407289.315215,
             "included_at_iso": "2020-09-06T15:48:09.315215",
@@ -992,6 +1027,13 @@
             "included_at_iso": "2020-08-22T15:47:45.648822",
             "last_retested_at_epoch": 1598629904.612174,
             "last_retested_at_iso": "2020-08-28T15:51:44.612174",
+            "status": "INACTIVE"
+        },
+        "cloud-idea.at": {
+            "included_at_epoch": 1599925530.668113,
+            "included_at_iso": "2020-09-12T15:45:30.668113",
+            "last_retested_at_epoch": 1599925530.668113,
+            "last_retested_at_iso": "2020-09-12T15:45:30.668113",
             "status": "INACTIVE"
         },
         "cloud-sso-idea.at": {
@@ -1043,6 +1085,13 @@
             "last_retested_at_iso": "2020-09-09T15:47:44.349737",
             "status": "INACTIVE"
         },
+        "da.alibuf.com:3": {
+            "included_at_epoch": 1599925531.589084,
+            "included_at_iso": "2020-09-12T15:45:31.589084",
+            "last_retested_at_epoch": 1599925531.589084,
+            "last_retested_at_iso": "2020-09-12T15:45:31.589084",
+            "status": "INVALID"
+        },
         "daily-jokes.net": {
             "included_at_epoch": 1597851664.816634,
             "included_at_iso": "2020-08-19T15:41:04.816634",
@@ -1062,6 +1111,13 @@
             "included_at_iso": "2020-09-06T15:48:10.657599",
             "last_retested_at_epoch": 1599407290.657599,
             "last_retested_at_iso": "2020-09-06T15:48:10.657599",
+            "status": "INACTIVE"
+        },
+        "dansports.eu": {
+            "included_at_epoch": 1599925531.659738,
+            "included_at_iso": "2020-09-12T15:45:31.659738",
+            "last_retested_at_epoch": 1599925531.659738,
+            "last_retested_at_iso": "2020-09-12T15:45:31.659738",
             "status": "INACTIVE"
         },
         "daohannganhang.com.vn": {
