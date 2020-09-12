@@ -3052,11 +3052,25 @@
             "last_retested_at_iso": "2020-08-28T17:34:24.786428",
             "status": "INACTIVE"
         },
+        "naszaplaneta.site": {
+            "included_at_epoch": 1599929759.612682,
+            "included_at_iso": "2020-09-12T16:55:59.612682",
+            "last_retested_at_epoch": 1599929759.612682,
+            "last_retested_at_iso": "2020-09-12T16:55:59.612682",
+            "status": "INACTIVE"
+        },
         "naszapolskaa.xyz": {
             "included_at_epoch": 1598378743.557896,
             "included_at_iso": "2020-08-25T18:05:43.557896",
             "last_retested_at_epoch": 1598636065.83332,
             "last_retested_at_iso": "2020-08-28T17:34:25.833320",
+            "status": "INACTIVE"
+        },
+        "naszepanstwo.xyz": {
+            "included_at_epoch": 1599929759.699455,
+            "included_at_iso": "2020-09-12T16:55:59.699455",
+            "last_retested_at_epoch": 1599929759.699455,
+            "last_retested_at_iso": "2020-09-12T16:55:59.699455",
             "status": "INACTIVE"
         },
         "naszeteksty.pl": {
@@ -3108,6 +3122,13 @@
             "last_retested_at_iso": "2020-08-31T16:48:38.015412",
             "status": "INACTIVE"
         },
+        "netflix-platnosc.com.mirsolar.com.tr": {
+            "included_at_epoch": 1599929760.167122,
+            "included_at_iso": "2020-09-12T16:56:00.167122",
+            "last_retested_at_epoch": 1599929760.167122,
+            "last_retested_at_iso": "2020-09-12T16:56:00.167122",
+            "status": "INACTIVE"
+        },
         "netflix-update.platnosci.medalcheck.com": {
             "included_at_epoch": 1599151300.915917,
             "included_at_iso": "2020-09-03T16:41:40.915917",
@@ -3134,6 +3155,13 @@
             "included_at_iso": "2020-08-28T17:34:31.093092",
             "last_retested_at_epoch": 1598636071.093092,
             "last_retested_at_iso": "2020-08-28T17:34:31.093092",
+            "status": "INACTIVE"
+        },
+        "news.investexpertpro.com": {
+            "included_at_epoch": 1599929760.50889,
+            "included_at_iso": "2020-09-12T16:56:00.508890",
+            "last_retested_at_epoch": 1599929760.50889,
+            "last_retested_at_iso": "2020-09-12T16:56:00.508890",
             "status": "INACTIVE"
         },
         "newspolska.098.pl": {
@@ -3169,6 +3197,13 @@
             "included_at_iso": "2020-09-06T17:10:49.923063",
             "last_retested_at_epoch": 1599412249.923063,
             "last_retested_at_iso": "2020-09-06T17:10:49.923063",
+            "status": "INACTIVE"
+        },
+        "nikeskleppolska.pl": {
+            "included_at_epoch": 1599929760.792656,
+            "included_at_iso": "2020-09-12T16:56:00.792656",
+            "last_retested_at_epoch": 1599929760.792656,
+            "last_retested_at_iso": "2020-09-12T16:56:00.792656",
             "status": "INACTIVE"
         },
         "noblebank.getin-secure.com.pl": {
@@ -3220,12 +3255,33 @@
             "last_retested_at_iso": "2020-09-09T17:05:06.121869",
             "status": "INACTIVE"
         },
+        "oferta589146.space": {
+            "included_at_epoch": 1599929762.119979,
+            "included_at_iso": "2020-09-12T16:56:02.119979",
+            "last_retested_at_epoch": 1599929762.119979,
+            "last_retested_at_iso": "2020-09-12T16:56:02.119979",
+            "status": "INACTIVE"
+        },
         "oferta651981.online": {
             "included_at_epoch": 1599671106.145803,
             "included_at_iso": "2020-09-09T17:05:06.145803",
             "last_retested_at_epoch": 1599671106.145803,
             "last_retested_at_iso": "2020-09-09T17:05:06.145803",
             "status": "INACTIVE"
+        },
+        "oferta924151.space": {
+            "included_at_epoch": 1599929762.152933,
+            "included_at_iso": "2020-09-12T16:56:02.152933",
+            "last_retested_at_epoch": 1599929762.152933,
+            "last_retested_at_iso": "2020-09-12T16:56:02.152933",
+            "status": "INACTIVE"
+        },
+        "officeqmwyaqsavlkqsqmriwyiqbojbnnxpq-env.eba-p2mfzmvt.us-east": {
+            "included_at_epoch": 1599929762.297051,
+            "included_at_iso": "2020-09-12T16:56:02.297051",
+            "last_retested_at_epoch": 1599929762.297051,
+            "last_retested_at_iso": "2020-09-12T16:56:02.297051",
+            "status": "INVALID"
         },
         "offside2.000webhostapp.com": {
             "included_at_epoch": 1599671106.402266,
@@ -3239,6 +3295,13 @@
             "included_at_iso": "2020-08-19T18:07:27.111362",
             "last_retested_at_epoch": 1598636089.155063,
             "last_retested_at_iso": "2020-08-28T17:34:49.155063",
+            "status": "INACTIVE"
+        },
+        "ogloszenie156712.xyz": {
+            "included_at_epoch": 1599929762.489877,
+            "included_at_iso": "2020-09-12T16:56:02.489877",
+            "last_retested_at_epoch": 1599929762.489877,
+            "last_retested_at_iso": "2020-09-12T16:56:02.489877",
             "status": "INACTIVE"
         },
         "oglosznie-elektroniczne.name": {
@@ -3260,6 +3323,20 @@
             "included_at_iso": "2020-08-31T17:09:22.937206",
             "last_retested_at_epoch": 1598893762.937206,
             "last_retested_at_iso": "2020-08-31T17:09:22.937206",
+            "status": "INACTIVE"
+        },
+        "olx.pl-oferta.info": {
+            "included_at_epoch": 1599929762.934939,
+            "included_at_iso": "2020-09-12T16:56:02.934939",
+            "last_retested_at_epoch": 1599929762.934939,
+            "last_retested_at_iso": "2020-09-12T16:56:02.934939",
+            "status": "INACTIVE"
+        },
+        "olx.pl-offerta.pro": {
+            "included_at_epoch": 1599929762.96297,
+            "included_at_iso": "2020-09-12T16:56:02.962970",
+            "last_retested_at_epoch": 1599929762.96297,
+            "last_retested_at_iso": "2020-09-12T16:56:02.962970",
             "status": "INACTIVE"
         },
         "onet24.stronazen.pl": {
@@ -3416,6 +3493,13 @@
             "last_retested_at_iso": "2020-08-28T17:52:30.859994",
             "status": "INACTIVE"
         },
+        "pinmova.xyz": {
+            "included_at_epoch": 1599929766.411248,
+            "included_at_iso": "2020-09-12T16:56:06.411248",
+            "last_retested_at_epoch": 1599929766.411248,
+            "last_retested_at_iso": "2020-09-12T16:56:06.411248",
+            "status": "INACTIVE"
+        },
         "pl-paczki.fun": {
             "included_at_epoch": 1598379841.779996,
             "included_at_iso": "2020-08-25T18:24:01.779996",
@@ -3430,11 +3514,25 @@
             "last_retested_at_iso": "2020-08-28T17:52:39.170753",
             "status": "INACTIVE"
         },
+        "pl.bitcoinsystem-appl.t500track33.com": {
+            "included_at_epoch": 1599929766.899873,
+            "included_at_iso": "2020-09-12T16:56:06.899873",
+            "last_retested_at_epoch": 1599929766.899873,
+            "last_retested_at_iso": "2020-09-12T16:56:06.899873",
+            "status": "INACTIVE"
+        },
         "pl.bitcoinup-app.co": {
             "included_at_epoch": 1599412255.092617,
             "included_at_iso": "2020-09-06T17:10:55.092617",
             "last_retested_at_epoch": 1599412255.092617,
             "last_retested_at_iso": "2020-09-06T17:10:55.092617",
+            "status": "INACTIVE"
+        },
+        "pl.btc-billionaire.com": {
+            "included_at_epoch": 1599929766.93933,
+            "included_at_iso": "2020-09-12T16:56:06.939330",
+            "last_retested_at_epoch": 1599929766.93933,
+            "last_retested_at_iso": "2020-09-12T16:56:06.939330",
             "status": "INACTIVE"
         },
         "pl.cryptoengine.fun": {
