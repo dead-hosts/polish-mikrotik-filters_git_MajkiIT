@@ -1344,6 +1344,20 @@
             "last_retested_at_iso": "2020-08-28T16:22:25.907239",
             "status": "INACTIVE"
         },
+        "e.paczkxups.com": {
+            "included_at_epoch": 1599926555.78748,
+            "included_at_iso": "2020-09-12T16:02:35.787480",
+            "last_retested_at_epoch": 1599926555.78748,
+            "last_retested_at_iso": "2020-09-12T16:02:35.787480",
+            "status": "INACTIVE"
+        },
+        "e.paczkyups.com": {
+            "included_at_epoch": 1599926555.815531,
+            "included_at_iso": "2020-09-12T16:02:35.815531",
+            "last_retested_at_epoch": 1599926555.815531,
+            "last_retested_at_iso": "2020-09-12T16:02:35.815531",
+            "status": "INACTIVE"
+        },
         "eastmostlitharges.online": {
             "included_at_epoch": 1598631709.821174,
             "included_at_iso": "2020-08-28T16:21:49.821174",
@@ -1650,6 +1664,13 @@
             "included_at_iso": "2020-09-03T16:06:41.486188",
             "last_retested_at_epoch": 1599149201.486188,
             "last_retested_at_iso": "2020-09-03T16:06:41.486188",
+            "status": "INACTIVE"
+        },
+        "fte.m.dodo52.com": {
+            "included_at_epoch": 1599926559.556082,
+            "included_at_iso": "2020-09-12T16:02:39.556082",
+            "last_retested_at_epoch": 1599926559.556082,
+            "last_retested_at_iso": "2020-09-12T16:02:39.556082",
             "status": "INACTIVE"
         },
         "fujwacqrr.com": {
