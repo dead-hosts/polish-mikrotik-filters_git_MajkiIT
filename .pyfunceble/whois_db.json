@@ -309,6 +309,12 @@
         "expiration_date": "20-jun-2021",
         "state": "future"
     },
+    "2mval.com": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "2no.co": {
         "epoch": 1621814400.0,
         "expiration_date": "24-may-2021",
@@ -1030,8 +1036,9 @@
         "state": "future"
     },
     "abvtqhwodwjmi.work": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.nic.work",
         "state": "future"
     },
     "ac-feedback.com": {
@@ -1137,8 +1144,9 @@
         "state": "future"
     },
     "acjhwpdjhlhbncf.click": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.uniregistry.net",
         "state": "future"
     },
     "aclmagazine.com.br": {
@@ -1834,8 +1842,9 @@
         "state": "future"
     },
     "ahsqbeospcdrngfv.info": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "ahwahneeheating.com": {
@@ -2766,6 +2775,12 @@
         "expiration_date": "04-dec-2020",
         "state": "future"
     },
+    "allthingsholistic.net": {
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "allthingstravel.co.uk": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
@@ -3085,13 +3100,20 @@
         "state": "future"
     },
     "ampjsppmftmfdblpt.info": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "amptrading.pl": {
         "epoch": 1628640000.0,
         "expiration_date": "11-aug-2021",
+        "state": "future"
+    },
+    "ampyazilim.com.tr": {
+        "epoch": 1647043200.0,
+        "expiration_date": "12-mar-2022",
+        "server": "whois.nic.tr",
         "state": "future"
     },
     "amrmashaqi.me": {
@@ -3328,8 +3350,9 @@
         "state": "future"
     },
     "anetakurier.info": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "anfornet.com": {
@@ -4874,10 +4897,10 @@
         "state": "future"
     },
     "avbtrk.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "avema.pl": {
         "epoch": 1610236800.0,
@@ -5108,10 +5131,10 @@
         "state": "past"
     },
     "bablugad.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "babyandtoddlermedikit.co.za": {
         "epoch": 1602115200.0,
@@ -5340,6 +5363,12 @@
     "banvar.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "banwayirc.in": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "banzaimonkey.com": {
@@ -5590,8 +5619,9 @@
         "state": "future"
     },
     "bazalt-gracze.pl": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "bazarownia.pl": {
@@ -5868,10 +5898,10 @@
         "state": "future"
     },
     "bellernova.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "bellsandroses.pl": {
         "epoch": 1627430400.0,
@@ -6329,6 +6359,12 @@
         "expiration_date": "27-jun-2021",
         "state": "future"
     },
+    "bigbots.cc": {
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "ccwhois.verisign-grs.com",
+        "state": "future"
+    },
     "bigdater.me": {
         "epoch": 1629936000.0,
         "expiration_date": "26-aug-2021",
@@ -6628,6 +6664,12 @@
     "bitcoinera-appl.com": {
         "epoch": 1611964800.0,
         "expiration_date": "30-jan-2021",
+        "state": "future"
+    },
+    "bitcoinera-system.co": {
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "bitcoinerapro.com": {
