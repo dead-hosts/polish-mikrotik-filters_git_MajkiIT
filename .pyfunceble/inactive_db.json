@@ -1771,6 +1771,13 @@
             "last_retested_at_iso": "2020-09-09T16:05:14.151912",
             "status": "INACTIVE"
         },
+        "getinbank-secure.at": {
+            "included_at_epoch": 1599927697.564992,
+            "included_at_iso": "2020-09-12T16:21:37.564992",
+            "last_retested_at_epoch": 1599927697.564992,
+            "last_retested_at_iso": "2020-09-12T16:21:37.564992",
+            "status": "INACTIVE"
+        },
         "gim9sc.pl": {
             "included_at_epoch": 1598890368.486754,
             "included_at_iso": "2020-08-31T16:12:48.486754",
@@ -1797,6 +1804,13 @@
             "included_at_iso": "2020-08-16T16:31:59.683624",
             "last_retested_at_epoch": 1598632822.550595,
             "last_retested_at_iso": "2020-08-28T16:40:22.550595",
+            "status": "INACTIVE"
+        },
+        "glownedzisiaj.pro-linuxpl.com": {
+            "included_at_epoch": 1599927697.838495,
+            "included_at_iso": "2020-09-12T16:21:37.838495",
+            "last_retested_at_epoch": 1599927697.838495,
+            "last_retested_at_iso": "2020-09-12T16:21:37.838495",
             "status": "INACTIVE"
         },
         "go.hellonews.site": {
@@ -1932,6 +1946,13 @@
             "last_retested_at_iso": "2020-08-28T16:40:51.668762",
             "status": "INACTIVE"
         },
+        "houston.cypshluchim.com": {
+            "included_at_epoch": 1599927699.600192,
+            "included_at_iso": "2020-09-12T16:21:39.600192",
+            "last_retested_at_epoch": 1599927699.600192,
+            "last_retested_at_iso": "2020-09-12T16:21:39.600192",
+            "status": "INACTIVE"
+        },
         "hsfactory.pl": {
             "included_at_epoch": 1598375112.666741,
             "included_at_iso": "2020-08-25T17:05:12.666741",
@@ -1974,11 +1995,25 @@
             "last_retested_at_iso": "2020-08-28T16:40:55.205381",
             "status": "INACTIVE"
         },
+        "i-faktynews24.eu": {
+            "included_at_epoch": 1599927700.106848,
+            "included_at_iso": "2020-09-12T16:21:40.106848",
+            "last_retested_at_epoch": 1599927700.106848,
+            "last_retested_at_iso": "2020-09-12T16:21:40.106848",
+            "status": "INACTIVE"
+        },
         "i-informacje24.eu": {
             "included_at_epoch": 1599668574.183586,
             "included_at_iso": "2020-09-09T16:22:54.183586",
             "last_retested_at_epoch": 1599668574.183586,
             "last_retested_at_iso": "2020-09-09T16:22:54.183586",
+            "status": "INACTIVE"
+        },
+        "i-wiadomosci24.eu": {
+            "included_at_epoch": 1599927701.85653,
+            "included_at_iso": "2020-09-12T16:21:41.856530",
+            "last_retested_at_epoch": 1599927701.85653,
+            "last_retested_at_iso": "2020-09-12T16:21:41.856530",
             "status": "INACTIVE"
         },
         "i01001.dgn.vn:1": {
@@ -2091,6 +2126,13 @@
             "included_at_iso": "2020-08-28T16:41:06.577120",
             "last_retested_at_epoch": 1598632866.57712,
             "last_retested_at_iso": "2020-08-28T16:41:06.577120",
+            "status": "INACTIVE"
+        },
+        "informacje-onet.eu": {
+            "included_at_epoch": 1599927700.498382,
+            "included_at_iso": "2020-09-12T16:21:40.498382",
+            "last_retested_at_epoch": 1599927700.498382,
+            "last_retested_at_iso": "2020-09-12T16:21:40.498382",
             "status": "INACTIVE"
         },
         "informacje24-alert.eu": {
@@ -2338,11 +2380,25 @@
             "last_retested_at_iso": "2020-09-09T16:40:12.635901",
             "status": "INACTIVE"
         },
+        "irontwisting.cf": {
+            "included_at_epoch": 1599927701.658577,
+            "included_at_iso": "2020-09-12T16:21:41.658577",
+            "last_retested_at_epoch": 1599927701.658577,
+            "last_retested_at_iso": "2020-09-12T16:21:41.658577",
+            "status": "INACTIVE"
+        },
         "issamnahhali.com": {
             "included_at_epoch": 1599669613.785037,
             "included_at_iso": "2020-09-09T16:40:13.785037",
             "last_retested_at_epoch": 1599669613.785037,
             "last_retested_at_iso": "2020-09-09T16:40:13.785037",
+            "status": "INACTIVE"
+        },
+        "itd.m.dodo52.com": {
+            "included_at_epoch": 1599927701.766255,
+            "included_at_iso": "2020-09-12T16:21:41.766255",
+            "last_retested_at_epoch": 1599927701.766255,
+            "last_retested_at_iso": "2020-09-12T16:21:41.766255",
             "status": "INACTIVE"
         },
         "j1033002.myjino.ru": {

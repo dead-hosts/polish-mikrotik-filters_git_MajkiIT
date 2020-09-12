@@ -21245,6 +21245,12 @@
         "expiration_date": "28-sep-2020",
         "state": "future"
     },
+    "gazetapolska.org.pl": {
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "gazetapucka.pl": {
         "epoch": 1620432000.0,
         "expiration_date": "08-may-2021",
@@ -23781,6 +23787,12 @@
         "expiration_date": "09-nov-2020",
         "state": "future"
     },
+    "harddrivedonors.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "hariominvestment.com": {
         "epoch": 1620518400.0,
         "expiration_date": "09-may-2021",
@@ -24650,6 +24662,12 @@
         "expiration_date": "28-may-2021",
         "state": "future"
     },
+    "horse-strenght.com": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "horyzont-chelm.pl": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
@@ -24691,8 +24709,9 @@
         "state": "future"
     },
     "hostzaa.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hotbodyyogafrisco.com": {
@@ -25309,7 +25328,8 @@
     "id-appie.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "id-netflix.com.pl": {
         "epoch": 1627948800.0,
@@ -26392,6 +26412,12 @@
     "instagramrule.com": {
         "epoch": 1630195200.0,
         "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "instalovers.net": {
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -27493,8 +27519,9 @@
         "state": "future"
     },
     "jasnyogrod.pl": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "jason.net.br": {
