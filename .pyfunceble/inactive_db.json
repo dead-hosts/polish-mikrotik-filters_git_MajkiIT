@@ -3626,11 +3626,25 @@
             "last_retested_at_iso": "2020-09-06T17:10:56.296161",
             "status": "INACTIVE"
         },
+        "polskifakt.cal24.pl": {
+            "included_at_epoch": 1599930789.184712,
+            "included_at_iso": "2020-09-12T17:13:09.184712",
+            "last_retested_at_epoch": 1599930789.184712,
+            "last_retested_at_iso": "2020-09-12T17:13:09.184712",
+            "status": "INACTIVE"
+        },
         "pomagajmykotom.pl": {
             "included_at_epoch": 1598379852.436408,
             "included_at_iso": "2020-08-25T18:24:12.436408",
             "last_retested_at_epoch": 1598637171.651979,
             "last_retested_at_iso": "2020-08-28T17:52:51.651979",
+            "status": "INACTIVE"
+        },
+        "pomelostudio.pl": {
+            "included_at_epoch": 1599930789.275928,
+            "included_at_iso": "2020-09-12T17:13:09.275928",
+            "last_retested_at_epoch": 1599930789.275928,
+            "last_retested_at_iso": "2020-09-12T17:13:09.275928",
             "status": "INACTIVE"
         },
         "portalgminny.cal24.pl": {
@@ -3731,6 +3745,13 @@
             "last_retested_at_iso": "2020-09-09T17:22:20.886345",
             "status": "INACTIVE"
         },
+        "promocja.allegro.help": {
+            "included_at_epoch": 1599930790.453234,
+            "included_at_iso": "2020-09-12T17:13:10.453234",
+            "last_retested_at_epoch": 1599930790.453234,
+            "last_retested_at_iso": "2020-09-12T17:13:10.453234",
+            "status": "INACTIVE"
+        },
         "protejseg.com.br": {
             "included_at_epoch": 1598893770.644012,
             "included_at_iso": "2020-08-31T17:09:30.644012",
@@ -3743,6 +3764,13 @@
             "included_at_iso": "2020-09-06T17:10:58.339470",
             "last_retested_at_epoch": 1599412258.33947,
             "last_retested_at_iso": "2020-09-06T17:10:58.339470",
+            "status": "INACTIVE"
+        },
+        "przesyleczki.com": {
+            "included_at_epoch": 1599930790.786946,
+            "included_at_iso": "2020-09-12T17:13:10.786946",
+            "last_retested_at_epoch": 1599930790.786946,
+            "last_retested_at_iso": "2020-09-12T17:13:10.786946",
             "status": "INACTIVE"
         },
         "przyjaznyparczewski.pl": {
@@ -3913,6 +3941,13 @@
             "last_retested_at_iso": "2020-09-09T17:22:29.021621",
             "status": "INACTIVE"
         },
+        "santander-bank-polska.braceletluck.com": {
+            "included_at_epoch": 1599930794.201663,
+            "included_at_iso": "2020-09-12T17:13:14.201663",
+            "last_retested_at_epoch": 1599930794.201663,
+            "last_retested_at_iso": "2020-09-12T17:13:14.201663",
+            "status": "INACTIVE"
+        },
         "santander-bank-polska.genesadirgantara.com": {
             "included_at_epoch": 1599413289.013429,
             "included_at_iso": "2020-09-06T17:28:09.013429",
@@ -4002,6 +4037,13 @@
             "included_at_iso": "2020-08-19T18:26:47.253829",
             "last_retested_at_epoch": 1598638259.086133,
             "last_retested_at_iso": "2020-08-28T18:10:59.086133",
+            "status": "INACTIVE"
+        },
+        "secure-getinbank.at": {
+            "included_at_epoch": 1599930794.599778,
+            "included_at_iso": "2020-09-12T17:13:14.599778",
+            "last_retested_at_epoch": 1599930794.599778,
+            "last_retested_at_iso": "2020-09-12T17:13:14.599778",
             "status": "INACTIVE"
         },
         "secure-paribas.at": {
