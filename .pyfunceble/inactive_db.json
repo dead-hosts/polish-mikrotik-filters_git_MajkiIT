@@ -4340,6 +4340,13 @@
             "last_retested_at_iso": "2020-09-03T17:18:03.257193",
             "status": "INACTIVE"
         },
+        "sokolagd.pl": {
+            "included_at_epoch": 1600191317.187637,
+            "included_at_iso": "2020-09-15T17:35:17.187637",
+            "last_retested_at_epoch": 1600191317.187637,
+            "last_retested_at_iso": "2020-09-15T17:35:17.187637",
+            "status": "INACTIVE"
+        },
         "solutions.nalbatech.com": {
             "included_at_epoch": 1599673179.710161,
             "included_at_iso": "2020-09-09T17:39:39.710161",
@@ -4422,6 +4429,13 @@
             "included_at_iso": "2020-09-06T17:28:14.690779",
             "last_retested_at_epoch": 1599413294.690779,
             "last_retested_at_iso": "2020-09-06T17:28:14.690779",
+            "status": "INACTIVE"
+        },
+        "studioartandcafe.pl": {
+            "included_at_epoch": 1600191319.524399,
+            "included_at_iso": "2020-09-15T17:35:19.524399",
+            "last_retested_at_epoch": 1600191319.524399,
+            "last_retested_at_iso": "2020-09-15T17:35:19.524399",
             "status": "INACTIVE"
         },
         "suckmycocklameavindustry.in": {
@@ -4522,11 +4536,32 @@
             "last_retested_at_iso": "2020-09-09T17:39:45.331947",
             "status": "INACTIVE"
         },
+        "teenart.click": {
+            "included_at_epoch": 1600191322.972328,
+            "included_at_iso": "2020-09-15T17:35:22.972328",
+            "last_retested_at_epoch": 1600191322.972328,
+            "last_retested_at_iso": "2020-09-15T17:35:22.972328",
+            "status": "INACTIVE"
+        },
         "teengirl.click": {
             "included_at_epoch": 1599673185.842495,
             "included_at_iso": "2020-09-09T17:39:45.842495",
             "last_retested_at_epoch": 1599673185.842495,
             "last_retested_at_iso": "2020-09-09T17:39:45.842495",
+            "status": "INACTIVE"
+        },
+        "teenmodels.click": {
+            "included_at_epoch": 1600191323.011292,
+            "included_at_iso": "2020-09-15T17:35:23.011292",
+            "last_retested_at_epoch": 1600191323.011292,
+            "last_retested_at_iso": "2020-09-15T17:35:23.011292",
+            "status": "INACTIVE"
+        },
+        "teleblog24.ru": {
+            "included_at_epoch": 1600191323.204873,
+            "included_at_iso": "2020-09-15T17:35:23.204873",
+            "last_retested_at_epoch": 1600191323.204873,
+            "last_retested_at_iso": "2020-09-15T17:35:23.204873",
             "status": "INACTIVE"
         },
         "tematdnia24.h2g.pl": {
@@ -4569,6 +4604,13 @@
             "included_at_iso": "2020-09-09T17:39:46.845666",
             "last_retested_at_epoch": 1599673186.845666,
             "last_retested_at_iso": "2020-09-09T17:39:46.845666",
+            "status": "INACTIVE"
+        },
+        "test.svetoalliance.ru": {
+            "included_at_epoch": 1600191323.945756,
+            "included_at_iso": "2020-09-15T17:35:23.945756",
+            "last_retested_at_epoch": 1600191323.945756,
+            "last_retested_at_iso": "2020-09-15T17:35:23.945756",
             "status": "INACTIVE"
         },
         "teste4.filimartis.com.br": {
@@ -4681,6 +4723,20 @@
             "included_at_iso": "2020-08-25T19:04:58.851524",
             "last_retested_at_epoch": 1598640083.975991,
             "last_retested_at_iso": "2020-08-28T18:41:23.975991",
+            "status": "INACTIVE"
+        },
+        "tutalina2.tutdomen.com": {
+            "included_at_epoch": 1600191327.49434,
+            "included_at_iso": "2020-09-15T17:35:27.494340",
+            "last_retested_at_epoch": 1600191327.49434,
+            "last_retested_at_iso": "2020-09-15T17:35:27.494340",
+            "status": "INACTIVE"
+        },
+        "tuttoutu.com": {
+            "included_at_epoch": 1600191327.537674,
+            "included_at_iso": "2020-09-15T17:35:27.537674",
+            "last_retested_at_epoch": 1600191327.537674,
+            "last_retested_at_iso": "2020-09-15T17:35:27.537674",
             "status": "INACTIVE"
         },
         "tvpinformacja1.eu": {
