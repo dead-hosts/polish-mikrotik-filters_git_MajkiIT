@@ -62569,6 +62569,12 @@
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
+    "zdrowadycha.pl": {
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "zdrowedziasla.com.pl": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
@@ -62829,6 +62835,12 @@
     "ziemianyska.pl": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
+    "zimowewyzwanie.pl": {
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zinnystar.com": {
