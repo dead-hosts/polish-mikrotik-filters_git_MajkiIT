@@ -1232,6 +1232,13 @@
             "last_retested_at_iso": "2020-09-03T15:40:54.010502",
             "status": "INACTIVE"
         },
+        "domainsecuritymonitoringallfilealwaysfor.duckdns.org": {
+            "included_at_epoch": 1600186088.2949,
+            "included_at_iso": "2020-09-15T16:08:08.294900",
+            "last_retested_at_epoch": 1600186088.2949,
+            "last_retested_at_iso": "2020-09-15T16:08:08.294900",
+            "status": "INACTIVE"
+        },
         "dotpay.e-pocztex.pl": {
             "included_at_epoch": 1599667506.588464,
             "included_at_iso": "2020-09-09T16:05:06.588464",
@@ -1281,6 +1288,13 @@
             "last_retested_at_iso": "2020-08-31T15:43:25.630355",
             "status": "INACTIVE"
         },
+        "down.allthelive.com": {
+            "included_at_epoch": 1600186088.87476,
+            "included_at_iso": "2020-09-15T16:08:08.874760",
+            "last_retested_at_epoch": 1600186088.87476,
+            "last_retested_at_iso": "2020-09-15T16:08:08.874760",
+            "status": "INACTIVE"
+        },
         "download.w65.pl": {
             "included_at_epoch": 1598888605.769182,
             "included_at_iso": "2020-08-31T15:43:25.769182",
@@ -1328,6 +1342,13 @@
             "included_at_iso": "2020-09-03T16:06:36.149732",
             "last_retested_at_epoch": 1599149196.149732,
             "last_retested_at_iso": "2020-09-03T16:06:36.149732",
+            "status": "INACTIVE"
+        },
+        "e-blackwhite.pl": {
+            "included_at_epoch": 1600186090.006412,
+            "included_at_iso": "2020-09-15T16:08:10.006412",
+            "last_retested_at_epoch": 1600186090.006412,
+            "last_retested_at_iso": "2020-09-15T16:08:10.006412",
             "status": "INACTIVE"
         },
         "e-informacje24.eu": {
@@ -1442,6 +1463,13 @@
             "last_retested_at_iso": "2020-08-28T16:22:05.822684",
             "status": "INACTIVE"
         },
+        "emonitoring.poczta-polska8.pl": {
+            "included_at_epoch": 1600186090.905064,
+            "included_at_iso": "2020-09-15T16:08:10.905064",
+            "last_retested_at_epoch": 1600186090.905064,
+            "last_retested_at_iso": "2020-09-15T16:08:10.905064",
+            "status": "INACTIVE"
+        },
         "enpgnig.pl": {
             "included_at_epoch": 1599408813.447413,
             "included_at_iso": "2020-09-06T16:13:33.447413",
@@ -1489,6 +1517,13 @@
             "included_at_iso": "2020-09-09T16:22:45.724681",
             "last_retested_at_epoch": 1599668565.724681,
             "last_retested_at_iso": "2020-09-09T16:22:45.724681",
+            "status": "INACTIVE"
+        },
+        "europeancupkyokushin.pl": {
+            "included_at_epoch": 1600186092.15065,
+            "included_at_iso": "2020-09-15T16:08:12.150650",
+            "last_retested_at_epoch": 1600186092.15065,
+            "last_retested_at_iso": "2020-09-15T16:08:12.150650",
             "status": "INACTIVE"
         },
         "eventownik.pl": {
