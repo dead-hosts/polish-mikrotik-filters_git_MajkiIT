@@ -3066,6 +3066,13 @@
             "last_retested_at_iso": "2020-08-28T17:34:03.692199",
             "status": "INACTIVE"
         },
+        "mmonteironavegacao.com.br": {
+            "included_at_epoch": 1600189208.570839,
+            "included_at_iso": "2020-09-15T17:00:08.570839",
+            "last_retested_at_epoch": 1600189208.570839,
+            "last_retested_at_iso": "2020-09-15T17:00:08.570839",
+            "status": "INACTIVE"
+        },
         "mobiluj.eu": {
             "included_at_epoch": 1599410884.773353,
             "included_at_iso": "2020-09-06T16:48:04.773353",
@@ -3162,6 +3169,13 @@
             "included_at_iso": "2020-08-25T18:05:43.557896",
             "last_retested_at_epoch": 1598636065.83332,
             "last_retested_at_iso": "2020-08-28T17:34:25.833320",
+            "status": "INACTIVE"
+        },
+        "naszbiecz.pl": {
+            "included_at_epoch": 1600189210.835869,
+            "included_at_iso": "2020-09-15T17:00:10.835869",
+            "last_retested_at_epoch": 1600189210.835869,
+            "last_retested_at_iso": "2020-09-15T17:00:10.835869",
             "status": "INACTIVE"
         },
         "naszepanstwo.xyz": {
@@ -3311,11 +3325,25 @@
             "last_retested_at_iso": "2020-08-28T17:34:38.570955",
             "status": "INACTIVE"
         },
+        "noreply.ssl443.org": {
+            "included_at_epoch": 1600189212.626624,
+            "included_at_iso": "2020-09-15T17:00:12.626624",
+            "last_retested_at_epoch": 1600189212.626624,
+            "last_retested_at_iso": "2020-09-15T17:00:12.626624",
+            "status": "INACTIVE"
+        },
         "nort.calag.at": {
             "included_at_epoch": 1599671104.38331,
             "included_at_iso": "2020-09-09T17:05:04.383310",
             "last_retested_at_epoch": 1599671104.38331,
             "last_retested_at_iso": "2020-09-09T17:05:04.383310",
+            "status": "INACTIVE"
+        },
+        "novaworld-novaland.vn": {
+            "included_at_epoch": 1600189212.880598,
+            "included_at_iso": "2020-09-15T17:00:12.880598",
+            "last_retested_at_epoch": 1600189212.880598,
+            "last_retested_at_iso": "2020-09-15T17:00:12.880598",
             "status": "INACTIVE"
         },
         "noweinformacje.icu": {
@@ -3486,6 +3514,13 @@
             "last_retested_at_iso": "2020-09-06T17:10:52.237964",
             "status": "INACTIVE"
         },
+        "oswietlenie-akwarium.pl": {
+            "included_at_epoch": 1600189216.348039,
+            "included_at_iso": "2020-09-15T17:00:16.348039",
+            "last_retested_at_epoch": 1600189216.348039,
+            "last_retested_at_iso": "2020-09-15T17:00:16.348039",
+            "status": "INACTIVE"
+        },
         "otodom.website": {
             "included_at_epoch": 1599671108.422624,
             "included_at_iso": "2020-09-09T17:05:08.422624",
@@ -3498,6 +3533,13 @@
             "included_at_iso": "2020-08-19T18:07:40.028548",
             "last_retested_at_epoch": 1598637129.684546,
             "last_retested_at_iso": "2020-08-28T17:52:09.684546",
+            "status": "INACTIVE"
+        },
+        "p30qom.ir": {
+            "included_at_epoch": 1600189216.838959,
+            "included_at_iso": "2020-09-15T17:00:16.838959",
+            "last_retested_at_epoch": 1600189216.838959,
+            "last_retested_at_iso": "2020-09-15T17:00:16.838959",
             "status": "INACTIVE"
         },
         "p500.mon-application.com": {
@@ -3570,6 +3612,13 @@
             "last_retested_at_iso": "2020-09-09T17:22:17.491597",
             "status": "INACTIVE"
         },
+        "petitemodels.click": {
+            "included_at_epoch": 1600189219.022959,
+            "included_at_iso": "2020-09-15T17:00:19.022959",
+            "last_retested_at_epoch": 1600189219.022959,
+            "last_retested_at_iso": "2020-09-15T17:00:19.022959",
+            "status": "INACTIVE"
+        },
         "phangiunque.com.vn": {
             "included_at_epoch": 1599672137.677075,
             "included_at_iso": "2020-09-09T17:22:17.677075",
@@ -3610,6 +3659,13 @@
             "included_at_iso": "2020-09-12T16:56:06.899873",
             "last_retested_at_epoch": 1599929766.899873,
             "last_retested_at_iso": "2020-09-12T16:56:06.899873",
+            "status": "INACTIVE"
+        },
+        "pl.bitcoinsystem-appl.t500track36.com": {
+            "included_at_epoch": 1600189220.480558,
+            "included_at_iso": "2020-09-15T17:00:20.480558",
+            "last_retested_at_epoch": 1600189220.480558,
+            "last_retested_at_iso": "2020-09-15T17:00:20.480558",
             "status": "INACTIVE"
         },
         "pl.bitcoinup-app.co": {
