@@ -1785,6 +1785,13 @@
             "last_retested_at_iso": "2020-08-28T16:40:12.814305",
             "status": "INACTIVE"
         },
+        "gazo-progress.com.pl": {
+            "included_at_epoch": 1600187135.607031,
+            "included_at_iso": "2020-09-15T16:25:35.607031",
+            "last_retested_at_epoch": 1600187135.607031,
+            "last_retested_at_iso": "2020-09-15T16:25:35.607031",
+            "status": "INACTIVE"
+        },
         "geovipcar.ge": {
             "included_at_epoch": 1598632816.265609,
             "included_at_iso": "2020-08-28T16:40:16.265609",
@@ -1813,11 +1820,25 @@
             "last_retested_at_iso": "2020-08-31T16:12:48.486754",
             "status": "INACTIVE"
         },
+        "gimnazjumlyski.pl": {
+            "included_at_epoch": 1600187136.306246,
+            "included_at_iso": "2020-09-15T16:25:36.306246",
+            "last_retested_at_epoch": 1600187136.306246,
+            "last_retested_at_iso": "2020-09-15T16:25:36.306246",
+            "status": "INACTIVE"
+        },
         "glob-tech.com.pl": {
             "included_at_epoch": 1597855172.085402,
             "included_at_iso": "2020-08-19T16:39:32.085402",
             "last_retested_at_epoch": 1598632822.531922,
             "last_retested_at_iso": "2020-08-28T16:40:22.531922",
+            "status": "INACTIVE"
+        },
+        "gloosuj-pomagaj.eu": {
+            "included_at_epoch": 1600187137.086744,
+            "included_at_iso": "2020-09-15T16:25:37.086744",
+            "last_retested_at_epoch": 1600187137.086744,
+            "last_retested_at_iso": "2020-09-15T16:25:37.086744",
             "status": "INACTIVE"
         },
         "glownedzisiaj.pro-linuxpl.com": {
@@ -2002,6 +2023,13 @@
             "last_retested_at_iso": "2020-09-09T16:22:53.191394",
             "status": "INACTIVE"
         },
+        "hwww.zweryfiikujdane.tk": {
+            "included_at_epoch": 1600187140.719963,
+            "included_at_iso": "2020-09-15T16:25:40.719963",
+            "last_retested_at_epoch": 1600187140.719963,
+            "last_retested_at_iso": "2020-09-15T16:25:40.719963",
+            "status": "INACTIVE"
+        },
         "hyut.000webhostapp.com": {
             "included_at_epoch": 1598632855.205381,
             "included_at_iso": "2020-08-28T16:40:55.205381",
@@ -2119,6 +2147,13 @@
             "included_at_iso": "2020-08-25T17:05:24.737250",
             "last_retested_at_epoch": 1598632865.677546,
             "last_retested_at_iso": "2020-08-28T16:41:05.677546",
+            "status": "INACTIVE"
+        },
+        "infonews24.com.pl": {
+            "included_at_epoch": 1600187141.724562,
+            "included_at_iso": "2020-09-15T16:25:41.724562",
+            "last_retested_at_epoch": 1600187141.724562,
+            "last_retested_at_iso": "2020-09-15T16:25:41.724562",
             "status": "INACTIVE"
         },
         "informacja24.eu": {
@@ -2350,6 +2385,27 @@
             "included_at_iso": "2020-09-09T16:22:55.536905",
             "last_retested_at_epoch": 1599668575.536905,
             "last_retested_at_iso": "2020-09-09T16:22:55.536905",
+            "status": "INACTIVE"
+        },
+        "inpost.sklep-play.cc": {
+            "included_at_epoch": 1600187142.553586,
+            "included_at_iso": "2020-09-15T16:25:42.553586",
+            "last_retested_at_epoch": 1600187142.553586,
+            "last_retested_at_iso": "2020-09-15T16:25:42.553586",
+            "status": "INACTIVE"
+        },
+        "inpost.sklep-play.me": {
+            "included_at_epoch": 1600187142.582685,
+            "included_at_iso": "2020-09-15T16:25:42.582685",
+            "last_retested_at_epoch": 1600187142.582685,
+            "last_retested_at_iso": "2020-09-15T16:25:42.582685",
+            "status": "INACTIVE"
+        },
+        "inpost.sklep-play.net": {
+            "included_at_epoch": 1600187142.615832,
+            "included_at_iso": "2020-09-15T16:25:42.615832",
+            "last_retested_at_epoch": 1600187142.615832,
+            "last_retested_at_iso": "2020-09-15T16:25:42.615832",
             "status": "INACTIVE"
         },
         "inpost.wygeneruj-kod.me": {
