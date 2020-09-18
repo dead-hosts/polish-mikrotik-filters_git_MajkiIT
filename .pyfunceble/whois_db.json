@@ -14,6 +14,12 @@
         "expiration_date": "29-jan-2021",
         "state": "future"
     },
+    "0931tangfc.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "0ff.page": {
         "epoch": 1615248000.0,
         "expiration_date": "09-mar-2021",
@@ -88,6 +94,18 @@
         "epoch": 1626480000.0,
         "expiration_date": "17-jul-2021",
         "server": "whois.pir.org",
+        "state": "future"
+    },
+    "1314.ren": {
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
+        "server": "whois.nic.ren",
+        "state": "future"
+    },
+    "1349fk.com": {
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "151856.com": {
@@ -358,6 +376,12 @@
         "expiration_date": "24-oct-2020",
         "state": "future"
     },
+    "360wifi.com.cn": {
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "server": "whois.cnnic.cn",
+        "state": "future"
+    },
     "365dayscoffee.com": {
         "epoch": 1622851200.0,
         "expiration_date": "05-jun-2021",
@@ -518,6 +542,12 @@
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
+    "51hmedu.com": {
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "51zqwp.com": {
         "epoch": 1615852800.0,
         "expiration_date": "16-mar-2021",
@@ -554,6 +584,12 @@
         "expiration_date": "31-jan-2021",
         "state": "future"
     },
+    "58yuesao.top": {
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "server": "whois.nic.top",
+        "state": "future"
+    },
     "59055.cn": {
         "epoch": 1630800000.0,
         "expiration_date": "05-sep-2021",
@@ -586,8 +622,9 @@
         "state": "future"
     },
     "5kplayer.pl": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "60887701922.net": {
@@ -782,6 +819,18 @@
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
+    "91jzw.cn": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "server": "whois.cnnic.cn",
+        "state": "future"
+    },
+    "91luma.cn": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.cnnic.cn",
+        "state": "future"
+    },
     "968zy.com": {
         "epoch": 1629504000.0,
         "expiration_date": "21-aug-2021",
@@ -942,6 +991,12 @@
     "abacusnoida.com": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
+    "abandasy.com": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "abanscarpets.com": {
@@ -1165,9 +1220,21 @@
         "expiration_date": "23-apr-2021",
         "state": "future"
     },
+    "achar24.com": {
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "achpanel.top": {
         "epoch": 1607817600.0,
         "expiration_date": "13-dec-2020",
+        "state": "future"
+    },
+    "achuanchaolihai.cn": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "acibademinsaat.com": {
@@ -1764,14 +1831,21 @@
         "server": "whois.registro.br",
         "state": "future"
     },
+    "agenciatabletshouse.com.br": {
+        "epoch": 1839888000.0,
+        "expiration_date": "21-apr-2028",
+        "server": "whois.registro.br",
+        "state": "future"
+    },
     "agenciq.pl": {
         "epoch": 1622160000.0,
         "expiration_date": "28-may-2021",
         "state": "future"
     },
     "agencjat3.pl": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1758153600.0,
+        "expiration_date": "18-sep-2025",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "agenity.com": {
@@ -1877,6 +1951,12 @@
         "expiration_date": "25-apr-2021",
         "state": "future"
     },
+    "agrotradespecialist.com": {
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "agroturist.com.pl": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
@@ -1926,6 +2006,12 @@
     "ahansatan.com": {
         "epoch": 1628985600.0,
         "expiration_date": "15-aug-2021",
+        "state": "future"
+    },
+    "ahappydesigner.com": {
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ahdaaf.me": {
@@ -2117,6 +2203,12 @@
     "aju.pl": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
+    "ak3.net": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "akademia-kursow-rozwojowych-app.com": {
@@ -2824,8 +2916,15 @@
         "state": "future"
     },
     "allianzloans.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "alliedfiresafety.in": {
+        "epoch": 1656288000.0,
+        "expiration_date": "27-jun-2022",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "allinternetbundles.com": {
@@ -2940,6 +3039,12 @@
         "expiration_date": "13-jul-2028",
         "state": "future"
     },
+    "alphapharma247.com": {
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "alphasheild.com": {
         "epoch": 1624060800.0,
         "expiration_date": "19-jun-2021",
@@ -3021,6 +3126,12 @@
     "altopropiedades.cl": {
         "epoch": 1632700800.0,
         "expiration_date": "27-sep-2021",
+        "state": "future"
+    },
+    "altotune.uk": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "altwebsite.com.br": {
@@ -3167,6 +3278,12 @@
     "ametiseclinic.com": {
         "epoch": 1626048000.0,
         "expiration_date": "12-jul-2021",
+        "state": "future"
+    },
+    "amettatravel.com": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "amex-financials.com": {
@@ -3642,6 +3759,12 @@
         "expiration_date": "10-dec-2029",
         "state": "future"
     },
+    "antaresofficial1.com": {
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "antecedents.org": {
         "epoch": 1622764800.0,
         "expiration_date": "04-jun-2021",
@@ -3822,6 +3945,12 @@
     "anzugreifen9.live": {
         "epoch": 1629417600.0,
         "expiration_date": "20-aug-2021",
+        "state": "future"
+    },
+    "aoeen.cn": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "apadanapub.com": {
@@ -4340,6 +4469,12 @@
         "expiration_date": "11-dec-2022",
         "state": "future"
     },
+    "arquitecdyc.com": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "arquitecturasegura.mx": {
         "epoch": 1821830400.0,
         "expiration_date": "25-sep-2027",
@@ -4671,6 +4806,12 @@
         "expiration_date": "27-oct-2020",
         "state": "future"
     },
+    "associacaomda.org": {
+        "epoch": 1663891200.0,
+        "expiration_date": "23-sep-2022",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "astamvillagelodge.com": {
         "epoch": 1607990400.0,
         "expiration_date": "15-dec-2020",
@@ -4701,6 +4842,12 @@
     "astronica.org": {
         "epoch": 1675209600.0,
         "expiration_date": "01-feb-2023",
+        "state": "future"
+    },
+    "aszcasino.com": {
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "atapgafbitumen.com": {
@@ -5045,8 +5192,9 @@
         "state": "future"
     },
     "avanti-pizza.pl": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "avanttipisos.com.br": {
@@ -5131,6 +5279,12 @@
         "expiration_date": "16-dec-2020",
         "state": "future"
     },
+    "avyuktashop.com": {
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "awarialaptopa.pl": {
         "epoch": 1621814400.0,
         "expiration_date": "24-may-2021",
@@ -5154,6 +5308,12 @@
     "awningsphiladelphia.com": {
         "epoch": 1611360000.0,
         "expiration_date": "23-jan-2021",
+        "state": "future"
+    },
+    "aws-and-infra-dmain.xyz": {
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "aws50plus.pl": {
@@ -5190,6 +5350,12 @@
     "ayanshtechnology.com": {
         "epoch": 1610496000.0,
         "expiration_date": "13-jan-2021",
+        "state": "future"
+    },
+    "ayurbella.in": {
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "ayuuuda.com": {
@@ -5309,6 +5475,12 @@
     "babyandtoddlermedikit.co.za": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
+    "babyhippo.in": {
+        "epoch": 1643068800.0,
+        "expiration_date": "25-jan-2022",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "backmoniterreq.icu": {
@@ -5536,10 +5708,17 @@
         "expiration_date": "18-feb-2021",
         "state": "future"
     },
+    "banknowpro.com": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "banvar.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "banwayirc.in": {
         "epoch": 1616716800.0,
@@ -5570,6 +5749,12 @@
     "baomingxuan.com": {
         "epoch": 1630454400.0,
         "expiration_date": "01-sep-2021",
+        "state": "future"
+    },
+    "baotrammedia.info": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "baoxehoi.net": {
@@ -5663,6 +5848,12 @@
         "expiration_date": "02-mar-2021",
         "state": "future"
     },
+    "bartstoppel.com": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "barwin4.com": {
         "epoch": 1609113600.0,
         "expiration_date": "28-dec-2020",
@@ -5699,6 +5890,12 @@
     "baseflix.pl": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
+    "basementremodelingchicagoil.com": {
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "basen.biz": {
