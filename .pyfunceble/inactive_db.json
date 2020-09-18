@@ -791,6 +791,13 @@
             "last_retested_at_iso": "2020-08-31T15:22:31.848371",
             "status": "INACTIVE"
         },
+        "biedronka-promocje.eu": {
+            "included_at_epoch": 1600444191.712008,
+            "included_at_iso": "2020-09-18T15:49:51.712008",
+            "last_retested_at_epoch": 1600444191.712008,
+            "last_retested_at_iso": "2020-09-18T15:49:51.712008",
+            "status": "INACTIVE"
+        },
         "bitprofit.brokerselection.pro": {
             "included_at_epoch": 1598109505.093558,
             "included_at_iso": "2020-08-22T15:18:25.093558",
@@ -805,11 +812,25 @@
             "last_retested_at_iso": "2020-09-06T15:31:08.366239",
             "status": "INACTIVE"
         },
+        "biznesplay.biz": {
+            "included_at_epoch": 1600444192.237815,
+            "included_at_iso": "2020-09-18T15:49:52.237815",
+            "last_retested_at_epoch": 1600444192.237815,
+            "last_retested_at_iso": "2020-09-18T15:49:52.237815",
+            "status": "INACTIVE"
+        },
         "blog.internationalfertilityacademy.com": {
             "included_at_epoch": 1599406268.635259,
             "included_at_iso": "2020-09-06T15:31:08.635259",
             "last_retested_at_epoch": 1599406268.635259,
             "last_retested_at_iso": "2020-09-06T15:31:08.635259",
+            "status": "INACTIVE"
+        },
+        "blog.thewebcake.com": {
+            "included_at_epoch": 1600444192.383645,
+            "included_at_iso": "2020-09-18T15:49:52.383645",
+            "last_retested_at_epoch": 1600444192.383645,
+            "last_retested_at_iso": "2020-09-18T15:49:52.383645",
             "status": "INACTIVE"
         },
         "blog.wpvvusso.xyz": {
@@ -847,11 +868,32 @@
             "last_retested_at_iso": "2020-09-06T15:31:08.711544",
             "status": "INACTIVE"
         },
+        "bnp.coast-bank.com": {
+            "included_at_epoch": 1600444192.482392,
+            "included_at_iso": "2020-09-18T15:49:52.482392",
+            "last_retested_at_epoch": 1600444192.482392,
+            "last_retested_at_iso": "2020-09-18T15:49:52.482392",
+            "status": "INACTIVE"
+        },
         "bnpparibas-login.at": {
             "included_at_epoch": 1599406268.731957,
             "included_at_iso": "2020-09-06T15:31:08.731957",
             "last_retested_at_epoch": 1599406268.731957,
             "last_retested_at_iso": "2020-09-06T15:31:08.731957",
+            "status": "INACTIVE"
+        },
+        "bnpparibas-logowanie.at": {
+            "included_at_epoch": 1600444192.514656,
+            "included_at_iso": "2020-09-18T15:49:52.514656",
+            "last_retested_at_epoch": 1600444192.514656,
+            "last_retested_at_iso": "2020-09-18T15:49:52.514656",
+            "status": "INACTIVE"
+        },
+        "bnpparibas-secure-biznes.at": {
+            "included_at_epoch": 1600444192.54922,
+            "included_at_iso": "2020-09-18T15:49:52.549220",
+            "last_retested_at_epoch": 1600444192.54922,
+            "last_retested_at_iso": "2020-09-18T15:49:52.549220",
             "status": "INACTIVE"
         },
         "bnpparibas-secure.at": {
@@ -873,6 +915,13 @@
             "included_at_iso": "2020-09-09T16:22:41.116440",
             "last_retested_at_epoch": 1599668561.11644,
             "last_retested_at_iso": "2020-09-09T16:22:41.116440",
+            "status": "INACTIVE"
+        },
+        "boyfotos.nl": {
+            "included_at_epoch": 1600444192.90452,
+            "included_at_iso": "2020-09-18T15:49:52.904520",
+            "last_retested_at_epoch": 1600444192.90452,
+            "last_retested_at_iso": "2020-09-18T15:49:52.904520",
             "status": "INACTIVE"
         },
         "broboklan.com": {
@@ -1078,6 +1127,13 @@
             "last_retested_at_iso": "2020-09-15T15:50:59.191941",
             "status": "INACTIVE"
         },
+        "cn52267.tmweb.ru": {
+            "included_at_epoch": 1600444195.948832,
+            "included_at_iso": "2020-09-18T15:49:55.948832",
+            "last_retested_at_epoch": 1600444195.948832,
+            "last_retested_at_iso": "2020-09-18T15:49:55.948832",
+            "status": "INACTIVE"
+        },
         "colex-rowery.com.pl": {
             "included_at_epoch": 1598372091.473041,
             "included_at_iso": "2020-08-25T16:14:51.473041",
@@ -1119,6 +1175,13 @@
             "last_retested_at_epoch": 1599925531.589084,
             "last_retested_at_iso": "2020-09-12T15:45:31.589084",
             "status": "INVALID"
+        },
+        "daily-jokes.net": {
+            "included_at_epoch": 1600444197.287326,
+            "included_at_iso": "2020-09-18T15:49:57.287326",
+            "last_retested_at_epoch": 1600444197.287326,
+            "last_retested_at_iso": "2020-09-18T15:49:57.287326",
+            "status": "INACTIVE"
         },
         "dam69.tk": {
             "included_at_epoch": 1599668564.259554,
