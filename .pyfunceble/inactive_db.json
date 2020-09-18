@@ -4844,6 +4844,20 @@
             "last_retested_at_iso": "2020-08-28T18:41:15.905945",
             "status": "INACTIVE"
         },
+        "tr.kuai-go.com:8989": {
+            "included_at_epoch": 1600451443.397722,
+            "included_at_iso": "2020-09-18T17:50:43.397722",
+            "last_retested_at_epoch": 1600451443.397722,
+            "last_retested_at_iso": "2020-09-18T17:50:43.397722",
+            "status": "INVALID"
+        },
+        "tr.zhzy999.net:8989": {
+            "included_at_epoch": 1600451443.544014,
+            "included_at_iso": "2020-09-18T17:50:43.544014",
+            "last_retested_at_epoch": 1600451443.544014,
+            "last_retested_at_iso": "2020-09-18T17:50:43.544014",
+            "status": "INVALID"
+        },
         "trading-secrets.ru": {
             "included_at_epoch": 1599674223.181887,
             "included_at_iso": "2020-09-09T17:57:03.181887",
@@ -4856,6 +4870,13 @@
             "included_at_iso": "2020-09-03T17:35:25.489138",
             "last_retested_at_epoch": 1599154525.489138,
             "last_retested_at_iso": "2020-09-03T17:35:25.489138",
+            "status": "INACTIVE"
+        },
+        "triumphboard.net.pl": {
+            "included_at_epoch": 1600451443.350657,
+            "included_at_iso": "2020-09-18T17:50:43.350657",
+            "last_retested_at_epoch": 1600451443.350657,
+            "last_retested_at_iso": "2020-09-18T17:50:43.350657",
             "status": "INACTIVE"
         },
         "tropiccritics.com": {
@@ -5082,6 +5103,13 @@
             "last_retested_at_iso": "2020-08-28T19:12:40.619888",
             "status": "INACTIVE"
         },
+        "virginia-education.com": {
+            "included_at_epoch": 1600451447.667264,
+            "included_at_iso": "2020-09-18T17:50:47.667264",
+            "last_retested_at_epoch": 1600451447.667264,
+            "last_retested_at_iso": "2020-09-18T17:50:47.667264",
+            "status": "INACTIVE"
+        },
         "vovovboon.ml": {
             "included_at_epoch": 1599674229.436596,
             "included_at_iso": "2020-09-09T17:57:09.436596",
@@ -5115,6 +5143,13 @@
             "included_at_iso": "2020-08-25T19:05:42.689827",
             "last_retested_at_epoch": 1598641984.893508,
             "last_retested_at_iso": "2020-08-28T19:13:04.893508",
+            "status": "INACTIVE"
+        },
+        "wachoviamotors.pl": {
+            "included_at_epoch": 1600451448.937683,
+            "included_at_iso": "2020-09-18T17:50:48.937683",
+            "last_retested_at_epoch": 1600451448.937683,
+            "last_retested_at_iso": "2020-09-18T17:50:48.937683",
             "status": "INACTIVE"
         },
         "wakacje.allegro.news": {
