@@ -1834,6 +1834,13 @@
             "last_retested_at_iso": "2020-08-28T16:40:12.706617",
             "status": "INACTIVE"
         },
+        "gazetawojewodzka.cal24.pl": {
+            "included_at_epoch": 1600446264.266221,
+            "included_at_iso": "2020-09-18T16:24:24.266221",
+            "last_retested_at_epoch": 1600446264.266221,
+            "last_retested_at_iso": "2020-09-18T16:24:24.266221",
+            "status": "INACTIVE"
+        },
         "gazo-progress.com.pl": {
             "included_at_epoch": 1600187135.607031,
             "included_at_iso": "2020-09-15T16:25:35.607031",
@@ -1874,6 +1881,13 @@
             "included_at_iso": "2020-09-15T16:25:36.306246",
             "last_retested_at_epoch": 1600187136.306246,
             "last_retested_at_iso": "2020-09-15T16:25:36.306246",
+            "status": "INACTIVE"
+        },
+        "glob-tech.com.pl": {
+            "included_at_epoch": 1600446265.426541,
+            "included_at_iso": "2020-09-18T16:24:25.426541",
+            "last_retested_at_epoch": 1600446265.426541,
+            "last_retested_at_iso": "2020-09-18T16:24:25.426541",
             "status": "INACTIVE"
         },
         "gloosuj-pomagaj.eu": {
@@ -1930,6 +1944,13 @@
             "included_at_iso": "2020-08-25T17:04:50.606909",
             "last_retested_at_epoch": 1598632828.744592,
             "last_retested_at_iso": "2020-08-28T16:40:28.744592",
+            "status": "INACTIVE"
+        },
+        "gratissos.com": {
+            "included_at_epoch": 1600446266.201531,
+            "included_at_iso": "2020-09-18T16:24:26.201531",
+            "last_retested_at_epoch": 1600446266.201531,
+            "last_retested_at_iso": "2020-09-18T16:24:26.201531",
             "status": "INACTIVE"
         },
         "greenlabik.pl": {
@@ -1993,6 +2014,13 @@
             "included_at_iso": "2020-09-06T16:30:49.355041",
             "last_retested_at_epoch": 1599409849.355041,
             "last_retested_at_iso": "2020-09-06T16:30:49.355041",
+            "status": "INACTIVE"
+        },
+        "homgar.pl": {
+            "included_at_epoch": 1600446268.057718,
+            "included_at_iso": "2020-09-18T16:24:28.057718",
+            "last_retested_at_epoch": 1600446268.057718,
+            "last_retested_at_iso": "2020-09-18T16:24:28.057718",
             "status": "INACTIVE"
         },
         "hostfeboe.n4t.co": {
@@ -2092,6 +2120,13 @@
             "last_retested_at_epoch": 1599668573.690072,
             "last_retested_at_iso": "2020-09-09T16:22:53.690072",
             "status": "INVALID"
+        },
+        "icloud.find-ip.us": {
+            "included_at_epoch": 1600446268.943094,
+            "included_at_iso": "2020-09-18T16:24:28.943094",
+            "last_retested_at_epoch": 1600446268.943094,
+            "last_retested_at_iso": "2020-09-18T16:24:28.943094",
+            "status": "INACTIVE"
         },
         "id.user-access.online": {
             "included_at_epoch": 1598891405.031195,
