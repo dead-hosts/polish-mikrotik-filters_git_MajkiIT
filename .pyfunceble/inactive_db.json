@@ -1267,6 +1267,13 @@
             "last_retested_at_iso": "2020-08-28T15:52:20.393472",
             "status": "INACTIVE"
         },
+        "dketrade.top": {
+            "included_at_epoch": 1600445229.461705,
+            "included_at_iso": "2020-09-18T16:07:09.461705",
+            "last_retested_at_epoch": 1600445229.461705,
+            "last_retested_at_iso": "2020-09-18T16:07:09.461705",
+            "status": "INACTIVE"
+        },
         "dnn.alibuf.com:7723": {
             "included_at_epoch": 1599666465.361184,
             "included_at_iso": "2020-09-09T15:47:45.361184",
@@ -1330,6 +1337,13 @@
             "last_retested_at_iso": "2020-09-09T16:05:06.655996",
             "status": "INACTIVE"
         },
+        "dotpay.up-poczta-polska.net": {
+            "included_at_epoch": 1600445230.296113,
+            "included_at_iso": "2020-09-18T16:07:10.296113",
+            "last_retested_at_epoch": 1600445230.296113,
+            "last_retested_at_iso": "2020-09-18T16:07:10.296113",
+            "status": "INACTIVE"
+        },
         "doulawpoznaniu.pl": {
             "included_at_epoch": 1598888605.630355,
             "included_at_iso": "2020-08-31T15:43:25.630355",
@@ -1379,6 +1393,13 @@
             "last_retested_at_iso": "2020-09-09T16:22:45.349854",
             "status": "INACTIVE"
         },
+        "durakbufecengelkoy.com": {
+            "included_at_epoch": 1600445231.146178,
+            "included_at_iso": "2020-09-18T16:07:11.146178",
+            "last_retested_at_epoch": 1600445231.146178,
+            "last_retested_at_iso": "2020-09-18T16:07:11.146178",
+            "status": "INACTIVE"
+        },
         "dziennikmiasta.098.pl": {
             "included_at_epoch": 1599149196.149732,
             "included_at_iso": "2020-09-03T16:06:36.149732",
@@ -1412,6 +1433,13 @@
             "included_at_iso": "2020-08-28T16:22:09.612379",
             "last_retested_at_epoch": 1598631729.612379,
             "last_retested_at_iso": "2020-08-28T16:22:09.612379",
+            "status": "INACTIVE"
+        },
+        "e-zaginioneosoby.eu": {
+            "included_at_epoch": 1600445233.630269,
+            "included_at_iso": "2020-09-18T16:07:13.630269",
+            "last_retested_at_epoch": 1600445233.630269,
+            "last_retested_at_iso": "2020-09-18T16:07:13.630269",
             "status": "INACTIVE"
         },
         "e.paczkxups.com": {
@@ -1596,6 +1624,13 @@
             "last_retested_at_iso": "2020-08-28T16:22:27.264526",
             "status": "INACTIVE"
         },
+        "facebookpl.eu": {
+            "included_at_epoch": 1600445233.990276,
+            "included_at_iso": "2020-09-18T16:07:13.990276",
+            "last_retested_at_epoch": 1600445233.990276,
+            "last_retested_at_iso": "2020-09-18T16:07:13.990276",
+            "status": "INACTIVE"
+        },
         "faithfull.kdm.pl": {
             "included_at_epoch": 1598631748.015007,
             "included_at_iso": "2020-08-28T16:22:28.015007",
@@ -1608,6 +1643,20 @@
             "included_at_iso": "2020-09-03T16:06:39.015239",
             "last_retested_at_epoch": 1599149199.015239,
             "last_retested_at_iso": "2020-09-03T16:06:39.015239",
+            "status": "INACTIVE"
+        },
+        "fakty-alert.eu": {
+            "included_at_epoch": 1600445234.264177,
+            "included_at_iso": "2020-09-18T16:07:14.264177",
+            "last_retested_at_epoch": 1600445234.264177,
+            "last_retested_at_iso": "2020-09-18T16:07:14.264177",
+            "status": "INACTIVE"
+        },
+        "faktynews-24.eu": {
+            "included_at_epoch": 1600445234.349447,
+            "included_at_iso": "2020-09-18T16:07:14.349447",
+            "last_retested_at_epoch": 1600445234.349447,
+            "last_retested_at_iso": "2020-09-18T16:07:14.349447",
             "status": "INACTIVE"
         },
         "far.gaploop.at": {

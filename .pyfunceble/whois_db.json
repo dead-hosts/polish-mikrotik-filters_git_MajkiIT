@@ -13545,7 +13545,8 @@
     "deliveryfun.com.ar": {
         "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
-        "state": "future"
+        "server": "whois.nic.ar",
+        "state": "past"
     },
     "dellapostalight.it": {
         "epoch": 1605916800.0,
@@ -13640,6 +13641,12 @@
     "denisebuss.com": {
         "epoch": 1618963200.0,
         "expiration_date": "21-apr-2021",
+        "state": "future"
+    },
+    "denizliemlakevi.com": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "denizyahci.com": {
@@ -13764,6 +13771,12 @@
     "designproper.com": {
         "epoch": 1611446400.0,
         "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
+    "designsaday.com": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "designsbykarenpolack.com": {
@@ -14063,6 +14076,12 @@
         "expiration_date": "21-nov-2020",
         "state": "future"
     },
+    "dialmyca.com": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "dialogchelm.pl": {
         "epoch": 1622937600.0,
         "expiration_date": "06-jun-2021",
@@ -14152,6 +14171,12 @@
     "dietetykawyszkow.pl": {
         "epoch": 1614643200.0,
         "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "dietlee.com": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dietstars.pro": {
@@ -14383,6 +14408,18 @@
         "expiration_date": "30-jan-2022",
         "state": "future"
     },
+    "divisionart.pl": {
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "divorcelink.com": {
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "dixiemotorsllc.com": {
         "epoch": 1622419200.0,
         "expiration_date": "31-may-2021",
@@ -14463,6 +14500,12 @@
     "dkgraf.pl": {
         "epoch": 1617062400.0,
         "expiration_date": "30-mar-2021",
+        "state": "future"
+    },
+    "dkjlife.hk": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "server": "whois.hkirc.hk",
         "state": "future"
     },
     "dkoo11.com": {
@@ -14716,6 +14759,12 @@
         "expiration_date": "11-apr-2021",
         "state": "future"
     },
+    "dogshomeboardingglasgow.com": {
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "dogulcowo.pl": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
@@ -14820,6 +14869,12 @@
         "server": "whois.nic.it",
         "state": "future"
     },
+    "domiciliazionesedelegalerecapitopostalemilano.it": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
     "domineacozinha.com": {
         "epoch": 1626220800.0,
         "expiration_date": "14-jul-2021",
@@ -14869,6 +14924,12 @@
     "dongguanjixie.com": {
         "epoch": 1608681600.0,
         "expiration_date": "23-dec-2020",
+        "state": "future"
+    },
+    "donghobinhminh.com": {
+        "epoch": 1641168000.0,
+        "expiration_date": "03-jan-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "donicezmarmuru.pl": {
@@ -15337,6 +15398,12 @@
         "expiration_date": "12-may-2021",
         "state": "future"
     },
+    "drbutyonline.com": {
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "dreamlifemyrtlebeach.com": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
@@ -15404,8 +15471,9 @@
         "state": "future"
     },
     "drinkiprzepisy.pl": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "drinksangola.com": {
@@ -15578,6 +15646,18 @@
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
+    "dtsflorida.com": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "dtyl.shop": {
+        "epoch": 1691625600.0,
+        "expiration_date": "10-aug-2023",
+        "server": "whois.nic.shop",
+        "state": "future"
+    },
     "dualstudio.com.mx": {
         "epoch": 1622851200.0,
         "expiration_date": "05-jun-2021",
@@ -15694,6 +15774,12 @@
     "durationpress.com": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
+    "durbanbusinesscollege.co.za": {
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "server": "whois.registry.net.za",
         "state": "future"
     },
     "durrye.com": {
@@ -17323,6 +17409,12 @@
         "expiration_date": "14-may-2021",
         "state": "future"
     },
+    "elrofanfoods.com": {
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "elsa.org.rs": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
@@ -18021,6 +18113,12 @@
         "expiration_date": "19-jun-2021",
         "state": "future"
     },
+    "equipamentosmix.com": {
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "equipamentosmix.com.br": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
@@ -18365,6 +18463,12 @@
     "esyfloresyonline.pl": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
+    "esystechs.com": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "etawala.com": {
@@ -18902,6 +19006,12 @@
         "expiration_date": "13-aug-2022",
         "state": "future"
     },
+    "ezzll.com": {
+        "epoch": 1655510400.0,
+        "expiration_date": "18-jun-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "ezzw.cn": {
         "epoch": 1625702400.0,
         "expiration_date": "08-jul-2021",
@@ -18941,6 +19051,12 @@
     "faberville.com": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "fabfamtrips.com": {
+        "epoch": 1641686400.0,
+        "expiration_date": "09-jan-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fabfastfashion.com": {
