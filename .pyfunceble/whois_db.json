@@ -48805,6 +48805,12 @@
         "expiration_date": "01-nov-2020",
         "state": "future"
     },
+    "reseller-demo-website.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "reservasbestco.com.br": {
         "epoch": 1625875200.0,
         "expiration_date": "10-jul-2021",
@@ -48892,6 +48898,12 @@
     "retrocycle.cc": {
         "epoch": 1622419200.0,
         "expiration_date": "31-may-2021",
+        "state": "future"
+    },
+    "retrogamingfactory.com": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "reveillefunding.com": {
@@ -49007,6 +49019,12 @@
         "expiration_date": "25-mar-2021",
         "state": "future"
     },
+    "rhyton-building.com": {
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "riamusports.com": {
         "epoch": 1610582400.0,
         "expiration_date": "14-jan-2021",
@@ -49117,7 +49135,8 @@
     "rippley-services.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "riqam.com": {
         "epoch": 1627257600.0,
@@ -49130,8 +49149,9 @@
         "state": "future"
     },
     "risingindianews.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "riskxai.com": {
@@ -49687,6 +49707,12 @@
         "server": "whois.pir.org",
         "state": "future"
     },
+    "rubycityvietnam.com": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "rudypazur.pl": {
         "epoch": 1612915200.0,
         "expiration_date": "10-feb-2021",
@@ -49736,7 +49762,8 @@
     "run-germany.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "runaddict.pl": {
         "epoch": 1602028800.0,
@@ -49856,6 +49883,12 @@
         "expiration_date": "23-jun-2021",
         "state": "future"
     },
+    "s8powazkowska-modlinska.pl": {
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "s9kkremkr0.com": {
         "epoch": 1621296000.0,
         "expiration_date": "18-may-2021",
@@ -49953,6 +49986,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "saffronconsulting.in": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "server": "whois.registry.in",
+        "state": "future"
+    },
     "saflairtravel.co.za": {
         "epoch": 1623628800.0,
         "expiration_date": "14-jun-2021",
@@ -50036,6 +50075,12 @@
     "salesray.com": {
         "epoch": 1691452800.0,
         "expiration_date": "08-aug-2023",
+        "state": "future"
+    },
+    "salessupremo.com": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sallyabbeyarts.com": {
@@ -50406,6 +50451,12 @@
     "sayar.in": {
         "epoch": 1646006400.0,
         "expiration_date": "28-feb-2022",
+        "state": "future"
+    },
+    "sazedast.com": {
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sbhosale.com": {
@@ -50847,6 +50898,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "senyumdesa.org": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "seoair.ru": {
         "epoch": 1625356800.0,
         "expiration_date": "04-jul-2021",
@@ -51172,9 +51229,21 @@
         "expiration_date": "09-mar-2021",
         "state": "future"
     },
+    "shahqutubuddin.org": {
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "shahrakyar.com": {
         "epoch": 1615334400.0,
         "expiration_date": "10-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "shahramookht.com": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -51420,6 +51489,12 @@
         "expiration_date": "26-apr-2021",
         "state": "future"
     },
+    "showboxchannel.com": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "showltem.pl": {
         "epoch": 1615766400.0,
         "expiration_date": "15-mar-2021",
@@ -51461,6 +51536,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "shreedhiglobal.in": {
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
+        "server": "whois.registry.in",
+        "state": "future"
+    },
     "shreeharisales.org": {
         "epoch": 1625529600.0,
         "expiration_date": "06-jul-2021",
@@ -51469,6 +51550,12 @@
     "shreejiclasses.in": {
         "epoch": 1614643200.0,
         "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "shriharidyes.com": {
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "shruboakframing.com": {
@@ -51582,6 +51669,12 @@
     "signaramanmb.com": {
         "epoch": 1655942400.0,
         "expiration_date": "23-jun-2022",
+        "state": "future"
+    },
+    "signitivecircuits.com": {
+        "epoch": 1654387200.0,
+        "expiration_date": "05-jun-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sihansandhu.com": {
@@ -51867,9 +51960,21 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "siyahkalemresim.com": {
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "sjhoops.com": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
+    "sjzym.com": {
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "skare.net": {
@@ -52149,6 +52254,12 @@
         "expiration_date": "10-jan-2021",
         "state": "future"
     },
+    "slimerix.pl": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "slimgenemd.com": {
         "epoch": 1611705600.0,
         "expiration_date": "27-jan-2021",
@@ -52253,6 +52364,12 @@
         "epoch": 1721001600.0,
         "expiration_date": "15-jul-2024",
         "server": "whois.cira.ca",
+        "state": "future"
+    },
+    "smartfarmsky.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "smartfriendz.com": {
@@ -52448,6 +52565,12 @@
         "expiration_date": "02-mar-2021",
         "state": "future"
     },
+    "sniadaniowaklasa.pl": {
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "sniadanioweinfo.pl": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
@@ -52539,6 +52662,12 @@
         "expiration_date": "05-nov-2020",
         "state": "future"
     },
+    "softgon.com": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "softmania.pl": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
@@ -52621,8 +52750,9 @@
         "state": "future"
     },
     "solarsun.com.pl": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "solectwoniestachow.pl": {
@@ -52663,6 +52793,12 @@
     "solmec.com.ar": {
         "epoch": 1626220800.0,
         "expiration_date": "14-jul-2021",
+        "state": "future"
+    },
+    "solsacha.com": {
+        "epoch": 1730851200.0,
+        "expiration_date": "06-nov-2024",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "soltysprzeginianarodowa.pl": {
@@ -52857,6 +52993,12 @@
     "soundshow.pl": {
         "epoch": 1605139200.0,
         "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
+    "southeastbreakingnews.com.ng": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "server": "whois.nic.net.ng",
         "state": "future"
     },
     "southerntrailsexpeditions.com": {
@@ -53442,6 +53584,12 @@
         "expiration_date": "31-aug-2020",
         "state": "future"
     },
+    "st47.net": {
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "stackhut.co": {
         "epoch": 1610496000.0,
         "expiration_date": "13-jan-2021",
@@ -53520,6 +53668,12 @@
         "expiration_date": "21-feb-2021",
         "state": "future"
     },
+    "star-speed.vip": {
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
+        "server": "whois.nic.vip",
+        "state": "future"
+    },
     "starc.se": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
@@ -53546,10 +53700,22 @@
         "expiration_date": "03-jan-2021",
         "state": "future"
     },
+    "starmach.com.pl": {
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "starpush15.club": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
         "server": "whois.nic.club",
+        "state": "future"
+    },
+    "starrcoin.net": {
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "starrpromotions.co.uk": {
@@ -53660,6 +53826,18 @@
     "steam-wallet-money.com": {
         "epoch": 1620950400.0,
         "expiration_date": "14-may-2021",
+        "state": "future"
+    },
+    "stechman.com.br": {
+        "epoch": 1725580800.0,
+        "expiration_date": "06-sep-2024",
+        "server": "whois.registro.br",
+        "state": "future"
+    },
+    "steelbeauty.london": {
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
+        "server": "whois.nic.london",
         "state": "future"
     },
     "steelbuildings.com": {
@@ -53842,6 +54020,12 @@
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
+    "stomid.cn": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "server": "whois.cnnic.cn",
+        "state": "future"
+    },
     "ston.co": {
         "epoch": 1622764800.0,
         "expiration_date": "04-jun-2021",
@@ -53962,6 +54146,12 @@
     "strefakina.pl": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
+    "strefamlodych.pl": {
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "strefarho.pl": {
@@ -54489,6 +54679,12 @@
     "sustainabilityparadigm.com": {
         "epoch": 1627516800.0,
         "expiration_date": "29-jul-2021",
+        "state": "future"
+    },
+    "sustainablecities.net": {
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "susumiller.com": {

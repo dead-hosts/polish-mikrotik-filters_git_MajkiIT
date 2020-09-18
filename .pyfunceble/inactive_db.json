@@ -4235,6 +4235,13 @@
             "last_retested_at_iso": "2020-09-09T17:22:27.299336",
             "status": "INACTIVE"
         },
+        "rowanyne.ooo": {
+            "included_at_epoch": 1600450409.740372,
+            "included_at_iso": "2020-09-18T17:33:29.740372",
+            "last_retested_at_epoch": 1600450409.740372,
+            "last_retested_at_iso": "2020-09-18T17:33:29.740372",
+            "status": "INACTIVE"
+        },
         "rt4e34.win": {
             "included_at_epoch": 1598119254.206624,
             "included_at_iso": "2020-08-22T18:00:54.206624",
@@ -4361,6 +4368,13 @@
             "last_retested_at_iso": "2020-09-06T17:28:09.795667",
             "status": "INACTIVE"
         },
+        "secure-eplatnosc.com": {
+            "included_at_epoch": 1600450411.639518,
+            "included_at_iso": "2020-09-18T17:33:31.639518",
+            "last_retested_at_epoch": 1600450411.639518,
+            "last_retested_at_iso": "2020-09-18T17:33:31.639518",
+            "status": "INACTIVE"
+        },
         "secure-getinbank.at": {
             "included_at_epoch": 1599930794.599778,
             "included_at_iso": "2020-09-12T17:13:14.599778",
@@ -4375,11 +4389,32 @@
             "last_retested_at_iso": "2020-09-06T17:28:09.869528",
             "status": "INACTIVE"
         },
+        "secure.bankofamreica-online.helpsuite.kamilogistics.com": {
+            "included_at_epoch": 1600450411.59482,
+            "included_at_iso": "2020-09-18T17:33:31.594820",
+            "last_retested_at_epoch": 1600450411.59482,
+            "last_retested_at_iso": "2020-09-18T17:33:31.594820",
+            "status": "INACTIVE"
+        },
+        "securescout.de": {
+            "included_at_epoch": 1600450411.69639,
+            "included_at_iso": "2020-09-18T17:33:31.696390",
+            "last_retested_at_epoch": 1600450411.69639,
+            "last_retested_at_iso": "2020-09-18T17:33:31.696390",
+            "status": "INACTIVE"
+        },
         "sensecafe.com.pl": {
             "included_at_epoch": 1598380942.064226,
             "included_at_iso": "2020-08-25T18:42:22.064226",
             "last_retested_at_epoch": 1598638260.475019,
             "last_retested_at_iso": "2020-08-28T18:11:00.475019",
+            "status": "INACTIVE"
+        },
+        "sensisslupca.pl": {
+            "included_at_epoch": 1600450411.837861,
+            "included_at_iso": "2020-09-18T17:33:31.837861",
+            "last_retested_at_epoch": 1600450411.837861,
+            "last_retested_at_iso": "2020-09-18T17:33:31.837861",
             "status": "INACTIVE"
         },
         "seobar.pl": {
@@ -4408,6 +4443,13 @@
             "included_at_iso": "2020-09-09T17:39:37.320444",
             "last_retested_at_epoch": 1599673177.320444,
             "last_retested_at_iso": "2020-09-09T17:39:37.320444",
+            "status": "INACTIVE"
+        },
+        "sigma1.eu": {
+            "included_at_epoch": 1600450414.107339,
+            "included_at_iso": "2020-09-18T17:33:34.107339",
+            "last_retested_at_epoch": 1600450414.107339,
+            "last_retested_at_iso": "2020-09-18T17:33:34.107339",
             "status": "INACTIVE"
         },
         "sklep-agricar.pl": {
@@ -4515,6 +4557,13 @@
             "last_retested_at_iso": "2020-08-31T17:32:54.797910",
             "status": "INACTIVE"
         },
+        "staging.baya.vn:8080": {
+            "included_at_epoch": 1600450417.509197,
+            "included_at_iso": "2020-09-18T17:33:37.509197",
+            "last_retested_at_epoch": 1600450417.509197,
+            "last_retested_at_iso": "2020-09-18T17:33:37.509197",
+            "status": "INVALID"
+        },
         "steamcammunnity.ru.com": {
             "included_at_epoch": 1598638294.840099,
             "included_at_iso": "2020-08-28T18:11:34.840099",
@@ -4583,6 +4632,13 @@
             "included_at_iso": "2020-08-22T18:30:47.863477",
             "last_retested_at_epoch": 1598640041.483961,
             "last_retested_at_iso": "2020-08-28T18:40:41.483961",
+            "status": "INACTIVE"
+        },
+        "symulator-lotow.pl": {
+            "included_at_epoch": 1600450419.945209,
+            "included_at_iso": "2020-09-18T17:33:39.945209",
+            "last_retested_at_epoch": 1600450419.945209,
+            "last_retested_at_iso": "2020-09-18T17:33:39.945209",
             "status": "INACTIVE"
         },
         "system-payu.online": {
