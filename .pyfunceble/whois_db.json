@@ -33996,6 +33996,12 @@
         "expiration_date": "01-apr-2021",
         "state": "future"
     },
+    "londontrade.exchange": {
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "server": "whois.nic.exchange",
+        "state": "future"
+    },
     "longdate.pl": {
         "epoch": 1628467200.0,
         "expiration_date": "09-aug-2021",
@@ -34137,6 +34143,12 @@
     "lovejoole.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
+        "state": "future"
+    },
+    "lovekness.cn": {
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "lovemark.ro": {
@@ -34855,6 +34867,12 @@
         "server": "whois.registro.br",
         "state": "future"
     },
+    "maisshake.com.br": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "server": "whois.registro.br",
+        "state": "future"
+    },
     "maisvalorseguroseimoveis.com.br": {
         "epoch": 1623628800.0,
         "expiration_date": "14-jun-2021",
@@ -35088,6 +35106,12 @@
         "expiration_date": "05-nov-2020",
         "state": "future"
     },
+    "manuelrozas.cl": {
+        "epoch": 1639872000.0,
+        "expiration_date": "19-dec-2021",
+        "server": "whois.nic.cl",
+        "state": "future"
+    },
     "manuesr.com": {
         "epoch": 1613347200.0,
         "expiration_date": "15-feb-2021",
@@ -35276,8 +35300,9 @@
         "state": "future"
     },
     "markbess.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "markelliotson.com": {
@@ -35450,6 +35475,12 @@
     "masazstarogard.com.pl": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "mascolokos.com": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "maseczki.org": {
@@ -36042,6 +36073,12 @@
         "expiration_date": "24-apr-2021",
         "state": "future"
     },
+    "medical-library.org": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "medicaltours.pl": {
         "epoch": 1615766400.0,
         "expiration_date": "15-mar-2021",
@@ -36123,6 +36160,12 @@
     "medyamaxafrica.info": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
+    "medycyna-naturalna24.com": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "medycznapolska.pl": {
@@ -36329,6 +36372,12 @@
     "mengo.org": {
         "epoch": 1629331200.0,
         "expiration_date": "19-aug-2021",
+        "state": "future"
+    },
+    "mengyuanclub.cn": {
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "menjivarconstruction.com": {
@@ -36539,7 +36588,8 @@
     "mezur4.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "mfevr.com": {
         "epoch": 1630195200.0,
@@ -36610,6 +36660,12 @@
     "miastadwazero.pl": {
         "epoch": 1623628800.0,
         "expiration_date": "14-jun-2021",
+        "state": "future"
+    },
+    "miasto24.waw.pl": {
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "mibora.fr": {
@@ -37063,6 +37119,12 @@
         "expiration_date": "31-may-2021",
         "state": "future"
     },
+    "miszusha.com": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "mitienda.com.ar": {
         "epoch": 1624320000.0,
         "expiration_date": "22-jun-2021",
@@ -37236,6 +37298,12 @@
         "expiration_date": "28-may-2021",
         "state": "future"
     },
+    "mobile-global-apps-storage.life": {
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.nic.life",
+        "state": "future"
+    },
     "mobile-global-apps-store.life": {
         "epoch": 1628121600.0,
         "expiration_date": "05-aug-2021",
@@ -37347,8 +37415,9 @@
         "state": "future"
     },
     "mobstarter.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mobverify.com": {
@@ -37372,8 +37441,9 @@
         "state": "future"
     },
     "modelistbarnaul.ru": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "modelkompetencyjny.pl": {
@@ -38058,6 +38128,12 @@
         "expiration_date": "24-jun-2020",
         "state": "future"
     },
+    "mtxdigitalstore.com": {
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "muaxuanmedia.com": {
         "epoch": 1655078400.0,
         "expiration_date": "13-jun-2022",
@@ -38395,6 +38471,12 @@
         "expiration_date": "16-mar-2022",
         "state": "future"
     },
+    "myinstantguru.com": {
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "myinvests.pl": {
         "epoch": 1609372800.0,
         "expiration_date": "31-dec-2020",
@@ -38497,6 +38579,12 @@
     "mystudycanada.com": {
         "epoch": 1613347200.0,
         "expiration_date": "15-feb-2021",
+        "state": "future"
+    },
+    "mystylu.com.tw": {
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.twnic.net.tw",
         "state": "future"
     },
     "mysyrowicz.com": {
@@ -38667,6 +38755,12 @@
         "expiration_date": "01-aug-2020",
         "state": "past"
     },
+    "najlepsze-oferty.com": {
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "najlepszebiurorachunkowe.pl": {
         "epoch": 1592092800.0,
         "expiration_date": "14-jun-2020",
@@ -38802,6 +38896,12 @@
     "nanomineraller.com": {
         "epoch": 1619481600.0,
         "expiration_date": "27-apr-2021",
+        "state": "future"
+    },
+    "nanopro-group.in": {
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "napolitransportes.com.br": {
@@ -39337,6 +39437,12 @@
         "expiration_date": "16-dec-2020",
         "state": "future"
     },
+    "nesterowicz.pl": {
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "netdobrasil.net": {
         "epoch": 1623628800.0,
         "expiration_date": "14-jun-2021",
@@ -39647,6 +39753,12 @@
         "expiration_date": "27-may-2021",
         "state": "future"
     },
+    "ngothuyspa.com": {
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "ngoxcompany.com": {
         "epoch": 1627948800.0,
         "expiration_date": "03-aug-2021",
@@ -39747,6 +39859,12 @@
     "nielukrowana.pl": {
         "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
+        "state": "future"
+    },
+    "nieziemskie-rabaty.com": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nightcheats.org": {
@@ -39972,6 +40090,12 @@
         "expiration_date": "03-jul-2021",
         "state": "future"
     },
+    "nnd2020.com": {
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "nnkml.com": {
         "epoch": 1629072000.0,
         "expiration_date": "16-aug-2021",
@@ -40154,8 +40278,9 @@
         "state": "future"
     },
     "norton.pl": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "nortonlilly.info": {
@@ -40256,7 +40381,8 @@
     "novits4.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "novumedical.pl": {
         "epoch": 1605657600.0,
@@ -40448,6 +40574,12 @@
         "expiration_date": "23-jan-2021",
         "state": "future"
     },
+    "nubul.org": {
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "nucleokardecistalace.org.br": {
         "epoch": 1631491200.0,
         "expiration_date": "13-sep-2021",
@@ -40487,7 +40619,8 @@
     "nuskin.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "nutqauytva1g.com": {
         "epoch": 1595289600.0,
@@ -40506,6 +40639,12 @@
         "expiration_date": "30-jun-2020",
         "server": "whois.verisign-grs.com",
         "state": "past"
+    },
+    "nutricaorenal.com.br": {
+        "epoch": 1849219200.0,
+        "expiration_date": "07-aug-2028",
+        "server": "whois.registro.br",
+        "state": "future"
     },
     "nutricionsantacruz.com": {
         "epoch": 1643414400.0,
@@ -40542,6 +40681,12 @@
         "expiration_date": "03-jul-2021",
         "state": "future"
     },
+    "nxsgroup.co": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
     "nxtfdata.xyz": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
@@ -40566,8 +40711,9 @@
         "state": "past"
     },
     "nypthealing.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nysos.se": {
@@ -40610,6 +40756,12 @@
     "oazaborek.pl": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
+    "obeidmachinery.com": {
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "oberonapps.org": {
@@ -40672,6 +40824,12 @@
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
+    "oceanbm.ca": {
+        "epoch": 1643846400.0,
+        "expiration_date": "03-feb-2022",
+        "server": "whois.cira.ca",
+        "state": "future"
+    },
     "oceans-news.com": {
         "epoch": 1621036800.0,
         "expiration_date": "15-may-2021",
@@ -40710,6 +40868,12 @@
     "oczymagraffiti.pl": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "odchudzanie-ranking2020.com": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "odchudzaniewielotorowe.pl": {
@@ -40799,6 +40963,12 @@
         "epoch": 1631059200.0,
         "expiration_date": "08-sep-2021",
         "server": "whois.nic.space",
+        "state": "future"
+    },
+    "oferty-dnia.com": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "offerhungama.in": {
