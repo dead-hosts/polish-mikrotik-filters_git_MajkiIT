@@ -12397,6 +12397,13 @@
             "last_retested_at_iso": "2020-09-15T19:22:03.940050",
             "status": "INACTIVE"
         },
+        "www.pse-polnoc.pl": {
+            "included_at_epoch": 1600717869.975834,
+            "included_at_iso": "2020-09-21T19:51:09.975834",
+            "last_retested_at_epoch": 1600717869.975834,
+            "last_retested_at_iso": "2020-09-21T19:51:09.975834",
+            "status": "INACTIVE"
+        },
         "www.pubtechpoland.com": {
             "included_at_epoch": 1600197724.057366,
             "included_at_iso": "2020-09-15T19:22:04.057366",
@@ -12439,6 +12446,13 @@
             "last_retested_at_iso": "2020-09-09T19:23:53.705055",
             "status": "INACTIVE"
         },
+        "www.pyracity.info": {
+            "included_at_epoch": 1600717870.173224,
+            "included_at_iso": "2020-09-21T19:51:10.173224",
+            "last_retested_at_epoch": 1600717870.173224,
+            "last_retested_at_iso": "2020-09-21T19:51:10.173224",
+            "status": "INACTIVE"
+        },
         "www.pzu-sa.eu": {
             "included_at_epoch": 1599679433.844356,
             "included_at_iso": "2020-09-09T19:23:53.844356",
@@ -12465,6 +12479,13 @@
             "included_at_iso": "2020-09-18T19:34:35.029837",
             "last_retested_at_epoch": 1600457675.029837,
             "last_retested_at_iso": "2020-09-18T19:34:35.029837",
+            "status": "INACTIVE"
+        },
+        "www.radiocolonialfm.com.pe": {
+            "included_at_epoch": 1600717870.44566,
+            "included_at_iso": "2020-09-21T19:51:10.445660",
+            "last_retested_at_epoch": 1600717870.44566,
+            "last_retested_at_iso": "2020-09-21T19:51:10.445660",
             "status": "INACTIVE"
         },
         "www.rainxpose1.live": {
@@ -12803,11 +12824,32 @@
             "last_retested_at_iso": "2020-08-28T21:48:38.057990",
             "status": "INACTIVE"
         },
+        "www.santanderbank24.online": {
+            "included_at_epoch": 1600717872.338551,
+            "included_at_iso": "2020-09-21T19:51:12.338551",
+            "last_retested_at_epoch": 1600717872.338551,
+            "last_retested_at_iso": "2020-09-21T19:51:12.338551",
+            "status": "INACTIVE"
+        },
+        "www.sasiedzkagazeta.eu": {
+            "included_at_epoch": 1600717872.419486,
+            "included_at_iso": "2020-09-21T19:51:12.419486",
+            "last_retested_at_epoch": 1600717872.419486,
+            "last_retested_at_iso": "2020-09-21T19:51:12.419486",
+            "status": "INACTIVE"
+        },
         "www.sasiedzkagazeta.pl": {
             "included_at_epoch": 1600457677.367221,
             "included_at_iso": "2020-09-18T19:34:37.367221",
             "last_retested_at_epoch": 1600457677.367221,
             "last_retested_at_iso": "2020-09-18T19:34:37.367221",
+            "status": "INACTIVE"
+        },
+        "www.sasiedzkiewiesci.cal24.pl": {
+            "included_at_epoch": 1600717872.456733,
+            "included_at_iso": "2020-09-21T19:51:12.456733",
+            "last_retested_at_epoch": 1600717872.456733,
+            "last_retested_at_iso": "2020-09-21T19:51:12.456733",
             "status": "INACTIVE"
         },
         "www.satclub.top": {
@@ -12866,6 +12908,13 @@
             "last_retested_at_iso": "2020-09-18T19:34:37.630854",
             "status": "INACTIVE"
         },
+        "www.secureclick20.com": {
+            "included_at_epoch": 1600717872.708429,
+            "included_at_iso": "2020-09-21T19:51:12.708429",
+            "last_retested_at_epoch": 1600717872.708429,
+            "last_retested_at_iso": "2020-09-21T19:51:12.708429",
+            "status": "INACTIVE"
+        },
         "www.securescout.de": {
             "included_at_epoch": 1600457677.722565,
             "included_at_iso": "2020-09-18T19:34:37.722565",
@@ -12899,6 +12948,20 @@
             "included_at_iso": "2020-09-09T19:41:12.831347",
             "last_retested_at_epoch": 1599680472.831347,
             "last_retested_at_iso": "2020-09-09T19:41:12.831347",
+            "status": "INACTIVE"
+        },
+        "www.sexmonitor.net": {
+            "included_at_epoch": 1600717874.213898,
+            "included_at_iso": "2020-09-21T19:51:14.213898",
+            "last_retested_at_epoch": 1600717874.213898,
+            "last_retested_at_iso": "2020-09-21T19:51:14.213898",
+            "status": "INACTIVE"
+        },
+        "www.sexmonitor.top": {
+            "included_at_epoch": 1600717874.251483,
+            "included_at_iso": "2020-09-21T19:51:14.251483",
+            "last_retested_at_epoch": 1600717874.251483,
+            "last_retested_at_iso": "2020-09-21T19:51:14.251483",
             "status": "INACTIVE"
         },
         "www.sg-architekci.pl": {
@@ -12955,6 +13018,13 @@
             "included_at_iso": "2020-08-31T19:19:57.711416",
             "last_retested_at_epoch": 1598901597.711416,
             "last_retested_at_iso": "2020-08-31T19:19:57.711416",
+            "status": "INACTIVE"
+        },
+        "www.sklad24.net": {
+            "included_at_epoch": 1600717874.962544,
+            "included_at_iso": "2020-09-21T19:51:14.962544",
+            "last_retested_at_epoch": 1600717874.962544,
+            "last_retested_at_iso": "2020-09-21T19:51:14.962544",
             "status": "INACTIVE"
         },
         "www.sklep-agricar.pl": {
@@ -13025,6 +13095,13 @@
             "included_at_iso": "2020-08-28T21:48:41.842028",
             "last_retested_at_epoch": 1598651321.842028,
             "last_retested_at_iso": "2020-08-28T21:48:41.842028",
+            "status": "INACTIVE"
+        },
+        "www.sopot-fakt24.pl": {
+            "included_at_epoch": 1600717875.975851,
+            "included_at_iso": "2020-09-21T19:51:15.975851",
+            "last_retested_at_epoch": 1600717875.975851,
+            "last_retested_at_iso": "2020-09-21T19:51:15.975851",
             "status": "INACTIVE"
         },
         "www.spedycjasrd.pl": {
@@ -13230,6 +13307,13 @@
             "last_retested_at_iso": "2020-08-31T19:37:17.210851",
             "status": "INACTIVE"
         },
+        "www.swiezyblog.com.pl": {
+            "included_at_epoch": 1600717877.942036,
+            "included_at_iso": "2020-09-21T19:51:17.942036",
+            "last_retested_at_epoch": 1600717877.942036,
+            "last_retested_at_iso": "2020-09-21T19:51:17.942036",
+            "status": "INACTIVE"
+        },
         "www.swissmarket.net": {
             "included_at_epoch": 1598651324.476704,
             "included_at_iso": "2020-08-28T21:48:44.476704",
@@ -13270,6 +13354,13 @@
             "included_at_iso": "2020-08-25T22:42:07.235192",
             "last_retested_at_epoch": 1598651324.837217,
             "last_retested_at_iso": "2020-08-28T21:48:44.837217",
+            "status": "INACTIVE"
+        },
+        "www.szlezakbartosz.pl": {
+            "included_at_epoch": 1600717878.315399,
+            "included_at_iso": "2020-09-21T19:51:18.315399",
+            "last_retested_at_epoch": 1600717878.315399,
+            "last_retested_at_iso": "2020-09-21T19:51:18.315399",
             "status": "INACTIVE"
         },
         "www.szmoldparts.com": {
