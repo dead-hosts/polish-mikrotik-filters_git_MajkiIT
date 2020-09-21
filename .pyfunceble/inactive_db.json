@@ -5341,6 +5341,20 @@
             "last_retested_at_iso": "2020-09-09T17:57:08.178762",
             "status": "INACTIVE"
         },
+        "videos.karaokelagramola.es": {
+            "included_at_epoch": 1600711635.977786,
+            "included_at_iso": "2020-09-21T18:07:15.977786",
+            "last_retested_at_epoch": 1600711635.977786,
+            "last_retested_at_iso": "2020-09-21T18:07:15.977786",
+            "status": "INACTIVE"
+        },
+        "vinaschool.com.vn": {
+            "included_at_epoch": 1600711636.150165,
+            "included_at_iso": "2020-09-21T18:07:16.150165",
+            "last_retested_at_epoch": 1600711636.150165,
+            "last_retested_at_iso": "2020-09-21T18:07:16.150165",
+            "status": "INACTIVE"
+        },
         "virginia-education.com": {
             "included_at_epoch": 1600451447.667264,
             "included_at_iso": "2020-09-18T17:50:47.667264",
@@ -5353,6 +5367,13 @@
             "included_at_iso": "2020-09-09T17:57:09.436596",
             "last_retested_at_epoch": 1599674229.436596,
             "last_retested_at_iso": "2020-09-09T17:57:09.436596",
+            "status": "INACTIVE"
+        },
+        "w.paczkcups.com": {
+            "included_at_epoch": 1600711639.459112,
+            "included_at_iso": "2020-09-21T18:07:19.459112",
+            "last_retested_at_epoch": 1600711639.459112,
+            "last_retested_at_iso": "2020-09-21T18:07:19.459112",
             "status": "INACTIVE"
         },
         "w.paczkgups.com": {
@@ -5395,6 +5416,13 @@
             "included_at_iso": "2020-09-09T17:57:10.331225",
             "last_retested_at_epoch": 1599674230.331225,
             "last_retested_at_iso": "2020-09-09T17:57:10.331225",
+            "status": "INACTIVE"
+        },
+        "wbd.5636.com": {
+            "included_at_epoch": 1600711637.429163,
+            "included_at_iso": "2020-09-21T18:07:17.429163",
+            "last_retested_at_epoch": 1600711637.429163,
+            "last_retested_at_iso": "2020-09-21T18:07:17.429163",
             "status": "INACTIVE"
         },
         "wedkarstwodapio.pl": {
@@ -5458,6 +5486,13 @@
             "included_at_iso": "2020-08-25T19:05:39.800288",
             "last_retested_at_epoch": 1598641981.69321,
             "last_retested_at_iso": "2020-08-28T19:13:01.693210",
+            "status": "INACTIVE"
+        },
+        "wlatech.pl": {
+            "included_at_epoch": 1600711639.07389,
+            "included_at_iso": "2020-09-21T18:07:19.073890",
+            "last_retested_at_epoch": 1600711639.07389,
+            "last_retested_at_iso": "2020-09-21T18:07:19.073890",
             "status": "INACTIVE"
         },
         "wlewki.pl": {
@@ -5593,11 +5628,25 @@
             "last_retested_at_iso": "2020-09-18T18:07:59.395238",
             "status": "INACTIVE"
         },
+        "ww.paczkwdpd.com": {
+            "included_at_epoch": 1600711640.12032,
+            "included_at_iso": "2020-09-21T18:07:20.120320",
+            "last_retested_at_epoch": 1600711640.12032,
+            "last_retested_at_iso": "2020-09-21T18:07:20.120320",
+            "status": "INACTIVE"
+        },
         "www-apple-com-virus-removal-systems.fixingit.solutions": {
             "included_at_epoch": 1599675264.353874,
             "included_at_iso": "2020-09-09T18:14:24.353874",
             "last_retested_at_epoch": 1599675264.353874,
             "last_retested_at_iso": "2020-09-09T18:14:24.353874",
+            "status": "INACTIVE"
+        },
+        "www.02-wiadomosci.com.pl": {
+            "included_at_epoch": 1600711640.173089,
+            "included_at_iso": "2020-09-21T18:07:20.173089",
+            "last_retested_at_epoch": 1600711640.173089,
+            "last_retested_at_iso": "2020-09-21T18:07:20.173089",
             "status": "INACTIVE"
         },
         "www.1cart.in": {
@@ -5663,11 +5712,39 @@
             "last_retested_at_iso": "2020-09-18T18:08:00.006697",
             "status": "INACTIVE"
         },
+        "www.77mscco.com": {
+            "included_at_epoch": 1600711640.821694,
+            "included_at_iso": "2020-09-21T18:07:20.821694",
+            "last_retested_at_epoch": 1600711640.821694,
+            "last_retested_at_iso": "2020-09-21T18:07:20.821694",
+            "status": "INACTIVE"
+        },
+        "www.88mscco.com": {
+            "included_at_epoch": 1600711640.900314,
+            "included_at_iso": "2020-09-21T18:07:20.900314",
+            "last_retested_at_epoch": 1600711640.900314,
+            "last_retested_at_iso": "2020-09-21T18:07:20.900314",
+            "status": "INACTIVE"
+        },
+        "www.abbtur-key.pl": {
+            "included_at_epoch": 1600711641.031209,
+            "included_at_iso": "2020-09-21T18:07:21.031209",
+            "last_retested_at_epoch": 1600711641.031209,
+            "last_retested_at_iso": "2020-09-21T18:07:21.031209",
+            "status": "INACTIVE"
+        },
         "www.account.login.appid.customer.online.curriculumvitae.live": {
             "included_at_epoch": 1598897445.989789,
             "included_at_iso": "2020-08-31T18:10:45.989789",
             "last_retested_at_epoch": 1598897445.989789,
             "last_retested_at_iso": "2020-08-31T18:10:45.989789",
+            "status": "INACTIVE"
+        },
+        "www.adamkurier.top": {
+            "included_at_epoch": 1600711641.287246,
+            "included_at_iso": "2020-09-21T18:07:21.287246",
+            "last_retested_at_epoch": 1600711641.287246,
+            "last_retested_at_iso": "2020-09-21T18:07:21.287246",
             "status": "INACTIVE"
         },
         "www.adidas-polska.com": {
@@ -5726,6 +5803,13 @@
             "last_retested_at_iso": "2020-09-18T18:08:00.837500",
             "status": "INACTIVE"
         },
+        "www.airit.pl": {
+            "included_at_epoch": 1600711641.657329,
+            "included_at_iso": "2020-09-21T18:07:21.657329",
+            "last_retested_at_epoch": 1600711641.657329,
+            "last_retested_at_iso": "2020-09-21T18:07:21.657329",
+            "status": "INACTIVE"
+        },
         "www.airmaxpolska.com": {
             "included_at_epoch": 1599675262.335018,
             "included_at_iso": "2020-09-09T18:14:22.335018",
@@ -5745,6 +5829,13 @@
             "included_at_iso": "2020-08-31T18:10:46.529532",
             "last_retested_at_epoch": 1598897446.529532,
             "last_retested_at_iso": "2020-08-31T18:10:46.529532",
+            "status": "INACTIVE"
+        },
+        "www.akszczawnica.pl": {
+            "included_at_epoch": 1600711641.80628,
+            "included_at_iso": "2020-09-21T18:07:21.806280",
+            "last_retested_at_epoch": 1600711641.80628,
+            "last_retested_at_iso": "2020-09-21T18:07:21.806280",
             "status": "INACTIVE"
         },
         "www.aktywacja.allegro6.pl": {
@@ -5787,6 +5878,13 @@
             "included_at_iso": "2020-09-18T18:08:01.129933",
             "last_retested_at_epoch": 1600452481.129933,
             "last_retested_at_iso": "2020-09-18T18:08:01.129933",
+            "status": "INACTIVE"
+        },
+        "www.alfasj.com.pl": {
+            "included_at_epoch": 1600711642.068955,
+            "included_at_iso": "2020-09-21T18:07:22.068955",
+            "last_retested_at_epoch": 1600711642.068955,
+            "last_retested_at_iso": "2020-09-21T18:07:22.068955",
             "status": "INACTIVE"
         },
         "www.allegro-apk.net": {
