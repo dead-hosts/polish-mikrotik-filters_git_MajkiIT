@@ -4746,6 +4746,13 @@
             "last_retested_at_iso": "2020-09-09T17:39:39.710161",
             "status": "INACTIVE"
         },
+        "spamiarka.pl": {
+            "included_at_epoch": 1600710590.994807,
+            "included_at_iso": "2020-09-21T17:49:50.994807",
+            "last_retested_at_epoch": 1600710590.994807,
+            "last_retested_at_iso": "2020-09-21T17:49:50.994807",
+            "status": "INACTIVE"
+        },
         "spanishtesting.hopto.org": {
             "included_at_epoch": 1599673180.054459,
             "included_at_iso": "2020-09-09T17:39:40.054459",
@@ -4758,6 +4765,13 @@
             "included_at_iso": "2020-08-25T18:42:46.276904",
             "last_retested_at_epoch": 1598638287.497224,
             "last_retested_at_iso": "2020-08-28T18:11:27.497224",
+            "status": "INACTIVE"
+        },
+        "sprawdz-ogladaj.bo.pl": {
+            "included_at_epoch": 1600710591.47238,
+            "included_at_iso": "2020-09-21T17:49:51.472380",
+            "last_retested_at_epoch": 1600710591.47238,
+            "last_retested_at_iso": "2020-09-21T17:49:51.472380",
             "status": "INACTIVE"
         },
         "sso-cloud-ideabank.at": {
@@ -4849,6 +4863,13 @@
             "included_at_iso": "2020-08-25T18:43:01.129474",
             "last_retested_at_epoch": 1598640038.412577,
             "last_retested_at_iso": "2020-08-28T18:40:38.412577",
+            "status": "INACTIVE"
+        },
+        "swiezyblog.com.pl": {
+            "included_at_epoch": 1600710593.51173,
+            "included_at_iso": "2020-09-21T17:49:53.511730",
+            "last_retested_at_epoch": 1600710593.51173,
+            "last_retested_at_iso": "2020-09-21T17:49:53.511730",
             "status": "INACTIVE"
         },
         "symulator-lotow.pl": {
@@ -4977,6 +4998,20 @@
             "last_retested_at_iso": "2020-09-09T17:39:46.630578",
             "status": "INACTIVE"
         },
+        "test.ffmpoman.com": {
+            "included_at_epoch": 1600710595.512876,
+            "included_at_iso": "2020-09-21T17:49:55.512876",
+            "last_retested_at_epoch": 1600710595.512876,
+            "last_retested_at_iso": "2020-09-21T17:49:55.512876",
+            "status": "INACTIVE"
+        },
+        "test.iyibakkendine.com": {
+            "included_at_epoch": 1600710595.640214,
+            "included_at_iso": "2020-09-21T17:49:55.640214",
+            "last_retested_at_epoch": 1600710595.640214,
+            "last_retested_at_iso": "2020-09-21T17:49:55.640214",
+            "status": "INACTIVE"
+        },
         "test.mutlukent.com.tr": {
             "included_at_epoch": 1599673186.845666,
             "included_at_iso": "2020-09-09T17:39:46.845666",
@@ -5005,6 +5040,13 @@
             "last_retested_at_iso": "2020-09-09T17:39:46.812151",
             "status": "INACTIVE"
         },
+        "tf.sxhpyy120.com": {
+            "included_at_epoch": 1600710595.781502,
+            "included_at_iso": "2020-09-21T17:49:55.781502",
+            "last_retested_at_epoch": 1600710595.781502,
+            "last_retested_at_iso": "2020-09-21T17:49:55.781502",
+            "status": "INACTIVE"
+        },
         "theatresearch.xyz": {
             "included_at_epoch": 1599673187.219211,
             "included_at_iso": "2020-09-09T17:39:47.219211",
@@ -5017,6 +5059,13 @@
             "included_at_iso": "2020-08-31T17:50:10.825485",
             "last_retested_at_epoch": 1598896210.825485,
             "last_retested_at_iso": "2020-08-31T17:50:10.825485",
+            "status": "INACTIVE"
+        },
+        "thietbisontinhdien.vn": {
+            "included_at_epoch": 1600710596.182253,
+            "included_at_iso": "2020-09-21T17:49:56.182253",
+            "last_retested_at_epoch": 1600710596.182253,
+            "last_retested_at_iso": "2020-09-21T17:49:56.182253",
             "status": "INACTIVE"
         },
         "thuvienphim.net": {
@@ -5038,6 +5087,13 @@
             "included_at_iso": "2020-08-25T19:04:50.062844",
             "last_retested_at_epoch": 1598640073.936947,
             "last_retested_at_iso": "2020-08-28T18:41:13.936947",
+            "status": "INACTIVE"
+        },
+        "tovarentertainment.in": {
+            "included_at_epoch": 1600710597.423772,
+            "included_at_iso": "2020-09-21T17:49:57.423772",
+            "last_retested_at_epoch": 1600710597.423772,
+            "last_retested_at_iso": "2020-09-21T17:49:57.423772",
             "status": "INACTIVE"
         },
         "tr.kuai-go.com:8989": {

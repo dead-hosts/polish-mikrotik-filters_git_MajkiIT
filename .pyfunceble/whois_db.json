@@ -54858,7 +54858,8 @@
     "superstarbuty.com": {
         "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "superstarbuty.pl": {
         "epoch": 1600646400.0,
@@ -55385,8 +55386,9 @@
         "state": "future"
     },
     "szlezakbartosz.pl": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1603152000.0,
+        "expiration_date": "20-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "szlonepromocje.com": {
@@ -55588,10 +55590,10 @@
         "state": "future"
     },
     "tajonis.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "takaprawda.icu": {
         "epoch": 1621555200.0,
@@ -58395,6 +58397,12 @@
         "expiration_date": "04-jun-2021",
         "state": "future"
     },
+    "transfersuvan.com": {
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "transgear.in": {
         "epoch": 1618963200.0,
         "expiration_date": "21-apr-2021",
@@ -58490,6 +58498,12 @@
     "trendsonlines.com": {
         "epoch": 1624060800.0,
         "expiration_date": "19-jun-2021",
+        "state": "future"
+    },
+    "treneg.com.br": {
+        "epoch": 1615766400.0,
+        "expiration_date": "15-mar-2021",
+        "server": "whois.registro.br",
         "state": "future"
     },
     "trennir.com.br": {
