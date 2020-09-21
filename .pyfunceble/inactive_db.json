@@ -798,6 +798,13 @@
             "last_retested_at_iso": "2020-09-18T15:49:51.712008",
             "status": "INACTIVE"
         },
+        "bitprofit.brokerselection.pro": {
+            "included_at_epoch": 1600703351.027917,
+            "included_at_iso": "2020-09-21T15:49:11.027917",
+            "last_retested_at_epoch": 1600703351.027917,
+            "last_retested_at_iso": "2020-09-21T15:49:11.027917",
+            "status": "INACTIVE"
+        },
         "biznes-planet-paribas.at": {
             "included_at_epoch": 1599406268.366239,
             "included_at_iso": "2020-09-06T15:31:08.366239",
@@ -896,6 +903,13 @@
             "last_retested_at_iso": "2020-09-06T15:48:07.833684",
             "status": "INACTIVE"
         },
+        "bohema-suprasl.pl": {
+            "included_at_epoch": 1600703351.294992,
+            "included_at_iso": "2020-09-21T15:49:11.294992",
+            "last_retested_at_epoch": 1600703351.294992,
+            "last_retested_at_iso": "2020-09-21T15:49:11.294992",
+            "status": "INACTIVE"
+        },
         "bonus.allegro.to": {
             "included_at_epoch": 1598629875.660439,
             "included_at_iso": "2020-08-28T15:51:15.660439",
@@ -936,6 +950,13 @@
             "included_at_iso": "2020-08-25T16:14:25.905522",
             "last_retested_at_epoch": 1598629881.499949,
             "last_retested_at_iso": "2020-08-28T15:51:21.499949",
+            "status": "INACTIVE"
+        },
+        "buforstudio.pl": {
+            "included_at_epoch": 1600703351.661723,
+            "included_at_iso": "2020-09-21T15:49:11.661723",
+            "last_retested_at_epoch": 1600703351.661723,
+            "last_retested_at_iso": "2020-09-21T15:49:11.661723",
             "status": "INACTIVE"
         },
         "bulbulstore.com": {
@@ -994,11 +1015,25 @@
             "last_retested_at_iso": "2020-08-28T15:51:26.720126",
             "status": "INACTIVE"
         },
+        "caspianelectric.ir": {
+            "included_at_epoch": 1600703352.072757,
+            "included_at_iso": "2020-09-21T15:49:12.072757",
+            "last_retested_at_epoch": 1600703352.072757,
+            "last_retested_at_iso": "2020-09-21T15:49:12.072757",
+            "status": "INACTIVE"
+        },
         "cbk.m.dodo52.com": {
             "included_at_epoch": 1599925530.01521,
             "included_at_iso": "2020-09-12T15:45:30.015210",
             "last_retested_at_epoch": 1599925530.01521,
             "last_retested_at_iso": "2020-09-12T15:45:30.015210",
+            "status": "INACTIVE"
+        },
+        "cc67620.tmweb.ru": {
+            "included_at_epoch": 1600703352.252502,
+            "included_at_iso": "2020-09-21T15:49:12.252502",
+            "last_retested_at_epoch": 1600703352.252502,
+            "last_retested_at_iso": "2020-09-21T15:49:12.252502",
             "status": "INACTIVE"
         },
         "cda-film.pl": {
@@ -1020,6 +1055,13 @@
             "included_at_iso": "2020-09-03T15:40:50.975047",
             "last_retested_at_epoch": 1599147650.975047,
             "last_retested_at_iso": "2020-09-03T15:40:50.975047",
+            "status": "INACTIVE"
+        },
+        "ce85237.tmweb.ru": {
+            "included_at_epoch": 1600703352.353369,
+            "included_at_iso": "2020-09-21T15:49:12.353369",
+            "last_retested_at_epoch": 1600703352.353369,
+            "last_retested_at_iso": "2020-09-21T15:49:12.353369",
             "status": "INACTIVE"
         },
         "cerba.xyz": {
@@ -1078,6 +1120,34 @@
             "last_retested_at_iso": "2020-09-06T15:48:09.315215",
             "status": "INACTIVE"
         },
+        "cj90496.tmweb.ru": {
+            "included_at_epoch": 1600703352.868672,
+            "included_at_iso": "2020-09-21T15:49:12.868672",
+            "last_retested_at_epoch": 1600703352.868672,
+            "last_retested_at_iso": "2020-09-21T15:49:12.868672",
+            "status": "INACTIVE"
+        },
+        "cl-closeprotection.fr": {
+            "included_at_epoch": 1600703352.998086,
+            "included_at_iso": "2020-09-21T15:49:12.998086",
+            "last_retested_at_epoch": 1600703352.998086,
+            "last_retested_at_iso": "2020-09-21T15:49:12.998086",
+            "status": "INACTIVE"
+        },
+        "cl07143.tmweb.ru": {
+            "included_at_epoch": 1600703352.914602,
+            "included_at_iso": "2020-09-21T15:49:12.914602",
+            "last_retested_at_epoch": 1600703352.914602,
+            "last_retested_at_iso": "2020-09-21T15:49:12.914602",
+            "status": "INACTIVE"
+        },
+        "cl08401.tmweb.ru": {
+            "included_at_epoch": 1600703352.945548,
+            "included_at_iso": "2020-09-21T15:49:12.945548",
+            "last_retested_at_epoch": 1600703352.945548,
+            "last_retested_at_iso": "2020-09-21T15:49:12.945548",
+            "status": "INACTIVE"
+        },
         "cloud-idea.at": {
             "included_at_epoch": 1599925530.668113,
             "included_at_iso": "2020-09-12T15:45:30.668113",
@@ -1092,6 +1162,13 @@
             "last_retested_at_iso": "2020-09-06T15:48:09.428619",
             "status": "INACTIVE"
         },
+        "club-heaven.pl": {
+            "included_at_epoch": 1600703353.087175,
+            "included_at_iso": "2020-09-21T15:49:13.087175",
+            "last_retested_at_epoch": 1600703353.087175,
+            "last_retested_at_iso": "2020-09-21T15:49:13.087175",
+            "status": "INACTIVE"
+        },
         "cmadrigal.thinklogicmarketing.com": {
             "included_at_epoch": 1600185059.191941,
             "included_at_iso": "2020-09-15T15:50:59.191941",
@@ -1099,11 +1176,25 @@
             "last_retested_at_iso": "2020-09-15T15:50:59.191941",
             "status": "INACTIVE"
         },
+        "cn18476.tmweb.ru": {
+            "included_at_epoch": 1600703353.130162,
+            "included_at_iso": "2020-09-21T15:49:13.130162",
+            "last_retested_at_epoch": 1600703353.130162,
+            "last_retested_at_iso": "2020-09-21T15:49:13.130162",
+            "status": "INACTIVE"
+        },
         "cn52267.tmweb.ru": {
             "included_at_epoch": 1600444195.948832,
             "included_at_iso": "2020-09-18T15:49:55.948832",
             "last_retested_at_epoch": 1600444195.948832,
             "last_retested_at_iso": "2020-09-18T15:49:55.948832",
+            "status": "INACTIVE"
+        },
+        "co99044.tmweb.ru": {
+            "included_at_epoch": 1600703353.165575,
+            "included_at_iso": "2020-09-21T15:49:13.165575",
+            "last_retested_at_epoch": 1600703353.165575,
+            "last_retested_at_iso": "2020-09-21T15:49:13.165575",
             "status": "INACTIVE"
         },
         "colex-rowery.com.pl": {
@@ -1188,6 +1279,20 @@
             "included_at_iso": "2020-09-03T15:40:53.178015",
             "last_retested_at_epoch": 1599147653.178015,
             "last_retested_at_iso": "2020-09-03T15:40:53.178015",
+            "status": "INACTIVE"
+        },
+        "deepshoes.pl": {
+            "included_at_epoch": 1600703354.508257,
+            "included_at_iso": "2020-09-21T15:49:14.508257",
+            "last_retested_at_epoch": 1600703354.508257,
+            "last_retested_at_iso": "2020-09-21T15:49:14.508257",
+            "status": "INACTIVE"
+        },
+        "dekadagierka.pl": {
+            "included_at_epoch": 1600703354.554511,
+            "included_at_iso": "2020-09-21T15:49:14.554511",
+            "last_retested_at_epoch": 1600703354.554511,
+            "last_retested_at_iso": "2020-09-21T15:49:14.554511",
             "status": "INACTIVE"
         },
         "dell1.ug": {
