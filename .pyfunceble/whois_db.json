@@ -2139,6 +2139,12 @@
         "expiration_date": "13-jan-2021",
         "state": "future"
     },
+    "airmoz.site": {
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
+        "server": "whois.nic.site",
+        "state": "future"
+    },
     "airnetinfotech.com": {
         "epoch": 1837555200.0,
         "expiration_date": "25-mar-2028",
@@ -2930,7 +2936,8 @@
     "allinternetbundles.com": {
         "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "allloveseries.com": {
         "epoch": 1624579200.0,
@@ -3197,6 +3204,12 @@
         "server": "whois.pir.org",
         "state": "future"
     },
+    "amarettobh.com.br": {
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "server": "whois.registro.br",
+        "state": "future"
+    },
     "amarteargentina.com.ar": {
         "epoch": 1621555200.0,
         "expiration_date": "21-may-2021",
@@ -3320,6 +3333,12 @@
         "epoch": 1611360000.0,
         "expiration_date": "23-jan-2021",
         "server": "whois.tcinet.ru",
+        "state": "future"
+    },
+    "amongproject.it": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "server": "whois.nic.it",
         "state": "future"
     },
     "amonitalia.it": {
@@ -4896,8 +4915,9 @@
         "state": "future"
     },
     "atiqahlydia.web.id": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "atlanticcity.com": {
@@ -5394,6 +5414,12 @@
         "expiration_date": "12-oct-2020",
         "state": "future"
     },
+    "azpip.xyz": {
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "azraktours.com": {
         "epoch": 1641513600.0,
         "expiration_date": "07-jan-2022",
@@ -5461,10 +5487,10 @@
         "state": "future"
     },
     "babaroadways.in": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "server": "whois.registry.in",
-        "state": "past"
+        "state": "future"
     },
     "bablugad.com": {
         "epoch": 1631145600.0,
@@ -5715,10 +5741,10 @@
         "state": "future"
     },
     "banvar.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "banwayirc.in": {
         "epoch": 1616716800.0,
