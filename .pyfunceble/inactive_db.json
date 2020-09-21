@@ -4340,6 +4340,13 @@
             "last_retested_at_iso": "2020-08-28T17:53:12.049130",
             "status": "INACTIVE"
         },
+        "pse-polnoc.pl": {
+            "included_at_epoch": 1600709558.661853,
+            "included_at_iso": "2020-09-21T17:32:38.661853",
+            "last_retested_at_epoch": 1600709558.661853,
+            "last_retested_at_iso": "2020-09-21T17:32:38.661853",
+            "status": "INACTIVE"
+        },
         "puchdresult.co.in": {
             "included_at_epoch": 1599412258.677512,
             "included_at_iso": "2020-09-06T17:10:58.677512",
@@ -4380,6 +4387,13 @@
             "included_at_iso": "2020-09-18T17:16:22.940601",
             "last_retested_at_epoch": 1600449382.940601,
             "last_retested_at_iso": "2020-09-18T17:16:22.940601",
+            "status": "INACTIVE"
+        },
+        "radiocolonialfm.com.pe": {
+            "included_at_epoch": 1600709559.456911,
+            "included_at_iso": "2020-09-21T17:32:39.456911",
+            "last_retested_at_epoch": 1600709559.456911,
+            "last_retested_at_iso": "2020-09-21T17:32:39.456911",
             "status": "INACTIVE"
         },
         "rahul.dixitaaparrels.com": {
@@ -4424,6 +4438,13 @@
             "last_retested_at_iso": "2020-09-15T17:17:51.941536",
             "status": "INACTIVE"
         },
+        "reza.dowrcity.com": {
+            "included_at_epoch": 1600709560.897241,
+            "included_at_iso": "2020-09-21T17:32:40.897241",
+            "last_retested_at_epoch": 1600709560.897241,
+            "last_retested_at_iso": "2020-09-21T17:32:40.897241",
+            "status": "INACTIVE"
+        },
         "rokuer.xyz": {
             "included_at_epoch": 1599672147.241174,
             "included_at_iso": "2020-09-09T17:22:27.241174",
@@ -4450,6 +4471,13 @@
             "included_at_iso": "2020-09-18T17:33:29.740372",
             "last_retested_at_epoch": 1600450409.740372,
             "last_retested_at_iso": "2020-09-18T17:33:29.740372",
+            "status": "INACTIVE"
+        },
+        "rt4e34.win": {
+            "included_at_epoch": 1600709561.608614,
+            "included_at_iso": "2020-09-21T17:32:41.608614",
+            "last_retested_at_epoch": 1600709561.608614,
+            "last_retested_at_iso": "2020-09-21T17:32:41.608614",
             "status": "INACTIVE"
         },
         "rubi4edit.com": {
@@ -4506,6 +4534,20 @@
             "included_at_iso": "2020-09-03T17:17:59.442324",
             "last_retested_at_epoch": 1599153479.442324,
             "last_retested_at_iso": "2020-09-03T17:17:59.442324",
+            "status": "INACTIVE"
+        },
+        "sasiedzkagazeta.eu": {
+            "included_at_epoch": 1600709562.593836,
+            "included_at_iso": "2020-09-21T17:32:42.593836",
+            "last_retested_at_epoch": 1600709562.593836,
+            "last_retested_at_iso": "2020-09-21T17:32:42.593836",
+            "status": "INACTIVE"
+        },
+        "sasiedzkiewiesci.cal24.pl": {
+            "included_at_epoch": 1600709562.626547,
+            "included_at_iso": "2020-09-21T17:32:42.626547",
+            "last_retested_at_epoch": 1600709562.626547,
+            "last_retested_at_iso": "2020-09-21T17:32:42.626547",
             "status": "INACTIVE"
         },
         "sasiedzkiportal.eu": {
