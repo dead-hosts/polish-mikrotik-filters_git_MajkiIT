@@ -6398,6 +6398,20 @@
             "last_retested_at_iso": "2020-09-18T18:08:03.083580",
             "status": "INACTIVE"
         },
+        "www.basen.in": {
+            "included_at_epoch": 1600712669.218061,
+            "included_at_iso": "2020-09-21T18:24:29.218061",
+            "last_retested_at_epoch": 1600712669.218061,
+            "last_retested_at_iso": "2020-09-21T18:24:29.218061",
+            "status": "INACTIVE"
+        },
+        "www.baseny-sklep.com": {
+            "included_at_epoch": 1600712669.261797,
+            "included_at_iso": "2020-09-21T18:24:29.261797",
+            "last_retested_at_epoch": 1600712669.261797,
+            "last_retested_at_iso": "2020-09-21T18:24:29.261797",
+            "status": "INACTIVE"
+        },
         "www.baseny.in": {
             "included_at_epoch": 1599933306.03134,
             "included_at_iso": "2020-09-12T17:55:06.031340",
@@ -6438,6 +6452,13 @@
             "included_at_iso": "2020-08-25T19:22:57.233583",
             "last_retested_at_epoch": 1598643233.18091,
             "last_retested_at_iso": "2020-08-28T19:33:53.180910",
+            "status": "INACTIVE"
+        },
+        "www.bestofpush.com": {
+            "included_at_epoch": 1600712669.577987,
+            "included_at_iso": "2020-09-21T18:24:29.577987",
+            "last_retested_at_epoch": 1600712669.577987,
+            "last_retested_at_iso": "2020-09-21T18:24:29.577987",
             "status": "INACTIVE"
         },
         "www.bezmamy.com.pl": {
@@ -6580,6 +6601,13 @@
             "last_retested_at_iso": "2020-09-06T18:06:35.422276",
             "status": "INACTIVE"
         },
+        "www.bohema-suprasl.pl": {
+            "included_at_epoch": 1600712670.380349,
+            "included_at_iso": "2020-09-21T18:24:30.380349",
+            "last_retested_at_epoch": 1600712670.380349,
+            "last_retested_at_iso": "2020-09-21T18:24:30.380349",
+            "status": "INACTIVE"
+        },
         "www.bokenea.pl": {
             "included_at_epoch": 1599675266.200759,
             "included_at_iso": "2020-09-09T18:14:26.200759",
@@ -6636,6 +6664,13 @@
             "last_retested_at_iso": "2020-09-03T17:52:47.344225",
             "status": "INACTIVE"
         },
+        "www.bundlesbyb.com": {
+            "included_at_epoch": 1600712670.84005,
+            "included_at_iso": "2020-09-21T18:24:30.840050",
+            "last_retested_at_epoch": 1600712670.84005,
+            "last_retested_at_iso": "2020-09-21T18:24:30.840050",
+            "status": "INACTIVE"
+        },
         "www.butikedyta.cal24.pl": {
             "included_at_epoch": 1599155567.40239,
             "included_at_iso": "2020-09-03T17:52:47.402390",
@@ -6685,6 +6720,13 @@
             "last_retested_at_iso": "2020-09-12T18:12:27.870316",
             "status": "INACTIVE"
         },
+        "www.carson2polska.com": {
+            "included_at_epoch": 1600712671.249713,
+            "included_at_iso": "2020-09-21T18:24:31.249713",
+            "last_retested_at_epoch": 1600712671.249713,
+            "last_retested_at_iso": "2020-09-21T18:24:31.249713",
+            "status": "INACTIVE"
+        },
         "www.casineuros.com": {
             "included_at_epoch": 1599675267.004511,
             "included_at_iso": "2020-09-09T18:14:27.004511",
@@ -6697,6 +6739,20 @@
             "included_at_iso": "2020-09-18T18:25:11.959546",
             "last_retested_at_epoch": 1600453511.959546,
             "last_retested_at_iso": "2020-09-18T18:25:11.959546",
+            "status": "INACTIVE"
+        },
+        "www.cc67620.tmweb.ru": {
+            "included_at_epoch": 1600712671.417062,
+            "included_at_iso": "2020-09-21T18:24:31.417062",
+            "last_retested_at_epoch": 1600712671.417062,
+            "last_retested_at_iso": "2020-09-21T18:24:31.417062",
+            "status": "INACTIVE"
+        },
+        "www.ccpgotofuture.ru": {
+            "included_at_epoch": 1600712671.460056,
+            "included_at_iso": "2020-09-21T18:24:31.460056",
+            "last_retested_at_epoch": 1600712671.460056,
+            "last_retested_at_iso": "2020-09-21T18:24:31.460056",
             "status": "INACTIVE"
         },
         "www.ce.wielkanagroda.com": {
@@ -6718,6 +6774,13 @@
             "included_at_iso": "2020-09-09T18:14:27.515537",
             "last_retested_at_epoch": 1599675267.515537,
             "last_retested_at_iso": "2020-09-09T18:14:27.515537",
+            "status": "INACTIVE"
+        },
+        "www.ce85237.tmweb.ru": {
+            "included_at_epoch": 1600712671.661128,
+            "included_at_iso": "2020-09-21T18:24:31.661128",
+            "last_retested_at_epoch": 1600712671.661128,
+            "last_retested_at_iso": "2020-09-21T18:24:31.661128",
             "status": "INACTIVE"
         },
         "www.cedino.pl": {
@@ -6762,11 +6825,46 @@
             "last_retested_at_iso": "2020-09-06T18:06:37.083997",
             "status": "INACTIVE"
         },
+        "www.circlescatfish.com": {
+            "included_at_epoch": 1600712672.358306,
+            "included_at_iso": "2020-09-21T18:24:32.358306",
+            "last_retested_at_epoch": 1600712672.358306,
+            "last_retested_at_iso": "2020-09-21T18:24:32.358306",
+            "status": "INACTIVE"
+        },
+        "www.cj53.cn": {
+            "included_at_epoch": 1600712672.456949,
+            "included_at_iso": "2020-09-21T18:24:32.456949",
+            "last_retested_at_epoch": 1600712672.456949,
+            "last_retested_at_iso": "2020-09-21T18:24:32.456949",
+            "status": "INACTIVE"
+        },
         "www.cj63.cn": {
             "included_at_epoch": 1600193407.83054,
             "included_at_iso": "2020-09-15T18:10:07.830540",
             "last_retested_at_epoch": 1600193407.83054,
             "last_retested_at_iso": "2020-09-15T18:10:07.830540",
+            "status": "INACTIVE"
+        },
+        "www.cj90496.tmweb.ru": {
+            "included_at_epoch": 1600712672.491752,
+            "included_at_iso": "2020-09-21T18:24:32.491752",
+            "last_retested_at_epoch": 1600712672.491752,
+            "last_retested_at_iso": "2020-09-21T18:24:32.491752",
+            "status": "INACTIVE"
+        },
+        "www.cl07143.tmweb.ru": {
+            "included_at_epoch": 1600712672.561153,
+            "included_at_iso": "2020-09-21T18:24:32.561153",
+            "last_retested_at_epoch": 1600712672.561153,
+            "last_retested_at_iso": "2020-09-21T18:24:32.561153",
+            "status": "INACTIVE"
+        },
+        "www.cl08401.tmweb.ru": {
+            "included_at_epoch": 1600712672.596408,
+            "included_at_iso": "2020-09-21T18:24:32.596408",
+            "last_retested_at_epoch": 1600712672.596408,
+            "last_retested_at_iso": "2020-09-21T18:24:32.596408",
             "status": "INACTIVE"
         },
         "www.classicleather.pl": {
@@ -6790,11 +6888,25 @@
             "last_retested_at_iso": "2020-09-06T18:23:42.559624",
             "status": "INACTIVE"
         },
+        "www.club-heaven.pl": {
+            "included_at_epoch": 1600712672.818392,
+            "included_at_iso": "2020-09-21T18:24:32.818392",
+            "last_retested_at_epoch": 1600712672.818392,
+            "last_retested_at_iso": "2020-09-21T18:24:32.818392",
+            "status": "INACTIVE"
+        },
         "www.clubedoestudante.net.br": {
             "included_at_epoch": 1599934349.378953,
             "included_at_iso": "2020-09-12T18:12:29.378953",
             "last_retested_at_epoch": 1599934349.378953,
             "last_retested_at_iso": "2020-09-12T18:12:29.378953",
+            "status": "INACTIVE"
+        },
+        "www.cn18476.tmweb.ru": {
+            "included_at_epoch": 1600712672.897551,
+            "included_at_iso": "2020-09-21T18:24:32.897551",
+            "last_retested_at_epoch": 1600712672.897551,
+            "last_retested_at_iso": "2020-09-21T18:24:32.897551",
             "status": "INACTIVE"
         },
         "www.cn52267.tmweb.ru": {
@@ -6809,6 +6921,13 @@
             "included_at_iso": "2020-09-18T18:25:13.403424",
             "last_retested_at_epoch": 1600453513.403424,
             "last_retested_at_iso": "2020-09-18T18:25:13.403424",
+            "status": "INACTIVE"
+        },
+        "www.co99044.tmweb.ru": {
+            "included_at_epoch": 1600712672.959373,
+            "included_at_iso": "2020-09-21T18:24:32.959373",
+            "last_retested_at_epoch": 1600712672.959373,
+            "last_retested_at_iso": "2020-09-21T18:24:32.959373",
             "status": "INACTIVE"
         },
         "www.colex-rowery.com.pl": {
