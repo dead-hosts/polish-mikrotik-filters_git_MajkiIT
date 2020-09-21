@@ -2191,6 +2191,13 @@
             "last_retested_at_iso": "2020-09-03T16:24:12.577026",
             "status": "INACTIVE"
         },
+        "hotnews24h.pl": {
+            "included_at_epoch": 1600706453.217671,
+            "included_at_iso": "2020-09-21T16:40:53.217671",
+            "last_retested_at_epoch": 1600706453.217671,
+            "last_retested_at_iso": "2020-09-21T16:40:53.217671",
+            "status": "INACTIVE"
+        },
         "houston.cypshluchim.com": {
             "included_at_epoch": 1599927699.600192,
             "included_at_iso": "2020-09-12T16:21:39.600192",
@@ -2758,6 +2765,13 @@
             "last_retested_at_iso": "2020-09-09T16:40:15.492523",
             "status": "INACTIVE"
         },
+        "k.5qa.so": {
+            "included_at_epoch": 1600706457.027153,
+            "included_at_iso": "2020-09-21T16:40:57.027153",
+            "last_retested_at_epoch": 1600706457.027153,
+            "last_retested_at_iso": "2020-09-21T16:40:57.027153",
+            "status": "INACTIVE"
+        },
         "kalin.pvi.pl": {
             "included_at_epoch": 1599150256.841121,
             "included_at_iso": "2020-09-03T16:24:16.841121",
@@ -2821,6 +2835,20 @@
             "last_retested_at_iso": "2020-09-18T16:41:49.553190",
             "status": "INACTIVE"
         },
+        "kraj24.eu": {
+            "included_at_epoch": 1600706458.749096,
+            "included_at_iso": "2020-09-21T16:40:58.749096",
+            "last_retested_at_epoch": 1600706458.749096,
+            "last_retested_at_iso": "2020-09-21T16:40:58.749096",
+            "status": "INACTIVE"
+        },
+        "krawiectwoplona.pl": {
+            "included_at_epoch": 1600706458.791937,
+            "included_at_iso": "2020-09-21T16:40:58.791937",
+            "last_retested_at_epoch": 1600706458.791937,
+            "last_retested_at_iso": "2020-09-21T16:40:58.791937",
+            "status": "INACTIVE"
+        },
         "kredyt-na-pesel.pl": {
             "included_at_epoch": 1599151292.167632,
             "included_at_iso": "2020-09-03T16:41:32.167632",
@@ -2847,6 +2875,20 @@
             "included_at_iso": "2020-08-25T17:35:32.514031",
             "last_retested_at_epoch": 1598634737.499483,
             "last_retested_at_iso": "2020-08-28T17:12:17.499483",
+            "status": "INACTIVE"
+        },
+        "kronikawojewodzka.098.pl": {
+            "included_at_epoch": 1600706458.91175,
+            "included_at_iso": "2020-09-21T16:40:58.911750",
+            "last_retested_at_epoch": 1600706458.91175,
+            "last_retested_at_iso": "2020-09-21T16:40:58.911750",
+            "status": "INACTIVE"
+        },
+        "kronikawojewodzka.cal24.pl": {
+            "included_at_epoch": 1600706458.945973,
+            "included_at_iso": "2020-09-21T16:40:58.945973",
+            "last_retested_at_epoch": 1600706458.945973,
+            "last_retested_at_iso": "2020-09-21T16:40:58.945973",
             "status": "INACTIVE"
         },
         "kszozkosz.pl": {

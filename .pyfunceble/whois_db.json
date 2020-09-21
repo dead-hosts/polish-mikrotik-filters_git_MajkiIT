@@ -28941,6 +28941,12 @@
         "expiration_date": "01-jul-2020",
         "state": "future"
     },
+    "iwxdy.cn": {
+        "epoch": 1646524800.0,
+        "expiration_date": "06-mar-2022",
+        "server": "whois.cnnic.cn",
+        "state": "future"
+    },
     "izabelarogowska.pl": {
         "epoch": 1628985600.0,
         "expiration_date": "15-aug-2021",
@@ -29009,7 +29015,8 @@
     "jadeedbjadeed.com": {
         "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "jadegardenmm.com": {
         "epoch": 1600387200.0,
@@ -29393,8 +29400,9 @@
         "state": "future"
     },
     "jezyckiszuszwol.pl": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1603152000.0,
+        "expiration_date": "20-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "jezyk-norwesk.pl": {
@@ -31630,8 +31638,9 @@
         "state": "future"
     },
     "kosherexpressonthe42.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kosmetyczki.biz": {
