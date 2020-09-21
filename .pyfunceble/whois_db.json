@@ -64365,8 +64365,9 @@
         "state": "future"
     },
     "zajazduzenka.pl": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zakahlife.com": {
@@ -65079,6 +65080,12 @@
         "expiration_date": "24-jan-2021",
         "state": "future"
     },
+    "zok.ink": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "server": "whois.nic.ink",
+        "state": "future"
+    },
     "zolnierzsklep.pl": {
         "epoch": 1609027200.0,
         "expiration_date": "27-dec-2020",
@@ -65116,8 +65123,9 @@
         "state": "future"
     },
     "zouteze.pl": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zowersaude.com": {
