@@ -1232,6 +1232,13 @@
             "last_retested_at_iso": "2020-09-09T15:47:44.349737",
             "status": "INACTIVE"
         },
+        "d.fherf.com": {
+            "included_at_epoch": 1600704381.071373,
+            "included_at_iso": "2020-09-21T16:06:21.071373",
+            "last_retested_at_epoch": 1600704381.071373,
+            "last_retested_at_iso": "2020-09-21T16:06:21.071373",
+            "status": "INACTIVE"
+        },
         "da.alibuf.com:3": {
             "included_at_epoch": 1599925531.589084,
             "included_at_iso": "2020-09-12T15:45:31.589084",
@@ -1316,6 +1323,13 @@
             "last_retested_at_iso": "2020-08-28T15:52:14.444947",
             "status": "INACTIVE"
         },
+        "dfzm.91756.cn": {
+            "included_at_epoch": 1600704381.10109,
+            "included_at_iso": "2020-09-21T16:06:21.101090",
+            "last_retested_at_epoch": 1600704381.10109,
+            "last_retested_at_iso": "2020-09-21T16:06:21.101090",
+            "status": "INACTIVE"
+        },
         "digitalinfowiz.com": {
             "included_at_epoch": 1599668564.944767,
             "included_at_iso": "2020-09-09T16:22:44.944767",
@@ -1344,6 +1358,13 @@
             "last_retested_at_iso": "2020-09-18T16:07:09.461705",
             "status": "INACTIVE"
         },
+        "dl.dzqzd.com": {
+            "included_at_epoch": 1600704381.410729,
+            "included_at_iso": "2020-09-21T16:06:21.410729",
+            "last_retested_at_epoch": 1600704381.410729,
+            "last_retested_at_iso": "2020-09-21T16:06:21.410729",
+            "status": "INACTIVE"
+        },
         "dnn.alibuf.com:7723": {
             "included_at_epoch": 1599666465.361184,
             "included_at_iso": "2020-09-09T15:47:45.361184",
@@ -1363,6 +1384,13 @@
             "included_at_iso": "2020-09-03T15:40:54.010502",
             "last_retested_at_epoch": 1599147654.010502,
             "last_retested_at_iso": "2020-09-03T15:40:54.010502",
+            "status": "INACTIVE"
+        },
+        "dom-server.tk": {
+            "included_at_epoch": 1600704381.613089,
+            "included_at_iso": "2020-09-21T16:06:21.613089",
+            "last_retested_at_epoch": 1600704381.613089,
+            "last_retested_at_iso": "2020-09-21T16:06:21.613089",
             "status": "INACTIVE"
         },
         "domainsecuritymonitoringallfilealwaysfor.duckdns.org": {
@@ -1428,6 +1456,20 @@
             "last_retested_at_iso": "2020-09-15T16:08:08.874760",
             "status": "INACTIVE"
         },
+        "download.fsyuran.com": {
+            "included_at_epoch": 1600704381.876738,
+            "included_at_iso": "2020-09-21T16:06:21.876738",
+            "last_retested_at_epoch": 1600704381.876738,
+            "last_retested_at_iso": "2020-09-21T16:06:21.876738",
+            "status": "INACTIVE"
+        },
+        "download.rising.com.cn": {
+            "included_at_epoch": 1600704381.919738,
+            "included_at_iso": "2020-09-21T16:06:21.919738",
+            "last_retested_at_epoch": 1600704381.919738,
+            "last_retested_at_iso": "2020-09-21T16:06:21.919738",
+            "status": "INACTIVE"
+        },
         "download.w65.pl": {
             "included_at_epoch": 1598888605.769182,
             "included_at_iso": "2020-08-31T15:43:25.769182",
@@ -1468,6 +1510,13 @@
             "included_at_iso": "2020-09-18T16:07:11.146178",
             "last_retested_at_epoch": 1600445231.146178,
             "last_retested_at_iso": "2020-09-18T16:07:11.146178",
+            "status": "INACTIVE"
+        },
+        "dx.qqyewu.com": {
+            "included_at_epoch": 1600704382.644441,
+            "included_at_iso": "2020-09-21T16:06:22.644441",
+            "last_retested_at_epoch": 1600704382.644441,
+            "last_retested_at_iso": "2020-09-21T16:06:22.644441",
             "status": "INACTIVE"
         },
         "dziennikmiasta.098.pl": {
@@ -1533,6 +1582,13 @@
             "last_retested_at_iso": "2020-08-28T16:21:49.821174",
             "status": "INACTIVE"
         },
+        "easy.eu.ai": {
+            "included_at_epoch": 1600704382.77511,
+            "included_at_iso": "2020-09-21T16:06:22.775110",
+            "last_retested_at_epoch": 1600704382.77511,
+            "last_retested_at_iso": "2020-09-21T16:06:22.775110",
+            "status": "INACTIVE"
+        },
         "ecdi14.eu": {
             "included_at_epoch": 1598373522.098778,
             "included_at_iso": "2020-08-25T16:38:42.098778",
@@ -1566,6 +1622,13 @@
             "included_at_iso": "2020-09-09T16:05:08.007183",
             "last_retested_at_epoch": 1599667508.007183,
             "last_retested_at_iso": "2020-09-09T16:05:08.007183",
+            "status": "INACTIVE"
+        },
+        "elektro.untirta.ac.id": {
+            "included_at_epoch": 1600704383.350844,
+            "included_at_iso": "2020-09-21T16:06:23.350844",
+            "last_retested_at_epoch": 1600704383.350844,
+            "last_retested_at_iso": "2020-09-21T16:06:23.350844",
             "status": "INACTIVE"
         },
         "elektronicze-poszukiwania.eu": {

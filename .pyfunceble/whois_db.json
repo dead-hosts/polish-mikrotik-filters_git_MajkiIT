@@ -15324,8 +15324,9 @@
         "state": "future"
     },
     "downloads-mobile.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "downloadtuesday.com": {
@@ -15764,6 +15765,12 @@
     "duhochvc.com": {
         "epoch": 1620950400.0,
         "expiration_date": "14-may-2021",
+        "state": "future"
+    },
+    "dujua.ind.br": {
+        "epoch": 1647302400.0,
+        "expiration_date": "15-mar-2022",
+        "server": "whois.registro.br",
         "state": "future"
     },
     "duketownschoolcalabar.com": {
@@ -17410,6 +17417,12 @@
         "server": "whois.nic.xyz",
         "state": "future"
     },
+    "elektronika984981.xyz": {
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "elememory.com": {
         "epoch": 1630627200.0,
         "expiration_date": "03-sep-2021",
@@ -18287,7 +18300,8 @@
     "eroutks.co": {
         "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
-        "state": "future"
+        "server": "whois.nic.co",
+        "state": "past"
     },
     "err0r.dk": {
         "epoch": 1598832000.0,
