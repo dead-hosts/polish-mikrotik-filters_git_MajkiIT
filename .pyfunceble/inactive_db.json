@@ -2891,6 +2891,13 @@
             "last_retested_at_iso": "2020-09-21T16:40:58.945973",
             "status": "INACTIVE"
         },
+        "ksiazkiokomunikacji.pl": {
+            "included_at_epoch": 1600707482.285756,
+            "included_at_iso": "2020-09-21T16:58:02.285756",
+            "last_retested_at_epoch": 1600707482.285756,
+            "last_retested_at_iso": "2020-09-21T16:58:02.285756",
+            "status": "INACTIVE"
+        },
         "kszozkosz.pl": {
             "included_at_epoch": 1598376934.43035,
             "included_at_iso": "2020-08-25T17:35:34.430350",
@@ -2933,6 +2940,20 @@
             "last_retested_at_iso": "2020-09-12T16:38:46.342732",
             "status": "INACTIVE"
         },
+        "kurierowo.fun": {
+            "included_at_epoch": 1600707482.483137,
+            "included_at_iso": "2020-09-21T16:58:02.483137",
+            "last_retested_at_epoch": 1600707482.483137,
+            "last_retested_at_iso": "2020-09-21T16:58:02.483137",
+            "status": "INACTIVE"
+        },
+        "kurierowo.site": {
+            "included_at_epoch": 1600707482.514794,
+            "included_at_iso": "2020-09-21T16:58:02.514794",
+            "last_retested_at_epoch": 1600707482.514794,
+            "last_retested_at_iso": "2020-09-21T16:58:02.514794",
+            "status": "INACTIVE"
+        },
         "kuyxjgf.ga": {
             "included_at_epoch": 1600188172.512891,
             "included_at_iso": "2020-09-15T16:42:52.512891",
@@ -2973,6 +2994,13 @@
             "included_at_iso": "2020-08-25T17:35:41.673608",
             "last_retested_at_epoch": 1598634746.592247,
             "last_retested_at_iso": "2020-08-28T17:12:26.592247",
+            "status": "INACTIVE"
+        },
+        "latajzkatowic.pl": {
+            "included_at_epoch": 1600707483.059433,
+            "included_at_iso": "2020-09-21T16:58:03.059433",
+            "last_retested_at_epoch": 1600707483.059433,
+            "last_retested_at_iso": "2020-09-21T16:58:03.059433",
             "status": "INACTIVE"
         },
         "levelup.publicvm.com": {

@@ -32480,8 +32480,9 @@
         "state": "future"
     },
     "ladyfly.pl": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "laferrugem.com": {
@@ -32950,6 +32951,12 @@
         "expiration_date": "25-dec-2020",
         "state": "future"
     },
+    "leapmom.com": {
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "learn2wow.com": {
         "epoch": 1618185600.0,
         "expiration_date": "12-apr-2021",
@@ -33121,8 +33128,9 @@
         "state": "future"
     },
     "leonbergery.com.pl": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "leong.ws": {
@@ -33196,8 +33204,9 @@
         "state": "future"
     },
     "letswinstuff.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1663632000.0,
+        "expiration_date": "20-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "letu8888.com": {
@@ -33253,6 +33262,12 @@
     "leyda.pl": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "leyderompientes.cl": {
+        "epoch": 1660780800.0,
+        "expiration_date": "18-aug-2022",
+        "server": "whois.nic.cl",
         "state": "future"
     },
     "lezliedavis.com": {
@@ -33562,8 +33577,9 @@
         "state": "future"
     },
     "link17.by": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.cctld.by",
         "state": "future"
     },
     "linkdebrideur.xyz": {
@@ -34312,6 +34328,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "lowismap.top": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "server": "whois.nic.top",
+        "state": "future"
+    },
     "lowpay.net": {
         "epoch": 1617148800.0,
         "expiration_date": "31-mar-2021",
@@ -34456,8 +34478,9 @@
         "state": "future"
     },
     "luckyducknet.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1663632000.0,
+        "expiration_date": "20-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "luckytriumph.com": {
@@ -35889,8 +35912,9 @@
         "state": "future"
     },
     "mazury4x4.pl": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "mazzottadj.com": {
@@ -36700,10 +36724,10 @@
         "state": "future"
     },
     "mezur4.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "mfevr.com": {
         "epoch": 1630195200.0,
@@ -36744,6 +36768,12 @@
     "mgsaltyapi.com": {
         "epoch": 1624924800.0,
         "expiration_date": "29-jun-2021",
+        "state": "future"
+    },
+    "mgtransportes.cl": {
+        "epoch": 1640563200.0,
+        "expiration_date": "27-dec-2021",
+        "server": "whois.nic.cl",
         "state": "future"
     },
     "mgupta.me": {
@@ -37319,6 +37349,12 @@
     "mmajerski.pl": {
         "epoch": 1607904000.0,
         "expiration_date": "14-dec-2020",
+        "state": "future"
+    },
+    "mmcondominial.com.br": {
+        "epoch": 1649808000.0,
+        "expiration_date": "13-apr-2022",
+        "server": "whois.registro.br",
         "state": "future"
     },
     "mmonteironavegacao.com.br": {
@@ -38271,8 +38307,15 @@
         "state": "future"
     },
     "mueller.com.pl": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "mugexinxi.com": {
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "muglalifeavm.com": {
@@ -38864,6 +38907,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "naishapradhan.com": {
+        "epoch": 1689984000.0,
+        "expiration_date": "22-jul-2023",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "najcosmetics.com": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
@@ -39114,6 +39163,12 @@
         "epoch": 1631232000.0,
         "expiration_date": "10-sep-2021",
         "server": "whois.nic.online",
+        "state": "future"
+    },
+    "naszaplaneta.xyz": {
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "naszapolskaa.icu": {
