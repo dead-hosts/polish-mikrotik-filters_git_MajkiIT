@@ -19358,6 +19358,12 @@
         "expiration_date": "20-apr-2021",
         "state": "future"
     },
+    "fakty24.warszawa.pl": {
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "faktygwalt.com.pl": {
         "epoch": 1620259200.0,
         "expiration_date": "06-may-2021",
@@ -19592,8 +19598,9 @@
         "state": "future"
     },
     "fashionableman.pl": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "fashionchandani.com": {
@@ -20874,8 +20881,8 @@
         "state": "future"
     },
     "flirthits.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -21175,8 +21182,9 @@
         "state": "future"
     },
     "forfollow.net": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "forlife-szkolenia.pl": {
@@ -22378,8 +22386,9 @@
         "state": "future"
     },
     "gawaher-services.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gayfakt.pl": {
@@ -22706,10 +22715,10 @@
         "state": "future"
     },
     "gennowpac.org": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1663459200.0,
+        "expiration_date": "18-sep-2022",
         "server": "whois.pir.org",
-        "state": "past"
+        "state": "future"
     },
     "genotypstudio.pl": {
         "epoch": 1622764800.0,
@@ -23336,6 +23345,12 @@
         "server": "whois.nic.co",
         "state": "future"
     },
+    "global-solutions.net": {
+        "epoch": 1731110400.0,
+        "expiration_date": "09-nov-2024",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "global-tunnelling-experts.com": {
         "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
@@ -23420,8 +23435,9 @@
         "state": "future"
     },
     "globedigitalmedia.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "globile.co": {
@@ -24690,10 +24706,10 @@
         "state": "future"
     },
     "gutfilm.pl": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "guth3.com": {
         "epoch": 1602720000.0,
@@ -25691,6 +25707,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "hidrospeed.cl": {
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "server": "whois.nic.cl",
+        "state": "future"
+    },
     "higginstavern.com": {
         "epoch": 1624752000.0,
         "expiration_date": "27-jun-2021",
@@ -25797,7 +25819,8 @@
     "historieludzkie1.online": {
         "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
-        "state": "future"
+        "server": "whois.nic.online",
+        "state": "past"
     },
     "hitfilm.pl": {
         "epoch": 1609977600.0,

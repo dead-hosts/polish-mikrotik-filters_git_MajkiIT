@@ -1743,6 +1743,13 @@
             "last_retested_at_iso": "2020-08-28T16:22:25.337957",
             "status": "INACTIVE"
         },
+        "facebook-pl.eu": {
+            "included_at_epoch": 1600705409.629489,
+            "included_at_iso": "2020-09-21T16:23:29.629489",
+            "last_retested_at_epoch": 1600705409.629489,
+            "last_retested_at_iso": "2020-09-21T16:23:29.629489",
+            "status": "INACTIVE"
+        },
         "facebook.twoje-foty.eu": {
             "included_at_epoch": 1598631747.264526,
             "included_at_iso": "2020-08-28T16:22:27.264526",
@@ -1897,11 +1904,25 @@
             "last_retested_at_iso": "2020-09-12T16:02:39.556082",
             "status": "INACTIVE"
         },
+        "ftp.doshome.com": {
+            "included_at_epoch": 1600705412.12815,
+            "included_at_iso": "2020-09-21T16:23:32.128150",
+            "last_retested_at_epoch": 1600705412.12815,
+            "last_retested_at_iso": "2020-09-21T16:23:32.128150",
+            "status": "INACTIVE"
+        },
         "fujwacqrr.com": {
             "included_at_epoch": 1599668566.951009,
             "included_at_iso": "2020-09-09T16:22:46.951009",
             "last_retested_at_epoch": 1599668566.951009,
             "last_retested_at_iso": "2020-09-09T16:22:46.951009",
+            "status": "INACTIVE"
+        },
+        "g3architekci.pl": {
+            "included_at_epoch": 1600705412.329941,
+            "included_at_iso": "2020-09-21T16:23:32.329941",
+            "last_retested_at_epoch": 1600705412.329941,
+            "last_retested_at_iso": "2020-09-21T16:23:32.329941",
             "status": "INACTIVE"
         },
         "galeria-swiatla.pl": {
@@ -1916,6 +1937,13 @@
             "included_at_iso": "2020-09-06T16:13:37.145874",
             "last_retested_at_epoch": 1599408817.145874,
             "last_retested_at_iso": "2020-09-06T16:13:37.145874",
+            "status": "INACTIVE"
+        },
+        "gamevision.pl": {
+            "included_at_epoch": 1600705412.459948,
+            "included_at_iso": "2020-09-21T16:23:32.459948",
+            "last_retested_at_epoch": 1600705412.459948,
+            "last_retested_at_iso": "2020-09-21T16:23:32.459948",
             "status": "INACTIVE"
         },
         "garenanow.myvnc.com:81": {
@@ -1944,6 +1972,13 @@
             "included_at_iso": "2020-09-09T16:05:13.301462",
             "last_retested_at_epoch": 1599667513.301462,
             "last_retested_at_iso": "2020-09-09T16:05:13.301462",
+            "status": "INACTIVE"
+        },
+        "gazetasasiedzka.eu": {
+            "included_at_epoch": 1600705412.926826,
+            "included_at_iso": "2020-09-21T16:23:32.926826",
+            "last_retested_at_epoch": 1600705412.926826,
+            "last_retested_at_iso": "2020-09-21T16:23:32.926826",
             "status": "INACTIVE"
         },
         "gazetawojewodzka.cal24.pl": {
@@ -2007,6 +2042,13 @@
             "included_at_iso": "2020-09-15T16:25:37.086744",
             "last_retested_at_epoch": 1600187137.086744,
             "last_retested_at_iso": "2020-09-15T16:25:37.086744",
+            "status": "INACTIVE"
+        },
+        "glosujemy-konkursy.eu": {
+            "included_at_epoch": 1600705413.798418,
+            "included_at_iso": "2020-09-21T16:23:33.798418",
+            "last_retested_at_epoch": 1600705413.798418,
+            "last_retested_at_iso": "2020-09-21T16:23:33.798418",
             "status": "INACTIVE"
         },
         "glownedzisiaj.pro-linuxpl.com": {
@@ -2119,6 +2161,13 @@
             "included_at_iso": "2020-09-09T16:22:52.345244",
             "last_retested_at_epoch": 1599668572.345244,
             "last_retested_at_iso": "2020-09-09T16:22:52.345244",
+            "status": "INACTIVE"
+        },
+        "hitlog.tk": {
+            "included_at_epoch": 1600705415.505624,
+            "included_at_iso": "2020-09-21T16:23:35.505624",
+            "last_retested_at_epoch": 1600705415.505624,
+            "last_retested_at_iso": "2020-09-21T16:23:35.505624",
             "status": "INACTIVE"
         },
         "homemedia.in.net": {
