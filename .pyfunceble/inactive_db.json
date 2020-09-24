@@ -2492,6 +2492,13 @@
             "last_retested_at_iso": "2020-09-03T16:24:13.830496",
             "status": "INACTIVE"
         },
+        "infomacjadnia.pro-linuxpl.com": {
+            "included_at_epoch": 1600967869.323922,
+            "included_at_iso": "2020-09-24T17:17:49.323922",
+            "last_retested_at_epoch": 1600967869.323922,
+            "last_retested_at_iso": "2020-09-24T17:17:49.323922",
+            "status": "INACTIVE"
+        },
         "infonews24.com.pl": {
             "included_at_epoch": 1600187141.724562,
             "included_at_iso": "2020-09-15T16:25:41.724562",
@@ -2539,6 +2546,13 @@
             "included_at_iso": "2020-09-06T16:30:50.710732",
             "last_retested_at_epoch": 1599409850.710732,
             "last_retested_at_iso": "2020-09-06T16:30:50.710732",
+            "status": "INACTIVE"
+        },
+        "informator24.eu": {
+            "included_at_epoch": 1600967869.45862,
+            "included_at_iso": "2020-09-24T17:17:49.458620",
+            "last_retested_at_epoch": 1600967869.45862,
+            "last_retested_at_iso": "2020-09-24T17:17:49.458620",
             "status": "INACTIVE"
         },
         "informatorwojewodzki.cal24.pl": {
@@ -2632,6 +2646,13 @@
             "last_retested_at_iso": "2020-09-09T16:22:55.433367",
             "status": "INACTIVE"
         },
+        "inpost.kod-odbioru.net": {
+            "included_at_epoch": 1600967869.965416,
+            "included_at_iso": "2020-09-24T17:17:49.965416",
+            "last_retested_at_epoch": 1600967869.965416,
+            "last_retested_at_iso": "2020-09-24T17:17:49.965416",
+            "status": "INACTIVE"
+        },
         "inpost.kody-odbioru.me": {
             "included_at_epoch": 1599409851.24219,
             "included_at_iso": "2020-09-06T16:30:51.242190",
@@ -2721,6 +2742,34 @@
             "included_at_iso": "2020-09-09T16:22:55.536905",
             "last_retested_at_epoch": 1599668575.536905,
             "last_retested_at_iso": "2020-09-09T16:22:55.536905",
+            "status": "INACTIVE"
+        },
+        "inpost.play-sklep.cc": {
+            "included_at_epoch": 1600967870.056991,
+            "included_at_iso": "2020-09-24T17:17:50.056991",
+            "last_retested_at_epoch": 1600967870.056991,
+            "last_retested_at_iso": "2020-09-24T17:17:50.056991",
+            "status": "INACTIVE"
+        },
+        "inpost.play-sklep.com": {
+            "included_at_epoch": 1600967870.087421,
+            "included_at_iso": "2020-09-24T17:17:50.087421",
+            "last_retested_at_epoch": 1600967870.087421,
+            "last_retested_at_iso": "2020-09-24T17:17:50.087421",
+            "status": "INACTIVE"
+        },
+        "inpost.play-sklep.me": {
+            "included_at_epoch": 1600967870.147989,
+            "included_at_iso": "2020-09-24T17:17:50.147989",
+            "last_retested_at_epoch": 1600967870.147989,
+            "last_retested_at_iso": "2020-09-24T17:17:50.147989",
+            "status": "INACTIVE"
+        },
+        "inpost.play-sklep.net": {
+            "included_at_epoch": 1600967870.117542,
+            "included_at_iso": "2020-09-24T17:17:50.117542",
+            "last_retested_at_epoch": 1600967870.117542,
+            "last_retested_at_iso": "2020-09-24T17:17:50.117542",
             "status": "INACTIVE"
         },
         "inpost.sklep-play.cc": {
@@ -2849,6 +2898,13 @@
             "last_retested_at_iso": "2020-09-18T16:41:45.970285",
             "status": "INACTIVE"
         },
+        "jerzy-pulchny.pl": {
+            "included_at_epoch": 1600967872.060146,
+            "included_at_iso": "2020-09-24T17:17:52.060146",
+            "last_retested_at_epoch": 1600967872.060146,
+            "last_retested_at_iso": "2020-09-24T17:17:52.060146",
+            "status": "INACTIVE"
+        },
         "jldbmxcu.com": {
             "included_at_epoch": 1599669614.815265,
             "included_at_iso": "2020-09-09T16:40:14.815265",
@@ -2898,6 +2954,20 @@
             "last_retested_at_iso": "2020-09-03T16:24:16.841121",
             "status": "INACTIVE"
         },
+        "karokorale.pl": {
+            "included_at_epoch": 1600967873.356751,
+            "included_at_iso": "2020-09-24T17:17:53.356751",
+            "last_retested_at_epoch": 1600967873.356751,
+            "last_retested_at_iso": "2020-09-24T17:17:53.356751",
+            "status": "INACTIVE"
+        },
+        "karwiamontecarlo.pl": {
+            "included_at_epoch": 1600967873.409303,
+            "included_at_iso": "2020-09-24T17:17:53.409303",
+            "last_retested_at_epoch": 1600967873.409303,
+            "last_retested_at_iso": "2020-09-24T17:17:53.409303",
+            "status": "INACTIVE"
+        },
         "keenbuty.pl": {
             "included_at_epoch": 1598891408.671245,
             "included_at_iso": "2020-08-31T16:30:08.671245",
@@ -2917,6 +2987,27 @@
             "included_at_iso": "2020-09-09T16:40:17.287358",
             "last_retested_at_epoch": 1599669617.287358,
             "last_retested_at_iso": "2020-09-09T16:40:17.287358",
+            "status": "INACTIVE"
+        },
+        "kompresjanml.pl": {
+            "included_at_epoch": 1600967875.057108,
+            "included_at_iso": "2020-09-24T17:17:55.057108",
+            "last_retested_at_epoch": 1600967875.057108,
+            "last_retested_at_iso": "2020-09-24T17:17:55.057108",
+            "status": "INACTIVE"
+        },
+        "komputerowy.net.pl": {
+            "included_at_epoch": 1600967875.092378,
+            "included_at_iso": "2020-09-24T17:17:55.092378",
+            "last_retested_at_epoch": 1600967875.092378,
+            "last_retested_at_iso": "2020-09-24T17:17:55.092378",
+            "status": "INACTIVE"
+        },
+        "konkursy24.ml": {
+            "included_at_epoch": 1600967875.156496,
+            "included_at_iso": "2020-09-24T17:17:55.156496",
+            "last_retested_at_epoch": 1600967875.156496,
+            "last_retested_at_iso": "2020-09-24T17:17:55.156496",
             "status": "INACTIVE"
         },
         "kqq.kz": {
@@ -2947,11 +3038,25 @@
             "last_retested_at_iso": "2020-09-03T16:41:32.167632",
             "status": "INACTIVE"
         },
+        "krejsers.pl": {
+            "included_at_epoch": 1600967875.461095,
+            "included_at_iso": "2020-09-24T17:17:55.461095",
+            "last_retested_at_epoch": 1600967875.461095,
+            "last_retested_at_iso": "2020-09-24T17:17:55.461095",
+            "status": "INACTIVE"
+        },
         "kremlin-turbo.duckdns.org": {
             "included_at_epoch": 1599669618.991646,
             "included_at_iso": "2020-09-09T16:40:18.991646",
             "last_retested_at_epoch": 1599669618.991646,
             "last_retested_at_iso": "2020-09-09T16:40:18.991646",
+            "status": "INACTIVE"
+        },
+        "kresowy-dworek.pl": {
+            "included_at_epoch": 1600967875.507546,
+            "included_at_iso": "2020-09-24T17:17:55.507546",
+            "last_retested_at_epoch": 1600967875.507546,
+            "last_retested_at_iso": "2020-09-24T17:17:55.507546",
             "status": "INACTIVE"
         },
         "kronikawojewodzka.098.pl": {
@@ -2973,6 +3078,13 @@
             "included_at_iso": "2020-09-21T16:58:02.285756",
             "last_retested_at_epoch": 1600707482.285756,
             "last_retested_at_iso": "2020-09-21T16:58:02.285756",
+            "status": "INACTIVE"
+        },
+        "kszozkosz.pl": {
+            "included_at_epoch": 1600967875.647347,
+            "included_at_iso": "2020-09-24T17:17:55.647347",
+            "last_retested_at_epoch": 1600967875.647347,
+            "last_retested_at_iso": "2020-09-24T17:17:55.647347",
             "status": "INACTIVE"
         },
         "ktobynie.pro-linuxpl.com": {
@@ -3031,6 +3143,13 @@
             "last_retested_at_iso": "2020-09-15T16:42:52.512891",
             "status": "INACTIVE"
         },
+        "kuznialudzizaradnych.pl": {
+            "included_at_epoch": 1600967876.394145,
+            "included_at_iso": "2020-09-24T17:17:56.394145",
+            "last_retested_at_epoch": 1600967876.394145,
+            "last_retested_at_iso": "2020-09-24T17:17:56.394145",
+            "status": "INACTIVE"
+        },
         "kwiaciarnianadworcu.pl": {
             "included_at_epoch": 1600447310.374785,
             "included_at_iso": "2020-09-18T16:41:50.374785",
@@ -3050,6 +3169,13 @@
             "included_at_iso": "2020-08-28T17:12:25.007138",
             "last_retested_at_epoch": 1598634745.007138,
             "last_retested_at_iso": "2020-08-28T17:12:25.007138",
+            "status": "INACTIVE"
+        },
+        "lamri.pl": {
+            "included_at_epoch": 1600967876.742875,
+            "included_at_iso": "2020-09-24T17:17:56.742875",
+            "last_retested_at_epoch": 1600967876.742875,
+            "last_retested_at_iso": "2020-09-24T17:17:56.742875",
             "status": "INACTIVE"
         },
         "latajzkatowic.pl": {
@@ -3073,11 +3199,25 @@
             "last_retested_at_iso": "2020-09-18T16:41:51.527042",
             "status": "INACTIVE"
         },
+        "leyda.pl": {
+            "included_at_epoch": 1600967877.58537,
+            "included_at_iso": "2020-09-24T17:17:57.585370",
+            "last_retested_at_epoch": 1600967877.58537,
+            "last_retested_at_iso": "2020-09-24T17:17:57.585370",
+            "status": "INACTIVE"
+        },
         "linesburline.at": {
             "included_at_epoch": 1599669621.320672,
             "included_at_iso": "2020-09-09T16:40:21.320672",
             "last_retested_at_epoch": 1599669621.320672,
             "last_retested_at_iso": "2020-09-09T16:40:21.320672",
+            "status": "INACTIVE"
+        },
+        "linkopedia.pl": {
+            "included_at_epoch": 1600967878.03539,
+            "included_at_iso": "2020-09-24T17:17:58.035390",
+            "last_retested_at_epoch": 1600967878.03539,
+            "last_retested_at_iso": "2020-09-24T17:17:58.035390",
             "status": "INACTIVE"
         },
         "living-start.at": {
@@ -3183,6 +3323,13 @@
             "included_at_iso": "2020-09-06T16:48:01.247936",
             "last_retested_at_epoch": 1599410881.247936,
             "last_retested_at_iso": "2020-09-06T16:48:01.247936",
+            "status": "INACTIVE"
+        },
+        "loparnille.se": {
+            "included_at_epoch": 1600967878.716189,
+            "included_at_iso": "2020-09-24T17:17:58.716189",
+            "last_retested_at_epoch": 1600967878.716189,
+            "last_retested_at_iso": "2020-09-24T17:17:58.716189",
             "status": "INACTIVE"
         },
         "losowa-gra.pl": {
