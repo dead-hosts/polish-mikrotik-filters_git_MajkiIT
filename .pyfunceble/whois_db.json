@@ -55412,6 +55412,12 @@
         "expiration_date": "23-dec-2020",
         "state": "future"
     },
+    "stepco.ro": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
+        "server": "whois.rotld.ro",
+        "state": "future"
+    },
     "stephenmould.com": {
         "epoch": 1618272000.0,
         "expiration_date": "13-apr-2021",
@@ -55469,15 +55475,33 @@
         "expiration_date": "26-nov-2020",
         "state": "future"
     },
+    "stewardfs.com": {
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "stfgames.com": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
+    "sthinking.net": {
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "stickyfingersdaycare.co.uk": {
         "epoch": 1657238400.0,
         "expiration_date": "08-jul-2022",
         "server": "whois.nic.uk",
+        "state": "future"
+    },
+    "stiefkind.art": {
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.nic.art",
         "state": "future"
     },
     "stihl-pl.com": {
@@ -55516,8 +55540,8 @@
         "state": "future"
     },
     "stnic.co.uk": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
         "server": "whois.nic.uk",
         "state": "future"
     },
@@ -56120,10 +56144,10 @@
         "state": "future"
     },
     "superstarbuty.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "superstarbuty.pl": {
         "epoch": 1600646400.0,
@@ -56133,6 +56157,12 @@
     "superstarwedding.com": {
         "epoch": 1629590400.0,
         "expiration_date": "22-aug-2021",
+        "state": "future"
+    },
+    "superstone.in": {
+        "epoch": 1672185600.0,
+        "expiration_date": "28-dec-2022",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "superswieto.pl": {
@@ -56361,6 +56391,12 @@
         "expiration_date": "13-jun-2021",
         "state": "future"
     },
+    "sweetwearing.com": {
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "swellcoolangatta.com": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
@@ -56436,6 +56472,12 @@
         "expiration_date": "31-jul-2021",
         "state": "future"
     },
+    "swim64.com": {
+        "epoch": 1712188800.0,
+        "expiration_date": "04-apr-2024",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "swingersbang.pl": {
         "epoch": 1624924800.0,
         "expiration_date": "29-jun-2021",
@@ -56478,8 +56520,9 @@
         "state": "future"
     },
     "swwbia.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sxsinc.com": {
@@ -57218,6 +57261,12 @@
         "expiration_date": "09-may-2021",
         "state": "future"
     },
+    "teachgcc.com": {
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "teacobranca.com.br": {
         "epoch": 1652227200.0,
         "expiration_date": "11-may-2022",
@@ -57469,7 +57518,8 @@
     "tededsport.com": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "tedsaliesdirekt.info": {
         "epoch": 1631836800.0,
@@ -57642,6 +57692,12 @@
     "teledyskslubny.pl": {
         "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
+    "telemarketingliste.it": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "server": "whois.nic.it",
         "state": "future"
     },
     "telemediaa.pl": {
@@ -57842,6 +57898,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "terrocea-gab.org": {
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "tesli.ge": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
@@ -57978,6 +58040,12 @@
     "thammynhp.com": {
         "epoch": 1608681600.0,
         "expiration_date": "23-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "thammyvienbeautys.com": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -58377,6 +58445,18 @@
         "expiration_date": "25-sep-2020",
         "state": "future"
     },
+    "thetechieforu.com": {
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "theusacommunity.com": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "thewildlifefoundationkenya.org": {
         "epoch": 1607817600.0,
         "expiration_date": "13-dec-2020",
@@ -58757,8 +58837,9 @@
         "state": "future"
     },
     "tigergym.com.pl": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "tikaspot.com": {
@@ -58862,6 +58943,12 @@
     "tinerservis.com": {
         "epoch": 1621987200.0,
         "expiration_date": "26-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "tingchaojianxin.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -59297,6 +59384,12 @@
         "expiration_date": "08-jan-2021",
         "state": "future"
     },
+    "toplevel.com.br": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "server": "whois.registro.br",
+        "state": "past"
+    },
     "topmbacollegesinworld.com": {
         "epoch": 1623283200.0,
         "expiration_date": "10-jun-2021",
@@ -59447,8 +59540,9 @@
         "state": "future"
     },
     "toyter.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tpfkipuika.online": {
@@ -59631,6 +59725,12 @@
         "expiration_date": "27-may-2021",
         "state": "future"
     },
+    "transakcja-payu-9250845884.com": {
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "transakcja-payu.xyz": {
         "epoch": 1617667200.0,
         "expiration_date": "06-apr-2021",
@@ -59764,6 +59864,12 @@
         "expiration_date": "19-jun-2021",
         "state": "future"
     },
+    "trendyhome.ltd": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "server": "whois.nic.ltd",
+        "state": "future"
+    },
     "treneg.com.br": {
         "epoch": 1615766400.0,
         "expiration_date": "15-mar-2021",
@@ -59782,8 +59888,9 @@
         "state": "future"
     },
     "tresurapsow.com.pl": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "trf.co.in": {
@@ -60499,6 +60606,12 @@
         "expiration_date": "31-may-2021",
         "state": "future"
     },
+    "tz004.com": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "tz005.com": {
         "epoch": 1618531200.0,
         "expiration_date": "16-apr-2021",
@@ -60935,6 +61048,12 @@
     "uniteddatabase.net": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
+    "uniteddeliverytrans.com": {
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "unitedmedsshop.com": {
@@ -61596,6 +61715,12 @@
     "vasinfo.com.br": {
         "epoch": 1632960000.0,
         "expiration_date": "30-sep-2021",
+        "state": "future"
+    },
+    "vastraindia.com": {
+        "epoch": 1728691200.0,
+        "expiration_date": "12-oct-2024",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "vat-registration.com": {
