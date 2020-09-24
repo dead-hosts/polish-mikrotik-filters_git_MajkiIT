@@ -64746,6 +64746,12 @@
         "expiration_date": "11-nov-2020",
         "state": "future"
     },
+    "wzyst.top": {
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.nic.top",
+        "state": "future"
+    },
     "x-hosepl2.com": {
         "epoch": 1619049600.0,
         "expiration_date": "22-apr-2021",
@@ -65219,6 +65225,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "xssecmil.com": {
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "xtecsoft.com": {
         "epoch": 1654387200.0,
         "expiration_date": "05-jun-2022",
@@ -65336,6 +65348,12 @@
     "yatesassociates.co.za": {
         "epoch": 1629849600.0,
         "expiration_date": "25-aug-2021",
+        "state": "future"
+    },
+    "yatkiralama.online": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "server": "whois.nic.online",
         "state": "future"
     },
     "ybcoin.org": {
