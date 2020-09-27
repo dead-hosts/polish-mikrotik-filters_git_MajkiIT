@@ -65274,6 +65274,12 @@
         "expiration_date": "09-dec-2021",
         "state": "future"
     },
+    "x4fire.com": {
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "xamak10.com": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
@@ -67284,6 +67290,12 @@
     "zwajok.com": {
         "epoch": 1616544000.0,
         "expiration_date": "24-mar-2021",
+        "state": "future"
+    },
+    "zwieksz-rozmiar.com": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "zwiekszycsprzedaz.pl": {
