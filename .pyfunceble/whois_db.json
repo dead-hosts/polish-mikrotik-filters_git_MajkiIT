@@ -7848,8 +7848,9 @@
         "state": "future"
     },
     "bmmotorspares.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bmserve.com": {
@@ -7870,6 +7871,12 @@
     "bmwklubbydgoszcz.pl": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
+    "bn-allorbank.com": {
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bncc.ac.th": {
@@ -8216,6 +8223,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "bosbank-24.com": {
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "bosbank-24.pl": {
         "epoch": 1656806400.0,
         "expiration_date": "03-jul-2022",
@@ -8239,6 +8252,12 @@
     "bossaholidays.co.uk": {
         "epoch": 1622332800.0,
         "expiration_date": "30-may-2021",
+        "state": "future"
+    },
+    "bossbank24.com": {
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "botifiles.com": {
@@ -8471,8 +8490,9 @@
         "state": "future"
     },
     "bridalmehndistudio.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "briffe.com.br": {
@@ -8695,11 +8715,17 @@
         "expiration_date": "29-jan-2021",
         "state": "future"
     },
-    "btccoinex.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+    "btcbillionaire-app.com": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
+    },
+    "btccoinex.com": {
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "btclife.cloud": {
         "epoch": 1603411200.0,
@@ -9217,6 +9243,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "bymarstore.com": {
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "byrdits.com": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
@@ -9705,6 +9737,12 @@
         "expiration_date": "20-aug-2021",
         "state": "future"
     },
+    "carstarai.com": {
+        "epoch": 1713312000.0,
+        "expiration_date": "17-apr-2024",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "cart133.org": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
@@ -9941,8 +9979,9 @@
         "state": "future"
     },
     "cda-flix.pl": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "cda-tube.pl": {
@@ -10248,8 +10287,9 @@
         "state": "future"
     },
     "cf0.pw": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.nic.pw",
         "state": "future"
     },
     "cfotim.live": {
@@ -10427,13 +10467,15 @@
         "state": "future"
     },
     "cheats4u.pl": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1603670400.0,
+        "expiration_date": "26-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "checkerboardpl.top": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.nic.top",
         "state": "future"
     },
     "checkmarkutilitylocates.com": {
@@ -10988,8 +11030,9 @@
         "state": "future"
     },
     "citrapharma.net": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cittadivita.it": {
@@ -11026,6 +11069,12 @@
     "cityvida.com": {
         "epoch": 1746662400.0,
         "expiration_date": "08-may-2025",
+        "state": "future"
+    },
+    "cityxman.com": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cjextm.ro": {
@@ -11507,6 +11556,12 @@
     "codenpic.com": {
         "epoch": 1620950400.0,
         "expiration_date": "14-may-2021",
+        "state": "future"
+    },
+    "codepog.com": {
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "codexinfra.com": {
@@ -12373,6 +12428,12 @@
         "server": "whois.nic.site",
         "state": "future"
     },
+    "cowpolsce.xyz": {
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "cozumuret.com": {
         "epoch": 1619222400.0,
         "expiration_date": "24-apr-2021",
@@ -12453,6 +12514,12 @@
     "crathior.com": {
         "epoch": 1617753600.0,
         "expiration_date": "07-apr-2021",
+        "state": "future"
+    },
+    "crazyboxs.com": {
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "crazymut.com": {
@@ -13331,6 +13398,12 @@
     "dairwa-agri.com": {
         "epoch": 1628208000.0,
         "expiration_date": "06-aug-2021",
+        "state": "future"
+    },
+    "dakarbuzz.net": {
+        "epoch": 1703894400.0,
+        "expiration_date": "30-dec-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "damix.com.pl": {
