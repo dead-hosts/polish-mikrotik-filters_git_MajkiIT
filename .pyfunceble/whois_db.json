@@ -864,6 +864,12 @@
         "expiration_date": "19-mar-2021",
         "state": "future"
     },
+    "9nta.com": {
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "9print.pl": {
         "epoch": 1629072000.0,
         "expiration_date": "16-aug-2021",
@@ -952,6 +958,12 @@
     "aagrivarta.com": {
         "epoch": 1613088000.0,
         "expiration_date": "12-feb-2021",
+        "state": "future"
+    },
+    "aahnaturals.net": {
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aajtakmedia.in": {
@@ -1161,8 +1173,8 @@
         "state": "future"
     },
     "academicoverseas.net": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -2306,8 +2318,9 @@
         "state": "future"
     },
     "akazoo.pl": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "akceptacja-regulaminu.com": {
@@ -2691,6 +2704,12 @@
     "algorithmshargh.com": {
         "epoch": 1628553600.0,
         "expiration_date": "10-aug-2021",
+        "state": "future"
+    },
+    "alhudaqom.com": {
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aliancavisual.com.br": {
@@ -3607,6 +3626,12 @@
         "expiration_date": "09-may-2021",
         "state": "future"
     },
+    "andrademendonca.com.br": {
+        "epoch": 1695513600.0,
+        "expiration_date": "24-sep-2023",
+        "server": "whois.registro.br",
+        "state": "future"
+    },
     "andreas.ac.ug": {
         "epoch": 1620691200.0,
         "expiration_date": "11-may-2021",
@@ -3740,6 +3765,12 @@
     "angelsdetour.com": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
+    "angiathinh.com": {
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "angielskisylwia.pl": {
@@ -4138,6 +4169,12 @@
         "expiration_date": "13-jun-2021",
         "state": "future"
     },
+    "aperytime.it": {
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
     "apexbillingservices.co": {
         "epoch": 1624060800.0,
         "expiration_date": "19-jun-2021",
@@ -4300,6 +4337,12 @@
     "apptrader.com": {
         "epoch": 1671408000.0,
         "expiration_date": "19-dec-2022",
+        "state": "future"
+    },
+    "apsphcl.org": {
+        "epoch": 1653177600.0,
+        "expiration_date": "22-may-2022",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "aptbox.top": {
@@ -5024,8 +5067,9 @@
         "state": "future"
     },
     "atcofiles.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ateneum-nieruchomosci.pl": {
@@ -6517,10 +6561,10 @@
         "state": "future"
     },
     "bemydate.mobi": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
         "server": "whois.nic.mobi",
-        "state": "past"
+        "state": "future"
     },
     "benchpressadvantage.com": {
         "epoch": 1604188800.0,
@@ -6628,6 +6672,12 @@
         "expiration_date": "23-aug-2020",
         "state": "future"
     },
+    "best-lordliness.com": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "best-ones.website": {
         "epoch": 1625270400.0,
         "expiration_date": "03-jul-2021",
@@ -6659,6 +6709,12 @@
         "expiration_date": "10-jul-2021",
         "state": "future"
     },
+    "bestarget.in": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
+        "server": "whois.registry.in",
+        "state": "future"
+    },
     "bestbikenatal.com.br": {
         "epoch": 1629158400.0,
         "expiration_date": "17-aug-2021",
@@ -6678,6 +6734,12 @@
     "bestbusinesssoftware.net": {
         "epoch": 1618185600.0,
         "expiration_date": "12-apr-2021",
+        "state": "future"
+    },
+    "bestbuyshop.online": {
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
+        "server": "whois.nic.online",
         "state": "future"
     },
     "bestcena.pl": {
@@ -6779,6 +6841,12 @@
     "bettiahnews.com": {
         "epoch": 1621814400.0,
         "expiration_date": "24-may-2021",
+        "state": "future"
+    },
+    "betyland.com": {
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "beu-hr.com": {
