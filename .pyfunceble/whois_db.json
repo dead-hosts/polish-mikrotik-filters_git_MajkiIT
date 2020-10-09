@@ -69178,6 +69178,12 @@
         "expiration_date": "16-jan-2021",
         "state": "future"
     },
+    "yirpow.xyz": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "yishi3m.com": {
         "epoch": 1623628800.0,
         "expiration_date": "14-jun-2021",
@@ -70407,6 +70413,12 @@
     "zowersaude.com": {
         "epoch": 1611964800.0,
         "expiration_date": "30-jan-2021",
+        "state": "future"
+    },
+    "zoyaz.co.uk": {
+        "epoch": 1662422400.0,
+        "expiration_date": "06-sep-2022",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "zpafiska.pl": {
