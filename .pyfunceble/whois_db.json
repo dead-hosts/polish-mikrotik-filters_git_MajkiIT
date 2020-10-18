@@ -71861,6 +71861,12 @@
         "expiration_date": "27-aug-2020",
         "state": "future"
     },
+    "xiamid.cn": {
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
+        "server": "whois.cnnic.cn",
+        "state": "future"
+    },
     "xianbaoku.com": {
         "epoch": 1619481600.0,
         "expiration_date": "27-apr-2021",
@@ -71882,10 +71888,22 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "xiaohu.mobi": {
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
+        "server": "whois.nic.mobi",
+        "state": "future"
+    },
     "xiaojiu8.cn": {
         "epoch": 1618963200.0,
         "expiration_date": "21-apr-2021",
         "server": "whois.cnnic.cn",
+        "state": "future"
+    },
+    "xiaolechen.com": {
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "xiaoliyu.shop": {
@@ -72027,6 +72045,12 @@
     "xn--56-jlceoalydfe0a7evd.xn--p1ai": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
+    "xn--62-6kcia2c0akxn0g.xn--p1ai": {
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "xn--80aaewcawie.xn--p1ai": {
@@ -72310,6 +72334,12 @@
     "yalistubborne.xyz": {
         "epoch": 1621900800.0,
         "expiration_date": "25-may-2021",
+        "state": "future"
+    },
+    "yamato-a.top": {
+        "epoch": 1634342400.0,
+        "expiration_date": "16-oct-2021",
+        "server": "whois.nic.top",
         "state": "future"
     },
     "yamunatimes.com": {
@@ -72746,6 +72776,12 @@
     "yuryyulan.com": {
         "epoch": 1632268800.0,
         "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "yusisystems.com": {
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
