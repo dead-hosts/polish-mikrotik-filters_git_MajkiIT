@@ -2,14 +2,14 @@
     "abs_source": "/home/runner/work/polish-mikrotik-filters_git_MajkiIT/polish-mikrotik-filters_git_MajkiIT/origin.list",
     "checker_type": "AVAILABILITY",
     "destination": "origin.list",
-    "hash": "f70e0ce9b4e40f5e7e8d842a45b1ee87e56a8b20a1c0ecde1255493c",
-    "line_number": 10266,
+    "hash": "81afc7210262e040f407537d1c6d85855c86110206d631bfc683e8ff",
+    "line_number": 10277,
     "output_dir": "/home/runner/work/polish-mikrotik-filters_git_MajkiIT/polish-mikrotik-filters_git_MajkiIT/output/origin.list",
     "previous_hash": null,
     "rel_source": "origin.list",
     "session_id": "be20a00cca267e29e8c2fc3b",
-    "source": "/home/runner/work/polish-mikrotik-filters_git_MajkiIT/polish-mikrotik-filters_git_MajkiIT/origin.list",
-    "subject": "/home/runner/work/polish-mikrotik-filters_git_MajkiIT/polish-mikrotik-filters_git_MajkiIT/origin.list",
+    "source": "origin.list",
+    "subject": "origin.list",
     "subject_type": "domain",
     "type": "file"
 }
