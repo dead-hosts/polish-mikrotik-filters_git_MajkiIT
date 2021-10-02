@@ -281,6 +281,7 @@
     ],
     "ax": [
         "be.ax",
+        "cat.ax",
         "es.ax",
         "eu.ax",
         "gg.ax",
@@ -623,6 +624,7 @@
         "qsl.br",
         "radio.br",
         "rec.br",
+        "recife.br",
         "rep.br",
         "ribeirao.br",
         "rio.br",
@@ -889,7 +891,6 @@
         "nx.cn",
         "org.cn",
         "qh.cn",
-        "recife.br",
         "s3.cn-north-1.amazonaws.com.cn",
         "sc.cn",
         "sd.cn",
@@ -6794,7 +6795,6 @@
         "org.nr"
     ],
     "nu": [
-        "cat.ax",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
