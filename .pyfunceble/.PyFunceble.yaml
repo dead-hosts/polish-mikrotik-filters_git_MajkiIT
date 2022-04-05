@@ -4,7 +4,7 @@ cli_decoding:
     rpz: false
     wildcard: false
 cli_testing:
-    autocontinue: false
+    autocontinue: true
     chancy_tester: false
     ci:
         active: false
@@ -148,12 +148,6 @@ lookup:
     timeout: 5
     whois: true
 max_http_retries: 3
-proxy:
-    global:
-        http: null
-        https: null
-    rules: []
-ries: 3
 share_logs: false
 user_agent:
     browser: chrome
