@@ -153,6 +153,7 @@ proxy:
         http: null
         https: null
     rules: []
+ries: 3
 share_logs: false
 user_agent:
     browser: chrome
