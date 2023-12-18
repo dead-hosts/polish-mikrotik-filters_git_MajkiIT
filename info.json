@@ -14,7 +14,13 @@
     "name": "polish-mikrotik-filters_git_MajkiIT",
     "own_management": false,
     "ping": [],
+    "platform_container_id": null,
+    "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
+    "platform_optout": false,
+    "platform_remote_source_id": null,
+    "platform_shortname": "polish-mikrotik-filters_git_majkiit",
     "raw_link": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-mikrotik-filters/forti_list.txt",
+    "repo": "dead-hosts/polish-mikrotik-filters_git_MajkiIT",
     "start_datetime": "2020-10-21T16:41:11.447090",
     "start_timestamp": 1603298471.44709
 }
